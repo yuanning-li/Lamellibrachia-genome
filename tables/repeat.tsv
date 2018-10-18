@@ -1,0 +1,31 @@
+		number of	length	percentage
+		elements*	occupied	of sequence
+SINEs:		55520	7968052 bp	1.16%
+	ALUs	0	0 bp	0.00%
+	MIRs	31147	4841525 bp	0.70%
+				
+LINEs:		241206	81489598 bp	11.85%
+	LINE1	28	14562 bp	0.00%
+	LINE2	64373	20127090 bp	2.93%
+	L3/CR1	82172	33302275 bp	4.84%
+				
+LTR	elements:	16197	6687425 bp	0.97%
+	ERVL	0	0 bp	0.00%
+	ERVL-MaLRs	0	0 bp	0.00%
+	ERV_classI	0	0 bp	0.00%
+	ERV_classII	0	0 bp	0.00%
+				
+DNA	elements:	140153	37258435 bp	5.42%
+	hAT-Charlie	8028	1869908 bp	0.27%
+	TcMar-Tigger	5789	1900858 bp	0.28%
+				
+Unclassified:		482403	106432518 bp	15.48%
+				
+Total interspersed repeats:			239836028 bp	34.87%
+				
+				
+Small RNA:		32	3055 bp	0.00%
+				
+Satellites:		1608	662473 bp	0.10%
+Simple repeatsL:		213132	12918131 bp	1.88%
+Low complexity:		8103	682207 bp	0.10%
