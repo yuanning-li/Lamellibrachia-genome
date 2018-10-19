@@ -1,0 +1,10 @@
+Pfam domain name	Pfam domain name	Function	HSAP	DMEL	BFLO	LLUY	CTEL	HROB	BPLA	CGIG	PAUS	NGEN
+Bcl-2	PF00452	Apoptosis regulator proteins, Bcl-2 family	11	2	9	8	13	9	8	14	8	13
+BIR	PF00653	Inhibitor of Apoptosis domain	8	14	20	93	34	1	181	125	11	33
+SRF-TF	PF00319	SRF-type transcription factor (DNA-bindig and dimerisation domain)	5	10	6	2	2	6	3	6	2	14
+Peptidase_C14	PF00656	Caspase domain	15	11	68	20	38	12	71	74	20	30
+Death	PF00531	Death domain	34	28	322	84	23	17	80	91	33	56
+DED	PF01335	Death effector domain	7	0	131	5	4	1	18	16	10	15
+NACHT	PF05729	NACHT domian	40	2	112	49	106	2	12	24	20	27
+NB-ARC	PF00931	NB-ARC domain	6	2	22	0	0	0	8	11	14	22
+TNFR_C6	PF00020	TNFR/NGFR cystenine-rich region	23	2	40	6	6	0	19	28	29	15
