@@ -1,0 +1,25 @@
+Pfam domain name	Pfam domain name	Function	HSAP	DMEL	BFLO	LLUY	CTEL	HROB	BPLA	CGIG	PAUS	NGEN
+MTCP1	PF08991	Mature-T-Cell Proliferation I type	1	1	2	1	0	0	1	0	1	1
+Mlf1IP	PF10248	Myelodysplasia-myeloid leukemia factor 1-interacting protein	14	8	2	2	1	1	0	7	2	3
+DS	PF01916	Deoxyhypusine synthase	6	1	4	1	1	1	1	1	1	7
+CAS_CSE1	PF03378	CAS/CSE protein, C-terminus	3	1	2	1	1	1	1	1	1	2
+TPD52	PF04201	Tumour protein D52 family	38	10	0	1	1	2	0	14	1	2
+DUF773	PF05600	CDK5 regulatory subunit-associated protein 3	9	1	2	1	1	1	2	3	2	1
+FAM92	PF06730	FAM92 protein	9	1	2	2	1	1	2	13	1	2
+NPDC1	PF06809	Neural proliferation differentiation control-1 protein (NPDC1)	1	2	2	0	1	2	0	1	1	2
+BLOC1_2	PF10046	Biogenesis of lysosome-related organelles complex-1 subunit 2	7	1	1	1	1	1	1	1	1	2
+Eapp_C	PF10238	E2F-associated phosphoprotein	3	0	2	1	1	1	1	1	1	1
+Kin17_mid	PF10357	Domain of Kin17 curved DNA-binding protein	5	1	2	2	1	1	1	2	1	1
+APCDDC	PF14921	Adenomatosis polyposis coli down-regulated 1	4	0	2	2	1	1	1	1	1	1
+CK2S	PF15011	Casein Kinase 2 substrate	29	0	1	1	0	0	1	1	1	1
+FAM53	PF15242	Family of FAM53	16	0	0	1	1	0	1	7	1	1
+CCDC154	PF15450	Coiled-coil domain-containing protein 154	1	0	1	1	0	0	0	22	1	2
+PCNP	PF15473	PEST, proteolytic signal-containing nuclear protein family	8	0	2	1	1	1	1	1	1	1
+Peptidase_C98	PF15499	Ubiquitin-specific peptidase-like, SUMO isopeptidase	7	0	2	1	1	0	1	1	1	1
+FGF	PF00167	Fibroblast growth factor	96	6	14	4	1	0	2	10	2	4
+zf-ZPR1	PF03367	ZPR1 zinc-finger domain	2	1	2	1	1	1	1	2	1	2
+Cul7	PF11515	Mouse development and cellular proliferation protein Cullin-7	31	1	2	1	1	0	1	1	1	2
+hEGF	PF12661	Human growth factor-like EGF	114	31	208	102	36	20	51	84	55	34
+GCIP	PF13324	Grap2 and cyclin-D-interacting	6	0	4	2	2	2	2	4	2	1
+p53-inducible11	PF14936	Tumour protein p53-inducible protein 11	22	0	1	1	1	0	1	8	0	1
+HECA	PF15353	Headcase protein family homologue	1	3	7	1	1	1	1	1	1	1
