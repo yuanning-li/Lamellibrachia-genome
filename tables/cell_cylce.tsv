@@ -1,0 +1,80 @@
+Pfam domain name	Pfam domain name	Function	HSAP	DMEL	BFLO	LLUY	CTEL	HROB	BPLA	CGIG	PAUS	NGEN
+PF07065	D123	D123	1	0	2	3	1	1	1	1	2	2
+PF11488	Lge1	Transcriptional regulatory protein LGE1	0	0	2	1	1	2	0	0	0	1
+PF14918	MTBP_N	MDM2-binding	0	0	2	1	0	0	0	1	1	2
+PF08934	Rb_C	Rb C-terminal domain	0	0	2	1	0	0	1	2	2	3
+PF09806	CDK2AP	Cyclin-dependent kinase 2-associated protein	0	3	1	1	1	0	0	0	2	1
+PF15259	GTSE1_N	G-2 and S-phase expressed 1	0	0	2	0	1	0	1	2	1	2
+PF08198	Thymopoietin	Thymopoietin protein	0	0	2	1	1	0	1	0	1	1
+PF14920	MTBP_C	MDM2-binding	0	0	2	1	1	0	0	1	1	2
+PF17065	UPF0669	Putative cytokine, C6ORF120	0	0	3	0	1	1	1	1	1	0
+PF12214	TPX2_importin	Cell cycle regulated microtubule associated protein	0	0	2	1	1	0	1	2	2	1
+PF04603	Mog1	Ran-interacting Mog1 protein	0	0	2	1	1	0	1	2	2	2
+PF05837	CENP-H	Centromere protein H (CENP-H)	0	0	2	3	1	0	1	1	1	1
+PF15678	SPICE	Centriole duplication and mitotic chromosome congression	0	0	2	1	1	0	1	2	1	1
+PF07778	CENP-I	Mis6	0	0	2	1	2	0	1	1	2	2
+PF07412	Geminin	Geminin	0	2	2	1	1	0	1	1	1	2
+PF10512	Borealin	Cell division cycle-associated protein 8	0	4	1	1	1	0	1	1	2	1
+PF11357	Spy1	Cell cycle regulatory protein	0	0	2	1	1	1	1	1	1	2
+PF06732	Pescadillo_N	Pescadillo N-terminus	0	1	2	1	1	1	0	1	3	3
+PF05839	Apc13p	Apc13p protein	0	3	2	1	1	1	1	2	0	2
+PF06581	p31comet	Mad1 and Cdc20-bound-Mad2 binding	0	1	2	1	1	0	1	1	2	3
+PF11699	CENP-C_C	Mif2/CENP-C like	0	0	2	2	1	2	1	3	1	2
+PF12859	ANAPC1	Anaphase-promoting complex subunit 1	1	1	1	0	1	0	1	1	1	2
+PF12862	ANAPC5	Anaphase-promoting complex subunit 5	0	1	1	1	2	0	1	2	1	2
+PF02234	CDI	Cyclin-dependent kinase inhibitor	0	1	4	2	1	5	1	0	1	1
+PF04388	Hamartin	Hamartin protein	0	1	2	4	1	0	1	10	1	1
+PF08784	RPA_C	Replication protein A C terminal	0	2	1	1	2	1	0	2	1	1
+PF09809	MRP-L27	Mitochondrial ribosomal protein L27	0	1	1	1	1	0	1	1	1	1
+PF10238	Eapp_C	E2F-associated phosphoprotein	0	0	2	1	1	1	1	1	1	1
+PF11629	Mst1_SARAH	C terminal SARAH domain of Mst1	0	2	2	2	1	0	1	3	1	2
+PF14961	BROMI	Broad-minded protein	0	0	3	1	1	3	3	4	1	2
+PF15473	PCNP	PEST, proteolytic signal-containing nuclear protein family	0	0	2	1	1	1	1	1	1	1
+PF03542	Tuberin	Tuberin	0	2	3	1	1	0	1	1	1	2
+PF05970	PIF1	PIF1-like helicase	0	2	0	1	9	8	34	22	6	131
+PF09340	NuA4	Histone acetyltransferase subunit NuA4	0	1	1	1	1	1	0	1	1	2
+PF10505	NARG2_C	NMDA receptor-regulated gene protein 2 C-terminus	0	2	2	1	1	1	1	2	0	1
+PF15002	ERK-JNK_inhib	ERK and JNK pathways, inhibitor	0	0	2	1	1	1	2	1	2	1
+PF04139	Rad9	Rad9	0	2	2	1	1	1	1	2	1	1
+PF08729	HUN	HPC2 and ubinuclein domain	1	2	2	1	1	0	1	2	1	2
+PF10221	DUF2151	Cell cycle and development regulator	0	1	2	2	1	1	1	7	1	2
+PF15353	HECA	Headcase protein family homologue	0	3	7	1	1	1	1	1	1	1
+PF05557	MAD	Mitotic checkpoint protein	0	1	2	2	1	1	1	1	1	1
+PF05786	Cnd2	Condensin complex subunit 2	0	3	1	1	1	1	1	2	1	2
+PF08569	Mo25	Mo25-like	0	2	2	1	1	2	1	1	1	1
+PF08781	DP	Transcription factor DP	0	3	2	2	1	1	1	3	1	2
+PF12678	zf-rbx1	RING-H2 zinc finger domain	0	6	2	2	3	3	2	2	2	4
+PF02301	HORMA	HORMA domain	0	2	5	3	5	3	3	5	3	4
+PF03133	TTL	Tubulin-tyrosine ligase family	0	23	28	16	14	13	11	88	15	21
+PF03357	Snf7	Snf7	0	12	18	10	10	10	8	12	10	12
+PF09341	Pcc1	Transcription factor Pcc1	1	1	1	1	1	1	1	0	1	1
+PF10147	CR6_interact	Growth arrest and DNA-damage-inducible proteins-interacting protein 1	0	1	2	1	1	1	1	1	1	1
+PF15306	LIN37	LIN37	0	1	2	1	1	1	1	1	2	2
+PF03378	CAS_CSE1	CAS/CSE protein, C-terminus	0	1	2	1	1	1	1	1	1	2
+PF04042	DNA_pol_E_B	DNA polymerase alpha/epsilon subunit B	0	3	6	4	3	3	3	3	3	6
+PF06424	PRP1_N	PRP1 splicing factor, N-terminal	0	2	2	1	1	1	1	1	1	3
+PF06886	TPX2	Targeting protein for Xklp2 (TPX2)	0	1	2	1	1	2	1	2	2	1
+PF08231	SYF2	SYF2 splicing factor	0	1	2	1	1	3	1	1	1	2
+PF09776	Mitoc_L55	Mitochondrial ribosomal protein L55	0	1	1	1	1	1	1	2	1	1
+PF10234	Cluap1	Clusterin-associated protein-1	0	1	2	1	1	2	1	1	1	3
+PF10357	Kin17_mid	Domain of Kin17 curved DNA-binding protein	0	1	2	2	1	1	1	2	1	1
+PF16566	CREPT	Cell-cycle alteration and expression-elevated protein in tumour	0	5	4	2	3	2	2	2	2	3
+PF00855	PWWP	PWWP domain	0	16	20	13	11	16	7	31	9	17
+PF01557	FAA_hydrolase	Fumarylacetoacetate (FAA) hydrolase family	0	6	6	2	7	2	3	11	3	5
+PF03343	SART-1	SART-1 family	0	2	2	1	1	1	1	1	1	1
+PF04874	Mak16	Mak16 protein C-terminal region	0	2	2	1	2	1	1	4	1	2
+PF05422	SIN1	Stress-activated map kinase interacting protein 1 (SIN1)	1	1	2	1	1	0	1	1	1	1
+PF06664	MIG-14_Wnt-bd	Wnt-binding factor required for Wnt secretion	0	3	4	2	2	1	2	2	2	6
+PF11715	Nup160	Nucleoporin Nup120/160	0	2	3	1	1	3	1	1	1	4
+PF12569	NARP1	NMDA receptor-regulated protein 1	0	2	2	1	1	1	1	1	1	1
+PF12736	CABIT	Cell-cycle sustaining, positive selection,	0	7	21	7	4	1	10	23	4	3
+PF13844	Glyco_transf_41	Glycosyl transferase family 41	0	3	2	1	1	1	1	3	1	2
+PF15396	FAM60A	Protein Family FAM60A	0	1	2	1	1	1	1	2	1	2
+PF00533	BRCT	BRCA1 C Terminus (BRCT) domain	1	12	18	7	8	7	9	11	12	16
+PF10557	Cullin_Nedd8	Cullin protein neddylation domain	3	14	9	5	5	6	4	8	6	10
+PF04889	Cwf_Cwc_15	Cwf15/Cwc15 cell cycle control protein	1	1	2	1	2	1	1	4	1	2
+PF01163	RIO1	RIO1 family	1	4	4	4	3	3	3	5	3	5
+PF03399	SAC3_GANP	SAC3/GANP family	1	4	6	4	3	3	3	6	3	3
+PF12774	AAA_6	Hydrolytic ATP binding site of dynein motor region	6	26	43	17	16	16	19	68	21	32
+PF12775	AAA_7	P-loop containing dynein motor region	6	25	42	18	16	17	20	67	21	31
+PF12781	AAA_9	ATP-binding dynein motor region	6	26	44	18	17	17	25	69	23	35
