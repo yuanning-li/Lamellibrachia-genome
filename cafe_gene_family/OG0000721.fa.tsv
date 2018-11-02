@@ -1,0 +1,567 @@
+Capitella_teleta_CTE|ELU12225.1	bbc8a4058c87900f44873928015998d2	193	PANTHER	PTHR23145		3	192	9.2E-12	T	31-10-2018
+Capitella_teleta_CTE|ELU12225.1	bbc8a4058c87900f44873928015998d2	193	PANTHER	PTHR23145:SF5		3	192	9.2E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	ProSiteProfiles	PS50280	SET domain profile.	35	159	12.844	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	SMART	SM00317		35	165	7.0E-13	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	316	344	8.891	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	Coils	Coil		1273	1291	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	318	339	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	PANTHER	PTHR33480:SF1		253	350	8.1E-84	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	PANTHER	PTHR33480:SF1		377	970	8.1E-84	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	PANTHER	PTHR33480		253	350	8.1E-84	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	PANTHER	PTHR33480		377	970	8.1E-84	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	Gene3D	G3DSA:2.170.270.10		3	168	4.9E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	Pfam	PF00856	SET domain	47	159	2.1E-9	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	SUPERFAMILY	SSF82199		35	164	1.06E-24	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	1149	1186	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	256	285	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	389	436	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	SMART	SM00355		316	339	1.6	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022311947.1	037be4988510977da4edddd9606bb3af	1291	SMART	SM00355		428	448	15.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_gigas_CGI|XP_011421236.2	22a39fa988c7368c92f11b86f4e699cd	665	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421236.2	22a39fa988c7368c92f11b86f4e699cd	665	MobiDBLite	mobidb-lite	consensus disorder prediction	559	584	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421236.2	22a39fa988c7368c92f11b86f4e699cd	665	PANTHER	PTHR33480		11	555	2.3E-81	T	31-10-2018
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	SUPERFAMILY	SSF56112		44	293	7.72E-30	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	Pfam	PF00069	Protein kinase domain	44	243	3.9E-26	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	SMART	SM00220		7	249	7.3E-8	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	PANTHER	PTHR24348		45	391	3.3E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	MobiDBLite	mobidb-lite	consensus disorder prediction	255	430	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	Gene3D	G3DSA:1.10.510.10		40	255	2.3E-33	T	31-10-2018
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	60	72	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Notospermus_geniculatus_NGE|g18876.t1	0539fe8e47516bb1dd3380439f4f4d19	696	ProSiteProfiles	PS50011	Protein kinase domain profile.	1	249	25.361	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Crassostrea_virginica_CVI|XP_022287159.1	eb635c33bc543c79a844e03ab7cbe35c	712	MobiDBLite	mobidb-lite	consensus disorder prediction	1	38	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287159.1	eb635c33bc543c79a844e03ab7cbe35c	712	PANTHER	PTHR33480		7	591	3.0E-77	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287159.1	eb635c33bc543c79a844e03ab7cbe35c	712	PANTHER	PTHR33480:SF1		7	591	3.0E-77	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	ProSiteProfiles	PS50600	Ubiquitin-like protease family profile.	1029	1194	13.354	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	ProSiteProfiles	PS50280	SET domain profile.	36	159	12.1	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	Gene3D	G3DSA:3.40.395.10		987	1225	6.5E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	SUPERFAMILY	SSF56349		1706	1876	2.94E-7	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	PANTHER	PTHR33480		1321	1905	1.3E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	Gene3D	G3DSA:1.10.443.10		1681	1889	4.7E-7	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	ProDom	PD003705	PROTEASE LATE L3 ENDOPROTEASE ADENAIN THIOL HYDROLASE AUTOCATALYTIC CLEAVAGE 23K	1114	1196	5.0E-7	T	31-10-2018	IPR000855	Peptidase C5, adenain	GO:0004197|GO:0006508	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	MobiDBLite	mobidb-lite	consensus disorder prediction	1943	1979	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	Gene3D	G3DSA:2.170.270.10		2	168	7.3E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	SMART	SM00317		36	165	9.8E-16	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	MobiDBLite	mobidb-lite	consensus disorder prediction	221	592	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	SUPERFAMILY	SSF54001		1015	1222	9.03E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	MobiDBLite	mobidb-lite	consensus disorder prediction	639	671	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	MobiDBLite	mobidb-lite	consensus disorder prediction	790	989	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	SUPERFAMILY	SSF82199		35	164	9.81E-23	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	Pfam	PF00856	SET domain	48	159	1.9E-7	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	CDD	cd00397	DNA_BRE_C	1695	1875	0.0012107	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306022.1	e0d0ffc9102a7b6568f63ddd86853fd3	2083	Pfam	PF02902	Ulp1 protease family, C-terminal catalytic domain	1044	1215	3.2E-10	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022300576.1	210d1a5caef4cc0826439f3526bdfea8	880	MobiDBLite	mobidb-lite	consensus disorder prediction	174	198	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300576.1	210d1a5caef4cc0826439f3526bdfea8	880	PANTHER	PTHR33480:SF1		88	809	2.2E-72	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300576.1	210d1a5caef4cc0826439f3526bdfea8	880	SUPERFAMILY	SSF56349		514	687	4.32E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022300576.1	210d1a5caef4cc0826439f3526bdfea8	880	PANTHER	PTHR33480		88	809	2.2E-72	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300576.1	210d1a5caef4cc0826439f3526bdfea8	880	MobiDBLite	mobidb-lite	consensus disorder prediction	31	85	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300576.1	210d1a5caef4cc0826439f3526bdfea8	880	Coils	Coil		455	475	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300575.1	210d1a5caef4cc0826439f3526bdfea8	880	MobiDBLite	mobidb-lite	consensus disorder prediction	174	198	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300575.1	210d1a5caef4cc0826439f3526bdfea8	880	PANTHER	PTHR33480:SF1		88	809	2.2E-72	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300575.1	210d1a5caef4cc0826439f3526bdfea8	880	SUPERFAMILY	SSF56349		514	687	4.32E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022300575.1	210d1a5caef4cc0826439f3526bdfea8	880	PANTHER	PTHR33480		88	809	2.2E-72	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300575.1	210d1a5caef4cc0826439f3526bdfea8	880	MobiDBLite	mobidb-lite	consensus disorder prediction	31	85	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300575.1	210d1a5caef4cc0826439f3526bdfea8	880	Coils	Coil		455	475	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	Pfam	PF02902	Ulp1 protease family, C-terminal catalytic domain	802	973	2.7E-10	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	PANTHER	PTHR33480		1082	1664	1.5E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	SUPERFAMILY	SSF54001		773	980	7.65E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	ProSiteProfiles	PS50280	SET domain profile.	36	159	12.1	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	ProDom	PD003705	PROTEASE LATE L3 ENDOPROTEASE ADENAIN THIOL HYDROLASE AUTOCATALYTIC CLEAVAGE 23K	872	954	5.0E-7	T	31-10-2018	IPR000855	Peptidase C5, adenain	GO:0004197|GO:0006508	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	ProSiteProfiles	PS50600	Ubiquitin-like protease family profile.	787	952	13.354	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	Gene3D	G3DSA:1.10.443.10		1439	1647	4.0E-7	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	CDD	cd00397	DNA_BRE_C	1453	1633	0.00106404	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	SUPERFAMILY	SSF56349		1464	1634	2.47E-7	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	Gene3D	G3DSA:2.170.270.10		2	168	6.2E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	MobiDBLite	mobidb-lite	consensus disorder prediction	1701	1737	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	Pfam	PF00856	SET domain	48	159	1.7E-7	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	SMART	SM00317		36	165	9.8E-16	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	Gene3D	G3DSA:3.40.395.10		745	983	5.4E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	SUPERFAMILY	SSF82199		35	164	8.24E-23	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306026.1	d1ee6bc05e77ab5baa867b1e7fc82c4e	1841	MobiDBLite	mobidb-lite	consensus disorder prediction	221	750	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003563-T1	cc9b7c0f785c95215467dfa178a90e5f	187	PANTHER	PTHR23145:SF5		23	159	7.0E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003563-T1	cc9b7c0f785c95215467dfa178a90e5f	187	PANTHER	PTHR23145		23	159	7.0E-14	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	PANTHER	PTHR33480		372	970	2.1E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	ProSiteProfiles	PS50280	SET domain profile.	35	159	12.844	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	SMART	SM00317		35	165	7.0E-13	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	274	306	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	SUPERFAMILY	SSF82199		35	164	1.05E-24	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	Coils	Coil		1273	1291	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	316	344	8.891	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	PANTHER	PTHR33480:SF1		372	970	2.1E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	318	339	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	Gene3D	G3DSA:2.170.270.10		3	168	1.8E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	405	435	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	Pfam	PF00856	SET domain	47	159	2.1E-9	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	SMART	SM00355		316	339	1.6	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	SMART	SM00355		428	448	12.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	PANTHER	PTHR33480:SF1		288	353	2.1E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022301384.1	9b62fe95d46ef72d406cc98eff2b08e0	1291	PANTHER	PTHR33480		288	353	2.1E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	SUPERFAMILY	SSF82199		35	169	7.06E-23	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	MobiDBLite	mobidb-lite	consensus disorder prediction	204	575	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	Gene3D	G3DSA:3.40.395.10		970	1208	6.4E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	ProSiteProfiles	PS50280	SET domain profile.	36	159	12.1	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	SUPERFAMILY	SSF56349		1689	1859	2.88E-7	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	CDD	cd00397	DNA_BRE_C	1678	1858	0.0012004	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	PANTHER	PTHR33480		1304	1889	1.5E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	Gene3D	G3DSA:2.170.270.10		2	168	7.2E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	ProSiteProfiles	PS50600	Ubiquitin-like protease family profile.	1012	1177	13.354	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	SUPERFAMILY	SSF54001		998	1205	9.03E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	Pfam	PF00856	SET domain	48	159	1.9E-7	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	MobiDBLite	mobidb-lite	consensus disorder prediction	773	972	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	MobiDBLite	mobidb-lite	consensus disorder prediction	622	654	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	Coils	Coil		2061	2066	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	SMART	SM00317		36	165	9.8E-16	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	MobiDBLite	mobidb-lite	consensus disorder prediction	1926	1962	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	Gene3D	G3DSA:1.10.443.10		1664	1872	4.6E-7	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	Pfam	PF02902	Ulp1 protease family, C-terminal catalytic domain	1027	1198	3.2E-10	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306024.1	fc9b1ed8fa63b9150bca65d2a6a3d211	2066	ProDom	PD003705	PROTEASE LATE L3 ENDOPROTEASE ADENAIN THIOL HYDROLASE AUTOCATALYTIC CLEAVAGE 23K	1097	1179	5.0E-7	T	31-10-2018	IPR000855	Peptidase C5, adenain	GO:0004197|GO:0006508	
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	MobiDBLite	mobidb-lite	consensus disorder prediction	1052	1083	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	SUPERFAMILY	SSF54001		2	156	3.73E-11	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	Gene3D	G3DSA:3.90.70.120		1	188	1.1E-10	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	MobiDBLite	mobidb-lite	consensus disorder prediction	885	965	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	PANTHER	PTHR33480		231	784	5.5E-85	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	Pfam	PF04843	Herpesvirus tegument protein, N-terminal conserved region	5	154	4.9E-13	T	31-10-2018	IPR006928	Herpesvirus tegument UL36 central domain		
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	SUPERFAMILY	SSF56349		648	753	6.0E-6	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_019928047.1	4212bcacc2ccf914beb63c059c1bbeaf	1083	SUPERFAMILY	SSF56349		582	613	6.0E-6	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	Gene3D	G3DSA:1.10.443.10		767	980	2.5E-5	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	MobiDBLite	mobidb-lite	consensus disorder prediction	1135	1158	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	Coils	Coil		625	645	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	MobiDBLite	mobidb-lite	consensus disorder prediction	1170	1216	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	MobiDBLite	mobidb-lite	consensus disorder prediction	430	460	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	Coils	Coil		411	438	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	SUPERFAMILY	SSF56349		766	967	3.88E-8	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	Pfam	PF00589	Phage integrase family	798	974	4.0E-6	T	31-10-2018	IPR002104	Integrase, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	SUPERFAMILY	SSF54001		193	374	5.98E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307926.1	30b4ba3d7cdc6e966bac14244a1005b8	1216	Coils	Coil		767	787	-	T	31-10-2018
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	575	595	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	302	329	11.302	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	573	600	10.18	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SUPERFAMILY	SSF57667		125	152	1.62E-5	T	31-10-2018	IPR036236	Zinc finger C2H2 superfamily		
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SUPERFAMILY	SSF57667		11	32	1.62E-5	T	31-10-2018	IPR036236	Zinc finger C2H2 superfamily		
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	132	152	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	Pfam	PF00096	Zinc finger, C2H2 type	574	595	0.009	T	31-10-2018
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	Pfam	PF00096	Zinc finger, C2H2 type	303	324	1.9E-4	T	31-10-2018
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	Pfam	PF00096	Zinc finger, C2H2 type	132	152	0.013	T	31-10-2018
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	MobiDBLite	mobidb-lite	consensus disorder prediction	677	703	-	T	31-10-2018
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		302	324	4.6E-4	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		435	455	110.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		335	355	42.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		573	595	0.0022	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		164	184	30.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		130	152	0.0078	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		607	627	190.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	SMART	SM00355		10	30	120.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	304	324	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	130	157	11.177	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	Gene3D	G3DSA:3.30.160.60		275	359	5.6E-9	T	31-10-2018
+Capitella_teleta_CTE|ELU01885.1	948c5781f8172adb664d4aaa4b123146	909	Gene3D	G3DSA:3.30.160.60		104	188	9.4E-8	T	31-10-2018
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	SUPERFAMILY	SSF82199		32	156	8.63E-24	T	31-10-2018
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	ProSiteProfiles	PS50280	SET domain profile.	25	146	13.708	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	PANTHER	PTHR33480		403	928	3.3E-81	T	31-10-2018
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	Pfam	PF00856	SET domain	37	146	2.1E-8	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	SMART	SM00317		25	152	1.2E-15	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	376	396	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	MobiDBLite	mobidb-lite	consensus disorder prediction	179	199	-	T	31-10-2018
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	SMART	SM00355		374	396	0.0063	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	SMART	SM00355		407	427	27.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	374	401	13.339	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	PANTHER	PTHR33480:SF1		403	928	3.3E-81	T	31-10-2018
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	SUPERFAMILY	SSF56349		727	896	1.94E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	Gene3D	G3DSA:3.30.160.60		371	441	6.6E-11	T	31-10-2018
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	SUPERFAMILY	SSF57667		375	416	1.53E-6	T	31-10-2018	IPR036236	Zinc finger C2H2 superfamily		
+Capitella_teleta_CTE|ELT99822.1	7e591f708dfa65e93c9936f28e4c87c4	1059	Gene3D	G3DSA:2.170.270.10		5	157	4.2E-28	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012641-T1	24adcf95aa5a7b08f7e8ef95eaf7bf14	690	PANTHER	PTHR33480:SF1		107	559	1.4E-71	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012641-T1	24adcf95aa5a7b08f7e8ef95eaf7bf14	690	PANTHER	PTHR33480		107	559	1.4E-71	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012641-T1	24adcf95aa5a7b08f7e8ef95eaf7bf14	690	MobiDBLite	mobidb-lite	consensus disorder prediction	562	616	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012641-T1	24adcf95aa5a7b08f7e8ef95eaf7bf14	690	SUPERFAMILY	SSF82199		56	108	4.91E-10	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012641-T1	24adcf95aa5a7b08f7e8ef95eaf7bf14	690	Gene3D	G3DSA:2.170.270.10		49	123	7.9E-11	T	31-10-2018
+Chlamys_farreri_CFA|CF18657.3	27d24aca12e2732871a8ab27b1c86832	1010	MobiDBLite	mobidb-lite	consensus disorder prediction	871	945	-	T	31-10-2018
+Chlamys_farreri_CFA|CF18657.3	27d24aca12e2732871a8ab27b1c86832	1010	SUPERFAMILY	SSF56349		667	836	3.35E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Chlamys_farreri_CFA|CF18657.3	27d24aca12e2732871a8ab27b1c86832	1010	PANTHER	PTHR33480		290	871	6.8E-98	T	31-10-2018
+Chlamys_farreri_CFA|CF18657.3	27d24aca12e2732871a8ab27b1c86832	1010	PANTHER	PTHR33480:SF1		290	871	6.8E-98	T	31-10-2018
+Chlamys_farreri_CFA|CF18657.3	27d24aca12e2732871a8ab27b1c86832	1010	MobiDBLite	mobidb-lite	consensus disorder prediction	299	326	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	Pfam	PF00069	Protein kinase domain	33	340	1.5E-34	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	PANTHER	PTHR24361		33	409	1.2E-31	T	31-10-2018
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	158	170	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	SUPERFAMILY	SSF56112		31	341	7.48E-43	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	Gene3D	G3DSA:1.10.510.10		137	348	8.0E-31	T	31-10-2018
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	MobiDBLite	mobidb-lite	consensus disorder prediction	441	485	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	ProSiteProfiles	PS50011	Protein kinase domain profile.	30	348	31.651	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	MobiDBLite	mobidb-lite	consensus disorder prediction	736	755	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	Pfam	PF04843	Herpesvirus tegument protein, N-terminal conserved region	518	678	4.3E-6	T	31-10-2018	IPR006928	Herpesvirus tegument UL36 central domain		
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	ProSitePatterns	PS00107	Protein kinases ATP-binding region signature.	36	58	-	T	31-10-2018	IPR017441	Protein kinase, ATP binding site	GO:0005524	
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	SMART	SM00220		30	348	9.0E-19	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g34771.t1	6f162e8870e178ebb93be917c286638c	782	Gene3D	G3DSA:3.30.200.20		21	103	9.7E-16	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	SUPERFAMILY	SSF54001		811	1018	7.46E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	Gene3D	G3DSA:2.170.270.10		2	168	6.4E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	SUPERFAMILY	SSF56349		1502	1672	2.53E-7	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	SUPERFAMILY	SSF82199		35	164	8.63E-23	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	ProSiteProfiles	PS50280	SET domain profile.	36	159	12.1	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	Gene3D	G3DSA:3.40.395.10		792	1021	1.2E-28	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	PANTHER	PTHR33480		1120	1702	1.5E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	Pfam	PF02902	Ulp1 protease family, C-terminal catalytic domain	840	1011	2.8E-10	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	MobiDBLite	mobidb-lite	consensus disorder prediction	640	669	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	CDD	cd00397	DNA_BRE_C	1491	1671	0.0016053	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	ProDom	PD003705	PROTEASE LATE L3 ENDOPROTEASE ADENAIN THIOL HYDROLASE AUTOCATALYTIC CLEAVAGE 23K	910	992	4.0E-7	T	31-10-2018	IPR000855	Peptidase C5, adenain	GO:0004197|GO:0006508	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	MobiDBLite	mobidb-lite	consensus disorder prediction	1739	1775	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	SMART	SM00317		36	165	9.8E-16	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	ProSiteProfiles	PS50600	Ubiquitin-like protease family profile.	825	990	13.354	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	MobiDBLite	mobidb-lite	consensus disorder prediction	221	592	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	Gene3D	G3DSA:1.10.443.10		1477	1685	4.1E-7	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022306025.1	bcaa5159cfe63b8c19f27431ba6b2306	1879	Pfam	PF00856	SET domain	48	159	1.7E-7	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	ProSiteProfiles	PS50280	SET domain profile.	35	159	12.844	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	SMART	SM00317		35	165	7.0E-13	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	MobiDBLite	mobidb-lite	consensus disorder prediction	277	306	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	PANTHER	PTHR33480		288	346	2.6E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	PANTHER	PTHR33480		371	977	2.6E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	Pfam	PF00856	SET domain	47	159	2.2E-9	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	Gene3D	G3DSA:2.170.270.10		3	169	1.6E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	MobiDBLite	mobidb-lite	consensus disorder prediction	389	432	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	316	344	8.891	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	SUPERFAMILY	SSF82199		35	164	1.14E-24	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	318	339	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	MobiDBLite	mobidb-lite	consensus disorder prediction	1222	1259	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	PANTHER	PTHR33480:SF1		288	346	2.6E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	PANTHER	PTHR33480:SF1		371	977	2.6E-85	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	SMART	SM00355		316	339	1.6	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022300858.1	d3efd7641a7db1747d10732bdd186e99	1363	SMART	SM00355		428	448	15.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	ProSiteProfiles	PS50600	Ubiquitin-like protease family profile.	1029	1194	13.354	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	PANTHER	PTHR33480		1323	1905	1.5E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	ProDom	PD003705	PROTEASE LATE L3 ENDOPROTEASE ADENAIN THIOL HYDROLASE AUTOCATALYTIC CLEAVAGE 23K	1114	1196	4.0E-7	T	31-10-2018	IPR000855	Peptidase C5, adenain	GO:0004197|GO:0006508	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	Gene3D	G3DSA:1.10.443.10		1680	1888	4.7E-7	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	CDD	cd00397	DNA_BRE_C	1694	1874	0.0012101	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	ProSiteProfiles	PS50280	SET domain profile.	36	159	12.1	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	SUPERFAMILY	SSF56349		1705	1875	2.94E-7	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	Gene3D	G3DSA:2.170.270.10		2	168	7.3E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	SMART	SM00317		36	165	9.8E-16	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	Gene3D	G3DSA:3.40.395.10		987	1225	6.4E-29	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	MobiDBLite	mobidb-lite	consensus disorder prediction	1942	1978	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	MobiDBLite	mobidb-lite	consensus disorder prediction	221	592	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	SUPERFAMILY	SSF54001		1015	1222	9.03E-30	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	MobiDBLite	mobidb-lite	consensus disorder prediction	639	671	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	SUPERFAMILY	SSF82199		35	164	9.81E-23	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	MobiDBLite	mobidb-lite	consensus disorder prediction	790	989	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	Pfam	PF00856	SET domain	48	159	1.9E-7	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022306023.1	e4ba2264f88267f0a2344b8b2f3589d2	2082	Pfam	PF02902	Ulp1 protease family, C-terminal catalytic domain	1044	1215	3.2E-10	T	31-10-2018	IPR003653	Ulp1 protease family, C-terminal catalytic domain	GO:0006508|GO:0008234	
+Crassostrea_virginica_CVI|XP_022287160.1	70ae227fe209789a9993bf90e284adf1	712	PANTHER	PTHR33480:SF1		41	591	7.4E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287160.1	70ae227fe209789a9993bf90e284adf1	712	PANTHER	PTHR33480		41	591	7.4E-76	T	31-10-2018
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	MobiDBLite	mobidb-lite	consensus disorder prediction	646	783	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	Pfam	PF00069	Protein kinase domain	30	331	1.9E-31	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	Gene3D	G3DSA:1.10.510.10		134	391	3.4E-34	T	31-10-2018
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	SUPERFAMILY	SSF56112		14	332	2.1E-42	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	PANTHER	PTHR24349:SF243		28	391	1.8E-32	T	31-10-2018
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	SMART	SM00220		26	339	1.4E-21	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	PANTHER	PTHR24349		28	391	1.8E-32	T	31-10-2018
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	156	168	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	ProSiteProfiles	PS50011	Protein kinase domain profile.	26	340	31.637	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	ProSitePatterns	PS00107	Protein kinases ATP-binding region signature.	32	54	-	T	31-10-2018	IPR017441	Protein kinase, ATP binding site	GO:0005524	
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	MobiDBLite	mobidb-lite	consensus disorder prediction	345	392	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22985.t1	a34c8f0c9a9792d8e35e0345fc8e61b5	783	Gene3D	G3DSA:3.30.200.20		19	101	1.1E-11	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287155.1	d02e8c4bf4c8ed132412106c3b829f42	790	PANTHER	PTHR33480		77	669	1.0E-77	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287155.1	d02e8c4bf4c8ed132412106c3b829f42	790	MobiDBLite	mobidb-lite	consensus disorder prediction	1	116	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287155.1	d02e8c4bf4c8ed132412106c3b829f42	790	PANTHER	PTHR33480:SF1		77	669	1.0E-77	T	31-10-2018
+Notospermus_geniculatus_NGE|g19319.t1	3e563f10c5a2ef38764d486a3a18879d	854	MobiDBLite	mobidb-lite	consensus disorder prediction	116	316	-	T	31-10-2018
+Capitella_teleta_CTE|ELT89808.1	37a3ec39eda6e7ba239ecd2fbe819daf	271	Coils	Coil		50	70	-	T	31-10-2018
+Capitella_teleta_CTE|ELT89808.1	37a3ec39eda6e7ba239ecd2fbe819daf	271	Coils	Coil		5	37	-	T	31-10-2018
+Capitella_teleta_CTE|ELT89808.1	37a3ec39eda6e7ba239ecd2fbe819daf	271	PANTHER	PTHR33480		115	270	5.0E-17	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	PANTHER	PTHR33480		430	985	3.7E-87	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	Pfam	PF04843	Herpesvirus tegument protein, N-terminal conserved region	207	381	3.1E-12	T	31-10-2018	IPR006928	Herpesvirus tegument UL36 central domain		
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	143	164	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	Gene3D	G3DSA:3.90.70.120		201	407	6.4E-11	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	SUPERFAMILY	SSF56349		783	955	5.06E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	SUPERFAMILY	SSF82199		10	53	1.8E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	141	169	9.12	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	SUPERFAMILY	SSF54001		201	388	5.3E-11	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	Gene3D	G3DSA:2.170.270.10		1	54	1.8E-8	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922605.1	6ce3805256f6689c5b4678fcf97ddd5e	1308	MobiDBLite	mobidb-lite	consensus disorder prediction	1089	1131	-	T	31-10-2018
+Capitella_teleta_CTE|ELU12227.1	ef8044537cdb8652631f300a789296d8	174	PANTHER	PTHR33480:SF1		5	141	9.0E-25	T	31-10-2018
+Capitella_teleta_CTE|ELU12227.1	ef8044537cdb8652631f300a789296d8	174	PANTHER	PTHR33480		5	141	9.0E-25	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	MobiDBLite	mobidb-lite	consensus disorder prediction	518	663	-	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	731	758	9.598	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	733	753	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	Coils	Coil		640	660	-	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	SMART	SM00355		765	785	29.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	SMART	SM00355		731	753	0.1	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	CDD	cd04508	TUDOR	55	87	6.04663E-5	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	SUPERFAMILY	SSF63748		52	99	4.21E-5	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	SMART	SM00333		50	108	2.2E-4	T	31-10-2018	IPR002999	Tudor domain		
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	MobiDBLite	mobidb-lite	consensus disorder prediction	1	49	-	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	Gene3D	G3DSA:3.30.160.60		715	790	1.3E-5	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	PANTHER	PTHR33480		633	868	9.4E-81	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	PANTHER	PTHR33480		93	550	9.4E-81	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	Gene3D	G3DSA:2.30.30.140		46	110	7.4E-8	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	PANTHER	PTHR33480:SF1		633	868	9.4E-81	T	31-10-2018
+Capitella_teleta_CTE|ELU11247.1	197f201391d3137e6ba35f7964e27ada	877	PANTHER	PTHR33480:SF1		93	550	9.4E-81	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311240.1	27f0b9e44e0e39bd3deb67d23e63682b	403	PANTHER	PTHR33480		6	397	2.2E-70	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311240.1	27f0b9e44e0e39bd3deb67d23e63682b	403	Coils	Coil		144	171	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	Gene3D	G3DSA:3.30.200.20		21	104	6.4E-16	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	ProSitePatterns	PS00107	Protein kinases ATP-binding region signature.	35	57	-	T	31-10-2018	IPR017441	Protein kinase, ATP binding site	GO:0005524	
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	Coils	Coil		961	981	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	SUPERFAMILY	SSF54001		421	602	1.28E-5	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	PANTHER	PTHR11042		28	360	4.6E-34	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	ProSiteProfiles	PS50966	Zinc finger SWIM-type profile.	1221	1254	8.679	T	31-10-2018	IPR007527	Zinc finger, SWIM-type	GO:0008270	
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	SMART	SM00220		29	345	1.6E-21	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	MobiDBLite	mobidb-lite	consensus disorder prediction	744	763	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	160	172	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	Pfam	PF00069	Protein kinase domain	31	342	5.9E-35	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	SUPERFAMILY	SSF56112		15	345	9.42E-45	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	MobiDBLite	mobidb-lite	consensus disorder prediction	377	407	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	Gene3D	G3DSA:1.10.510.10		120	356	2.4E-33	T	31-10-2018
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	ProSiteProfiles	PS50011	Protein kinase domain profile.	29	345	32.711	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g13988.t1	aedfb9bd43d3db7ee4119df2cc62816a	1431	MobiDBLite	mobidb-lite	consensus disorder prediction	1270	1306	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287161.1	690b9994d4784fc6bfcb1720b2c0123a	693	MobiDBLite	mobidb-lite	consensus disorder prediction	1	116	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287161.1	690b9994d4784fc6bfcb1720b2c0123a	693	PANTHER	PTHR33480		77	657	4.3E-78	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287161.1	690b9994d4784fc6bfcb1720b2c0123a	693	PANTHER	PTHR33480:SF1		77	657	4.3E-78	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918498.1	43561a82bd21db1878dd3b328da164bb	899	MobiDBLite	mobidb-lite	consensus disorder prediction	214	265	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918498.1	43561a82bd21db1878dd3b328da164bb	899	PANTHER	PTHR33480		220	844	7.2E-78	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918498.1	43561a82bd21db1878dd3b328da164bb	899	PANTHER	PTHR33480:SF1		220	844	7.2E-78	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918498.1	43561a82bd21db1878dd3b328da164bb	899	MobiDBLite	mobidb-lite	consensus disorder prediction	826	873	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918498.1	43561a82bd21db1878dd3b328da164bb	899	SUPERFAMILY	SSF56349		630	782	1.77E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Lamellibrachia_luymsi_proteins_LLU|FUN_024233-T1	d4fa6446138ba9a256b9a0f712ac5102	150	PANTHER	PTHR23145:SF5		1	139	1.9E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024233-T1	d4fa6446138ba9a256b9a0f712ac5102	150	PANTHER	PTHR23145		1	139	1.9E-17	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	SUPERFAMILY	SSF56112		34	356	3.83E-45	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	Gene3D	G3DSA:3.30.200.20		31	109	1.6E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	Pfam	PF00069	Protein kinase domain	39	354	4.4E-36	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	PANTHER	PTHR43289		58	368	5.3E-35	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	PANTHER	PTHR43289		1261	1367	5.3E-35	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	ProSitePatterns	PS00107	Protein kinases ATP-binding region signature.	44	65	-	T	31-10-2018	IPR017441	Protein kinase, ATP binding site	GO:0005524	
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	CDD	cd00180	PKc	44	276	1.07431E-34	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	173	185	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	MobiDBLite	mobidb-lite	consensus disorder prediction	1451	1489	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	MobiDBLite	mobidb-lite	consensus disorder prediction	658	683	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	ProSiteProfiles	PS50011	Protein kinase domain profile.	38	377	35.1	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	SMART	SM00220		38	382	7.5E-27	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	Coils	Coil		1147	1167	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41392.t1	05f7a8f8c311f8f9dfd88e4220cafed4	1612	Gene3D	G3DSA:1.10.510.10		150	370	2.1E-32	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	Coils	Coil		382	409	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	MobiDBLite	mobidb-lite	consensus disorder prediction	1110	1132	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	Coils	Coil		742	762	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	MobiDBLite	mobidb-lite	consensus disorder prediction	401	435	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	Pfam	PF00589	Phage integrase family	773	949	4.4E-6	T	31-10-2018	IPR002104	Integrase, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	SUPERFAMILY	SSF56349		741	942	4.32E-8	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	Gene3D	G3DSA:1.10.443.10		742	954	2.7E-5	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	MobiDBLite	mobidb-lite	consensus disorder prediction	974	1012	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	SUPERFAMILY	SSF54001		164	345	6.47E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022300823.1	6d0084ab789cfcf5901c1a1483eb16e8	1281	Coils	Coil		600	620	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Coils	Coil		595	622	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	MobiDBLite	mobidb-lite	consensus disorder prediction	1323	1345	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	SMART	SM00317		3	121	1.5E-6	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Pfam	PF00856	SET domain	4	115	1.5E-8	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	SUPERFAMILY	SSF82199		4	122	1.02E-22	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Gene3D	G3DSA:1.10.443.10		955	1167	3.4E-5	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	MobiDBLite	mobidb-lite	consensus disorder prediction	125	158	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	SUPERFAMILY	SSF56349		954	1155	5.1E-8	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Gene3D	G3DSA:2.170.270.10		2	125	1.7E-27	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Coils	Coil		955	975	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	MobiDBLite	mobidb-lite	consensus disorder prediction	1187	1225	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	ProSiteProfiles	PS50280	SET domain profile.	1	115	12.563	T	31-10-2018	IPR001214	SET domain	GO:0005515	
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Pfam	PF00589	Phage integrase family	986	1162	5.5E-6	T	31-10-2018	IPR002104	Integrase, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	SUPERFAMILY	SSF54001		377	558	8.04E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	MobiDBLite	mobidb-lite	consensus disorder prediction	614	648	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022307881.1	408bbce4a41926316c8dbaff41020118	1494	Coils	Coil		813	833	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004101-T1	7cf57de98b8061252e658782f7f31b7a	98	MobiDBLite	mobidb-lite	consensus disorder prediction	70	98	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004101-T1	7cf57de98b8061252e658782f7f31b7a	98	PANTHER	PTHR33480		16	91	1.2E-14	T	31-10-2018
+Notospermus_geniculatus_NGE|g25551.t1	85840114f154f4c142006eccc794c8ee	246	MobiDBLite	mobidb-lite	consensus disorder prediction	1	92	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	Pfam	PF00069	Protein kinase domain	32	343	1.8E-31	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	SUPERFAMILY	SSF56112		23	345	5.74E-42	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	Gene3D	G3DSA:3.30.200.20		22	103	2.4E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	ProSiteProfiles	PS50011	Protein kinase domain profile.	30	346	33.107	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	MobiDBLite	mobidb-lite	consensus disorder prediction	504	537	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	158	170	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	ProSiteProfiles	PS50966	Zinc finger SWIM-type profile.	1122	1155	8.667	T	31-10-2018	IPR007527	Zinc finger, SWIM-type	GO:0008270	
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	Gene3D	G3DSA:1.10.510.10		137	381	9.8E-30	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	PANTHER	PTHR11042		29	348	2.3E-34	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	MobiDBLite	mobidb-lite	consensus disorder prediction	413	481	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	SMART	SM00220		30	346	7.1E-16	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	Coils	Coil		855	875	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	MobiDBLite	mobidb-lite	consensus disorder prediction	350	388	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	MobiDBLite	mobidb-lite	consensus disorder prediction	1177	1205	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	MobiDBLite	mobidb-lite	consensus disorder prediction	1032	1051	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22785.t1	4b5628bfd537441f01d2a4acb323bdd1	1331	ProSitePatterns	PS00107	Protein kinases ATP-binding region signature.	36	58	-	T	31-10-2018	IPR017441	Protein kinase, ATP binding site	GO:0005524	
+Chlamys_farreri_CFA|CF25151.4	8c3d24ae703301d254b704cfa3f89052	207	PANTHER	PTHR33480:SF1		2	195	6.9E-51	T	31-10-2018
+Chlamys_farreri_CFA|CF25151.4	8c3d24ae703301d254b704cfa3f89052	207	PANTHER	PTHR33480		2	195	6.9E-51	T	31-10-2018
+Notospermus_geniculatus_NGE|g23756.t1	1ce468582cdbcd23dc0b5000eac5ea33	743	MobiDBLite	mobidb-lite	consensus disorder prediction	591	610	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23756.t1	1ce468582cdbcd23dc0b5000eac5ea33	743	MobiDBLite	mobidb-lite	consensus disorder prediction	203	236	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	PANTHER	PTHR33480		77	333	1.7E-12	T	31-10-2018
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	MobiDBLite	mobidb-lite	consensus disorder prediction	1	127	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	SMART	SM00355		195	217	0.1	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	SMART	SM00355		229	249	29.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	Coils	Coil		104	124	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	Gene3D	G3DSA:3.30.160.60		179	254	3.4E-6	T	31-10-2018
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	197	217	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08461.1	499496a0488fa36f2377a4b49b3939d2	341	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	195	222	9.598	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU13449.1	b79c0af6d0bd2dc2c96966ef482708f4	500	MobiDBLite	mobidb-lite	consensus disorder prediction	49	239	-	T	31-10-2018
+Capitella_teleta_CTE|ELU13449.1	b79c0af6d0bd2dc2c96966ef482708f4	500	PANTHER	PTHR23145:SF5		239	496	2.6E-26	T	31-10-2018
+Capitella_teleta_CTE|ELU13449.1	b79c0af6d0bd2dc2c96966ef482708f4	500	Coils	Coil		43	236	-	T	31-10-2018
+Capitella_teleta_CTE|ELU13449.1	b79c0af6d0bd2dc2c96966ef482708f4	500	PANTHER	PTHR23145		239	496	2.6E-26	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011436457.1	a29f1c7b5af8cc9994f9fa26cb28a230	799	MobiDBLite	mobidb-lite	consensus disorder prediction	675	705	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011436457.1	a29f1c7b5af8cc9994f9fa26cb28a230	799	PANTHER	PTHR33480		4	529	2.2E-85	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011436457.1	a29f1c7b5af8cc9994f9fa26cb28a230	799	Gene3D	G3DSA:1.10.443.10		303	517	7.0E-7	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_gigas_CGI|XP_011436457.1	a29f1c7b5af8cc9994f9fa26cb28a230	799	SUPERFAMILY	SSF56349		321	495	1.18E-8	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_019923827.1	9d6fcb306ce344fb749ef6f82ce42019	484	SUPERFAMILY	SSF56349		248	421	1.06E-7	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_019923827.1	9d6fcb306ce344fb749ef6f82ce42019	484	PANTHER	PTHR33480:SF1		10	462	4.9E-72	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019923827.1	9d6fcb306ce344fb749ef6f82ce42019	484	PANTHER	PTHR33480		10	462	4.9E-72	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019923827.1	9d6fcb306ce344fb749ef6f82ce42019	484	MobiDBLite	mobidb-lite	consensus disorder prediction	455	484	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024234-T1	93c7a6ee441209b4784bda9a9bac2d6d	343	Gene3D	G3DSA:2.170.270.10		16	119	8.9E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024234-T1	93c7a6ee441209b4784bda9a9bac2d6d	343	PANTHER	PTHR33480		108	341	3.4E-23	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024234-T1	93c7a6ee441209b4784bda9a9bac2d6d	343	SUPERFAMILY	SSF82199		52	105	5.07E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287156.1	24983e6876bf1ae0f0c40049db3ad1ed	751	PANTHER	PTHR33480		33	630	3.2E-78	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287156.1	24983e6876bf1ae0f0c40049db3ad1ed	751	MobiDBLite	mobidb-lite	consensus disorder prediction	1	79	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287156.1	24983e6876bf1ae0f0c40049db3ad1ed	751	PANTHER	PTHR33480:SF1		33	630	3.2E-78	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287156.1	24983e6876bf1ae0f0c40049db3ad1ed	751	Coils	Coil		738	751	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036355-T1	a42ad4aea38e24431eb37ade0015413b	194	PANTHER	PTHR33480:SF1		13	173	6.4E-37	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036355-T1	a42ad4aea38e24431eb37ade0015413b	194	PANTHER	PTHR33480		13	173	6.4E-37	T	31-10-2018
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	MobiDBLite	mobidb-lite	consensus disorder prediction	392	446	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	Gene3D	G3DSA:1.10.533.10		168	248	6.6E-8	T	31-10-2018
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	Pfam	PF16739	Caspase recruitment domain	58	148	1.2E-10	T	31-10-2018	IPR031964	Caspase recruitment domain		Reactome: R-HSA-168928|Reactome: R-HSA-5689896|Reactome: R-HSA-918233|Reactome: R-HSA-933541|Reactome: R-HSA-933542|Reactome: R-HSA-933543|Reactome: R-HSA-936440
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	Pfam	PF16739	Caspase recruitment domain	178	239	2.6E-7	T	31-10-2018	IPR031964	Caspase recruitment domain		Reactome: R-HSA-168928|Reactome: R-HSA-5689896|Reactome: R-HSA-918233|Reactome: R-HSA-933541|Reactome: R-HSA-933542|Reactome: R-HSA-933543|Reactome: R-HSA-936440
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	PANTHER	PTHR14074		57	302	3.8E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	MobiDBLite	mobidb-lite	consensus disorder prediction	307	343	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	PANTHER	PTHR14074:SF14		57	302	3.8E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g10516.t1	cd625d23c9d7828a66f1c93ce99a2fbb	701	Gene3D	G3DSA:1.10.533.10		60	154	3.4E-10	T	31-10-2018
+Capitella_teleta_CTE|ELT89194.1	cc6cce0803d0028e88bb3c6c4861670f	494	PANTHER	PTHR33480		188	433	2.2E-43	T	31-10-2018
+Capitella_teleta_CTE|ELT89194.1	cc6cce0803d0028e88bb3c6c4861670f	494	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	157	179	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT89194.1	cc6cce0803d0028e88bb3c6c4861670f	494	PANTHER	PTHR33480:SF1		188	433	2.2E-43	T	31-10-2018
+Capitella_teleta_CTE|ELT89194.1	cc6cce0803d0028e88bb3c6c4861670f	494	MobiDBLite	mobidb-lite	consensus disorder prediction	1	87	-	T	31-10-2018
+Capitella_teleta_CTE|ELT89194.1	cc6cce0803d0028e88bb3c6c4861670f	494	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	155	179	10.346	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT89194.1	cc6cce0803d0028e88bb3c6c4861670f	494	MobiDBLite	mobidb-lite	consensus disorder prediction	430	494	-	T	31-10-2018
+Chlamys_farreri_CFA|CF38077.2	8601168c4b8901d7562facfe4891f12e	654	PANTHER	PTHR33480		51	648	6.6E-104	T	31-10-2018
+Chlamys_farreri_CFA|CF38077.2	8601168c4b8901d7562facfe4891f12e	654	MobiDBLite	mobidb-lite	consensus disorder prediction	1	47	-	T	31-10-2018
+Chlamys_farreri_CFA|CF38077.2	8601168c4b8901d7562facfe4891f12e	654	PANTHER	PTHR33480:SF1		51	648	6.6E-104	T	31-10-2018
+Chlamys_farreri_CFA|CF38077.2	8601168c4b8901d7562facfe4891f12e	654	MobiDBLite	mobidb-lite	consensus disorder prediction	66	107	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003564-T1	e786379319b21adafe638d27e11d9eda	117	PANTHER	PTHR33480:SF1		2	117	3.5E-30	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003564-T1	e786379319b21adafe638d27e11d9eda	117	PANTHER	PTHR33480		2	117	3.5E-30	T	31-10-2018
+Capitella_teleta_CTE|ELT93495.1	f3b1497a15a95ec768ae8c2f818a6701	477	Coils	Coil		4	83	-	T	31-10-2018
+Capitella_teleta_CTE|ELT93495.1	f3b1497a15a95ec768ae8c2f818a6701	477	MobiDBLite	mobidb-lite	consensus disorder prediction	279	299	-	T	31-10-2018
+Capitella_teleta_CTE|ELT93495.1	f3b1497a15a95ec768ae8c2f818a6701	477	PANTHER	PTHR33480		373	456	1.4E-17	T	31-10-2018
+Capitella_teleta_CTE|ELT93495.1	f3b1497a15a95ec768ae8c2f818a6701	477	PANTHER	PTHR33480		120	247	1.4E-17	T	31-10-2018
+Capitella_teleta_CTE|ELT93495.1	f3b1497a15a95ec768ae8c2f818a6701	477	PANTHER	PTHR33480		285	332	1.4E-17	T	31-10-2018
+Capitella_teleta_CTE|ELT93495.1	f3b1497a15a95ec768ae8c2f818a6701	477	MobiDBLite	mobidb-lite	consensus disorder prediction	1	86	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005104135.1	111ebb4f993b1bc888b10b6e4976e23d	828	MobiDBLite	mobidb-lite	consensus disorder prediction	1	72	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005104135.1	111ebb4f993b1bc888b10b6e4976e23d	828	MobiDBLite	mobidb-lite	consensus disorder prediction	104	155	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005104135.1	111ebb4f993b1bc888b10b6e4976e23d	828	PANTHER	PTHR33480		116	691	1.2E-100	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011445524.2	2c485044201de686fa484a6fabd0bd3c	738	CDD	cd00397	DNA_BRE_C	455	634	2.52795E-4	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011445524.2	2c485044201de686fa484a6fabd0bd3c	738	Pfam	PF00589	Phage integrase family	472	636	1.7E-5	T	31-10-2018	IPR002104	Integrase, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_gigas_CGI|XP_011445524.2	2c485044201de686fa484a6fabd0bd3c	738	Gene3D	G3DSA:1.10.443.10		437	652	4.7E-9	T	31-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Crassostrea_gigas_CGI|XP_011445524.2	2c485044201de686fa484a6fabd0bd3c	738	PANTHER	PTHR33480		48	669	1.7E-79	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011445524.2	2c485044201de686fa484a6fabd0bd3c	738	SUPERFAMILY	SSF56349		463	635	4.41E-9	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_011445524.2	2c485044201de686fa484a6fabd0bd3c	738	MobiDBLite	mobidb-lite	consensus disorder prediction	57	78	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287162.1	a616864ae360b94e16bd5cbd09c844fc	693	PANTHER	PTHR33480		16	572	3.7E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287162.1	a616864ae360b94e16bd5cbd09c844fc	693	PANTHER	PTHR33480:SF1		16	572	3.7E-76	T	31-10-2018
+Capitella_teleta_CTE|ELU04614.1	039797b1a82ccfa8240099f8b86110d9	887	PANTHER	PTHR33480		2	388	3.3E-60	T	31-10-2018
+Capitella_teleta_CTE|ELU04614.1	039797b1a82ccfa8240099f8b86110d9	887	PANTHER	PTHR33480:SF1		2	388	3.3E-60	T	31-10-2018
+Capitella_teleta_CTE|ELU04614.1	039797b1a82ccfa8240099f8b86110d9	887	MobiDBLite	mobidb-lite	consensus disorder prediction	387	415	-	T	31-10-2018
+Capitella_teleta_CTE|ELU04614.1	039797b1a82ccfa8240099f8b86110d9	887	MobiDBLite	mobidb-lite	consensus disorder prediction	813	862	-	T	31-10-2018
+Capitella_teleta_CTE|ELU04614.1	039797b1a82ccfa8240099f8b86110d9	887	MobiDBLite	mobidb-lite	consensus disorder prediction	485	545	-	T	31-10-2018
+Capitella_teleta_CTE|ELU04614.1	039797b1a82ccfa8240099f8b86110d9	887	MobiDBLite	mobidb-lite	consensus disorder prediction	730	758	-	T	31-10-2018
+Capitella_teleta_CTE|ELU14661.1	baabc4827e87fc1b4d2561cb680c77c9	322	PANTHER	PTHR33480		61	186	5.9E-25	T	31-10-2018
+Capitella_teleta_CTE|ELU14661.1	baabc4827e87fc1b4d2561cb680c77c9	322	MobiDBLite	mobidb-lite	consensus disorder prediction	175	204	-	T	31-10-2018
+Capitella_teleta_CTE|ELU14661.1	baabc4827e87fc1b4d2561cb680c77c9	322	PANTHER	PTHR33480		188	251	5.9E-25	T	31-10-2018
+Capitella_teleta_CTE|ELU14661.1	baabc4827e87fc1b4d2561cb680c77c9	322	PANTHER	PTHR33480:SF1		188	251	5.9E-25	T	31-10-2018
+Capitella_teleta_CTE|ELU14661.1	baabc4827e87fc1b4d2561cb680c77c9	322	PANTHER	PTHR33480:SF1		61	186	5.9E-25	T	31-10-2018
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	318	345	10.99	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	SMART	SM00355		146	168	64.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	SMART	SM00355		180	200	77.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	SMART	SM00355		22	42	120.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	SMART	SM00355		318	340	0.036	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	MobiDBLite	mobidb-lite	consensus disorder prediction	552	575	-	T	31-10-2018
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	SUPERFAMILY	SSF57667		147	168	4.27E-5	T	31-10-2018	IPR036236	Zinc finger C2H2 superfamily		
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	SUPERFAMILY	SSF57667		313	340	4.27E-5	T	31-10-2018	IPR036236	Zinc finger C2H2 superfamily		
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	320	340	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	MobiDBLite	mobidb-lite	consensus disorder prediction	657	710	-	T	31-10-2018
+Capitella_teleta_CTE|ELU01886.1	28936186fc20a852c8c87f4cd6a2db5c	710	Coils	Coil		65	85	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_56804-0.2	9ca9a23aa3b04b295e36c9f1b4930769	460	PANTHER	PTHR33480		2	458	8.1E-63	T	31-10-2018
+Lingula_anatina_LAN|XP_013407624.1	66cea51cc76bc33cc0ec8dd697a82172	513	PANTHER	PTHR33480		14	303	1.5E-42	T	31-10-2018
+Lingula_anatina_LAN|XP_013407624.1	66cea51cc76bc33cc0ec8dd697a82172	513	PANTHER	PTHR33480		301	429	1.5E-42	T	31-10-2018
+Lingula_anatina_LAN|XP_013407624.1	66cea51cc76bc33cc0ec8dd697a82172	513	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	Gene3D	G3DSA:3.30.160.60		4	76	6.2E-6	T	31-10-2018
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	SMART	SM00355		51	71	29.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	SMART	SM00355		17	39	0.1	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	MobiDBLite	mobidb-lite	consensus disorder prediction	239	265	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	19	39	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	17	44	9.598	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU08460.1	2e748866ffb01b23206be38a73ea5912	265	PANTHER	PTHR33480		37	241	1.9E-26	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287158.1	73da0dc73638509f11616d89f63fdde2	751	MobiDBLite	mobidb-lite	consensus disorder prediction	1	78	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287158.1	73da0dc73638509f11616d89f63fdde2	751	PANTHER	PTHR33480		40	630	7.8E-78	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287158.1	73da0dc73638509f11616d89f63fdde2	751	PANTHER	PTHR33480:SF1		40	630	7.8E-78	T	31-10-2018
+Capitella_teleta_CTE|ELT97450.1	5d99098fda97ce81a557adad88570f49	612	MobiDBLite	mobidb-lite	consensus disorder prediction	551	595	-	T	31-10-2018
+Capitella_teleta_CTE|ELT97450.1	5d99098fda97ce81a557adad88570f49	612	SUPERFAMILY	SSF56349		322	491	9.42E-6	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Capitella_teleta_CTE|ELT97450.1	5d99098fda97ce81a557adad88570f49	612	PANTHER	PTHR33480		25	523	1.1E-70	T	31-10-2018
+Capitella_teleta_CTE|ELT97450.1	5d99098fda97ce81a557adad88570f49	612	PANTHER	PTHR33480:SF1		25	523	1.1E-70	T	31-10-2018
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	ProSitePatterns	PS00028	Zinc finger C2H2 type domain signature.	21	41	-	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	PANTHER	PTHR33480		26	434	1.7E-42	T	31-10-2018
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	PANTHER	PTHR33480:SF1		26	434	1.7E-42	T	31-10-2018
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	Gene3D	G3DSA:3.30.160.60		16	96	6.0E-7	T	31-10-2018
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	ProSiteProfiles	PS50157	Zinc finger C2H2 type domain profile.	19	46	10.803	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	SMART	SM00355		54	74	33.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELU09706.1	e3ee378d80057f8d0339bc4f7cc937e2	444	SMART	SM00355		19	41	0.0028	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Capitella_teleta_CTE|ELT89778.1	27793dfca45989e0b8081598a0a2825a	357	PANTHER	PTHR33480:SF1		22	67	2.6E-30	T	31-10-2018
+Capitella_teleta_CTE|ELT89778.1	27793dfca45989e0b8081598a0a2825a	357	SUPERFAMILY	SSF56349		94	185	6.18E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Capitella_teleta_CTE|ELT89778.1	27793dfca45989e0b8081598a0a2825a	357	PANTHER	PTHR33480		22	67	2.6E-30	T	31-10-2018
+Capitella_teleta_CTE|ELT89778.1	27793dfca45989e0b8081598a0a2825a	357	PANTHER	PTHR33480		82	246	2.6E-30	T	31-10-2018
+Capitella_teleta_CTE|ELT89778.1	27793dfca45989e0b8081598a0a2825a	357	PANTHER	PTHR33480:SF1		82	246	2.6E-30	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024285-T1	a40b0f7e8b77f9df65d4b6933017bb0a	263	SUPERFAMILY	SSF52047		140	186	5.65E-5	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011412593.1	ef2f317421e13ba4ed5b086788b00f1b	917	MobiDBLite	mobidb-lite	consensus disorder prediction	214	265	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011412593.1	ef2f317421e13ba4ed5b086788b00f1b	917	SUPERFAMILY	SSF56349		630	782	1.81E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_011412593.1	ef2f317421e13ba4ed5b086788b00f1b	917	PANTHER	PTHR33480		221	845	7.6E-78	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011412593.1	ef2f317421e13ba4ed5b086788b00f1b	917	PANTHER	PTHR33480:SF1		221	845	7.6E-78	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011412593.1	ef2f317421e13ba4ed5b086788b00f1b	917	MobiDBLite	mobidb-lite	consensus disorder prediction	826	878	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287164.1	65852072b2bf0600a64c8aee16d7061d	681	PANTHER	PTHR33480		16	560	1.2E-75	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287164.1	65852072b2bf0600a64c8aee16d7061d	681	Coils	Coil		668	681	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022287164.1	65852072b2bf0600a64c8aee16d7061d	681	PANTHER	PTHR33480:SF1		16	560	1.2E-75	T	31-10-2018
+Aplysia_californica_ACA|XP_012940713.1	5815302cebbe25240f01eb7119de7481	656	MobiDBLite	mobidb-lite	consensus disorder prediction	508	560	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012940713.1	5815302cebbe25240f01eb7119de7481	656	PANTHER	PTHR33480		16	58	3.2E-88	T	31-10-2018
+Aplysia_californica_ACA|XP_012940713.1	5815302cebbe25240f01eb7119de7481	656	PANTHER	PTHR33480		89	490	3.2E-88	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015952-T1	9175f6312cd291ea63900cba199fd0ea	219	MobiDBLite	mobidb-lite	consensus disorder prediction	111	219	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015952-T1	9175f6312cd291ea63900cba199fd0ea	219	Gene3D	G3DSA:3.30.930.10		2	50	1.9E-5	T	31-10-2018
+Capitella_teleta_CTE|ELU10250.1	77129b4a9ff2a8274a702cda55f11104	569	PANTHER	PTHR33480:SF1		3	486	3.9E-70	T	31-10-2018
+Capitella_teleta_CTE|ELU10250.1	77129b4a9ff2a8274a702cda55f11104	569	PANTHER	PTHR33480		3	486	3.9E-70	T	31-10-2018
+Capitella_teleta_CTE|ELU10250.1	77129b4a9ff2a8274a702cda55f11104	569	MobiDBLite	mobidb-lite	consensus disorder prediction	484	525	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	872	927	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	Coils	Coil		1434	1454	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	2035	2108	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		2480	2500	17.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		1168	1188	62.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		1821	1841	25.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		261	281	26.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		763	783	50.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		1248	1267	180.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		339	359	51.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	SMART	SM00355		1525	1545	25.0	T	31-10-2018	IPR013087	Zinc finger C2H2-type	GO:0003676	
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	1065	1094	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	1292	1315	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	2636	2693	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	1484	1503	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	122	159	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014779096.1	b7e07c6d6a54581b0857fa222c7f9c17	2693	MobiDBLite	mobidb-lite	consensus disorder prediction	2426	2483	-	T	31-10-2018
+Capitella_teleta_CTE|ELU01217.1	a423e9e585bcae100412234f7b855d92	622	Coils	Coil		29	118	-	T	31-10-2018
+Capitella_teleta_CTE|ELU01217.1	a423e9e585bcae100412234f7b855d92	622	PANTHER	PTHR33480		56	611	4.3E-69	T	31-10-2018
+Capitella_teleta_CTE|ELU01217.1	a423e9e585bcae100412234f7b855d92	622	MobiDBLite	mobidb-lite	consensus disorder prediction	23	118	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028160-T1	5cf24b6344ed29a51feb0beaaf863822	286	PANTHER	PTHR23145:SF5		2	273	1.5E-29	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028160-T1	5cf24b6344ed29a51feb0beaaf863822	286	PANTHER	PTHR23145		2	273	1.5E-29	T	31-10-2018
+Aplysia_californica_ACA|XP_012946063.1	668d14340b63b513c6631c40150665fd	458	MobiDBLite	mobidb-lite	consensus disorder prediction	298	362	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012946063.1	668d14340b63b513c6631c40150665fd	458	PANTHER	PTHR33480		12	225	8.4E-47	T	31-10-2018
+Aplysia_californica_ACA|XP_012946063.1	668d14340b63b513c6631c40150665fd	458	PANTHER	PTHR33480		304	377	8.4E-47	T	31-10-2018
+Aplysia_californica_ACA|XP_012946063.1	668d14340b63b513c6631c40150665fd	458	PANTHER	PTHR33480		231	293	8.4E-47	T	31-10-2018
+Capitella_teleta_CTE|ELU00830.1	69f187bfbd9962c3bcbb4de049f3f27c	118	PANTHER	PTHR33480		11	116	7.6E-15	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019927170.1	4e55124253d1889cc022f8494753df1f	840	PANTHER	PTHR33480		282	834	1.4E-88	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019927170.1	4e55124253d1889cc022f8494753df1f	840	Gene3D	G3DSA:3.90.70.120		53	257	2.7E-11	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019927170.1	4e55124253d1889cc022f8494753df1f	840	SUPERFAMILY	SSF56349		702	807	1.41E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_019927170.1	4e55124253d1889cc022f8494753df1f	840	SUPERFAMILY	SSF56349		632	667	1.41E-5	T	31-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Crassostrea_gigas_CGI|XP_019927170.1	4e55124253d1889cc022f8494753df1f	840	Pfam	PF04843	Herpesvirus tegument protein, N-terminal conserved region	59	233	1.6E-12	T	31-10-2018	IPR006928	Herpesvirus tegument UL36 central domain		
+Crassostrea_gigas_CGI|XP_019927170.1	4e55124253d1889cc022f8494753df1f	840	SUPERFAMILY	SSF54001		53	239	1.18E-11	T	31-10-2018
+Notospermus_geniculatus_NGE|g38835.t1	b8734b3d0190e01099ed09500f585a02	781	MobiDBLite	mobidb-lite	consensus disorder prediction	1	118	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037530-T1	931d0cdcc70a740e78ad3867917ca5ff	190	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	31-10-2018
+Capitella_teleta_CTE|ELT87935.1	2dccb1224b23d39f1c1f1db5c238cc02	367	MobiDBLite	mobidb-lite	consensus disorder prediction	31	134	-	T	31-10-2018
+Capitella_teleta_CTE|ELT87935.1	2dccb1224b23d39f1c1f1db5c238cc02	367	PANTHER	PTHR33480		61	309	6.9E-15	T	31-10-2018
+Capitella_teleta_CTE|ELT87935.1	2dccb1224b23d39f1c1f1db5c238cc02	367	Coils	Coil		31	131	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021753-T1	b09966a3d981e6259de8c5da3a822d35	259	PANTHER	PTHR23145:SF5		6	250	3.2E-38	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021753-T1	b09966a3d981e6259de8c5da3a822d35	259	PANTHER	PTHR23145		6	250	3.2E-38	T	31-10-2018
+Notospermus_geniculatus_NGE|g3763.t1	d2d28d96d097e235bb5751c4532f6dc9	112	MobiDBLite	mobidb-lite	consensus disorder prediction	87	112	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006462-T1	72b7da4d936a39ec7fe79c027ab0fbd9	165	Coils	Coil		165	165	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006462-T1	72b7da4d936a39ec7fe79c027ab0fbd9	165	PANTHER	PTHR23145		4	107	2.1E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006462-T1	72b7da4d936a39ec7fe79c027ab0fbd9	165	PANTHER	PTHR23145:SF5		4	107	2.1E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039677-T1	a84bca1ab27b965d43b767f2b5243b12	127	PANTHER	PTHR33480		3	124	2.1E-18	T	31-10-2018
+Capitella_teleta_CTE|ELT99312.1	70c67cb053810ff1ca6ab3e094bdde6f	174	PANTHER	PTHR33480		11	131	6.0E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025194-T1	5a91dad28c83f7cabbe155893dd8ac9d	137	PANTHER	PTHR33480		15	132	1.4E-14	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019923166.1	2a2e7f4b4a2f2ff5157b861ec35b046b	201	PANTHER	PTHR33480		85	199	9.3E-27	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024232-T1	61d20cb35f9ef321000bc1ac707daa26	165	PANTHER	PTHR33480		4	153	3.7E-32	T	31-10-2018

@@ -1,0 +1,687 @@
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	MobiDBLite	mobidb-lite	consensus disorder prediction	1256	1317	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	MobiDBLite	mobidb-lite	consensus disorder prediction	1029	1239	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	MobiDBLite	mobidb-lite	consensus disorder prediction	39	63	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	MobiDBLite	mobidb-lite	consensus disorder prediction	896	1013	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	PANTHER	PTHR23302		67	722	8.3E-131	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	Pfam	PF07810	TMC domain	472	578	1.9E-21	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013063909.1	c4eef897fa7f9ef1dc258fea5a71bcd7	1346	MobiDBLite	mobidb-lite	consensus disorder prediction	751	856	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	PANTHER	PTHR23302		286	1129	4.5E-187	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	PANTHER	PTHR23302:SF24		286	1129	4.5E-187	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	MobiDBLite	mobidb-lite	consensus disorder prediction	290	348	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	MobiDBLite	mobidb-lite	consensus disorder prediction	115	135	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	Coils	Coil		730	750	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	MobiDBLite	mobidb-lite	consensus disorder prediction	219	276	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	MobiDBLite	mobidb-lite	consensus disorder prediction	440	459	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060055.1	699c3249c3dc3b9026d8c346e5b03c50	1140	Pfam	PF07810	TMC domain	891	1002	7.0E-44	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315272.1	17d1f94c06ec2d1c3f57f7824449cab7	871	Pfam	PF07810	TMC domain	526	636	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315272.1	17d1f94c06ec2d1c3f57f7824449cab7	871	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315272.1	17d1f94c06ec2d1c3f57f7824449cab7	871	MobiDBLite	mobidb-lite	consensus disorder prediction	814	837	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315272.1	17d1f94c06ec2d1c3f57f7824449cab7	871	PANTHER	PTHR23302		44	793	1.7E-190	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315272.1	17d1f94c06ec2d1c3f57f7824449cab7	871	MobiDBLite	mobidb-lite	consensus disorder prediction	760	800	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	Pfam	PF07810	TMC domain	544	656	3.3E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	Pfam	PF07810	TMC domain	1580	1692	1.7E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	MobiDBLite	mobidb-lite	consensus disorder prediction	863	963	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	MobiDBLite	mobidb-lite	consensus disorder prediction	827	848	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	PANTHER	PTHR23302:SF24		37	771	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	PANTHER	PTHR23302:SF24		952	1816	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	PANTHER	PTHR23302		37	771	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	Coils	Coil		1423	1443	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	PANTHER	PTHR23302		952	1816	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	MobiDBLite	mobidb-lite	consensus disorder prediction	1033	1085	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316589.1	3fc739b4aa90727eac533d6e211bb5eb	1822	MobiDBLite	mobidb-lite	consensus disorder prediction	1102	1162	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA71145.1	39c242e3a720ea589abfd346300665eb	805	Coils	Coil		54	74	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA71145.1	39c242e3a720ea589abfd346300665eb	805	Pfam	PF07810	TMC domain	564	673	3.1E-25	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Macrostomum_lignano_MLI|PAA71145.1	39c242e3a720ea589abfd346300665eb	805	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA71145.1	39c242e3a720ea589abfd346300665eb	805	PANTHER	PTHR23302		71	801	2.4E-105	T	30-10-2018
+Macrostomum_lignano_MLI|PAA71145.1	39c242e3a720ea589abfd346300665eb	805	MobiDBLite	mobidb-lite	consensus disorder prediction	88	115	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438132.1	c39b8789dc0280d15659d4b494bca621	788	Pfam	PF07810	TMC domain	546	658	5.7E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011438132.1	c39b8789dc0280d15659d4b494bca621	788	PANTHER	PTHR23302		41	781	5.7E-176	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438132.1	c39b8789dc0280d15659d4b494bca621	788	PANTHER	PTHR23302:SF24		41	781	5.7E-176	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438132.1	c39b8789dc0280d15659d4b494bca621	788	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011452668.1	fb13afd7d5bcf4d2f21061f753c9841a	792	PANTHER	PTHR23302		101	784	4.1E-150	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011452668.1	fb13afd7d5bcf4d2f21061f753c9841a	792	Pfam	PF07810	TMC domain	545	657	3.6E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011452668.1	fb13afd7d5bcf4d2f21061f753c9841a	792	Coils	Coil		761	781	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011452668.1	fb13afd7d5bcf4d2f21061f753c9841a	792	PANTHER	PTHR23302:SF24		101	784	4.1E-150	T	30-10-2018
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	PRINTS	PR00249	Secretin-like GPCR superfamily signature	502	522	5.0E-5	T	30-10-2018	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	PRINTS	PR00249	Secretin-like GPCR superfamily signature	401	426	5.0E-5	T	30-10-2018	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	PRINTS	PR00249	Secretin-like GPCR superfamily signature	293	317	5.0E-5	T	30-10-2018	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	PRINTS	PR00249	Secretin-like GPCR superfamily signature	256	280	5.0E-5	T	30-10-2018	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	Pfam	PF07810	TMC domain	330	435	2.9E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	PANTHER	PTHR23302:SF24		10	555	3.3E-160	T	30-10-2018
+Capitella_teleta_CTE|ELU16986.1	3e0ff4302b24ef3eb32c4f4ac9efb633	555	PANTHER	PTHR23302		10	555	3.3E-160	T	30-10-2018
+Aplysia_californica_ACA|XP_005108730.1	c237858cc968db5743ca06b0978ed72a	775	PANTHER	PTHR23302:SF43		128	726	6.7E-174	T	30-10-2018
+Aplysia_californica_ACA|XP_005108730.1	c237858cc968db5743ca06b0978ed72a	775	Coils	Coil		114	134	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005108730.1	c237858cc968db5743ca06b0978ed72a	775	PANTHER	PTHR23302		128	726	6.7E-174	T	30-10-2018
+Aplysia_californica_ACA|XP_005108730.1	c237858cc968db5743ca06b0978ed72a	775	Pfam	PF07810	TMC domain	497	602	3.0E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Aplysia_californica_ACA|XP_005108731.1	c237858cc968db5743ca06b0978ed72a	775	PANTHER	PTHR23302:SF43		128	726	6.7E-174	T	30-10-2018
+Aplysia_californica_ACA|XP_005108731.1	c237858cc968db5743ca06b0978ed72a	775	Coils	Coil		114	134	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005108731.1	c237858cc968db5743ca06b0978ed72a	775	PANTHER	PTHR23302		128	726	6.7E-174	T	30-10-2018
+Aplysia_californica_ACA|XP_005108731.1	c237858cc968db5743ca06b0978ed72a	775	Pfam	PF07810	TMC domain	497	602	3.0E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315280.1	c656441770e923f70557dc64a8957e73	987	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315280.1	c656441770e923f70557dc64a8957e73	987	Pfam	PF07810	TMC domain	652	762	2.4E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315280.1	c656441770e923f70557dc64a8957e73	987	MobiDBLite	mobidb-lite	consensus disorder prediction	886	958	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315280.1	c656441770e923f70557dc64a8957e73	987	PANTHER	PTHR23302		192	914	3.1E-188	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315280.1	c656441770e923f70557dc64a8957e73	987	MobiDBLite	mobidb-lite	consensus disorder prediction	206	248	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352353.1	bf22bac77bee2c7ef9df7a211af2caeb	825	PANTHER	PTHR23302		57	775	3.8E-168	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352353.1	bf22bac77bee2c7ef9df7a211af2caeb	825	MobiDBLite	mobidb-lite	consensus disorder prediction	753	825	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352353.1	bf22bac77bee2c7ef9df7a211af2caeb	825	MobiDBLite	mobidb-lite	consensus disorder prediction	1	33	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352353.1	bf22bac77bee2c7ef9df7a211af2caeb	825	Pfam	PF07810	TMC domain	515	625	1.1E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_023933177.1	d1618e1d0f925a7ec84a790f1cc60541	854	Pfam	PF07810	TMC domain	599	710	3.6E-45	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_023933177.1	d1618e1d0f925a7ec84a790f1cc60541	854	PANTHER	PTHR23302		124	837	7.6E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_023933177.1	d1618e1d0f925a7ec84a790f1cc60541	854	MobiDBLite	mobidb-lite	consensus disorder prediction	1	86	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933177.1	d1618e1d0f925a7ec84a790f1cc60541	854	Coils	Coil		442	466	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380166.1	d1618e1d0f925a7ec84a790f1cc60541	854	Pfam	PF07810	TMC domain	599	710	3.6E-45	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013380166.1	d1618e1d0f925a7ec84a790f1cc60541	854	PANTHER	PTHR23302		124	837	7.6E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013380166.1	d1618e1d0f925a7ec84a790f1cc60541	854	MobiDBLite	mobidb-lite	consensus disorder prediction	1	86	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380166.1	d1618e1d0f925a7ec84a790f1cc60541	854	Coils	Coil		442	466	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380164.1	d1618e1d0f925a7ec84a790f1cc60541	854	Pfam	PF07810	TMC domain	599	710	3.6E-45	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013380164.1	d1618e1d0f925a7ec84a790f1cc60541	854	PANTHER	PTHR23302		124	837	7.6E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013380164.1	d1618e1d0f925a7ec84a790f1cc60541	854	MobiDBLite	mobidb-lite	consensus disorder prediction	1	86	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380164.1	d1618e1d0f925a7ec84a790f1cc60541	854	Coils	Coil		442	466	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380162.1	d1618e1d0f925a7ec84a790f1cc60541	854	Pfam	PF07810	TMC domain	599	710	3.6E-45	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013380162.1	d1618e1d0f925a7ec84a790f1cc60541	854	PANTHER	PTHR23302		124	837	7.6E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013380162.1	d1618e1d0f925a7ec84a790f1cc60541	854	MobiDBLite	mobidb-lite	consensus disorder prediction	1	86	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380162.1	d1618e1d0f925a7ec84a790f1cc60541	854	Coils	Coil		442	466	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380163.1	d1618e1d0f925a7ec84a790f1cc60541	854	Pfam	PF07810	TMC domain	599	710	3.6E-45	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013380163.1	d1618e1d0f925a7ec84a790f1cc60541	854	PANTHER	PTHR23302		124	837	7.6E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013380163.1	d1618e1d0f925a7ec84a790f1cc60541	854	MobiDBLite	mobidb-lite	consensus disorder prediction	1	86	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380163.1	d1618e1d0f925a7ec84a790f1cc60541	854	Coils	Coil		442	466	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	833	853	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	2471	2553	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1806	1828	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	Coils	Coil		2976	2996	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	Pfam	PF07810	TMC domain	3048	3159	8.7E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	PANTHER	PTHR23302		2523	3024	9.5E-148	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	PANTHER	PTHR23302		3039	3287	9.5E-148	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1318	1436	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1	166	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	2011	2078	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	2113	2192	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	2205	2385	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	780	819	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1458	1486	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	910	1000	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1503	1640	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	746	768	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1864	1901	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	2421	2442	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1715	1744	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	182	322	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	2592	2611	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	335	730	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g22897.t1	ff27205a9d4864b986d8705cb54d0c28	3297	MobiDBLite	mobidb-lite	consensus disorder prediction	1039	1301	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388941.1	54d7708b7357803cc2845111f2ae9524	798	Coils	Coil		722	742	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388941.1	54d7708b7357803cc2845111f2ae9524	798	Pfam	PF07810	TMC domain	524	634	1.0E-41	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013388941.1	54d7708b7357803cc2845111f2ae9524	798	MobiDBLite	mobidb-lite	consensus disorder prediction	58	81	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388941.1	54d7708b7357803cc2845111f2ae9524	798	PANTHER	PTHR23302		80	771	8.2E-192	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	MobiDBLite	mobidb-lite	consensus disorder prediction	1322	1384	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	MobiDBLite	mobidb-lite	consensus disorder prediction	39	63	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	MobiDBLite	mobidb-lite	consensus disorder prediction	963	1080	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	MobiDBLite	mobidb-lite	consensus disorder prediction	818	923	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	MobiDBLite	mobidb-lite	consensus disorder prediction	751	804	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	PANTHER	PTHR23302		67	707	1.6E-130	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	MobiDBLite	mobidb-lite	consensus disorder prediction	1096	1306	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063908.1	73ad879857eb0bb3839cea233947d6e0	1413	Pfam	PF07810	TMC domain	472	578	2.0E-21	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_034786-T1	a0ebdd9c919bf6514d0597d36639adfa	875	Coils	Coil		444	471	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034786-T1	a0ebdd9c919bf6514d0597d36639adfa	875	Coils	Coil		125	152	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034786-T1	a0ebdd9c919bf6514d0597d36639adfa	875	MobiDBLite	mobidb-lite	consensus disorder prediction	106	168	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034786-T1	a0ebdd9c919bf6514d0597d36639adfa	875	Pfam	PF07810	TMC domain	610	742	3.7E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_034786-T1	a0ebdd9c919bf6514d0597d36639adfa	875	PANTHER	PTHR23302		120	868	1.4E-160	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034786-T1	a0ebdd9c919bf6514d0597d36639adfa	875	MobiDBLite	mobidb-lite	consensus disorder prediction	1	75	-	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.42	e8bc32e34aeb61e4a2804846e24ae2aa	785	MobiDBLite	mobidb-lite	consensus disorder prediction	1	116	-	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.42	e8bc32e34aeb61e4a2804846e24ae2aa	785	PANTHER	PTHR23302		49	768	6.0E-167	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.42	e8bc32e34aeb61e4a2804846e24ae2aa	785	Coils	Coil		94	114	-	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.42	e8bc32e34aeb61e4a2804846e24ae2aa	785	Pfam	PF07810	TMC domain	526	637	6.2E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF21411.42	e8bc32e34aeb61e4a2804846e24ae2aa	785	PANTHER	PTHR23302:SF24		49	768	6.0E-167	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419673.1	32ce3b560f19e069a9701f736c5db066	859	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419673.1	32ce3b560f19e069a9701f736c5db066	859	Pfam	PF07810	TMC domain	511	621	2.3E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011419673.1	32ce3b560f19e069a9701f736c5db066	859	MobiDBLite	mobidb-lite	consensus disorder prediction	745	773	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419673.1	32ce3b560f19e069a9701f736c5db066	859	PANTHER	PTHR23302		60	785	1.9E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419673.1	32ce3b560f19e069a9701f736c5db066	859	MobiDBLite	mobidb-lite	consensus disorder prediction	62	100	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007979-T1	94252ffcd9f0c791a840caedacef158d	299	PANTHER	PTHR23302:SF24		27	246	1.1E-43	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007979-T1	94252ffcd9f0c791a840caedacef158d	299	PANTHER	PTHR23302:SF24		249	294	1.1E-43	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007979-T1	94252ffcd9f0c791a840caedacef158d	299	PANTHER	PTHR23302		27	246	1.1E-43	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007979-T1	94252ffcd9f0c791a840caedacef158d	299	PANTHER	PTHR23302		249	294	1.1E-43	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007979-T1	94252ffcd9f0c791a840caedacef158d	299	Pfam	PF07810	TMC domain	214	264	1.7E-11	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF39217.1	c9b5fde3693d5d846cfd5a7975f15814	731	MobiDBLite	mobidb-lite	consensus disorder prediction	100	133	-	T	30-10-2018
+Chlamys_farreri_CFA|CF39217.1	c9b5fde3693d5d846cfd5a7975f15814	731	PANTHER	PTHR23302		150	725	4.1E-187	T	30-10-2018
+Chlamys_farreri_CFA|CF39217.1	c9b5fde3693d5d846cfd5a7975f15814	731	Pfam	PF07810	TMC domain	540	646	1.1E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF39217.1	c9b5fde3693d5d846cfd5a7975f15814	731	PANTHER	PTHR23302:SF43		150	725	4.1E-187	T	30-10-2018
+Chlamys_farreri_CFA|CF39217.1	c9b5fde3693d5d846cfd5a7975f15814	731	MobiDBLite	mobidb-lite	consensus disorder prediction	1	37	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388943.1	4083a57c607722410d24d6d1fda8a13c	751	MobiDBLite	mobidb-lite	consensus disorder prediction	49	84	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388943.1	4083a57c607722410d24d6d1fda8a13c	751	PANTHER	PTHR23302		46	724	9.9E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013388943.1	4083a57c607722410d24d6d1fda8a13c	751	Coils	Coil		675	695	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388943.1	4083a57c607722410d24d6d1fda8a13c	751	Pfam	PF07810	TMC domain	477	587	9.5E-42	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013388944.1	4083a57c607722410d24d6d1fda8a13c	751	MobiDBLite	mobidb-lite	consensus disorder prediction	49	84	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388944.1	4083a57c607722410d24d6d1fda8a13c	751	PANTHER	PTHR23302		46	724	9.9E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013388944.1	4083a57c607722410d24d6d1fda8a13c	751	Coils	Coil		675	695	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388944.1	4083a57c607722410d24d6d1fda8a13c	751	Pfam	PF07810	TMC domain	477	587	9.5E-42	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013388942.1	4083a57c607722410d24d6d1fda8a13c	751	MobiDBLite	mobidb-lite	consensus disorder prediction	49	84	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388942.1	4083a57c607722410d24d6d1fda8a13c	751	PANTHER	PTHR23302		46	724	9.9E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013388942.1	4083a57c607722410d24d6d1fda8a13c	751	Coils	Coil		675	695	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388942.1	4083a57c607722410d24d6d1fda8a13c	751	Pfam	PF07810	TMC domain	477	587	9.5E-42	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Macrostomum_lignano_MLI|PAA67769.1	d873a4ec127d8a8aef6a70da87151196	744	Pfam	PF07810	TMC domain	471	581	6.8E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Macrostomum_lignano_MLI|PAA67769.1	d873a4ec127d8a8aef6a70da87151196	744	MobiDBLite	mobidb-lite	consensus disorder prediction	701	723	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA67769.1	d873a4ec127d8a8aef6a70da87151196	744	MobiDBLite	mobidb-lite	consensus disorder prediction	83	102	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA67769.1	d873a4ec127d8a8aef6a70da87151196	744	PANTHER	PTHR23302		109	700	7.3E-139	T	30-10-2018
+Notospermus_geniculatus_NGE|g34344.t1	4f4d3dafe615273095d91bbaf7558eff	434	PANTHER	PTHR23302		105	396	5.6E-97	T	30-10-2018
+Notospermus_geniculatus_NGE|g34344.t1	4f4d3dafe615273095d91bbaf7558eff	434	PANTHER	PTHR23302:SF24		105	396	5.6E-97	T	30-10-2018
+Notospermus_geniculatus_NGE|g34344.t1	4f4d3dafe615273095d91bbaf7558eff	434	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g34344.t1	4f4d3dafe615273095d91bbaf7558eff	434	Pfam	PF07810	TMC domain	148	258	1.3E-41	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g34344.t1	4f4d3dafe615273095d91bbaf7558eff	434	Coils	Coil		72	92	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g34344.t1	4f4d3dafe615273095d91bbaf7558eff	434	MobiDBLite	mobidb-lite	consensus disorder prediction	397	434	-	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.43.1	4eb3b2243021e578d199bceff7a8d533	1011	PANTHER	PTHR23302		206	1000	2.4E-176	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.43.1	4eb3b2243021e578d199bceff7a8d533	1011	Pfam	PF07810	TMC domain	763	874	1.5E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF21411.43.1	4eb3b2243021e578d199bceff7a8d533	1011	MobiDBLite	mobidb-lite	consensus disorder prediction	119	187	-	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.43.1	4eb3b2243021e578d199bceff7a8d533	1011	MobiDBLite	mobidb-lite	consensus disorder prediction	25	50	-	T	30-10-2018
+Chlamys_farreri_CFA|CF21411.43.1	4eb3b2243021e578d199bceff7a8d533	1011	PANTHER	PTHR23302:SF24		206	1000	2.4E-176	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314926.1	9dbf6645ca8a0d10b6dd1a9f04edb088	867	MobiDBLite	mobidb-lite	consensus disorder prediction	91	117	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314926.1	9dbf6645ca8a0d10b6dd1a9f04edb088	867	PANTHER	PTHR23302		69	789	5.6E-187	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314926.1	9dbf6645ca8a0d10b6dd1a9f04edb088	867	MobiDBLite	mobidb-lite	consensus disorder prediction	810	831	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314926.1	9dbf6645ca8a0d10b6dd1a9f04edb088	867	MobiDBLite	mobidb-lite	consensus disorder prediction	756	795	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314926.1	9dbf6645ca8a0d10b6dd1a9f04edb088	867	Pfam	PF07810	TMC domain	522	632	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_014077-T1	c144eba1cd4e24b06f5090ff0b207d9a	898	PANTHER	PTHR23302		358	890	1.5E-68	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014077-T1	c144eba1cd4e24b06f5090ff0b207d9a	898	MobiDBLite	mobidb-lite	consensus disorder prediction	1	421	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014077-T1	c144eba1cd4e24b06f5090ff0b207d9a	898	Coils	Coil		743	763	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	Pfam	PF07810	TMC domain	561	672	1.7E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	Pfam	PF07810	TMC domain	1362	1473	2.5E-33	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	PANTHER	PTHR23302		858	1604	0.0	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	PANTHER	PTHR23302		103	785	0.0	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	Coils	Coil		921	941	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	MobiDBLite	mobidb-lite	consensus disorder prediction	846	945	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	PANTHER	PTHR23302:SF24		858	1604	0.0	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T05865	3136f615fdccd596d2e1c0b57abbc858	1621	PANTHER	PTHR23302:SF24		103	785	0.0	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438141.1	4e45786062b5c65d413b995a974af9e5	983	PANTHER	PTHR23302:SF24		70	978	5.6E-163	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438141.1	4e45786062b5c65d413b995a974af9e5	983	MobiDBLite	mobidb-lite	consensus disorder prediction	247	314	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438141.1	4e45786062b5c65d413b995a974af9e5	983	Pfam	PF07810	TMC domain	737	849	4.6E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011438141.1	4e45786062b5c65d413b995a974af9e5	983	PANTHER	PTHR23302		70	978	5.6E-163	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438141.1	4e45786062b5c65d413b995a974af9e5	983	MobiDBLite	mobidb-lite	consensus disorder prediction	1	235	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316289.1	5bc7141c6bae9156706023f0d71b0114	790	PANTHER	PTHR23302:SF24		133	782	1.0E-151	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316289.1	5bc7141c6bae9156706023f0d71b0114	790	Pfam	PF07810	TMC domain	543	655	1.9E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022316289.1	5bc7141c6bae9156706023f0d71b0114	790	PANTHER	PTHR23302		133	782	1.0E-151	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352352.1	c3cf33569fc848e19660612ea33f40de	825	MobiDBLite	mobidb-lite	consensus disorder prediction	753	825	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352352.1	c3cf33569fc848e19660612ea33f40de	825	PANTHER	PTHR23302		57	775	8.0E-168	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352352.1	c3cf33569fc848e19660612ea33f40de	825	Pfam	PF07810	TMC domain	515	625	1.1E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF719381.1	721cf1e9997cca2d4fe96412b2e62b15	128	PANTHER	PTHR23302		1	125	2.2E-16	T	30-10-2018
+Chlamys_farreri_CFA|CF719381.1	721cf1e9997cca2d4fe96412b2e62b15	128	PANTHER	PTHR23302:SF24		1	125	2.2E-16	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	Coils	Coil		1402	1422	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	MobiDBLite	mobidb-lite	consensus disorder prediction	997	1057	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	Pfam	PF07810	TMC domain	544	656	3.3E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	Pfam	PF07810	TMC domain	1559	1671	1.7E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	PANTHER	PTHR23302		37	779	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	MobiDBLite	mobidb-lite	consensus disorder prediction	819	942	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	PANTHER	PTHR23302:SF24		912	1795	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	PANTHER	PTHR23302:SF24		37	779	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	PANTHER	PTHR23302		912	1795	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316578.1	a5e272ab942f969454f78ad146db2371	1801	MobiDBLite	mobidb-lite	consensus disorder prediction	1083	1141	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA92699.1	5ff66fae11ae96d4ca5aa6032415f39e	805	PANTHER	PTHR23302		45	801	1.3E-105	T	30-10-2018
+Macrostomum_lignano_MLI|PAA92699.1	5ff66fae11ae96d4ca5aa6032415f39e	805	Coils	Coil		54	74	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA92699.1	5ff66fae11ae96d4ca5aa6032415f39e	805	Pfam	PF07810	TMC domain	564	673	3.1E-25	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Macrostomum_lignano_MLI|PAA92699.1	5ff66fae11ae96d4ca5aa6032415f39e	805	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA92699.1	5ff66fae11ae96d4ca5aa6032415f39e	805	MobiDBLite	mobidb-lite	consensus disorder prediction	57	115	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00876	efe23ecface7442ae3b62991e877cf0a	838	MobiDBLite	mobidb-lite	consensus disorder prediction	1	40	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00876	efe23ecface7442ae3b62991e877cf0a	838	MobiDBLite	mobidb-lite	consensus disorder prediction	770	838	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00876	efe23ecface7442ae3b62991e877cf0a	838	PANTHER	PTHR23302		148	797	5.1E-201	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00876	efe23ecface7442ae3b62991e877cf0a	838	PANTHER	PTHR23302:SF43		148	797	5.1E-201	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00876	efe23ecface7442ae3b62991e877cf0a	838	Pfam	PF07810	TMC domain	537	643	2.7E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021353575.1	efe23ecface7442ae3b62991e877cf0a	838	MobiDBLite	mobidb-lite	consensus disorder prediction	1	40	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353575.1	efe23ecface7442ae3b62991e877cf0a	838	MobiDBLite	mobidb-lite	consensus disorder prediction	770	838	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353575.1	efe23ecface7442ae3b62991e877cf0a	838	PANTHER	PTHR23302		148	797	5.1E-201	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353575.1	efe23ecface7442ae3b62991e877cf0a	838	PANTHER	PTHR23302:SF43		148	797	5.1E-201	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353575.1	efe23ecface7442ae3b62991e877cf0a	838	Pfam	PF07810	TMC domain	537	643	2.7E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021353576.1	efe23ecface7442ae3b62991e877cf0a	838	MobiDBLite	mobidb-lite	consensus disorder prediction	1	40	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353576.1	efe23ecface7442ae3b62991e877cf0a	838	MobiDBLite	mobidb-lite	consensus disorder prediction	770	838	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353576.1	efe23ecface7442ae3b62991e877cf0a	838	PANTHER	PTHR23302		148	797	5.1E-201	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353576.1	efe23ecface7442ae3b62991e877cf0a	838	PANTHER	PTHR23302:SF43		148	797	5.1E-201	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353576.1	efe23ecface7442ae3b62991e877cf0a	838	Pfam	PF07810	TMC domain	537	643	2.7E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_73772-0.2	0b06cd6a72855940e55beeeeb951f5f3	737	PANTHER	PTHR23302:SF24		23	621	1.8E-166	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_73772-0.2	0b06cd6a72855940e55beeeeb951f5f3	737	MobiDBLite	mobidb-lite	consensus disorder prediction	668	737	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_73772-0.2	0b06cd6a72855940e55beeeeb951f5f3	737	PANTHER	PTHR23302		23	621	1.8E-166	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_73772-0.2	0b06cd6a72855940e55beeeeb951f5f3	737	MobiDBLite	mobidb-lite	consensus disorder prediction	622	641	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_73772-0.2	0b06cd6a72855940e55beeeeb951f5f3	737	Pfam	PF07810	TMC domain	389	499	7.0E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011419672.1	246f73f8a868b050233f18cbb1de0fc5	859	MobiDBLite	mobidb-lite	consensus disorder prediction	48	80	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419672.1	246f73f8a868b050233f18cbb1de0fc5	859	Pfam	PF07810	TMC domain	511	621	2.3E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011419672.1	246f73f8a868b050233f18cbb1de0fc5	859	MobiDBLite	mobidb-lite	consensus disorder prediction	745	773	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419672.1	246f73f8a868b050233f18cbb1de0fc5	859	PANTHER	PTHR23302		36	785	7.2E-190	T	30-10-2018
+Capitella_teleta_CTE|ELT96458.1	835d9eaab04fbe639e7e180e9cd39257	547	PANTHER	PTHR23302		28	538	1.8E-139	T	30-10-2018
+Capitella_teleta_CTE|ELT96458.1	835d9eaab04fbe639e7e180e9cd39257	547	Pfam	PF07810	TMC domain	309	420	1.4E-44	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Capitella_teleta_CTE|ELT96458.1	835d9eaab04fbe639e7e180e9cd39257	547	Coils	Coil		150	170	-	T	30-10-2018
+Capitella_teleta_CTE|ELT96458.1	835d9eaab04fbe639e7e180e9cd39257	547	PANTHER	PTHR23302:SF24		28	538	1.8E-139	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	MobiDBLite	mobidb-lite	consensus disorder prediction	95	136	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	PANTHER	PTHR23302:SF24		780	985	6.4E-57	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	PANTHER	PTHR23302		780	985	6.4E-57	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	MobiDBLite	mobidb-lite	consensus disorder prediction	1	45	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	MobiDBLite	mobidb-lite	consensus disorder prediction	357	620	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	MobiDBLite	mobidb-lite	consensus disorder prediction	634	705	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	MobiDBLite	mobidb-lite	consensus disorder prediction	720	753	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	MobiDBLite	mobidb-lite	consensus disorder prediction	227	314	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41218.t1	6098a5add5f87cd6ec904c7fd1c9ec59	992	Coils	Coil		825	845	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352354.1	c762f39b1e8ba931c458b21057433da8	777	Pfam	PF07810	TMC domain	515	625	9.8E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021352354.1	c762f39b1e8ba931c458b21057433da8	777	PANTHER	PTHR23302		57	770	1.6E-166	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352354.1	c762f39b1e8ba931c458b21057433da8	777	MobiDBLite	mobidb-lite	consensus disorder prediction	753	777	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_30932-1.9	bf7e045833be01239cd6e195e4522a70	828	PANTHER	PTHR23302		32	808	1.5E-169	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_30932-1.9	bf7e045833be01239cd6e195e4522a70	828	MobiDBLite	mobidb-lite	consensus disorder prediction	1	54	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_30932-1.9	bf7e045833be01239cd6e195e4522a70	828	Pfam	PF07810	TMC domain	481	591	4.9E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_30932-1.9	bf7e045833be01239cd6e195e4522a70	828	MobiDBLite	mobidb-lite	consensus disorder prediction	714	828	-	T	30-10-2018
+Phoronis_australis_PAU|g3528.t1	b54a8ccafb15f6cdb56772f46838abaa	802	PANTHER	PTHR23302		57	775	2.3E-195	T	30-10-2018
+Phoronis_australis_PAU|g3528.t1	b54a8ccafb15f6cdb56772f46838abaa	802	MobiDBLite	mobidb-lite	consensus disorder prediction	751	802	-	T	30-10-2018
+Phoronis_australis_PAU|g3528.t1	b54a8ccafb15f6cdb56772f46838abaa	802	MobiDBLite	mobidb-lite	consensus disorder prediction	1	43	-	T	30-10-2018
+Phoronis_australis_PAU|g3528.t1	b54a8ccafb15f6cdb56772f46838abaa	802	Pfam	PF07810	TMC domain	517	627	6.1E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315278.1	f2da923d6eaccfc0543e3c4e37bf7490	821	Pfam	PF07810	TMC domain	476	586	1.9E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315278.1	f2da923d6eaccfc0543e3c4e37bf7490	821	MobiDBLite	mobidb-lite	consensus disorder prediction	710	750	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315278.1	f2da923d6eaccfc0543e3c4e37bf7490	821	PANTHER	PTHR23302		21	743	5.2E-189	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315278.1	f2da923d6eaccfc0543e3c4e37bf7490	821	MobiDBLite	mobidb-lite	consensus disorder prediction	764	787	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315278.1	f2da923d6eaccfc0543e3c4e37bf7490	821	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455642.1	f8b206c7edbf5766c78a51eda718b8ac	834	MobiDBLite	mobidb-lite	consensus disorder prediction	776	803	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455642.1	f8b206c7edbf5766c78a51eda718b8ac	834	Pfam	PF07810	TMC domain	534	648	2.2E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011455642.1	f8b206c7edbf5766c78a51eda718b8ac	834	PANTHER	PTHR23302:SF43		161	790	5.3E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455642.1	f8b206c7edbf5766c78a51eda718b8ac	834	PANTHER	PTHR23302		161	790	5.3E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455641.1	f8b206c7edbf5766c78a51eda718b8ac	834	MobiDBLite	mobidb-lite	consensus disorder prediction	776	803	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455641.1	f8b206c7edbf5766c78a51eda718b8ac	834	Pfam	PF07810	TMC domain	534	648	2.2E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011455641.1	f8b206c7edbf5766c78a51eda718b8ac	834	PANTHER	PTHR23302:SF43		161	790	5.3E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455641.1	f8b206c7edbf5766c78a51eda718b8ac	834	PANTHER	PTHR23302		161	790	5.3E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920540.1	6ee165f50887e4584cd2a4812d2e6ac5	849	MobiDBLite	mobidb-lite	consensus disorder prediction	48	80	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920540.1	6ee165f50887e4584cd2a4812d2e6ac5	849	Pfam	PF07810	TMC domain	511	621	2.3E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920540.1	6ee165f50887e4584cd2a4812d2e6ac5	849	MobiDBLite	mobidb-lite	consensus disorder prediction	745	836	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920540.1	6ee165f50887e4584cd2a4812d2e6ac5	849	PANTHER	PTHR23302		36	765	5.7E-190	T	30-10-2018
+Phoronis_australis_PAU|g16646.t1	bd427e7d4f8ad5a1ae3842f1c01fa4c7	914	MobiDBLite	mobidb-lite	consensus disorder prediction	802	830	-	T	30-10-2018
+Phoronis_australis_PAU|g16646.t1	bd427e7d4f8ad5a1ae3842f1c01fa4c7	914	Pfam	PF07810	TMC domain	517	622	1.5E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Phoronis_australis_PAU|g16646.t1	bd427e7d4f8ad5a1ae3842f1c01fa4c7	914	PANTHER	PTHR23302:SF43		150	778	3.3E-188	T	30-10-2018
+Phoronis_australis_PAU|g16646.t1	bd427e7d4f8ad5a1ae3842f1c01fa4c7	914	PANTHER	PTHR23302		150	778	3.3E-188	T	30-10-2018
+Phoronis_australis_PAU|g16646.t1	bd427e7d4f8ad5a1ae3842f1c01fa4c7	914	MobiDBLite	mobidb-lite	consensus disorder prediction	15	110	-	T	30-10-2018
+Phoronis_australis_PAU|g16646.t1	bd427e7d4f8ad5a1ae3842f1c01fa4c7	914	MobiDBLite	mobidb-lite	consensus disorder prediction	869	914	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314928.1	55f824302ec994a71819ff7924e4be15	851	Pfam	PF07810	TMC domain	506	616	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314928.1	55f824302ec994a71819ff7924e4be15	851	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314928.1	55f824302ec994a71819ff7924e4be15	851	MobiDBLite	mobidb-lite	consensus disorder prediction	794	815	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314928.1	55f824302ec994a71819ff7924e4be15	851	MobiDBLite	mobidb-lite	consensus disorder prediction	740	779	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314928.1	55f824302ec994a71819ff7924e4be15	851	PANTHER	PTHR23302		44	773	1.5E-189	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352355.1	ba612909aa833b6def09f6a90f8ed99e	776	PANTHER	PTHR23302		94	726	1.2E-162	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352355.1	ba612909aa833b6def09f6a90f8ed99e	776	MobiDBLite	mobidb-lite	consensus disorder prediction	1	33	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352355.1	ba612909aa833b6def09f6a90f8ed99e	776	MobiDBLite	mobidb-lite	consensus disorder prediction	704	776	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352355.1	ba612909aa833b6def09f6a90f8ed99e	776	Pfam	PF07810	TMC domain	466	576	9.8E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_025831-T1	3b6735c95d74d6926997c735961200eb	516	Pfam	PF07810	TMC domain	250	358	2.5E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_025831-T1	3b6735c95d74d6926997c735961200eb	516	MobiDBLite	mobidb-lite	consensus disorder prediction	481	500	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025831-T1	3b6735c95d74d6926997c735961200eb	516	PANTHER	PTHR23302		80	205	1.1E-102	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025831-T1	3b6735c95d74d6926997c735961200eb	516	PANTHER	PTHR23302		240	475	1.1E-102	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359862.1	318ef929645e409d3e73dff07feadba8	823	PANTHER	PTHR23302:SF24		1	806	2.2E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359862.1	318ef929645e409d3e73dff07feadba8	823	MobiDBLite	mobidb-lite	consensus disorder prediction	1	136	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359862.1	318ef929645e409d3e73dff07feadba8	823	Coils	Coil		112	132	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359862.1	318ef929645e409d3e73dff07feadba8	823	Pfam	PF07810	TMC domain	564	675	1.0E-33	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359862.1	318ef929645e409d3e73dff07feadba8	823	PANTHER	PTHR23302		1	806	2.2E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352357.1	775a343c8e25dda02ed5cb8a01473d52	772	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352357.1	775a343c8e25dda02ed5cb8a01473d52	772	PANTHER	PTHR23302		6	722	1.2E-167	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352357.1	775a343c8e25dda02ed5cb8a01473d52	772	Pfam	PF07810	TMC domain	462	572	9.7E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021352357.1	775a343c8e25dda02ed5cb8a01473d52	772	MobiDBLite	mobidb-lite	consensus disorder prediction	700	772	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352358.1	775a343c8e25dda02ed5cb8a01473d52	772	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352358.1	775a343c8e25dda02ed5cb8a01473d52	772	PANTHER	PTHR23302		6	722	1.2E-167	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352358.1	775a343c8e25dda02ed5cb8a01473d52	772	Pfam	PF07810	TMC domain	462	572	9.7E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021352358.1	775a343c8e25dda02ed5cb8a01473d52	772	MobiDBLite	mobidb-lite	consensus disorder prediction	700	772	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352356.1	775a343c8e25dda02ed5cb8a01473d52	772	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352356.1	775a343c8e25dda02ed5cb8a01473d52	772	PANTHER	PTHR23302		6	722	1.2E-167	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352356.1	775a343c8e25dda02ed5cb8a01473d52	772	Pfam	PF07810	TMC domain	462	572	9.7E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021352356.1	775a343c8e25dda02ed5cb8a01473d52	772	MobiDBLite	mobidb-lite	consensus disorder prediction	700	772	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419675.1	9b9f226e5caaab8a99a4ceca387bcad9	855	MobiDBLite	mobidb-lite	consensus disorder prediction	48	80	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419675.1	9b9f226e5caaab8a99a4ceca387bcad9	855	MobiDBLite	mobidb-lite	consensus disorder prediction	741	769	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419675.1	9b9f226e5caaab8a99a4ceca387bcad9	855	PANTHER	PTHR23302		36	781	3.1E-189	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011419675.1	9b9f226e5caaab8a99a4ceca387bcad9	855	Pfam	PF07810	TMC domain	507	617	2.3E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Aplysia_californica_ACA|XP_012937611.1	95233567aef9d9892198f851f30e9009	754	PANTHER	PTHR23302		125	735	2.2E-137	T	30-10-2018
+Aplysia_californica_ACA|XP_012937611.1	95233567aef9d9892198f851f30e9009	754	MobiDBLite	mobidb-lite	consensus disorder prediction	65	92	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012937611.1	95233567aef9d9892198f851f30e9009	754	Pfam	PF07810	TMC domain	509	616	1.8E-25	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T06384	efabbb55154760c237c0dacd39eca5bb	878	Pfam	PF07810	TMC domain	533	643	1.2E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T06384	efabbb55154760c237c0dacd39eca5bb	878	MobiDBLite	mobidb-lite	consensus disorder prediction	21	50	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T06384	efabbb55154760c237c0dacd39eca5bb	878	PANTHER	PTHR23302		74	791	6.5E-168	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T06384	efabbb55154760c237c0dacd39eca5bb	878	MobiDBLite	mobidb-lite	consensus disorder prediction	771	878	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T06384	efabbb55154760c237c0dacd39eca5bb	878	MobiDBLite	mobidb-lite	consensus disorder prediction	75	94	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015468-T1	034fe3caeac915d6e99927efbbefc9a4	279	PANTHER	PTHR23302:SF45		1	279	3.4E-68	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015468-T1	034fe3caeac915d6e99927efbbefc9a4	279	Pfam	PF07810	TMC domain	247	279	1.0E-8	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_015468-T1	034fe3caeac915d6e99927efbbefc9a4	279	PANTHER	PTHR23302		1	279	3.4E-68	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784341.1	da25add47405a82afc419eb97c022a74	624	PANTHER	PTHR23302		2	619	4.0E-150	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784341.1	da25add47405a82afc419eb97c022a74	624	PANTHER	PTHR23302:SF24		2	619	4.0E-150	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784341.1	da25add47405a82afc419eb97c022a74	624	Pfam	PF07810	TMC domain	356	494	3.0E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019930789.1	34d6ef987f11baeb540129e6d328e072	824	Pfam	PF07810	TMC domain	534	648	2.2E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019930789.1	34d6ef987f11baeb540129e6d328e072	824	PANTHER	PTHR23302:SF43		161	786	5.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930789.1	34d6ef987f11baeb540129e6d328e072	824	PANTHER	PTHR23302		161	786	5.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455646.1	34d6ef987f11baeb540129e6d328e072	824	Pfam	PF07810	TMC domain	534	648	2.2E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011455646.1	34d6ef987f11baeb540129e6d328e072	824	PANTHER	PTHR23302:SF43		161	786	5.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455646.1	34d6ef987f11baeb540129e6d328e072	824	PANTHER	PTHR23302		161	786	5.6E-196	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013068389.1	017d13db418ffe19851cbb2a2118d4e8	356	Pfam	PF07810	TMC domain	122	232	1.6E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013068389.1	017d13db418ffe19851cbb2a2118d4e8	356	PANTHER	PTHR23302		2	340	1.1E-91	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359890.1	0569d903b456d14c39a79d221afaa7c2	756	Pfam	PF07810	TMC domain	508	619	6.1E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359890.1	0569d903b456d14c39a79d221afaa7c2	756	PANTHER	PTHR23302		54	745	4.9E-170	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359890.1	0569d903b456d14c39a79d221afaa7c2	756	PANTHER	PTHR23302:SF24		54	745	4.9E-170	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083768.1	a91f565e14dc583d93cd5d317732c08f	781	Pfam	PF07810	TMC domain	494	599	1.0E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013083768.1	a91f565e14dc583d93cd5d317732c08f	781	PANTHER	PTHR23302		170	723	6.4E-159	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083768.1	a91f565e14dc583d93cd5d317732c08f	781	PANTHER	PTHR23302:SF43		170	723	6.4E-159	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901523.1	5bc6ff615ad23e806c8cdbabb7a91796	751	MobiDBLite	mobidb-lite	consensus disorder prediction	1	79	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901523.1	5bc6ff615ad23e806c8cdbabb7a91796	751	Pfam	PF07810	TMC domain	487	593	3.1E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Exaiptasia_pallida_EPA|XP_020901523.1	5bc6ff615ad23e806c8cdbabb7a91796	751	PANTHER	PTHR23302:SF24		39	731	3.3E-193	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901523.1	5bc6ff615ad23e806c8cdbabb7a91796	751	MobiDBLite	mobidb-lite	consensus disorder prediction	722	751	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901523.1	5bc6ff615ad23e806c8cdbabb7a91796	751	PANTHER	PTHR23302		39	731	3.3E-193	T	30-10-2018
+Aplysia_californica_ACA|XP_012946248.1	5f0f75dd1d813966288b601fe7f04aaa	229	PANTHER	PTHR23302		133	186	1.3E-46	T	30-10-2018
+Aplysia_californica_ACA|XP_012946248.1	5f0f75dd1d813966288b601fe7f04aaa	229	PANTHER	PTHR23302		12	133	1.3E-46	T	30-10-2018
+Aplysia_californica_ACA|XP_012946248.1	5f0f75dd1d813966288b601fe7f04aaa	229	Pfam	PF07810	TMC domain	100	135	1.5E-10	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g31305.t1	d3430c80aa1fee6e47fee66f123dd2b0	767	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g31305.t1	d3430c80aa1fee6e47fee66f123dd2b0	767	Pfam	PF07810	TMC domain	492	598	5.8E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g31305.t1	d3430c80aa1fee6e47fee66f123dd2b0	767	PANTHER	PTHR23302		136	725	1.7E-187	T	30-10-2018
+Notospermus_geniculatus_NGE|g31305.t1	d3430c80aa1fee6e47fee66f123dd2b0	767	PANTHER	PTHR23302:SF43		136	725	1.7E-187	T	30-10-2018
+Notospermus_geniculatus_NGE|g31305.t1	d3430c80aa1fee6e47fee66f123dd2b0	767	MobiDBLite	mobidb-lite	consensus disorder prediction	738	767	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g31305.t1	d3430c80aa1fee6e47fee66f123dd2b0	767	MobiDBLite	mobidb-lite	consensus disorder prediction	60	94	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015481-T1	783781881f0521696106850cb3b5ee8b	464	PANTHER	PTHR23302		89	447	2.2E-56	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015481-T1	783781881f0521696106850cb3b5ee8b	464	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314927.1	8a8c744746d69e96f324b34010c671d1	857	MobiDBLite	mobidb-lite	consensus disorder prediction	91	117	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314927.1	8a8c744746d69e96f324b34010c671d1	857	PANTHER	PTHR23302		69	784	5.1E-187	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314927.1	8a8c744746d69e96f324b34010c671d1	857	MobiDBLite	mobidb-lite	consensus disorder prediction	756	822	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314927.1	8a8c744746d69e96f324b34010c671d1	857	Pfam	PF07810	TMC domain	522	632	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Exaiptasia_pallida_EPA|XP_020894657.1	4a64c8aa9aa9c74d8964ecf7e9640e44	670	Pfam	PF07810	TMC domain	531	642	5.5E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Exaiptasia_pallida_EPA|XP_020894657.1	4a64c8aa9aa9c74d8964ecf7e9640e44	670	PANTHER	PTHR23302:SF24		11	669	2.6E-145	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020894657.1	4a64c8aa9aa9c74d8964ecf7e9640e44	670	PANTHER	PTHR23302		11	669	2.6E-145	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359888.1	142b76301282004dae2d52bd4c6af5d5	1016	Pfam	PF07810	TMC domain	768	879	9.3E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359888.1	142b76301282004dae2d52bd4c6af5d5	1016	MobiDBLite	mobidb-lite	consensus disorder prediction	116	192	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359888.1	142b76301282004dae2d52bd4c6af5d5	1016	PANTHER	PTHR23302		121	1005	8.3E-176	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359888.1	142b76301282004dae2d52bd4c6af5d5	1016	MobiDBLite	mobidb-lite	consensus disorder prediction	1	53	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359888.1	142b76301282004dae2d52bd4c6af5d5	1016	PANTHER	PTHR23302:SF24		121	1005	8.3E-176	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083773.1	b4db392b8f888dee73c6eb072e921c5b	637	Pfam	PF07810	TMC domain	504	594	8.0E-31	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013083773.1	b4db392b8f888dee73c6eb072e921c5b	637	PANTHER	PTHR23302:SF43		170	592	4.4E-123	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083773.1	b4db392b8f888dee73c6eb072e921c5b	637	PANTHER	PTHR23302		170	592	4.4E-123	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315279.1	fa79ad18c4ffd2425027ee9afba1c177	801	PANTHER	PTHR23302		21	723	3.1E-188	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315279.1	fa79ad18c4ffd2425027ee9afba1c177	801	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315279.1	fa79ad18c4ffd2425027ee9afba1c177	801	MobiDBLite	mobidb-lite	consensus disorder prediction	690	730	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315279.1	fa79ad18c4ffd2425027ee9afba1c177	801	MobiDBLite	mobidb-lite	consensus disorder prediction	744	767	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315279.1	fa79ad18c4ffd2425027ee9afba1c177	801	Pfam	PF07810	TMC domain	456	566	1.8E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_037331-T1	53fd8c6eaf0faf7c8d08febc8747c67b	510	Pfam	PF07810	TMC domain	478	509	9.0E-8	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_037331-T1	53fd8c6eaf0faf7c8d08febc8747c67b	510	PANTHER	PTHR23302		52	509	8.4E-84	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037331-T1	53fd8c6eaf0faf7c8d08febc8747c67b	510	MobiDBLite	mobidb-lite	consensus disorder prediction	84	110	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013408571.1	fc40bf4255744dd5d9cfac20d3cc00c1	1167	PANTHER	PTHR23302:SF43		159	787	2.5E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_013408571.1	fc40bf4255744dd5d9cfac20d3cc00c1	1167	PANTHER	PTHR23302		159	787	2.5E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_013408571.1	fc40bf4255744dd5d9cfac20d3cc00c1	1167	Pfam	PF07810	TMC domain	532	638	9.1E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013408571.1	fc40bf4255744dd5d9cfac20d3cc00c1	1167	MobiDBLite	mobidb-lite	consensus disorder prediction	38	72	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013408571.1	fc40bf4255744dd5d9cfac20d3cc00c1	1167	MobiDBLite	mobidb-lite	consensus disorder prediction	779	1167	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013086253.1	1cee31fc20fd21f0940a0928a500e6fb	636	PANTHER	PTHR23302:SF24		11	632	9.6E-146	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013086253.1	1cee31fc20fd21f0940a0928a500e6fb	636	Pfam	PF07810	TMC domain	390	502	4.7E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013086253.1	1cee31fc20fd21f0940a0928a500e6fb	636	PANTHER	PTHR23302		11	632	9.6E-146	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314931.1	72ebdd2f36a0671e7324012159493eae	821	Pfam	PF07810	TMC domain	542	652	1.9E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314931.1	72ebdd2f36a0671e7324012159493eae	821	MobiDBLite	mobidb-lite	consensus disorder prediction	91	112	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314931.1	72ebdd2f36a0671e7324012159493eae	821	PANTHER	PTHR23302		66	802	2.2E-187	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314931.1	72ebdd2f36a0671e7324012159493eae	821	MobiDBLite	mobidb-lite	consensus disorder prediction	776	821	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314932.1	72ebdd2f36a0671e7324012159493eae	821	Pfam	PF07810	TMC domain	542	652	1.9E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314932.1	72ebdd2f36a0671e7324012159493eae	821	MobiDBLite	mobidb-lite	consensus disorder prediction	91	112	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314932.1	72ebdd2f36a0671e7324012159493eae	821	PANTHER	PTHR23302		66	802	2.2E-187	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314932.1	72ebdd2f36a0671e7324012159493eae	821	MobiDBLite	mobidb-lite	consensus disorder prediction	776	821	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455648.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	MobiDBLite	mobidb-lite	consensus disorder prediction	776	812	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455648.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	PANTHER	PTHR23302		161	789	2.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455648.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	PANTHER	PTHR23302:SF43		161	789	2.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455648.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	Pfam	PF07810	TMC domain	534	648	2.1E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011455649.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	MobiDBLite	mobidb-lite	consensus disorder prediction	776	812	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455649.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	PANTHER	PTHR23302		161	789	2.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455649.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	PANTHER	PTHR23302:SF43		161	789	2.6E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011455649.1	bc166c9800129b5f9c5d9cd4f94eb86e	812	Pfam	PF07810	TMC domain	534	648	2.1E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_58871-0.3	b065aecd4f999f25c1c3b84e72f60912	584	PANTHER	PTHR23302		1	564	5.3E-139	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_58871-0.3	b065aecd4f999f25c1c3b84e72f60912	584	Pfam	PF07810	TMC domain	328	439	1.0E-31	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_58871-0.3	b065aecd4f999f25c1c3b84e72f60912	584	PANTHER	PTHR23302:SF24		1	564	5.3E-139	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_58871-0.3	b065aecd4f999f25c1c3b84e72f60912	584	MobiDBLite	mobidb-lite	consensus disorder prediction	561	584	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037332-T1	75fc28a91eb7f6ce005807bf2e8a1b16	157	PANTHER	PTHR23302		10	154	3.3E-25	T	30-10-2018
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	Pfam	PF07810	TMC domain	708	820	9.7E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	MobiDBLite	mobidb-lite	consensus disorder prediction	1	125	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	PANTHER	PTHR23302:SF24		145	948	4.9E-158	T	30-10-2018
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	MobiDBLite	mobidb-lite	consensus disorder prediction	163	189	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	Coils	Coil		530	550	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	MobiDBLite	mobidb-lite	consensus disorder prediction	212	253	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005112282.2	99abb723528493c5f6b6c2137071cc81	958	PANTHER	PTHR23302		145	948	4.9E-158	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315275.1	5e852596be291c8e696d965e80cadc80	861	Pfam	PF07810	TMC domain	516	626	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315275.1	5e852596be291c8e696d965e80cadc80	861	MobiDBLite	mobidb-lite	consensus disorder prediction	39	58	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315275.1	5e852596be291c8e696d965e80cadc80	861	MobiDBLite	mobidb-lite	consensus disorder prediction	804	827	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315275.1	5e852596be291c8e696d965e80cadc80	861	MobiDBLite	mobidb-lite	consensus disorder prediction	750	790	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315275.1	5e852596be291c8e696d965e80cadc80	861	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315275.1	5e852596be291c8e696d965e80cadc80	861	PANTHER	PTHR23302		32	783	1.4E-190	T	30-10-2018
+Diphania_pulex_DPU|EFX72096.1	86991a3beb8788eede7bfa8f8aaabd2a	597	PANTHER	PTHR23302:SF24		5	594	1.4E-180	T	30-10-2018
+Diphania_pulex_DPU|EFX72096.1	86991a3beb8788eede7bfa8f8aaabd2a	597	PANTHER	PTHR23302		5	594	1.4E-180	T	30-10-2018
+Diphania_pulex_DPU|EFX72096.1	86991a3beb8788eede7bfa8f8aaabd2a	597	Pfam	PF07810	TMC domain	358	470	4.8E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019925393.1	b4a7669d59c03346d674c1d7c8f4c3a0	696	PANTHER	PTHR23302		51	678	4.8E-141	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019925393.1	b4a7669d59c03346d674c1d7c8f4c3a0	696	Pfam	PF07810	TMC domain	486	594	7.0E-31	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019925393.1	b4a7669d59c03346d674c1d7c8f4c3a0	696	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014769774.1	45dfe72b94078a50538847beb0c134d6	702	Pfam	PF07810	TMC domain	462	567	9.8E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Octopus_bimaculoides_OBI|XP_014769774.1	45dfe72b94078a50538847beb0c134d6	702	PANTHER	PTHR23302		55	693	1.2E-152	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438143.1	d32d47c5aed5141261df7b14433749b8	969	PANTHER	PTHR23302:SF24		56	964	6.1E-163	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438143.1	d32d47c5aed5141261df7b14433749b8	969	PANTHER	PTHR23302		56	964	6.1E-163	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438143.1	d32d47c5aed5141261df7b14433749b8	969	MobiDBLite	mobidb-lite	consensus disorder prediction	1	221	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438143.1	d32d47c5aed5141261df7b14433749b8	969	MobiDBLite	mobidb-lite	consensus disorder prediction	233	300	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438143.1	d32d47c5aed5141261df7b14433749b8	969	Coils	Coil		968	969	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438143.1	d32d47c5aed5141261df7b14433749b8	969	Pfam	PF07810	TMC domain	723	835	4.5E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013083767.1	9ee3428ea33cb6d0ae12865527d22974	791	PANTHER	PTHR23302		170	733	1.1E-160	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083767.1	9ee3428ea33cb6d0ae12865527d22974	791	Pfam	PF07810	TMC domain	504	609	1.0E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Biomphalaria_glabrata_BGL|XP_013083767.1	9ee3428ea33cb6d0ae12865527d22974	791	PANTHER	PTHR23302:SF43		170	733	1.1E-160	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_24335-1.23	fa73ac88816f53c78f4e996fb57f9fe1	639	PANTHER	PTHR23302		11	625	4.3E-163	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_24335-1.23	fa73ac88816f53c78f4e996fb57f9fe1	639	PANTHER	PTHR23302:SF24		11	625	4.3E-163	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_24335-1.23	fa73ac88816f53c78f4e996fb57f9fe1	639	Pfam	PF07810	TMC domain	385	496	2.1E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_015465-T1	e03b351bb7e3276fa61677e71402d7a6	122	PANTHER	PTHR23302		1	84	2.1E-21	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015465-T1	e03b351bb7e3276fa61677e71402d7a6	122	MobiDBLite	mobidb-lite	consensus disorder prediction	100	122	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020912687.1	65f6cdf68b81860bda38d7e44559aaa7	757	Coils	Coil		354	374	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020912687.1	65f6cdf68b81860bda38d7e44559aaa7	757	PANTHER	PTHR23302		41	745	5.2E-165	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020912687.1	65f6cdf68b81860bda38d7e44559aaa7	757	Pfam	PF07810	TMC domain	512	619	1.0E-31	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Exaiptasia_pallida_EPA|XP_020912687.1	65f6cdf68b81860bda38d7e44559aaa7	757	PANTHER	PTHR23302:SF24		41	745	5.2E-165	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920542.1	b8f257508f0d923facb7df0f814f2c5e	809	Pfam	PF07810	TMC domain	461	571	2.1E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920542.1	b8f257508f0d923facb7df0f814f2c5e	809	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920542.1	b8f257508f0d923facb7df0f814f2c5e	809	MobiDBLite	mobidb-lite	consensus disorder prediction	695	723	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920542.1	b8f257508f0d923facb7df0f814f2c5e	809	PANTHER	PTHR23302		15	735	4.1E-188	T	30-10-2018
+Lingula_anatina_LAN|XP_013388939.1	dcc1417d01aedfa8fac499b2ea0e3366	803	PANTHER	PTHR23302		85	776	9.1E-192	T	30-10-2018
+Lingula_anatina_LAN|XP_013388939.1	dcc1417d01aedfa8fac499b2ea0e3366	803	MobiDBLite	mobidb-lite	consensus disorder prediction	63	85	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388939.1	dcc1417d01aedfa8fac499b2ea0e3366	803	Pfam	PF07810	TMC domain	529	639	1.0E-41	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013388939.1	dcc1417d01aedfa8fac499b2ea0e3366	803	Coils	Coil		727	747	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380167.1	5adb28aa6ed5e9a3af151eb961abbfc3	839	PANTHER	PTHR23302		28	822	3.5E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013380167.1	5adb28aa6ed5e9a3af151eb961abbfc3	839	PANTHER	PTHR23302:SF24		28	822	3.5E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013380167.1	5adb28aa6ed5e9a3af151eb961abbfc3	839	MobiDBLite	mobidb-lite	consensus disorder prediction	1	46	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380167.1	5adb28aa6ed5e9a3af151eb961abbfc3	839	Coils	Coil		427	451	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380167.1	5adb28aa6ed5e9a3af151eb961abbfc3	839	MobiDBLite	mobidb-lite	consensus disorder prediction	68	106	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013380167.1	5adb28aa6ed5e9a3af151eb961abbfc3	839	Pfam	PF07810	TMC domain	584	695	3.5E-45	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_034784-T1	f5a00dce2ce63256030cf1dabf818205	232	Pfam	PF07810	TMC domain	1	97	1.9E-26	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_034784-T1	f5a00dce2ce63256030cf1dabf818205	232	PANTHER	PTHR23302		1	223	8.0E-59	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920541.1	06bf048627a6bf00e8e5b84e60b410e8	849	Pfam	PF07810	TMC domain	501	611	2.3E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920541.1	06bf048627a6bf00e8e5b84e60b410e8	849	MobiDBLite	mobidb-lite	consensus disorder prediction	735	763	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920541.1	06bf048627a6bf00e8e5b84e60b410e8	849	PANTHER	PTHR23302		13	775	3.2E-190	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920541.1	06bf048627a6bf00e8e5b84e60b410e8	849	MobiDBLite	mobidb-lite	consensus disorder prediction	1	70	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54995.1	7b24bbc64d381a2da7dfc24617742f15	617	MobiDBLite	mobidb-lite	consensus disorder prediction	574	617	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54995.1	7b24bbc64d381a2da7dfc24617742f15	617	PANTHER	PTHR23302		2	573	1.1E-130	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54995.1	7b24bbc64d381a2da7dfc24617742f15	617	Pfam	PF07810	TMC domain	344	454	5.5E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314930.1	4fc3389c8b51cd35ad51cf35287adf72	821	MobiDBLite	mobidb-lite	consensus disorder prediction	764	785	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314930.1	4fc3389c8b51cd35ad51cf35287adf72	821	Pfam	PF07810	TMC domain	476	586	1.9E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314930.1	4fc3389c8b51cd35ad51cf35287adf72	821	PANTHER	PTHR23302		21	743	9.8E-189	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314930.1	4fc3389c8b51cd35ad51cf35287adf72	821	MobiDBLite	mobidb-lite	consensus disorder prediction	710	749	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314930.1	4fc3389c8b51cd35ad51cf35287adf72	821	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009021985.1	8756d1f62a24d4bf4d2cce21ffed12dd	938	MobiDBLite	mobidb-lite	consensus disorder prediction	54	75	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009021985.1	8756d1f62a24d4bf4d2cce21ffed12dd	938	MobiDBLite	mobidb-lite	consensus disorder prediction	772	866	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009021985.1	8756d1f62a24d4bf4d2cce21ffed12dd	938	Pfam	PF07810	TMC domain	508	621	1.2E-20	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Helobdella_robusta_HRO|XP_009021985.1	8756d1f62a24d4bf4d2cce21ffed12dd	938	PANTHER	PTHR23302		68	815	2.8E-77	T	30-10-2018
+Helobdella_robusta_HRO|XP_009021985.1	8756d1f62a24d4bf4d2cce21ffed12dd	938	MobiDBLite	mobidb-lite	consensus disorder prediction	884	938	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388945.1	a66cc0681853d50266900f53e8641517	747	PANTHER	PTHR23302		57	720	2.4E-191	T	30-10-2018
+Lingula_anatina_LAN|XP_013388945.1	a66cc0681853d50266900f53e8641517	747	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013388945.1	a66cc0681853d50266900f53e8641517	747	Pfam	PF07810	TMC domain	473	583	9.4E-42	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013388945.1	a66cc0681853d50266900f53e8641517	747	Coils	Coil		671	691	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67296-0.9	6ad48d5024a563017134a448ac7a30f7	456	PANTHER	PTHR23302		137	444	1.0E-87	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67296-0.9	6ad48d5024a563017134a448ac7a30f7	456	PANTHER	PTHR23302:SF43		137	444	1.0E-87	T	30-10-2018
+Capitella_teleta_CTE|ELU09265.1	2c588827385fccdd550e9f8b4e2c4ec4	395	PANTHER	PTHR23302		59	340	3.2E-59	T	30-10-2018
+Capitella_teleta_CTE|ELU09265.1	2c588827385fccdd550e9f8b4e2c4ec4	395	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	30-10-2018
+Capitella_teleta_CTE|ELU09265.1	2c588827385fccdd550e9f8b4e2c4ec4	395	Coils	Coil		269	289	-	T	30-10-2018
+Capitella_teleta_CTE|ELU03455.1	c0044129921d4fa5d5f3b049e83ce2e1	335	PANTHER	PTHR23302:SF43		10	334	1.9E-110	T	30-10-2018
+Capitella_teleta_CTE|ELU03455.1	c0044129921d4fa5d5f3b049e83ce2e1	335	PANTHER	PTHR23302		10	334	1.9E-110	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013092420.1	a12b5398bc3bc3ea998b82897ecba0df	109	PANTHER	PTHR23302		4	99	3.9E-18	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013092420.1	a12b5398bc3bc3ea998b82897ecba0df	109	PANTHER	PTHR23302:SF24		4	99	3.9E-18	T	30-10-2018
+Notospermus_geniculatus_NGE|g7331.t1	147382388e3d83761e7b14a4e80d180d	841	MobiDBLite	mobidb-lite	consensus disorder prediction	1	94	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g7331.t1	147382388e3d83761e7b14a4e80d180d	841	PANTHER	PTHR23302:SF43		177	800	7.1E-189	T	30-10-2018
+Notospermus_geniculatus_NGE|g7331.t1	147382388e3d83761e7b14a4e80d180d	841	MobiDBLite	mobidb-lite	consensus disorder prediction	803	841	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g7331.t1	147382388e3d83761e7b14a4e80d180d	841	MobiDBLite	mobidb-lite	consensus disorder prediction	117	150	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g7331.t1	147382388e3d83761e7b14a4e80d180d	841	PANTHER	PTHR23302		177	800	7.1E-189	T	30-10-2018
+Notospermus_geniculatus_NGE|g7331.t1	147382388e3d83761e7b14a4e80d180d	841	Pfam	PF07810	TMC domain	566	672	1.6E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g27216.t1	1668428cdb7d046f1fdfe97752bacbaf	386	Pfam	PF07810	TMC domain	100	210	1.0E-41	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g27216.t1	1668428cdb7d046f1fdfe97752bacbaf	386	PANTHER	PTHR23302		16	348	1.2E-111	T	30-10-2018
+Notospermus_geniculatus_NGE|g27216.t1	1668428cdb7d046f1fdfe97752bacbaf	386	PANTHER	PTHR23302:SF24		16	348	1.2E-111	T	30-10-2018
+Notospermus_geniculatus_NGE|g27216.t1	1668428cdb7d046f1fdfe97752bacbaf	386	MobiDBLite	mobidb-lite	consensus disorder prediction	349	386	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_38709-0.8	64d47e84d9b6231e84c84fb80a27856f	758	MobiDBLite	mobidb-lite	consensus disorder prediction	32	70	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_38709-0.8	64d47e84d9b6231e84c84fb80a27856f	758	PANTHER	PTHR23302		81	757	1.2E-154	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_38709-0.8	64d47e84d9b6231e84c84fb80a27856f	758	Coils	Coil		82	102	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_38709-0.8	64d47e84d9b6231e84c84fb80a27856f	758	PANTHER	PTHR23302:SF24		81	757	1.2E-154	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_38709-0.8	64d47e84d9b6231e84c84fb80a27856f	758	Pfam	PF07810	TMC domain	557	667	1.6E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_025834-T1	3665669e89332f2c2610d7c954eead61	643	PANTHER	PTHR23302		9	620	1.2E-162	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025834-T1	3665669e89332f2c2610d7c954eead61	643	Pfam	PF07810	TMC domain	385	496	1.0E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359859.1	c10d0a00ad209fb1fdedd524f98cade6	835	MobiDBLite	mobidb-lite	consensus disorder prediction	1	148	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359859.1	c10d0a00ad209fb1fdedd524f98cade6	835	PANTHER	PTHR23302		21	818	6.9E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359859.1	c10d0a00ad209fb1fdedd524f98cade6	835	Coils	Coil		124	144	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359859.1	c10d0a00ad209fb1fdedd524f98cade6	835	PANTHER	PTHR23302:SF24		21	818	6.9E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359859.1	c10d0a00ad209fb1fdedd524f98cade6	835	Pfam	PF07810	TMC domain	576	687	1.0E-33	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Phoronis_australis_PAU|g3530.t1	faff3d50f52b81b297641fbf7b489870	791	Pfam	PF07810	TMC domain	550	660	5.7E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Phoronis_australis_PAU|g3530.t1	faff3d50f52b81b297641fbf7b489870	791	MobiDBLite	mobidb-lite	consensus disorder prediction	58	94	-	T	30-10-2018
+Phoronis_australis_PAU|g3530.t1	faff3d50f52b81b297641fbf7b489870	791	PANTHER	PTHR23302		46	785	2.2E-173	T	30-10-2018
+Phoronis_australis_PAU|g3530.t1	faff3d50f52b81b297641fbf7b489870	791	Coils	Coil		385	414	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083769.1	60153fdbd36f80765e7940c68a953a2d	768	PANTHER	PTHR23302:SF43		170	733	1.3E-160	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083769.1	60153fdbd36f80765e7940c68a953a2d	768	PANTHER	PTHR23302		170	733	1.3E-160	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083769.1	60153fdbd36f80765e7940c68a953a2d	768	Pfam	PF07810	TMC domain	504	609	9.9E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011438144.1	b695caf23c3c693ac6e489d836687d1f	836	MobiDBLite	mobidb-lite	consensus disorder prediction	1	88	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438144.1	b695caf23c3c693ac6e489d836687d1f	836	Pfam	PF07810	TMC domain	590	702	3.6E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_011438144.1	b695caf23c3c693ac6e489d836687d1f	836	MobiDBLite	mobidb-lite	consensus disorder prediction	100	167	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438144.1	b695caf23c3c693ac6e489d836687d1f	836	PANTHER	PTHR23302		130	831	1.8E-160	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438144.1	b695caf23c3c693ac6e489d836687d1f	836	PANTHER	PTHR23302:SF24		130	831	1.8E-160	T	30-10-2018
+Helobdella_robusta_HRO|XP_009024432.1	7e22ac0e09bc4b5effa23daf9805f551	650	Pfam	PF07810	TMC domain	415	520	1.4E-28	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Helobdella_robusta_HRO|XP_009024432.1	7e22ac0e09bc4b5effa23daf9805f551	650	PANTHER	PTHR23302		60	648	5.1E-100	T	30-10-2018
+Helobdella_robusta_HRO|XP_009024432.1	7e22ac0e09bc4b5effa23daf9805f551	650	Coils	Coil		625	650	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315273.1	935ad8d1dc3139812939fd874ded8671	866	Pfam	PF07810	TMC domain	521	631	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315273.1	935ad8d1dc3139812939fd874ded8671	866	MobiDBLite	mobidb-lite	consensus disorder prediction	755	795	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315273.1	935ad8d1dc3139812939fd874ded8671	866	MobiDBLite	mobidb-lite	consensus disorder prediction	33	56	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315273.1	935ad8d1dc3139812939fd874ded8671	866	MobiDBLite	mobidb-lite	consensus disorder prediction	73	117	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315273.1	935ad8d1dc3139812939fd874ded8671	866	PANTHER	PTHR23302		63	788	1.5E-187	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315273.1	935ad8d1dc3139812939fd874ded8671	866	MobiDBLite	mobidb-lite	consensus disorder prediction	809	832	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060053.1	0a61d06fc480b125cb643397b0712076	757	Pfam	PF07810	TMC domain	482	588	4.9E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lottia_gigantea_LGI|XP_009060053.1	0a61d06fc480b125cb643397b0712076	757	PANTHER	PTHR23302		118	735	9.7E-199	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060053.1	0a61d06fc480b125cb643397b0712076	757	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060053.1	0a61d06fc480b125cb643397b0712076	757	PANTHER	PTHR23302:SF43		118	735	9.7E-199	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359860.1	7dba20e4384851d9137c9bb1bb1763a6	828	MobiDBLite	mobidb-lite	consensus disorder prediction	1	148	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359860.1	7dba20e4384851d9137c9bb1bb1763a6	828	PANTHER	PTHR23302:SF24		21	811	2.0E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359860.1	7dba20e4384851d9137c9bb1bb1763a6	828	Coils	Coil		124	144	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359860.1	7dba20e4384851d9137c9bb1bb1763a6	828	Pfam	PF07810	TMC domain	569	680	1.0E-33	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359860.1	7dba20e4384851d9137c9bb1bb1763a6	828	PANTHER	PTHR23302		21	811	2.0E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359863.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	Pfam	PF07810	TMC domain	546	657	9.7E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359863.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	Coils	Coil		94	114	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359863.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	PANTHER	PTHR23302:SF24		40	788	1.2E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359863.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	PANTHER	PTHR23302		40	788	1.2E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359863.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	MobiDBLite	mobidb-lite	consensus disorder prediction	1	118	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359864.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	Pfam	PF07810	TMC domain	546	657	9.7E-34	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359864.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	Coils	Coil		94	114	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359864.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	PANTHER	PTHR23302:SF24		40	788	1.2E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359864.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	PANTHER	PTHR23302		40	788	1.2E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359864.1	3498e2df8a8ba69bcfb8e984afb6b5ef	805	MobiDBLite	mobidb-lite	consensus disorder prediction	1	118	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790623.1	19425bec51f4e9aae7fa55e882c00a05	685	MobiDBLite	mobidb-lite	consensus disorder prediction	658	685	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790623.1	19425bec51f4e9aae7fa55e882c00a05	685	Pfam	PF07810	TMC domain	430	537	2.4E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Octopus_bimaculoides_OBI|XP_014790623.1	19425bec51f4e9aae7fa55e882c00a05	685	PANTHER	PTHR23302		42	666	1.9E-162	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359889.1	5f3dd604c300fc278776e34f4656e5eb	809	Pfam	PF07810	TMC domain	561	672	6.7E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359889.1	5f3dd604c300fc278776e34f4656e5eb	809	PANTHER	PTHR23302		103	798	1.7E-170	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359889.1	5f3dd604c300fc278776e34f4656e5eb	809	PANTHER	PTHR23302:SF24		103	798	1.7E-170	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	PANTHER	PTHR23302		127	784	2.1E-169	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	MobiDBLite	mobidb-lite	consensus disorder prediction	1	89	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	MobiDBLite	mobidb-lite	consensus disorder prediction	769	862	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	Coils	Coil		362	382	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	Pfam	PF07810	TMC domain	536	638	1.1E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	MobiDBLite	mobidb-lite	consensus disorder prediction	505	528	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005369-T1	4e2ce9e9956e89eee6fe5b4ba58cd05c	862	PANTHER	PTHR23302:SF43		127	784	2.1E-169	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316480.1	95e6bd7dcfb1c709f901a22475bd73c9	789	PANTHER	PTHR23302		133	781	1.6E-150	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316480.1	95e6bd7dcfb1c709f901a22475bd73c9	789	PANTHER	PTHR23302:SF24		133	781	1.6E-150	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316480.1	95e6bd7dcfb1c709f901a22475bd73c9	789	Pfam	PF07810	TMC domain	542	654	1.9E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359861.1	1f7cb31a3528086566f6a24c213cd326	824	Pfam	PF07810	TMC domain	565	676	1.0E-33	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Mizuhopecten_yessoensis_MYE|XP_021359861.1	1f7cb31a3528086566f6a24c213cd326	824	MobiDBLite	mobidb-lite	consensus disorder prediction	1	148	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359861.1	1f7cb31a3528086566f6a24c213cd326	824	PANTHER	PTHR23302		22	807	7.8E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359861.1	1f7cb31a3528086566f6a24c213cd326	824	Coils	Coil		124	144	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021359861.1	1f7cb31a3528086566f6a24c213cd326	824	PANTHER	PTHR23302:SF24		22	807	7.8E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920543.1	f4f7d83ee83bfb9de2f6fdfbe8701974	805	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920543.1	f4f7d83ee83bfb9de2f6fdfbe8701974	805	MobiDBLite	mobidb-lite	consensus disorder prediction	691	719	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920543.1	f4f7d83ee83bfb9de2f6fdfbe8701974	805	Pfam	PF07810	TMC domain	457	567	2.1E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920543.1	f4f7d83ee83bfb9de2f6fdfbe8701974	805	PANTHER	PTHR23302		15	731	1.7E-187	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_47260-0.12	a672e54c068bbc676034b3a85553a770	104	PANTHER	PTHR23302		18	93	1.2E-22	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_47260-0.12	a672e54c068bbc676034b3a85553a770	104	PANTHER	PTHR23302:SF45		18	93	1.2E-22	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930787.1	b3aaaa3c7a80782311cb08ec134b3cc8	830	MobiDBLite	mobidb-lite	consensus disorder prediction	772	799	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930787.1	b3aaaa3c7a80782311cb08ec134b3cc8	830	PANTHER	PTHR23302:SF43		161	786	7.0E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930787.1	b3aaaa3c7a80782311cb08ec134b3cc8	830	Pfam	PF07810	TMC domain	530	644	2.2E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019930787.1	b3aaaa3c7a80782311cb08ec134b3cc8	830	PANTHER	PTHR23302		161	786	7.0E-196	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024501-T1	c18773b8f1283c20a986b4991c8072a2	556	PANTHER	PTHR23302		510	533	3.8E-102	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024501-T1	c18773b8f1283c20a986b4991c8072a2	556	PANTHER	PTHR23302		43	511	3.8E-102	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_024501-T1	c18773b8f1283c20a986b4991c8072a2	556	Pfam	PF07810	TMC domain	474	512	8.4E-12	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_24335-1.19	b73347a15cf4e558d5d41d4784436274	300	PANTHER	PTHR23302		117	236	5.7E-20	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930788.1	5e6720f26b2492453d8f0a6779406d32	830	MobiDBLite	mobidb-lite	consensus disorder prediction	772	799	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930788.1	5e6720f26b2492453d8f0a6779406d32	830	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930788.1	5e6720f26b2492453d8f0a6779406d32	830	PANTHER	PTHR23302		157	786	5.2E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930788.1	5e6720f26b2492453d8f0a6779406d32	830	MobiDBLite	mobidb-lite	consensus disorder prediction	1	33	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930788.1	5e6720f26b2492453d8f0a6779406d32	830	PANTHER	PTHR23302:SF43		157	786	5.2E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019930788.1	5e6720f26b2492453d8f0a6779406d32	830	Pfam	PF07810	TMC domain	530	644	2.2E-38	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920544.1	65fa58b6aaa565d298f06ccd8bb0ccf8	793	MobiDBLite	mobidb-lite	consensus disorder prediction	48	80	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920544.1	65fa58b6aaa565d298f06ccd8bb0ccf8	793	Pfam	PF07810	TMC domain	511	621	2.0E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920544.1	65fa58b6aaa565d298f06ccd8bb0ccf8	793	MobiDBLite	mobidb-lite	consensus disorder prediction	744	793	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920544.1	65fa58b6aaa565d298f06ccd8bb0ccf8	793	PANTHER	PTHR23302		36	764	8.1E-189	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920545.1	430dab4e9074fa6e92cd80fea4ae99db	788	PANTHER	PTHR23302		36	764	8.7E-189	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920545.1	430dab4e9074fa6e92cd80fea4ae99db	788	MobiDBLite	mobidb-lite	consensus disorder prediction	48	80	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920545.1	430dab4e9074fa6e92cd80fea4ae99db	788	Pfam	PF07810	TMC domain	511	621	2.0E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_gigas_CGI|XP_019920545.1	430dab4e9074fa6e92cd80fea4ae99db	788	MobiDBLite	mobidb-lite	consensus disorder prediction	744	788	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314923.1	950ff7dde7135f0e7bb0f8436f239693	887	Pfam	PF07810	TMC domain	542	652	2.1E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314923.1	950ff7dde7135f0e7bb0f8436f239693	887	MobiDBLite	mobidb-lite	consensus disorder prediction	91	112	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314923.1	950ff7dde7135f0e7bb0f8436f239693	887	PANTHER	PTHR23302		66	809	2.8E-188	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314923.1	950ff7dde7135f0e7bb0f8436f239693	887	MobiDBLite	mobidb-lite	consensus disorder prediction	830	851	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314923.1	950ff7dde7135f0e7bb0f8436f239693	887	MobiDBLite	mobidb-lite	consensus disorder prediction	776	815	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013416782.1	bc734b0cb527a3b3878c611e722ba94e	311	MobiDBLite	mobidb-lite	consensus disorder prediction	47	68	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013416782.1	bc734b0cb527a3b3878c611e722ba94e	311	PANTHER	PTHR23302		68	310	1.7E-40	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315276.1	bbf19dcbf74442bc68c29c95c0b81ed7	859	PANTHER	PTHR23302		44	781	2.2E-190	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315276.1	bbf19dcbf74442bc68c29c95c0b81ed7	859	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315276.1	bbf19dcbf74442bc68c29c95c0b81ed7	859	MobiDBLite	mobidb-lite	consensus disorder prediction	802	825	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315276.1	bbf19dcbf74442bc68c29c95c0b81ed7	859	Pfam	PF07810	TMC domain	514	624	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315276.1	bbf19dcbf74442bc68c29c95c0b81ed7	859	MobiDBLite	mobidb-lite	consensus disorder prediction	748	788	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020156-T1	6ca6a24a44bab9a9993b17b86123d10f	146	PANTHER	PTHR23302		61	137	1.7E-20	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083772.1	267eb615b904048928ce4dda85b28add	767	PANTHER	PTHR23302		170	733	1.3E-160	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083772.1	267eb615b904048928ce4dda85b28add	767	PANTHER	PTHR23302:SF43		170	733	1.3E-160	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013083772.1	267eb615b904048928ce4dda85b28add	767	Pfam	PF07810	TMC domain	504	609	9.9E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF231.26.2	73febcc90deb2e03c88735c161474736	821	Pfam	PF07810	TMC domain	525	635	5.8E-36	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Chlamys_farreri_CFA|CF231.26.2	73febcc90deb2e03c88735c161474736	821	MobiDBLite	mobidb-lite	consensus disorder prediction	765	821	-	T	30-10-2018
+Chlamys_farreri_CFA|CF231.26.2	73febcc90deb2e03c88735c161474736	821	MobiDBLite	mobidb-lite	consensus disorder prediction	1	40	-	T	30-10-2018
+Chlamys_farreri_CFA|CF231.26.2	73febcc90deb2e03c88735c161474736	821	PANTHER	PTHR23302		63	784	1.7E-172	T	30-10-2018
+Chlamys_farreri_CFA|CF231.26.2	73febcc90deb2e03c88735c161474736	821	MobiDBLite	mobidb-lite	consensus disorder prediction	63	92	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315277.1	38e8a46faacbf5fb3392508a15ba045a	851	Pfam	PF07810	TMC domain	506	616	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022315277.1	38e8a46faacbf5fb3392508a15ba045a	851	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315277.1	38e8a46faacbf5fb3392508a15ba045a	851	PANTHER	PTHR23302		44	773	1.0E-189	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315277.1	38e8a46faacbf5fb3392508a15ba045a	851	MobiDBLite	mobidb-lite	consensus disorder prediction	740	780	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315277.1	38e8a46faacbf5fb3392508a15ba045a	851	MobiDBLite	mobidb-lite	consensus disorder prediction	794	817	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_558-6.6	9c958b28cdd749f2dc6826c1c748ab5f	842	MobiDBLite	mobidb-lite	consensus disorder prediction	1	57	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_558-6.6	9c958b28cdd749f2dc6826c1c748ab5f	842	MobiDBLite	mobidb-lite	consensus disorder prediction	672	714	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_558-6.6	9c958b28cdd749f2dc6826c1c748ab5f	842	PANTHER	PTHR23302		58	392	9.8E-153	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_558-6.6	9c958b28cdd749f2dc6826c1c748ab5f	842	PANTHER	PTHR23302		397	710	9.8E-153	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_558-6.6	9c958b28cdd749f2dc6826c1c748ab5f	842	MobiDBLite	mobidb-lite	consensus disorder prediction	728	842	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_558-6.6	9c958b28cdd749f2dc6826c1c748ab5f	842	Pfam	PF07810	TMC domain	441	551	5.4E-35	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lottia_gigantea_LGI|XP_009059925.1	500248825610b43e119b71b2a85d3997	588	PANTHER	PTHR23302		1	586	6.6E-169	T	30-10-2018
+Lottia_gigantea_LGI|XP_009059925.1	500248825610b43e119b71b2a85d3997	588	Pfam	PF07810	TMC domain	358	468	2.0E-41	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Exaiptasia_pallida_EPA|XP_020901434.1	761c1de41e11aa3f48ec8248d80f3a18	795	PANTHER	PTHR23302		75	782	9.0E-185	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901434.1	761c1de41e11aa3f48ec8248d80f3a18	795	Pfam	PF07810	TMC domain	549	658	4.1E-37	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_57616-2.25	490089813b3da2636ed1e404948402f4	816	MobiDBLite	mobidb-lite	consensus disorder prediction	158	177	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_57616-2.25	490089813b3da2636ed1e404948402f4	816	PANTHER	PTHR23302		145	764	9.6E-199	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_57616-2.25	490089813b3da2636ed1e404948402f4	816	PANTHER	PTHR23302:SF43		145	764	9.6E-199	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_57616-2.25	490089813b3da2636ed1e404948402f4	816	Pfam	PF07810	TMC domain	524	631	3.2E-39	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_57616-2.25	490089813b3da2636ed1e404948402f4	816	MobiDBLite	mobidb-lite	consensus disorder prediction	758	781	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314924.1	2b027b2ac0c698996c6136cb6b236df4	877	PANTHER	PTHR23302		66	804	2.6E-188	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314924.1	2b027b2ac0c698996c6136cb6b236df4	877	MobiDBLite	mobidb-lite	consensus disorder prediction	91	112	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314924.1	2b027b2ac0c698996c6136cb6b236df4	877	MobiDBLite	mobidb-lite	consensus disorder prediction	776	842	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314924.1	2b027b2ac0c698996c6136cb6b236df4	877	Pfam	PF07810	TMC domain	542	652	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lingula_anatina_LAN|XP_013416804.1	c9c19417b026fdf50b8ed3e9d50e8c5e	175	Coils	Coil		99	119	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013416804.1	c9c19417b026fdf50b8ed3e9d50e8c5e	175	PANTHER	PTHR23302		2	151	2.9E-44	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314933.1	2e99812c8ccbcad4a9c134d377d56462	801	MobiDBLite	mobidb-lite	consensus disorder prediction	744	765	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314933.1	2e99812c8ccbcad4a9c134d377d56462	801	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314933.1	2e99812c8ccbcad4a9c134d377d56462	801	MobiDBLite	mobidb-lite	consensus disorder prediction	690	729	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314933.1	2e99812c8ccbcad4a9c134d377d56462	801	PANTHER	PTHR23302		21	723	5.2E-188	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314933.1	2e99812c8ccbcad4a9c134d377d56462	801	Pfam	PF07810	TMC domain	456	566	1.8E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314925.1	fa3dbac015963930f13236ffaa79c57d	871	Pfam	PF07810	TMC domain	526	636	2.0E-40	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Crassostrea_virginica_CVI|XP_022314925.1	fa3dbac015963930f13236ffaa79c57d	871	PANTHER	PTHR23302		44	793	2.6E-190	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314925.1	fa3dbac015963930f13236ffaa79c57d	871	MobiDBLite	mobidb-lite	consensus disorder prediction	49	68	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314925.1	fa3dbac015963930f13236ffaa79c57d	871	MobiDBLite	mobidb-lite	consensus disorder prediction	760	799	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314925.1	fa3dbac015963930f13236ffaa79c57d	871	MobiDBLite	mobidb-lite	consensus disorder prediction	814	835	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA79895.1	3f60e44baf39b1e3150dc6a61decd2b6	634	PANTHER	PTHR23302		113	615	4.5E-121	T	30-10-2018
+Macrostomum_lignano_MLI|PAA79895.1	3f60e44baf39b1e3150dc6a61decd2b6	634	Pfam	PF07810	TMC domain	471	581	5.8E-32	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Lottia_gigantea_LGI|XP_009060054.1	6e28050435d9dacdca3da4fcb43689a0	610	PANTHER	PTHR23302:SF24		63	452	1.2E-99	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060054.1	6e28050435d9dacdca3da4fcb43689a0	610	PANTHER	PTHR23302		469	607	1.2E-99	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060054.1	6e28050435d9dacdca3da4fcb43689a0	610	PANTHER	PTHR23302		63	452	1.2E-99	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060054.1	6e28050435d9dacdca3da4fcb43689a0	610	PANTHER	PTHR23302:SF24		469	607	1.2E-99	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.001888.02	3e0f8444fe94869985e577e3c4d6b599	106	PANTHER	PTHR23302		2	104	9.6E-12	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025829-T1	729fd59349bd4abee33578c764f07bd1	807	Pfam	PF07810	TMC domain	483	593	1.5E-41	T	30-10-2018	IPR012496	TMC	GO:0016021	
+Notospermus_geniculatus_NGE|g34345.t1	31037b2900b1934815dd1fb17992cdad	236	PANTHER	PTHR23302		41	232	6.6E-42	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013079473.1	45355b1c92cd471cbd2529fa38719b7f	125	PANTHER	PTHR23302		8	115	9.0E-18	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013079472.1	e1e6f05c86fcaddb351a10bdfe4507a6	160	PANTHER	PTHR23302		2	153	6.1E-25	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013079471.1	37ffc99d22e0e195d6e3ff40e95126dd	327	PANTHER	PTHR23302		130	322	1.5E-31	T	30-10-2018

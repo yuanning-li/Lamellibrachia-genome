@@ -1,0 +1,347 @@
+Lamellibrachia_luymsi_proteins_LLU|FUN_017627-T1	6038a12ce2e42daaea9599122e68cc6f	190	PANTHER	PTHR34153:SF5		50	172	9.9E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017627-T1	6038a12ce2e42daaea9599122e68cc6f	190	PANTHER	PTHR34153		50	172	9.9E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	PANTHER	PTHR34153:SF5		38	90	4.5E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	PANTHER	PTHR34153:SF5		117	214	4.5E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	MobiDBLite	mobidb-lite	consensus disorder prediction	1	81	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	PANTHER	PTHR34153		38	90	4.5E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	PANTHER	PTHR34153		117	214	4.5E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	Pfam	PF16064	Domain of unknown function (DUF4806)	132	201	8.4E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034718-T1	3a88379c4a3ff5fff1b4bf59edd7050b	217	MobiDBLite	mobidb-lite	consensus disorder prediction	94	116	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022302096.1	bf1e0207856f0d451cb1d4e859583651	384	MobiDBLite	mobidb-lite	consensus disorder prediction	355	384	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022302096.1	bf1e0207856f0d451cb1d4e859583651	384	PANTHER	PTHR34153		150	375	9.3E-39	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022302096.1	bf1e0207856f0d451cb1d4e859583651	384	PANTHER	PTHR34153:SF5		150	375	9.3E-39	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022302096.1	bf1e0207856f0d451cb1d4e859583651	384	MobiDBLite	mobidb-lite	consensus disorder prediction	90	180	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022302096.1	bf1e0207856f0d451cb1d4e859583651	384	Pfam	PF16064	Domain of unknown function (DUF4806)	243	319	2.3E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Capitella_teleta_CTE|ELU00509.1	07ad5ec43fb74528e7c4d4e7ea20b1f7	225	PANTHER	PTHR34153		14	171	4.8E-33	T	31-10-2018
+Capitella_teleta_CTE|ELU00509.1	07ad5ec43fb74528e7c4d4e7ea20b1f7	225	Pfam	PF16064	Domain of unknown function (DUF4806)	57	132	2.2E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Capitella_teleta_CTE|ELU00509.1	07ad5ec43fb74528e7c4d4e7ea20b1f7	225	Coils	Coil		13	33	-	T	31-10-2018
+Capitella_teleta_CTE|ELU00509.1	07ad5ec43fb74528e7c4d4e7ea20b1f7	225	PANTHER	PTHR34153:SF5		14	171	4.8E-33	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62441-3.6	024d91c1c5d47b87847df3e4e0bc53b9	71	PANTHER	PTHR34153		1	68	8.1E-12	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62441-3.6	024d91c1c5d47b87847df3e4e0bc53b9	71	PANTHER	PTHR34153:SF5		1	68	8.1E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304308.1	9034442bc395f2ead2951383e72c21d8	374	MobiDBLite	mobidb-lite	consensus disorder prediction	345	374	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304308.1	9034442bc395f2ead2951383e72c21d8	374	Pfam	PF16064	Domain of unknown function (DUF4806)	235	314	7.6E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022304308.1	9034442bc395f2ead2951383e72c21d8	374	PANTHER	PTHR34153		7	370	6.9E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304308.1	9034442bc395f2ead2951383e72c21d8	374	PANTHER	PTHR34153:SF5		7	370	6.9E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304308.1	9034442bc395f2ead2951383e72c21d8	374	Coils	Coil		69	89	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304308.1	9034442bc395f2ead2951383e72c21d8	374	MobiDBLite	mobidb-lite	consensus disorder prediction	75	169	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8844-1.9	309214be8ee06fc012231abc05bdebd3	64	MobiDBLite	mobidb-lite	consensus disorder prediction	31	64	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8844-1.9	309214be8ee06fc012231abc05bdebd3	64	Coils	Coil		60	64	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311017.1	d83870cdcd41c2690aa3bfbe791d62f2	341	PANTHER	PTHR34153		5	334	3.6E-31	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311017.1	d83870cdcd41c2690aa3bfbe791d62f2	341	Pfam	PF16064	Domain of unknown function (DUF4806)	235	314	6.5E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022311017.1	d83870cdcd41c2690aa3bfbe791d62f2	341	Coils	Coil		69	89	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311017.1	d83870cdcd41c2690aa3bfbe791d62f2	341	MobiDBLite	mobidb-lite	consensus disorder prediction	76	183	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311017.1	d83870cdcd41c2690aa3bfbe791d62f2	341	PANTHER	PTHR34153:SF5		5	334	3.6E-31	T	31-10-2018
+Helobdella_robusta_HRO|XP_009018563.1	7cac37be167a8e552def10496ab0efd5	247	PANTHER	PTHR34153		65	244	9.3E-34	T	31-10-2018
+Helobdella_robusta_HRO|XP_009018563.1	7cac37be167a8e552def10496ab0efd5	247	Coils	Coil		58	99	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009018563.1	7cac37be167a8e552def10496ab0efd5	247	PANTHER	PTHR34153:SF5		65	244	9.3E-34	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007891-T1	9be04a5c857f35f8f2ce7a2d84353346	353	MobiDBLite	mobidb-lite	consensus disorder prediction	127	334	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007891-T1	9be04a5c857f35f8f2ce7a2d84353346	353	Pfam	PF16064	Domain of unknown function (DUF4806)	43	117	2.6E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007891-T1	9be04a5c857f35f8f2ce7a2d84353346	353	PANTHER	PTHR34153:SF5		23	128	3.5E-23	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007891-T1	9be04a5c857f35f8f2ce7a2d84353346	353	PANTHER	PTHR34153		23	128	3.5E-23	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59390-0.11	174103a19e71282bcf1e0b275a7df16d	74	MobiDBLite	mobidb-lite	consensus disorder prediction	41	74	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59390-0.11	174103a19e71282bcf1e0b275a7df16d	74	Coils	Coil		39	59	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g25931.t1	d806db54e0125c5a4b9fb27c90c72f53	483	PANTHER	PTHR34153		268	474	1.5E-32	T	31-10-2018
+Notospermus_geniculatus_NGE|g25931.t1	d806db54e0125c5a4b9fb27c90c72f53	483	MobiDBLite	mobidb-lite	consensus disorder prediction	455	483	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g25931.t1	d806db54e0125c5a4b9fb27c90c72f53	483	MobiDBLite	mobidb-lite	consensus disorder prediction	92	187	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g25931.t1	d806db54e0125c5a4b9fb27c90c72f53	483	MobiDBLite	mobidb-lite	consensus disorder prediction	200	296	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g25931.t1	d806db54e0125c5a4b9fb27c90c72f53	483	Pfam	PF16064	Domain of unknown function (DUF4806)	346	429	8.2E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g25931.t1	d806db54e0125c5a4b9fb27c90c72f53	483	PANTHER	PTHR34153:SF5		268	474	1.5E-32	T	31-10-2018
+Capitella_teleta_CTE|ELU12711.1	f5f8105b66527e5f308f8397cf8f4c6c	372	PANTHER	PTHR34153:SF5		41	361	2.1E-19	T	31-10-2018
+Capitella_teleta_CTE|ELU12711.1	f5f8105b66527e5f308f8397cf8f4c6c	372	PANTHER	PTHR34153		41	361	2.1E-19	T	31-10-2018
+Capitella_teleta_CTE|ELU12711.1	f5f8105b66527e5f308f8397cf8f4c6c	372	MobiDBLite	mobidb-lite	consensus disorder prediction	122	168	-	T	31-10-2018
+Capitella_teleta_CTE|ELU12711.1	f5f8105b66527e5f308f8397cf8f4c6c	372	Pfam	PF16064	Domain of unknown function (DUF4806)	262	349	1.7E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022311174.1	ccd9fd60db78f32a940f81377f8f8bbd	281	Pfam	PF16064	Domain of unknown function (DUF4806)	140	211	1.2E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022311174.1	ccd9fd60db78f32a940f81377f8f8bbd	281	MobiDBLite	mobidb-lite	consensus disorder prediction	1	77	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311174.1	ccd9fd60db78f32a940f81377f8f8bbd	281	PANTHER	PTHR34153:SF5		61	272	1.2E-37	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311174.1	ccd9fd60db78f32a940f81377f8f8bbd	281	PANTHER	PTHR34153		61	272	1.2E-37	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311174.1	ccd9fd60db78f32a940f81377f8f8bbd	281	MobiDBLite	mobidb-lite	consensus disorder prediction	252	281	-	T	31-10-2018
+Capitella_teleta_CTE|ELU10297.1	0f3e786da643cb5a77dc8d69837dfc02	348	PANTHER	PTHR34153		146	347	2.0E-26	T	31-10-2018
+Capitella_teleta_CTE|ELU10297.1	0f3e786da643cb5a77dc8d69837dfc02	348	PANTHER	PTHR34153:SF5		146	347	2.0E-26	T	31-10-2018
+Capitella_teleta_CTE|ELU10297.1	0f3e786da643cb5a77dc8d69837dfc02	348	MobiDBLite	mobidb-lite	consensus disorder prediction	100	119	-	T	31-10-2018
+Capitella_teleta_CTE|ELU10297.1	0f3e786da643cb5a77dc8d69837dfc02	348	Pfam	PF16064	Domain of unknown function (DUF4806)	217	291	1.3E-5	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g31088.t1	95d6a3c775fa9e71541d279cfe235cf2	130	MobiDBLite	mobidb-lite	consensus disorder prediction	51	74	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	MobiDBLite	mobidb-lite	consensus disorder prediction	41	172	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	PANTHER	PTHR34153:SF5		73	95	2.9E-23	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	PANTHER	PTHR34153		233	440	2.9E-23	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	PANTHER	PTHR34153		73	95	2.9E-23	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	PANTHER	PTHR34153:SF5		233	440	2.9E-23	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	MobiDBLite	mobidb-lite	consensus disorder prediction	426	450	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	Coils	Coil		279	306	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	MobiDBLite	mobidb-lite	consensus disorder prediction	210	267	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23587.t1	07e7aa7df75070f86e139a248e321958	450	Pfam	PF16064	Domain of unknown function (DUF4806)	313	398	1.4E-7	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g37160.t1	a2ebab32144f0f553d2e3b60a5dd38f0	454	MobiDBLite	mobidb-lite	consensus disorder prediction	89	216	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g37160.t1	a2ebab32144f0f553d2e3b60a5dd38f0	454	MobiDBLite	mobidb-lite	consensus disorder prediction	260	287	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g37160.t1	a2ebab32144f0f553d2e3b60a5dd38f0	454	PANTHER	PTHR34153		227	411	4.9E-21	T	31-10-2018
+Notospermus_geniculatus_NGE|g37160.t1	a2ebab32144f0f553d2e3b60a5dd38f0	454	PANTHER	PTHR34153:SF5		227	411	4.9E-21	T	31-10-2018
+Notospermus_geniculatus_NGE|g37160.t1	a2ebab32144f0f553d2e3b60a5dd38f0	454	Pfam	PF16064	Domain of unknown function (DUF4806)	284	369	2.0E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g37160.t1	a2ebab32144f0f553d2e3b60a5dd38f0	454	MobiDBLite	mobidb-lite	consensus disorder prediction	391	454	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39616.t1	711d638415fdaa6bff90f7f418a64512	151	MobiDBLite	mobidb-lite	consensus disorder prediction	25	44	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39616.t1	711d638415fdaa6bff90f7f418a64512	151	Coils	Coil		9	29	-	T	31-10-2018
+Phoronis_australis_PAU|g18886.t1	39a555b8d902625d2adf063aa70cca42	281	Coils	Coil		32	59	-	T	31-10-2018
+Phoronis_australis_PAU|g18886.t1	39a555b8d902625d2adf063aa70cca42	281	PANTHER	PTHR34153:SF5		34	261	3.0E-29	T	31-10-2018
+Phoronis_australis_PAU|g18886.t1	39a555b8d902625d2adf063aa70cca42	281	Pfam	PF16064	Domain of unknown function (DUF4806)	180	251	8.8E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Phoronis_australis_PAU|g18886.t1	39a555b8d902625d2adf063aa70cca42	281	Coils	Coil		148	168	-	T	31-10-2018
+Phoronis_australis_PAU|g18886.t1	39a555b8d902625d2adf063aa70cca42	281	MobiDBLite	mobidb-lite	consensus disorder prediction	24	127	-	T	31-10-2018
+Phoronis_australis_PAU|g18886.t1	39a555b8d902625d2adf063aa70cca42	281	PANTHER	PTHR34153		34	261	3.0E-29	T	31-10-2018
+Notospermus_geniculatus_NGE|g42997.t1	b40894a4f7ed53b45a24e199345eb8c2	128	PANTHER	PTHR34153:SF5		11	121	6.4E-15	T	31-10-2018
+Notospermus_geniculatus_NGE|g42997.t1	b40894a4f7ed53b45a24e199345eb8c2	128	PANTHER	PTHR34153		11	121	6.4E-15	T	31-10-2018
+Notospermus_geniculatus_NGE|g42997.t1	b40894a4f7ed53b45a24e199345eb8c2	128	Pfam	PF16064	Domain of unknown function (DUF4806)	43	118	2.0E-7	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g16361.t1	d6955c406f5ea13baf4039cb43477ed2	223	PANTHER	PTHR34153:SF5		36	178	2.4E-28	T	31-10-2018
+Notospermus_geniculatus_NGE|g16361.t1	d6955c406f5ea13baf4039cb43477ed2	223	PANTHER	PTHR34153		36	178	2.4E-28	T	31-10-2018
+Notospermus_geniculatus_NGE|g16361.t1	d6955c406f5ea13baf4039cb43477ed2	223	MobiDBLite	mobidb-lite	consensus disorder prediction	158	223	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g16361.t1	d6955c406f5ea13baf4039cb43477ed2	223	Coils	Coil		176	207	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g16361.t1	d6955c406f5ea13baf4039cb43477ed2	223	Pfam	PF16064	Domain of unknown function (DUF4806)	52	136	2.3E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Chlamys_farreri_CFA|CF49013.3	6ad1450ceb3445c485435ed3dbd76107	505	SUPERFAMILY	SSF103473		19	114	2.35E-6	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF49013.3	6ad1450ceb3445c485435ed3dbd76107	505	SUPERFAMILY	SSF103473		296	410	4.71E-11	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF49013.3	6ad1450ceb3445c485435ed3dbd76107	505	SUPERFAMILY	SSF103473		144	237	6.02E-6	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF49013.3	6ad1450ceb3445c485435ed3dbd76107	505	CDD	cd06174	MFS	303	406	2.50418E-4	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF49013.3	6ad1450ceb3445c485435ed3dbd76107	505	Gene3D	G3DSA:1.20.1250.20		295	411	1.7E-5	T	31-10-2018
+Aplysia_californica_ACA|XP_012939107.1	9f97c4f734b10417b6f85d5f2e125aa6	445	Pfam	PF16064	Domain of unknown function (DUF4806)	302	377	1.0E-7	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Aplysia_californica_ACA|XP_012939107.1	9f97c4f734b10417b6f85d5f2e125aa6	445	PANTHER	PTHR34153		44	433	7.7E-32	T	31-10-2018
+Aplysia_californica_ACA|XP_012939107.1	9f97c4f734b10417b6f85d5f2e125aa6	445	MobiDBLite	mobidb-lite	consensus disorder prediction	76	190	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012939107.1	9f97c4f734b10417b6f85d5f2e125aa6	445	PANTHER	PTHR34153:SF5		44	433	7.7E-32	T	31-10-2018
+Aplysia_californica_ACA|XP_012939107.1	9f97c4f734b10417b6f85d5f2e125aa6	445	MobiDBLite	mobidb-lite	consensus disorder prediction	217	242	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012939107.1	9f97c4f734b10417b6f85d5f2e125aa6	445	MobiDBLite	mobidb-lite	consensus disorder prediction	412	445	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012939106.1	9f97c4f734b10417b6f85d5f2e125aa6	445	Pfam	PF16064	Domain of unknown function (DUF4806)	302	377	1.0E-7	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Aplysia_californica_ACA|XP_012939106.1	9f97c4f734b10417b6f85d5f2e125aa6	445	PANTHER	PTHR34153		44	433	7.7E-32	T	31-10-2018
+Aplysia_californica_ACA|XP_012939106.1	9f97c4f734b10417b6f85d5f2e125aa6	445	MobiDBLite	mobidb-lite	consensus disorder prediction	76	190	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012939106.1	9f97c4f734b10417b6f85d5f2e125aa6	445	PANTHER	PTHR34153:SF5		44	433	7.7E-32	T	31-10-2018
+Aplysia_californica_ACA|XP_012939106.1	9f97c4f734b10417b6f85d5f2e125aa6	445	MobiDBLite	mobidb-lite	consensus disorder prediction	217	242	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012939106.1	9f97c4f734b10417b6f85d5f2e125aa6	445	MobiDBLite	mobidb-lite	consensus disorder prediction	412	445	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41642.t1	99f09522eb2f0971d775afc633fb6bfe	279	PANTHER	PTHR34153		38	263	3.0E-22	T	31-10-2018
+Notospermus_geniculatus_NGE|g41642.t1	99f09522eb2f0971d775afc633fb6bfe	279	Pfam	PF16064	Domain of unknown function (DUF4806)	189	265	3.5E-11	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g41642.t1	99f09522eb2f0971d775afc633fb6bfe	279	MobiDBLite	mobidb-lite	consensus disorder prediction	1	130	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41642.t1	99f09522eb2f0971d775afc633fb6bfe	279	PANTHER	PTHR34153:SF5		38	263	3.0E-22	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918693.1	ec1025fc8ee141aaae5cf12b3a153212	388	PANTHER	PTHR34153:SF5		59	376	2.1E-35	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918693.1	ec1025fc8ee141aaae5cf12b3a153212	388	MobiDBLite	mobidb-lite	consensus disorder prediction	106	190	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918693.1	ec1025fc8ee141aaae5cf12b3a153212	388	Pfam	PF16064	Domain of unknown function (DUF4806)	250	327	2.3E-11	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_gigas_CGI|XP_019918693.1	ec1025fc8ee141aaae5cf12b3a153212	388	MobiDBLite	mobidb-lite	consensus disorder prediction	360	388	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019918693.1	ec1025fc8ee141aaae5cf12b3a153212	388	PANTHER	PTHR34153		59	376	2.1E-35	T	31-10-2018
+Lingula_anatina_LAN|XP_013396908.1	09be65f84ef52a32e47ed3db9c9bb594	346	MobiDBLite	mobidb-lite	consensus disorder prediction	80	157	-	T	31-10-2018
+Lingula_anatina_LAN|XP_013396908.1	09be65f84ef52a32e47ed3db9c9bb594	346	PANTHER	PTHR34153		105	335	2.7E-32	T	31-10-2018
+Lingula_anatina_LAN|XP_013396908.1	09be65f84ef52a32e47ed3db9c9bb594	346	Pfam	PF16064	Domain of unknown function (DUF4806)	215	291	5.2E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lingula_anatina_LAN|XP_013396908.1	09be65f84ef52a32e47ed3db9c9bb594	346	PANTHER	PTHR34153:SF5		105	335	2.7E-32	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006185-T1	9fe52770cd4da8dc699f514b0fa8453f	95	MobiDBLite	mobidb-lite	consensus disorder prediction	67	95	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006185-T1	9fe52770cd4da8dc699f514b0fa8453f	95	PANTHER	PTHR34153:SF5		1	77	1.4E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006185-T1	9fe52770cd4da8dc699f514b0fa8453f	95	PANTHER	PTHR34153		1	77	1.4E-18	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304309.1	8b7d8d5434e25e3d17b951e887e38fb6	372	MobiDBLite	mobidb-lite	consensus disorder prediction	343	372	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304309.1	8b7d8d5434e25e3d17b951e887e38fb6	372	Pfam	PF16064	Domain of unknown function (DUF4806)	233	312	7.5E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022304309.1	8b7d8d5434e25e3d17b951e887e38fb6	372	PANTHER	PTHR34153		5	368	7.4E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304309.1	8b7d8d5434e25e3d17b951e887e38fb6	372	PANTHER	PTHR34153:SF5		5	368	7.4E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304309.1	8b7d8d5434e25e3d17b951e887e38fb6	372	Coils	Coil		67	87	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304309.1	8b7d8d5434e25e3d17b951e887e38fb6	372	MobiDBLite	mobidb-lite	consensus disorder prediction	73	167	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49821-1.12	4eb977751264021d5b678f10da6b550b	170	MobiDBLite	mobidb-lite	consensus disorder prediction	146	170	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49821-1.12	4eb977751264021d5b678f10da6b550b	170	Coils	Coil		140	164	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49821-1.12	4eb977751264021d5b678f10da6b550b	170	PANTHER	PTHR34153:SF5		61	156	5.6E-16	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49821-1.12	4eb977751264021d5b678f10da6b550b	170	PANTHER	PTHR34153		61	156	5.6E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012158-T1	d35d7bfcc13e1b7c9a2dff34fd8f535d	247	PANTHER	PTHR34153:SF5		73	190	1.2E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012158-T1	d35d7bfcc13e1b7c9a2dff34fd8f535d	247	PANTHER	PTHR34153		73	190	1.2E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012158-T1	d35d7bfcc13e1b7c9a2dff34fd8f535d	247	MobiDBLite	mobidb-lite	consensus disorder prediction	209	230	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012158-T1	d35d7bfcc13e1b7c9a2dff34fd8f535d	247	Pfam	PF16064	Domain of unknown function (DUF4806)	102	169	2.6E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012158-T1	d35d7bfcc13e1b7c9a2dff34fd8f535d	247	MobiDBLite	mobidb-lite	consensus disorder prediction	1	74	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6910.t1	b3efa8c1e28acf78bd82233aa0e6ec3e	413	Coils	Coil		219	239	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6910.t1	b3efa8c1e28acf78bd82233aa0e6ec3e	413	Pfam	PF16064	Domain of unknown function (DUF4806)	272	349	5.3E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g6910.t1	b3efa8c1e28acf78bd82233aa0e6ec3e	413	MobiDBLite	mobidb-lite	consensus disorder prediction	388	413	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6910.t1	b3efa8c1e28acf78bd82233aa0e6ec3e	413	PANTHER	PTHR34153		129	408	4.4E-29	T	31-10-2018
+Notospermus_geniculatus_NGE|g6910.t1	b3efa8c1e28acf78bd82233aa0e6ec3e	413	MobiDBLite	mobidb-lite	consensus disorder prediction	92	213	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g18783.t1	7ca67127ba129638851024b214a4079c	239	Pfam	PF16064	Domain of unknown function (DUF4806)	158	232	8.2E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g18783.t1	7ca67127ba129638851024b214a4079c	239	PANTHER	PTHR22727		20	113	8.2E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g18783.t1	7ca67127ba129638851024b214a4079c	239	MobiDBLite	mobidb-lite	consensus disorder prediction	133	156	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g18783.t1	7ca67127ba129638851024b214a4079c	239	SUPERFAMILY	SSF57184		10	100	9.1E-10	T	31-10-2018	IPR009030	Growth factor receptor cysteine-rich domain superfamily		
+Notospermus_geniculatus_NGE|g18783.t1	7ca67127ba129638851024b214a4079c	239	PANTHER	PTHR22727:SF35		20	113	8.2E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020188-T1	f03af9533cd55c89ccfb657cb8ebe0a5	383	MobiDBLite	mobidb-lite	consensus disorder prediction	75	187	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020188-T1	f03af9533cd55c89ccfb657cb8ebe0a5	383	Pfam	PF16064	Domain of unknown function (DUF4806)	242	320	9.4E-11	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_020188-T1	f03af9533cd55c89ccfb657cb8ebe0a5	383	PANTHER	PTHR34153		55	378	3.2E-34	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311713.1	bcfbc2101d67cf439c3457455ba74dc2	114	MobiDBLite	mobidb-lite	consensus disorder prediction	84	114	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311713.1	bcfbc2101d67cf439c3457455ba74dc2	114	PANTHER	PTHR34153:SF5		1	109	7.0E-32	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311713.1	bcfbc2101d67cf439c3457455ba74dc2	114	PANTHER	PTHR34153		1	109	7.0E-32	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014105-T1	166cf49d17a0f61cb88574c2faa4a11a	356	Pfam	PF16064	Domain of unknown function (DUF4806)	146	225	1.9E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_014105-T1	166cf49d17a0f61cb88574c2faa4a11a	356	PANTHER	PTHR34153:SF5		33	229	1.3E-21	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014105-T1	166cf49d17a0f61cb88574c2faa4a11a	356	MobiDBLite	mobidb-lite	consensus disorder prediction	247	287	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014105-T1	166cf49d17a0f61cb88574c2faa4a11a	356	Coils	Coil		32	74	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014105-T1	166cf49d17a0f61cb88574c2faa4a11a	356	PANTHER	PTHR34153		33	229	1.3E-21	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014105-T1	166cf49d17a0f61cb88574c2faa4a11a	356	MobiDBLite	mobidb-lite	consensus disorder prediction	1	80	-	T	31-10-2018
+Capitella_teleta_CTE|ELU06375.1	65a8f6cf5b54686d314928b90d68f71e	325	MobiDBLite	mobidb-lite	consensus disorder prediction	89	136	-	T	31-10-2018
+Capitella_teleta_CTE|ELU06375.1	65a8f6cf5b54686d314928b90d68f71e	325	Pfam	PF16064	Domain of unknown function (DUF4806)	193	273	4.4E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Capitella_teleta_CTE|ELU06375.1	65a8f6cf5b54686d314928b90d68f71e	325	PANTHER	PTHR34153:SF5		110	310	9.3E-27	T	31-10-2018
+Capitella_teleta_CTE|ELU06375.1	65a8f6cf5b54686d314928b90d68f71e	325	PANTHER	PTHR34153		110	310	9.3E-27	T	31-10-2018
+Chlamys_farreri_CFA|CF4041.1	8dddbc14a3306a4939753dedaa66f505	93	MobiDBLite	mobidb-lite	consensus disorder prediction	64	93	-	T	31-10-2018
+Chlamys_farreri_CFA|CF4041.1	8dddbc14a3306a4939753dedaa66f505	93	Coils	Coil		63	83	-	T	31-10-2018
+Lingula_anatina_LAN|XP_013420289.1	22a72d8b3b724212f47243bc2ae5ca06	211	PANTHER	PTHR34153		21	201	3.7E-36	T	31-10-2018
+Lingula_anatina_LAN|XP_013420289.1	22a72d8b3b724212f47243bc2ae5ca06	211	Pfam	PF16064	Domain of unknown function (DUF4806)	66	148	2.1E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lingula_anatina_LAN|XP_013420289.1	22a72d8b3b724212f47243bc2ae5ca06	211	PANTHER	PTHR34153:SF5		21	201	3.7E-36	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_5707-1.8	a30bc5098796fb3c59451766d1d5fe6f	57	MobiDBLite	mobidb-lite	consensus disorder prediction	27	57	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5469.t1	bab6260d9926cf0426a39c365350a0cf	513	PANTHER	PTHR34153		77	489	1.3E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g5469.t1	bab6260d9926cf0426a39c365350a0cf	513	MobiDBLite	mobidb-lite	consensus disorder prediction	474	513	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5469.t1	bab6260d9926cf0426a39c365350a0cf	513	Pfam	PF16064	Domain of unknown function (DUF4806)	368	447	8.1E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g5469.t1	bab6260d9926cf0426a39c365350a0cf	513	Coils	Coil		82	102	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5469.t1	bab6260d9926cf0426a39c365350a0cf	513	MobiDBLite	mobidb-lite	consensus disorder prediction	86	316	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456572.1	3dd604dd738734baedd5dbed510a63be	253	PANTHER	PTHR34153		4	237	4.1E-39	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456572.1	3dd604dd738734baedd5dbed510a63be	253	MobiDBLite	mobidb-lite	consensus disorder prediction	221	253	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456572.1	3dd604dd738734baedd5dbed510a63be	253	Pfam	PF16064	Domain of unknown function (DUF4806)	108	183	9.8E-11	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_gigas_CGI|XP_011456572.1	3dd604dd738734baedd5dbed510a63be	253	MobiDBLite	mobidb-lite	consensus disorder prediction	1	60	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456572.1	3dd604dd738734baedd5dbed510a63be	253	Coils	Coil		116	143	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456572.1	3dd604dd738734baedd5dbed510a63be	253	PANTHER	PTHR34153:SF5		4	237	4.1E-39	T	31-10-2018
+Notospermus_geniculatus_NGE|g6911.t1	55a395386e959ded908a60be41323d35	381	PANTHER	PTHR34153		231	340	1.4E-17	T	31-10-2018
+Notospermus_geniculatus_NGE|g6911.t1	55a395386e959ded908a60be41323d35	381	PANTHER	PTHR34153:SF5		231	340	1.4E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011169-T1	7e98ac3eaf332424f6a9bd23fa48840b	73	MobiDBLite	mobidb-lite	consensus disorder prediction	47	73	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005752-T1	f2a77044be263068b16609725fe261ef	269	PANTHER	PTHR34153		36	252	7.4E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005752-T1	f2a77044be263068b16609725fe261ef	269	PANTHER	PTHR34153:SF5		36	252	7.4E-16	T	31-10-2018
+Notospermus_geniculatus_NGE|g30988.t1	5b9e0a7203cff538e91a3209196ce0d0	441	Pfam	PF16064	Domain of unknown function (DUF4806)	285	368	1.9E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g30988.t1	5b9e0a7203cff538e91a3209196ce0d0	441	MobiDBLite	mobidb-lite	consensus disorder prediction	84	226	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g30988.t1	5b9e0a7203cff538e91a3209196ce0d0	441	PANTHER	PTHR34153:SF5		239	412	1.1E-28	T	31-10-2018
+Notospermus_geniculatus_NGE|g30988.t1	5b9e0a7203cff538e91a3209196ce0d0	441	MobiDBLite	mobidb-lite	consensus disorder prediction	397	441	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g30988.t1	5b9e0a7203cff538e91a3209196ce0d0	441	Coils	Coil		251	274	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g30988.t1	5b9e0a7203cff538e91a3209196ce0d0	441	PANTHER	PTHR34153		239	412	1.1E-28	T	31-10-2018
+Chlamys_farreri_CFA|CF60545.8	54301d92989102ea3e3be8e65f19894c	184	SUPERFAMILY	SSF103473		57	178	1.11E-10	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF60545.8	54301d92989102ea3e3be8e65f19894c	184	PANTHER	PTHR23121		28	177	4.7E-15	T	31-10-2018
+Chlamys_farreri_CFA|CF60545.8	54301d92989102ea3e3be8e65f19894c	184	Gene3D	G3DSA:1.20.1250.20		13	179	1.2E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF60545.8	54301d92989102ea3e3be8e65f19894c	184	CDD	cd06174	MFS	72	161	5.56012E-5	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF60545.8	54301d92989102ea3e3be8e65f19894c	184	Coils	Coil		17	37	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311739.1	6319fe8350b206f0972e147e30a2ec11	373	MobiDBLite	mobidb-lite	consensus disorder prediction	343	373	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311739.1	6319fe8350b206f0972e147e30a2ec11	373	MobiDBLite	mobidb-lite	consensus disorder prediction	74	167	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311739.1	6319fe8350b206f0972e147e30a2ec11	373	PANTHER	PTHR34153:SF5		3	368	4.3E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311739.1	6319fe8350b206f0972e147e30a2ec11	373	Pfam	PF16064	Domain of unknown function (DUF4806)	233	312	7.5E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022311739.1	6319fe8350b206f0972e147e30a2ec11	373	PANTHER	PTHR34153		3	368	4.3E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311739.1	6319fe8350b206f0972e147e30a2ec11	373	Coils	Coil		67	87	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420008.1	5eb484c4adf7205367f4660bda447c49	185	MobiDBLite	mobidb-lite	consensus disorder prediction	156	185	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420008.1	5eb484c4adf7205367f4660bda447c49	185	PANTHER	PTHR34153:SF5		4	175	1.3E-36	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420008.1	5eb484c4adf7205367f4660bda447c49	185	Pfam	PF16064	Domain of unknown function (DUF4806)	48	127	1.1E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_gigas_CGI|XP_011420008.1	5eb484c4adf7205367f4660bda447c49	185	PANTHER	PTHR34153		4	175	1.3E-36	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029417-T1	819486acdfde9515b753a30b5ee8849d	232	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029417-T1	819486acdfde9515b753a30b5ee8849d	232	PANTHER	PTHR34153:SF5		64	227	9.0E-36	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029417-T1	819486acdfde9515b753a30b5ee8849d	232	PANTHER	PTHR34153		64	227	9.0E-36	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029417-T1	819486acdfde9515b753a30b5ee8849d	232	Pfam	PF16064	Domain of unknown function (DUF4806)	103	181	2.9E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_032056-T1	88a89f688f07848a4b76e04e158bbeea	189	Coils	Coil		109	129	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032056-T1	88a89f688f07848a4b76e04e158bbeea	189	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032056-T1	88a89f688f07848a4b76e04e158bbeea	189	PANTHER	PTHR34153		30	169	4.6E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032056-T1	88a89f688f07848a4b76e04e158bbeea	189	PANTHER	PTHR34153:SF5		30	169	4.6E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017623-T1	d62adc41df98a9ade608763dbaa99dc0	120	PANTHER	PTHR34153		2	106	2.5E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017623-T1	d62adc41df98a9ade608763dbaa99dc0	120	PANTHER	PTHR34153:SF5		2	106	2.5E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017623-T1	d62adc41df98a9ade608763dbaa99dc0	120	Pfam	PF16064	Domain of unknown function (DUF4806)	1	59	2.9E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Aplysia_californica_ACA|XP_005100490.1	845efd2e4ccbc19f83aff93456520cfd	419	MobiDBLite	mobidb-lite	consensus disorder prediction	76	216	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005100490.1	845efd2e4ccbc19f83aff93456520cfd	419	PANTHER	PTHR34153:SF5		44	407	1.4E-33	T	31-10-2018
+Aplysia_californica_ACA|XP_005100490.1	845efd2e4ccbc19f83aff93456520cfd	419	PANTHER	PTHR34153		44	407	1.4E-33	T	31-10-2018
+Aplysia_californica_ACA|XP_005100490.1	845efd2e4ccbc19f83aff93456520cfd	419	Pfam	PF16064	Domain of unknown function (DUF4806)	276	351	9.1E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Aplysia_californica_ACA|XP_005100490.1	845efd2e4ccbc19f83aff93456520cfd	419	MobiDBLite	mobidb-lite	consensus disorder prediction	386	419	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005100489.1	845efd2e4ccbc19f83aff93456520cfd	419	MobiDBLite	mobidb-lite	consensus disorder prediction	76	216	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005100489.1	845efd2e4ccbc19f83aff93456520cfd	419	PANTHER	PTHR34153:SF5		44	407	1.4E-33	T	31-10-2018
+Aplysia_californica_ACA|XP_005100489.1	845efd2e4ccbc19f83aff93456520cfd	419	PANTHER	PTHR34153		44	407	1.4E-33	T	31-10-2018
+Aplysia_californica_ACA|XP_005100489.1	845efd2e4ccbc19f83aff93456520cfd	419	Pfam	PF16064	Domain of unknown function (DUF4806)	276	351	9.1E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Aplysia_californica_ACA|XP_005100489.1	845efd2e4ccbc19f83aff93456520cfd	419	MobiDBLite	mobidb-lite	consensus disorder prediction	386	419	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029726-T1	b6cf23132d13544b16c596c7ec08f06b	168	PANTHER	PTHR34153		4	155	2.7E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029726-T1	b6cf23132d13544b16c596c7ec08f06b	168	MobiDBLite	mobidb-lite	consensus disorder prediction	146	168	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029726-T1	b6cf23132d13544b16c596c7ec08f06b	168	PANTHER	PTHR34153:SF5		4	155	2.7E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	Coils	Coil		187	214	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	MobiDBLite	mobidb-lite	consensus disorder prediction	331	354	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	PANTHER	PTHR34153:SF5		173	348	5.1E-38	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	MobiDBLite	mobidb-lite	consensus disorder prediction	57	149	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	Pfam	PF16064	Domain of unknown function (DUF4806)	221	304	2.3E-13	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	MobiDBLite	mobidb-lite	consensus disorder prediction	1	28	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	PANTHER	PTHR34153		173	348	5.1E-38	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001613-T1	15b60adb3e4da4124db5f7451a279f1d	354	Coils	Coil		343	354	-	T	31-10-2018
+Capitella_teleta_CTE|ELU17773.1	4ebb030a9b88970b6c4f6387c2c03334	300	MobiDBLite	mobidb-lite	consensus disorder prediction	34	59	-	T	31-10-2018
+Capitella_teleta_CTE|ELU17773.1	4ebb030a9b88970b6c4f6387c2c03334	300	Coils	Coil		128	148	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36238.t1	826d4dd607d4185acb0e5d1a86b1c0a5	120	Coils	Coil		2	22	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36238.t1	826d4dd607d4185acb0e5d1a86b1c0a5	120	MobiDBLite	mobidb-lite	consensus disorder prediction	20	46	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311738.1	a95168a9268dd1073671659eb7c5544c	375	PANTHER	PTHR34153		5	370	4.1E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311738.1	a95168a9268dd1073671659eb7c5544c	375	MobiDBLite	mobidb-lite	consensus disorder prediction	345	375	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311738.1	a95168a9268dd1073671659eb7c5544c	375	PANTHER	PTHR34153:SF5		5	370	4.1E-45	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311738.1	a95168a9268dd1073671659eb7c5544c	375	MobiDBLite	mobidb-lite	consensus disorder prediction	76	169	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311738.1	a95168a9268dd1073671659eb7c5544c	375	Pfam	PF16064	Domain of unknown function (DUF4806)	235	314	7.6E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022311738.1	a95168a9268dd1073671659eb7c5544c	375	Coils	Coil		69	89	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015850-T1	80a2bd151719fddef6362bfd413fdce9	99	PANTHER	PTHR34153		5	81	4.3E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015850-T1	80a2bd151719fddef6362bfd413fdce9	99	PANTHER	PTHR34153:SF5		5	81	4.3E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015850-T1	80a2bd151719fddef6362bfd413fdce9	99	Pfam	PF16064	Domain of unknown function (DUF4806)	18	82	2.0E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_4822-2.13	ffc541ed7182a017225eaffa2a5d2518	70	PANTHER	PTHR34153:SF5		1	67	2.9E-12	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_4822-2.13	ffc541ed7182a017225eaffa2a5d2518	70	PANTHER	PTHR34153		1	67	2.9E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g40055.t1	215ad5ac19e02aec36e76d52fb21448c	382	PANTHER	PTHR34153:SF5		134	363	6.8E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g40055.t1	215ad5ac19e02aec36e76d52fb21448c	382	MobiDBLite	mobidb-lite	consensus disorder prediction	347	382	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g40055.t1	215ad5ac19e02aec36e76d52fb21448c	382	Coils	Coil		199	219	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g40055.t1	215ad5ac19e02aec36e76d52fb21448c	382	Pfam	PF16064	Domain of unknown function (DUF4806)	240	315	2.3E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g40055.t1	215ad5ac19e02aec36e76d52fb21448c	382	PANTHER	PTHR34153		134	363	6.8E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g40055.t1	215ad5ac19e02aec36e76d52fb21448c	382	MobiDBLite	mobidb-lite	consensus disorder prediction	54	168	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_65427-0.4	baa892c589b4d482dfcdc3d334b2d6e6	71	PANTHER	PTHR34153:SF5		1	68	1.1E-13	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_65427-0.4	baa892c589b4d482dfcdc3d334b2d6e6	71	PANTHER	PTHR34153		1	68	1.1E-13	T	31-10-2018
+Lingula_anatina_LAN|XP_013406593.1	eb053443bdc75ed4fea6f23b5d6495dd	165	PANTHER	PTHR34153:SF5		36	152	6.1E-16	T	31-10-2018
+Lingula_anatina_LAN|XP_013406593.1	eb053443bdc75ed4fea6f23b5d6495dd	165	PANTHER	PTHR34153		36	152	6.1E-16	T	31-10-2018
+Lingula_anatina_LAN|XP_013406593.1	eb053443bdc75ed4fea6f23b5d6495dd	165	Pfam	PF16064	Domain of unknown function (DUF4806)	71	153	6.8E-7	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_005740-T1	4a19703a420b6891fb4733243f0d6a8b	210	MobiDBLite	mobidb-lite	consensus disorder prediction	1	57	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10938.t1	e38c28a780cb26843acdab1f5bb53c4e	416	MobiDBLite	mobidb-lite	consensus disorder prediction	115	236	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10938.t1	e38c28a780cb26843acdab1f5bb53c4e	416	PANTHER	PTHR34153		87	412	7.2E-36	T	31-10-2018
+Notospermus_geniculatus_NGE|g10938.t1	e38c28a780cb26843acdab1f5bb53c4e	416	Pfam	PF16064	Domain of unknown function (DUF4806)	292	371	2.2E-11	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g10938.t1	e38c28a780cb26843acdab1f5bb53c4e	416	PANTHER	PTHR34153:SF5		87	412	7.2E-36	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022290808.1	8b8ad97995adc6ee2668d147eb829207	180	PANTHER	PTHR34153:SF5		4	175	7.0E-41	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022290808.1	8b8ad97995adc6ee2668d147eb829207	180	PANTHER	PTHR34153		4	175	7.0E-41	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022290808.1	8b8ad97995adc6ee2668d147eb829207	180	MobiDBLite	mobidb-lite	consensus disorder prediction	150	180	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022290808.1	8b8ad97995adc6ee2668d147eb829207	180	Pfam	PF16064	Domain of unknown function (DUF4806)	40	119	1.7E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_014025-T1	7efb723dea0b33fd61a07c9a3a5cc9f2	112	PANTHER	PTHR34153:SF5		24	97	2.5E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014025-T1	7efb723dea0b33fd61a07c9a3a5cc9f2	112	PANTHER	PTHR34153		24	97	2.5E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014025-T1	7efb723dea0b33fd61a07c9a3a5cc9f2	112	Pfam	PF16064	Domain of unknown function (DUF4806)	43	92	7.5E-6	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Notospermus_geniculatus_NGE|g27389.t1	38f661de495f6c70c2275ef859d8fead	117	MobiDBLite	mobidb-lite	consensus disorder prediction	95	117	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27389.t1	38f661de495f6c70c2275ef859d8fead	117	PANTHER	PTHR34153		1	109	2.0E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020040-T1	a8563781c20c976332d85eef7fafeb53	115	Coils	Coil		5	32	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009011896.1	1d12dafdb0a3e09dfc6404e155f25154	128	MobiDBLite	mobidb-lite	consensus disorder prediction	88	107	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038653-T1	af8aa96e50eda55ff3840830362e812f	71	Coils	Coil		1	21	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038653-T1	af8aa96e50eda55ff3840830362e812f	71	Coils	Coil		39	59	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038653-T1	af8aa96e50eda55ff3840830362e812f	71	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62418-3.6	094c0182a7b66406736bf2ac65b36ec6	160	PANTHER	PTHR34153		6	158	1.4E-21	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62418-3.6	094c0182a7b66406736bf2ac65b36ec6	160	PANTHER	PTHR34153:SF5		6	158	1.4E-21	T	31-10-2018
+Capitella_teleta_CTE|ELU06147.1	10446d786ee55429d1f04471241c3b8b	267	Pfam	PF16064	Domain of unknown function (DUF4806)	130	222	4.6E-7	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Capitella_teleta_CTE|ELU06147.1	10446d786ee55429d1f04471241c3b8b	267	PANTHER	PTHR34153		104	265	2.1E-30	T	31-10-2018
+Capitella_teleta_CTE|ELU06147.1	10446d786ee55429d1f04471241c3b8b	267	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	31-10-2018
+Capitella_teleta_CTE|ELU06147.1	10446d786ee55429d1f04471241c3b8b	267	PANTHER	PTHR34153:SF5		104	265	2.1E-30	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22054-0.43	a3babe4d9bc6fde3b37200ebc7c35f58	473	MobiDBLite	mobidb-lite	consensus disorder prediction	54	202	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22054-0.43	a3babe4d9bc6fde3b37200ebc7c35f58	473	MobiDBLite	mobidb-lite	consensus disorder prediction	234	473	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g14196.t1	0485c4f78db68e8db42f3450d7a66be0	253	PANTHER	PTHR34153:SF5		95	222	3.4E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g14196.t1	0485c4f78db68e8db42f3450d7a66be0	253	MobiDBLite	mobidb-lite	consensus disorder prediction	204	253	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g14196.t1	0485c4f78db68e8db42f3450d7a66be0	253	PANTHER	PTHR34153		95	222	3.4E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g14196.t1	0485c4f78db68e8db42f3450d7a66be0	253	Pfam	PF10551	MULE transposase domain	3	71	1.8E-16	T	31-10-2018	IPR018289	MULE transposase domain		
+Notospermus_geniculatus_NGE|g14196.t1	0485c4f78db68e8db42f3450d7a66be0	253	Pfam	PF16064	Domain of unknown function (DUF4806)	96	176	1.8E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022228-T1	3bf34f3f85d5c62e5ddb5e13fe59c4d3	411	PANTHER	PTHR34153		55	396	8.0E-34	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022228-T1	3bf34f3f85d5c62e5ddb5e13fe59c4d3	411	MobiDBLite	mobidb-lite	consensus disorder prediction	75	205	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022228-T1	3bf34f3f85d5c62e5ddb5e13fe59c4d3	411	Pfam	PF16064	Domain of unknown function (DUF4806)	260	338	1.1E-10	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_16441-0.6	2c87aee6577d388f29cecd780ad25c2b	64	MobiDBLite	mobidb-lite	consensus disorder prediction	30	64	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23456.t1	d03cfe8cad7e5db7ea38257487482802	199	MobiDBLite	mobidb-lite	consensus disorder prediction	167	199	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009011458.1	f9d7da79c616b4550a5eb434c2b42d3c	252	PANTHER	PTHR34153		103	249	8.9E-32	T	31-10-2018
+Helobdella_robusta_HRO|XP_009011458.1	f9d7da79c616b4550a5eb434c2b42d3c	252	PANTHER	PTHR34153:SF5		103	249	8.9E-32	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311966.1	774a51d54c18f6c97f07c12b1f21f6ae	180	Pfam	PF16064	Domain of unknown function (DUF4806)	40	119	1.7E-9	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Crassostrea_virginica_CVI|XP_022311966.1	774a51d54c18f6c97f07c12b1f21f6ae	180	PANTHER	PTHR34153:SF5		4	175	6.5E-41	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311966.1	774a51d54c18f6c97f07c12b1f21f6ae	180	PANTHER	PTHR34153		4	175	6.5E-41	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022311966.1	774a51d54c18f6c97f07c12b1f21f6ae	180	MobiDBLite	mobidb-lite	consensus disorder prediction	151	180	-	T	31-10-2018
+Chlamys_farreri_CFA|CF21233.5	74f8ad10ef1e5d863a9d6ec2d531ea2d	69	MobiDBLite	mobidb-lite	consensus disorder prediction	39	69	-	T	31-10-2018
+Chlamys_farreri_CFA|CF21233.5	74f8ad10ef1e5d863a9d6ec2d531ea2d	69	Coils	Coil		39	66	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351747.1	6356f4684ce495279e290b1f9b3dab09	267	PANTHER	PTHR34153		73	255	6.6E-34	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351747.1	6356f4684ce495279e290b1f9b3dab09	267	PANTHER	PTHR34153:SF5		73	255	6.6E-34	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351747.1	6356f4684ce495279e290b1f9b3dab09	267	Pfam	PF16064	Domain of unknown function (DUF4806)	115	196	1.5E-11	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Mizuhopecten_yessoensis_MYE|XP_021351747.1	6356f4684ce495279e290b1f9b3dab09	267	MobiDBLite	mobidb-lite	consensus disorder prediction	223	267	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T11258	aa3377304994c010b76a714596c30d9f	66	PANTHER	PTHR34153:SF5		5	65	1.7E-14	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T11258	aa3377304994c010b76a714596c30d9f	66	PANTHER	PTHR34153		5	65	1.7E-14	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_22301-0.18	c67564a76f7cc22dfc23971631c2ed12	199	PANTHER	PTHR34153:SF5		4	174	3.4E-35	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_22301-0.18	c67564a76f7cc22dfc23971631c2ed12	199	PANTHER	PTHR34153		4	174	3.4E-35	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_22301-0.18	c67564a76f7cc22dfc23971631c2ed12	199	Pfam	PF16064	Domain of unknown function (DUF4806)	42	121	8.7E-8	T	31-10-2018	IPR032071	Domain of unknown function DUF4806		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_54796-2.3	6513117603df179fda98fea97eb83160	120	MobiDBLite	mobidb-lite	consensus disorder prediction	101	120	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009013450.1	8a3977d4efb1c30f0756fe09043bba8b	119	PANTHER	PTHR34153		3	116	1.2E-25	T	31-10-2018
+Helobdella_robusta_HRO|XP_009013450.1	8a3977d4efb1c30f0756fe09043bba8b	119	PANTHER	PTHR34153:SF5		3	116	1.2E-25	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035535-T1	85a3cb0a1f3b77f935707cd8a35b42cb	207	MobiDBLite	mobidb-lite	consensus disorder prediction	1	105	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035535-T1	85a3cb0a1f3b77f935707cd8a35b42cb	207	PANTHER	PTHR34153		65	207	2.0E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035535-T1	85a3cb0a1f3b77f935707cd8a35b42cb	207	Coils	Coil		117	144	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08932.1	c366a1809769e881ebfcf22dde934d2c	203	MobiDBLite	mobidb-lite	consensus disorder prediction	1	52	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08932.1	c366a1809769e881ebfcf22dde934d2c	203	Coils	Coil		60	80	-	T	31-10-2018
+Capitella_teleta_CTE|ELU08932.1	c366a1809769e881ebfcf22dde934d2c	203	PANTHER	PTHR34153		65	202	2.0E-14	T	31-10-2018
+Capitella_teleta_CTE|ELU08932.1	c366a1809769e881ebfcf22dde934d2c	203	PANTHER	PTHR34153:SF5		65	202	2.0E-14	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011457062.1	6fa4dd6f7fe495f3249d103f57326931	264	MobiDBLite	mobidb-lite	consensus disorder prediction	47	155	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011457062.1	6fa4dd6f7fe495f3249d103f57326931	264	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016791-T1	c28d0834b937ede23eec2506b2744d0a	90	MobiDBLite	mobidb-lite	consensus disorder prediction	64	90	-	T	31-10-2018
+Macrostomum_lignano_MLI|PAA52815.1	2ffeba585c4862359e6b7f018a24c022	181	MobiDBLite	mobidb-lite	consensus disorder prediction	139	181	-	T	31-10-2018
+Macrostomum_lignano_MLI|PAA52815.1	2ffeba585c4862359e6b7f018a24c022	181	PANTHER	PTHR34153:SF5		14	158	1.7E-14	T	31-10-2018
+Macrostomum_lignano_MLI|PAA52815.1	2ffeba585c4862359e6b7f018a24c022	181	PANTHER	PTHR34153		14	158	1.7E-14	T	31-10-2018
+Lingula_anatina_LAN|XP_013402491.1	8ba47802e52f828ba3cc6160758565e7	120	PANTHER	PTHR34153		1	100	2.6E-25	T	31-10-2018
+Lingula_anatina_LAN|XP_013402491.1	8ba47802e52f828ba3cc6160758565e7	120	PANTHER	PTHR34153:SF5		1	100	2.6E-25	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28612-0.5	8cd1d37c52beac5f642805c1a2b686a9	57	MobiDBLite	mobidb-lite	consensus disorder prediction	29	57	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003359-T1	d4a317ca98ab8f5a3a0a1b2e64e7f684	130	MobiDBLite	mobidb-lite	consensus disorder prediction	96	130	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_50876-6.12	0320deef2ec70065dbeeb0de32558350	57	MobiDBLite	mobidb-lite	consensus disorder prediction	26	57	-	T	31-10-2018
+Lingula_anatina_LAN|XP_013402490.1	877eb5501c7f7e89b5bb3789ece26356	103	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g18669.t1	5c2f098efe638b48ec60cfcfe7c68bf3	95	MobiDBLite	mobidb-lite	consensus disorder prediction	1	47	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_20513-0.50	ca09ffe819e30bdfa28e60958824f1a2	159	PANTHER	PTHR34153:SF5		50	151	9.1E-21	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_20513-0.50	ca09ffe819e30bdfa28e60958824f1a2	159	PANTHER	PTHR34153		50	151	9.1E-21	T	31-10-2018

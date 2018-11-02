@@ -1,0 +1,656 @@
+Crassostrea_gigas_CGI|XP_019925012.1	51d6ba5d4e776392fa869550d54196d5	156	PANTHER	PTHR11360:SF222		11	111	7.5E-17	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019925012.1	51d6ba5d4e776392fa869550d54196d5	156	SUPERFAMILY	SSF103473		3	142	1.57E-8	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_gigas_CGI|XP_019925012.1	51d6ba5d4e776392fa869550d54196d5	156	PANTHER	PTHR11360		11	111	7.5E-17	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019925012.1	51d6ba5d4e776392fa869550d54196d5	156	PANTHER	PTHR11360		110	152	7.5E-17	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019925012.1	51d6ba5d4e776392fa869550d54196d5	156	PANTHER	PTHR11360:SF222		110	152	7.5E-17	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	Gene3D	G3DSA:1.20.1250.20		1	429	1.7E-38	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	Pfam	PF07690	Major Facilitator Superfamily	20	356	9.9E-26	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	CDD	cd06174	MFS	13	421	3.883E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	PANTHER	PTHR11360:SF28		10	429	1.0E-73	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	SUPERFAMILY	SSF103473		11	191	7.98E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	SUPERFAMILY	SSF103473		229	433	7.98E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322392.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	PANTHER	PTHR11360		10	429	1.0E-73	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	Gene3D	G3DSA:1.20.1250.20		1	429	1.7E-38	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	Pfam	PF07690	Major Facilitator Superfamily	20	356	9.9E-26	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	CDD	cd06174	MFS	13	421	3.883E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	PANTHER	PTHR11360:SF28		10	429	1.0E-73	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	SUPERFAMILY	SSF103473		11	191	7.98E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	SUPERFAMILY	SSF103473		229	433	7.98E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322401.1	e7fe0b1c0251f0cc9c426d713e0101aa	447	PANTHER	PTHR11360		10	429	1.0E-73	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	15	426	11.186	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	Pfam	PF07690	Major Facilitator Superfamily	20	304	1.2E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	22	5.0	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	CDD	cd06174	MFS	19	420	9.93488E-31	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	PANTHER	PTHR11360		8	426	1.4E-95	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	MobiDBLite	mobidb-lite	consensus disorder prediction	211	230	-	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	PANTHER	PTHR11360:SF28		8	426	1.4E-95	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	Gene3D	G3DSA:1.20.1250.20		3	426	3.0E-47	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.12	5217b6b9ef4e219a4097bf90a26967c1	508	SUPERFAMILY	SSF103473		8	420	5.75E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	Gene3D	G3DSA:1.20.1250.20		216	400	2.6E-15	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	223	438	10.569	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	Gene3D	G3DSA:1.20.1250.20		1	182	3.9E-17	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	SUPERFAMILY	SSF103473		2	399	2.35E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	CDD	cd06174	MFS	1	393	6.97361E-20	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	Pfam	PF07690	Major Facilitator Superfamily	3	189	6.8E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	Pfam	PF07690	Major Facilitator Superfamily	228	398	8.8E-13	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.11	4258a1c4bbfd983ab2bfbf139ae40c4f	438	PANTHER	PTHR11360		3	393	1.6E-80	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	Pfam	PF07690	Major Facilitator Superfamily	7	172	5.6E-23	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	Gene3D	G3DSA:1.20.1250.20		323	471	1.7E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	SUPERFAMILY	SSF103473		4	185	1.19E-44	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	SUPERFAMILY	SSF103473		319	469	1.19E-44	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	Gene3D	G3DSA:1.20.1250.20		1	206	2.7E-25	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	174	11.42	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	CDD	cd06174	MFS	366	467	9.62978E-5	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	PANTHER	PTHR11360		2	468	4.3E-79	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032929-T1	c8e56e2d1b4c406a040aaa450adbcce5	478	CDD	cd06174	MFS	4	172	1.12487E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	SUPERFAMILY	SSF103473		236	622	1.24E-44	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	Pfam	PF07690	Major Facilitator Superfamily	245	558	8.6E-26	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	CDD	cd06174	MFS	237	614	2.65992E-29	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	Gene3D	G3DSA:1.20.1250.20		434	623	2.6E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	Gene3D	G3DSA:1.20.1250.20		229	417	5.6E-19	T	31-10-2018
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	PANTHER	PTHR11360		235	608	1.0E-67	T	31-10-2018
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	234	619	14.951	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g25190.t1	4ff5a5dae07a0c2b0362b9715af9f16e	681	MobiDBLite	mobidb-lite	consensus disorder prediction	100	121	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036316-T1	fe649af93ead8b397ff6821e7357d539	117	Gene3D	G3DSA:1.20.1250.20		1	115	4.2E-8	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036316-T1	fe649af93ead8b397ff6821e7357d539	117	PANTHER	PTHR11360		2	111	4.0E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036316-T1	fe649af93ead8b397ff6821e7357d539	117	SUPERFAMILY	SSF103473		2	113	1.96E-9	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	Gene3D	G3DSA:1.20.1250.20		44	257	1.0E-16	T	31-10-2018
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	45	454	16.205	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	PANTHER	PTHR11360:SF28		32	456	9.9E-78	T	31-10-2018
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	Gene3D	G3DSA:1.20.1250.20		264	464	1.0E-25	T	31-10-2018
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	MobiDBLite	mobidb-lite	consensus disorder prediction	462	481	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	CDD	cd06174	MFS	49	449	1.73058E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	Pfam	PF07690	Major Facilitator Superfamily	55	367	8.2E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	SUPERFAMILY	SSF103473		38	455	6.41E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Notospermus_geniculatus_NGE|g3205.t1	31b4a0cde550a19c8e00d0203030e1f0	481	PANTHER	PTHR11360		32	456	9.9E-78	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	MobiDBLite	mobidb-lite	consensus disorder prediction	294	314	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	CDD	cd06174	MFS	360	493	5.05644E-7	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	Gene3D	G3DSA:1.20.1250.20		356	493	6.4E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	PANTHER	PTHR11360		19	492	6.5E-74	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	SUPERFAMILY	SSF103473		23	211	8.76E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	SUPERFAMILY	SSF103473		344	492	8.76E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	Pfam	PF07690	Major Facilitator Superfamily	32	199	1.1E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	CDD	cd06174	MFS	68	198	1.5554E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_027337-T1	9ee26abe1f68378587504049004de8ff	493	Gene3D	G3DSA:1.20.1250.20		3	248	1.1E-27	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	Pfam	PF07690	Major Facilitator Superfamily	52	308	1.2E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	PANTHER	PTHR11360		8	426	7.2E-92	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	CDD	cd06174	MFS	24	422	2.29172E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	22	429	11.122	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	SUPERFAMILY	SSF103473		13	422	4.84E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	27	5.0	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	Gene3D	G3DSA:1.20.1250.20		12	424	4.8E-40	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378223.1	cc4b9a57debb1a2480fce4bafb565a41	519	PANTHER	PTHR11360:SF28		8	426	7.2E-92	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	Pfam	PF07690	Major Facilitator Superfamily	52	308	1.2E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	PANTHER	PTHR11360		8	426	7.2E-92	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	CDD	cd06174	MFS	24	422	2.29172E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	22	429	11.122	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	SUPERFAMILY	SSF103473		13	422	4.84E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	27	5.0	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	Gene3D	G3DSA:1.20.1250.20		12	424	4.8E-40	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378226.1	cc4b9a57debb1a2480fce4bafb565a41	519	PANTHER	PTHR11360:SF28		8	426	7.2E-92	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	Pfam	PF07690	Major Facilitator Superfamily	52	308	1.2E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	PANTHER	PTHR11360		8	426	7.2E-92	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	CDD	cd06174	MFS	24	422	2.29172E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	22	429	11.122	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	SUPERFAMILY	SSF103473		13	422	4.84E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	27	5.0	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	Gene3D	G3DSA:1.20.1250.20		12	424	4.8E-40	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378225.1	cc4b9a57debb1a2480fce4bafb565a41	519	PANTHER	PTHR11360:SF28		8	426	7.2E-92	T	31-10-2018
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	SUPERFAMILY	SSF103473		4	388	6.02E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	PANTHER	PTHR11360		3	386	2.3E-92	T	31-10-2018
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	CDD	cd06174	MFS	13	392	1.11008E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	239	392	12.505	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	Gene3D	G3DSA:1.20.1250.20		2	391	1.1E-38	T	31-10-2018
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	Pfam	PF07690	Major Facilitator Superfamily	17	381	2.2E-32	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lottia_gigantea_LGI|XP_009044399.1	137182575e9e01ab0cef411624a4d0df	392	PANTHER	PTHR11360:SF28		3	386	2.3E-92	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	CDD	cd06174	MFS	1	423	3.06588E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	PANTHER	PTHR11360		5	418	1.4E-79	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	MobiDBLite	mobidb-lite	consensus disorder prediction	203	228	-	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	Pfam	PF07690	Major Facilitator Superfamily	8	307	1.5E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	SUPERFAMILY	SSF103473		231	425	1.83E-55	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	SUPERFAMILY	SSF103473		5	180	1.83E-55	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.9	67e2544d3939ff6bec858f9c1d6ac6f9	478	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	429	13.015	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322372.1	668631621aa083428381ca0442fcfc65	437	SUPERFAMILY	SSF103473		219	417	2.22E-46	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322372.1	668631621aa083428381ca0442fcfc65	437	SUPERFAMILY	SSF103473		11	190	2.22E-46	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322372.1	668631621aa083428381ca0442fcfc65	437	Pfam	PF07690	Major Facilitator Superfamily	63	324	3.5E-24	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022322372.1	668631621aa083428381ca0442fcfc65	437	MobiDBLite	mobidb-lite	consensus disorder prediction	185	205	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322372.1	668631621aa083428381ca0442fcfc65	437	CDD	cd06174	MFS	11	411	7.47604E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322372.1	668631621aa083428381ca0442fcfc65	437	PANTHER	PTHR11360		11	408	2.8E-71	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	Pfam	PF07690	Major Facilitator Superfamily	18	289	1.3E-23	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	PANTHER	PTHR11360:SF28		10	412	3.5E-84	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	CDD	cd06174	MFS	4	405	2.80621E-20	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	SUPERFAMILY	SSF103473		5	405	1.96E-52	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	PANTHER	PTHR11360		10	412	3.5E-84	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	Gene3D	G3DSA:1.20.1250.20		1	408	3.3E-44	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.13	89756a59484a1f53bf668b8451107dd3	450	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	418	13.611	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	MobiDBLite	mobidb-lite	consensus disorder prediction	199	247	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	SUPERFAMILY	SSF103473		2	182	1.12E-47	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	SUPERFAMILY	SSF103473		341	504	1.12E-47	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	Pfam	PF07690	Major Facilitator Superfamily	4	500	4.5E-28	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	Gene3D	G3DSA:1.20.1250.20		1	202	1.7E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	CDD	cd06174	MFS	1	169	5.97281E-13	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	PANTHER	PTHR11360:SF128		3	504	1.7E-77	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	PANTHER	PTHR11360		3	504	1.7E-77	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	Gene3D	G3DSA:1.20.1250.20		320	521	2.7E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035449-T1	ddd571e76c85d86545b3700d29824727	531	CDD	cd06174	MFS	350	502	1.08013E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_gigas_CGI|XP_011435008.1	68e15edfcbe014d2761068193bbbd289	435	CDD	cd06174	MFS	13	419	6.37692E-18	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_gigas_CGI|XP_011435008.1	68e15edfcbe014d2761068193bbbd289	435	Pfam	PF07690	Major Facilitator Superfamily	30	331	1.0E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_gigas_CGI|XP_011435008.1	68e15edfcbe014d2761068193bbbd289	435	PANTHER	PTHR11360		11	414	6.9E-78	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011435008.1	68e15edfcbe014d2761068193bbbd289	435	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	244	435	12.143	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_gigas_CGI|XP_011435008.1	68e15edfcbe014d2761068193bbbd289	435	SUPERFAMILY	SSF103473		226	421	6.93E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_gigas_CGI|XP_011435008.1	68e15edfcbe014d2761068193bbbd289	435	SUPERFAMILY	SSF103473		3	192	6.93E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	CDD	cd06174	MFS	76	251	1.70284E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	447	644	16.439	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	PANTHER	PTHR11360		71	619	9.3E-99	T	31-10-2018
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	Gene3D	G3DSA:1.20.1250.20		59	280	5.4E-22	T	31-10-2018
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	Pfam	PF07690	Major Facilitator Superfamily	86	256	1.7E-16	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	Pfam	PF07690	Major Facilitator Superfamily	452	622	2.9E-17	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	CDD	cd06174	MFS	448	616	1.34349E-19	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	MobiDBLite	mobidb-lite	consensus disorder prediction	393	414	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	SUPERFAMILY	SSF103473		73	262	3.14E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	SUPERFAMILY	SSF103473		430	633	3.14E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	Gene3D	G3DSA:1.20.1250.20		439	631	2.5E-22	T	31-10-2018
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	MobiDBLite	mobidb-lite	consensus disorder prediction	1	53	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005106012.2	57d7c85fbe46b892304062a8be0dad6d	644	MobiDBLite	mobidb-lite	consensus disorder prediction	258	287	-	T	31-10-2018
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	Pfam	PF07690	Major Facilitator Superfamily	38	356	1.5E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	CDD	cd06174	MFS	33	351	1.04132E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	PANTHER	PTHR11360		344	383	5.3E-85	T	31-10-2018
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	PANTHER	PTHR11360		22	343	5.3E-85	T	31-10-2018
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	SUPERFAMILY	SSF103473		25	381	2.88E-41	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	Gene3D	G3DSA:1.20.1250.20		14	384	2.2E-31	T	31-10-2018
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	PANTHER	PTHR11360:SF28		22	343	5.3E-85	T	31-10-2018
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	28	412	10.527	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU11768.1	6fdf7279ffaa8b13b91311270b1308d6	412	PANTHER	PTHR11360:SF28		344	383	5.3E-85	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	SUPERFAMILY	SSF103473		13	422	7.06E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	CDD	cd06174	MFS	24	422	2.12598E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	PANTHER	PTHR11360		8	426	2.1E-93	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	27	5.0	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	PANTHER	PTHR11360:SF28		8	426	2.1E-93	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	Pfam	PF07690	Major Facilitator Superfamily	52	308	1.1E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	Gene3D	G3DSA:1.20.1250.20		12	424	1.2E-39	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378224.1	51173bbba252969addddbed6b314f107	519	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	243	519	10.973	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	Gene3D	G3DSA:1.20.1250.20		50	454	1.3E-45	T	31-10-2018
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	SUPERFAMILY	SSF103473		54	452	2.62E-61	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	PANTHER	PTHR11360		54	453	3.5E-107	T	31-10-2018
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	CDD	cd06174	MFS	65	449	7.30984E-29	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	60	458	17.077	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	Pfam	PF07690	Major Facilitator Superfamily	70	374	7.5E-30	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Capitella_teleta_CTE|ELU08617.1	80b92d7b00a3633ce639c36fb27cf997	475	PANTHER	PTHR11360:SF28		54	453	3.5E-107	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_37242-0.6	847c45787d1b8106cdfe10b1347a061e	320	Pfam	PF07690	Major Facilitator Superfamily	14	300	2.0E-16	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_37242-0.6	847c45787d1b8106cdfe10b1347a061e	320	SUPERFAMILY	SSF103473		5	317	6.28E-31	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_37242-0.6	847c45787d1b8106cdfe10b1347a061e	320	CDD	cd06174	MFS	16	317	1.632E-4	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_37242-0.6	847c45787d1b8106cdfe10b1347a061e	320	PANTHER	PTHR11360		9	319	4.8E-56	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_37242-0.6	847c45787d1b8106cdfe10b1347a061e	320	Gene3D	G3DSA:1.20.1250.20		1	319	4.9E-22	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	PANTHER	PTHR11360:SF128		28	488	3.3E-68	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	PANTHER	PTHR11360		28	488	3.3E-68	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	Pfam	PF07690	Major Facilitator Superfamily	43	215	7.7E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	SUPERFAMILY	SSF103473		401	499	1.1E-40	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	SUPERFAMILY	SSF103473		27	237	1.1E-40	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	Gene3D	G3DSA:1.20.1250.20		383	508	2.0E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	Gene3D	G3DSA:1.20.1250.20		17	252	9.0E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003072-T1	018a12f166c1ab5318cc4ab32433db72	569	CDD	cd06174	MFS	35	214	1.84083E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	PANTHER	PTHR11360:SF28		25	419	3.8E-92	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	Pfam	PF07690	Major Facilitator Superfamily	26	267	1.6E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	Gene3D	G3DSA:1.20.1250.20		10	416	1.9E-45	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	SUPERFAMILY	SSF103473		21	413	2.22E-58	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	16	419	14.589	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	PANTHER	PTHR11360		25	419	3.8E-92	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19607	2c53ec448f76cd8c825663f405d7e961	499	CDD	cd06174	MFS	22	413	1.33729E-29	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	SUPERFAMILY	SSF103473		34	374	9.42E-33	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	Pfam	PF07690	Major Facilitator Superfamily	54	313	6.0E-15	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	PANTHER	PTHR11360		70	372	1.7E-61	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	PANTHER	PTHR11360		5	66	1.7E-61	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	PANTHER	PTHR11360:SF28		70	372	1.7E-61	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	PANTHER	PTHR11360:SF28		5	66	1.7E-61	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	Gene3D	G3DSA:1.20.1250.20		2	374	5.2E-25	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_67531-0.7	97820286117cc5ba8bbb2cb9089b129c	419	CDD	cd06174	MFS	54	370	4.48438E-11	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	PANTHER	PTHR11360		10	421	7.1E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	MobiDBLite	mobidb-lite	consensus disorder prediction	195	215	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	CDD	cd06174	MFS	13	421	4.62775E-18	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	SUPERFAMILY	SSF103473		229	427	1.31E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	SUPERFAMILY	SSF103473		11	200	1.31E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	PANTHER	PTHR11360:SF28		10	421	7.1E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322364.1	b7c24bc308a824670e1ff14b9ff58463	447	Pfam	PF07690	Major Facilitator Superfamily	20	333	1.6E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	PANTHER	PTHR11360		10	421	7.1E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	MobiDBLite	mobidb-lite	consensus disorder prediction	195	215	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	CDD	cd06174	MFS	13	421	4.62775E-18	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	SUPERFAMILY	SSF103473		229	427	1.31E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	SUPERFAMILY	SSF103473		11	200	1.31E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	PANTHER	PTHR11360:SF28		10	421	7.1E-76	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322354.1	b7c24bc308a824670e1ff14b9ff58463	447	Pfam	PF07690	Major Facilitator Superfamily	20	333	1.6E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	SUPERFAMILY	SSF103473		1	122	1.24E-44	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	SUPERFAMILY	SSF103473		151	349	1.24E-44	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	PANTHER	PTHR11360:SF28		2	343	4.3E-66	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	MobiDBLite	mobidb-lite	consensus disorder prediction	117	137	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	Pfam	PF07690	Major Facilitator Superfamily	1	256	2.0E-24	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	PANTHER	PTHR11360		2	343	4.3E-66	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322380.1	3cf0185dc8b84282c915c0bc45eebcc2	369	CDD	cd06174	MFS	24	343	7.10652E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	CDD	cd06174	MFS	15	384	9.43924E-25	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	11	414	10.272	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	Gene3D	G3DSA:1.20.1250.20		2	411	7.8E-43	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	28	6.0	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	SUPERFAMILY	SSF103473		8	409	1.11E-54	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	PANTHER	PTHR11360		4	409	2.4E-78	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	Pfam	PF07690	Major Facilitator Superfamily	238	416	6.1E-17	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	Pfam	PF07690	Major Facilitator Superfamily	20	201	5.7E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.10	cf4be4788e78ab43dde25917766e87c4	453	PANTHER	PTHR11360:SF28		4	409	2.4E-78	T	31-10-2018
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	PANTHER	PTHR11360		55	421	1.9E-71	T	31-10-2018
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	Pfam	PF07690	Major Facilitator Superfamily	60	383	6.7E-23	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	CDD	cd06174	MFS	60	428	2.66184E-24	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	50	432	17.354	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	Gene3D	G3DSA:1.20.1250.20		42	237	7.1E-14	T	31-10-2018
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	Gene3D	G3DSA:1.20.1250.20		242	432	1.7E-18	T	31-10-2018
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	31-10-2018
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	SUPERFAMILY	SSF103473		37	428	1.31E-57	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lingula_anatina_LAN|XP_013386029.1	c6d5f31f1d313abc4a1229e7587a439d	453	PANTHER	PTHR11360:SF128		55	421	1.9E-71	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	22	5.0	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	MobiDBLite	mobidb-lite	consensus disorder prediction	1024	1045	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	SUPERFAMILY	SSF103473		511	696	2.62E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	SUPERFAMILY	SSF103473		793	985	2.62E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	PANTHER	PTHR11360		515	986	1.2E-172	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Coils	Coil		1066	1066	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	PANTHER	PTHR11360:SF28		515	986	1.2E-172	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	CDD	cd06174	MFS	513	984	3.2674E-21	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	PANTHER	PTHR11360		8	418	1.2E-172	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	PANTHER	PTHR11360:SF28		8	418	1.2E-172	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	MobiDBLite	mobidb-lite	consensus disorder prediction	762	789	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	511	998	13.419	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	SUPERFAMILY	SSF103473		7	412	6.8E-61	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	15	418	15.078	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Gene3D	G3DSA:1.20.1250.20		6	415	4.4E-46	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Gene3D	G3DSA:1.20.1250.20		496	720	1.7E-25	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Gene3D	G3DSA:1.20.1250.20		782	987	9.2E-23	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	CDD	cd06174	MFS	19	412	1.611E-31	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Pfam	PF07690	Major Facilitator Superfamily	520	706	1.8E-19	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Pfam	PF07690	Major Facilitator Superfamily	20	296	2.8E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021352466.1	45f6056610f8978f597f61ccdc6c9cbb	1066	Pfam	PF07690	Major Facilitator Superfamily	817	1005	8.7E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	MobiDBLite	mobidb-lite	consensus disorder prediction	568	619	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	CDD	cd06174	MFS	130	541	2.77538E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	Gene3D	G3DSA:1.20.1250.20		120	553	4.9E-40	T	31-10-2018
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	PANTHER	PTHR11360		128	534	1.4E-86	T	31-10-2018
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	SUPERFAMILY	SSF103473		345	553	1.31E-52	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	SUPERFAMILY	SSF103473		122	315	1.31E-52	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	MobiDBLite	mobidb-lite	consensus disorder prediction	92	113	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	Pfam	PF07690	Major Facilitator Superfamily	371	543	2.4E-14	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Aplysia_californica_ACA|XP_005113013.2	4e064151e8b7a415808d65acd99ff3d7	619	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	363	619	10.846	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	17	424	11.122	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	SUPERFAMILY	SSF103473		9	417	4.19E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	PANTHER	PTHR11360:SF28		5	421	2.9E-91	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	Pfam	PF07690	Major Facilitator Superfamily	47	303	1.2E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	CDD	cd06174	MFS	19	417	4.25931E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	PANTHER	PTHR11360		5	421	2.9E-91	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	Gene3D	G3DSA:1.20.1250.20		8	419	3.5E-40	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23991	22e046835e1cb0c6c2a0ac5a5079e2e9	514	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	22	6.0	T	31-10-2018
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	MobiDBLite	mobidb-lite	consensus disorder prediction	465	517	-	T	31-10-2018
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	PANTHER	PTHR11360		6	424	3.1E-94	T	31-10-2018
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	CDD	cd06174	MFS	24	422	1.43743E-26	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	Gene3D	G3DSA:1.20.1250.20		13	424	1.5E-40	T	31-10-2018
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	PANTHER	PTHR11360:SF28		6	424	3.1E-94	T	31-10-2018
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	SUPERFAMILY	SSF103473		13	422	8.5E-52	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	Pfam	PF07690	Major Facilitator Superfamily	53	262	1.7E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	27	6.0	T	31-10-2018
+Chlamys_farreri_CFA|CF41195.1	51a180d7de5292e755d2a7384e9a010b	517	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	22	429	11.697	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_28037-0.15	b68d5879ccb792438ca994de2416e3d5	383	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	349	8.889	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_28037-0.15	b68d5879ccb792438ca994de2416e3d5	383	Gene3D	G3DSA:1.20.1250.20		1	355	4.9E-22	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28037-0.15	b68d5879ccb792438ca994de2416e3d5	383	CDD	cd06174	MFS	1	343	2.40203E-7	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_28037-0.15	b68d5879ccb792438ca994de2416e3d5	383	SUPERFAMILY	SSF103473		1	350	2.22E-33	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_28037-0.15	b68d5879ccb792438ca994de2416e3d5	383	Pfam	PF07690	Major Facilitator Superfamily	1	277	9.1E-12	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_28037-0.15	b68d5879ccb792438ca994de2416e3d5	383	PANTHER	PTHR11360		1	341	1.2E-61	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	Gene3D	G3DSA:1.20.1250.20		4	424	5.6E-48	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	PANTHER	PTHR11360		5	426	1.1E-99	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	SUPERFAMILY	SSF103473		226	419	1.18E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	SUPERFAMILY	SSF103473		7	198	1.18E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	PANTHER	PTHR11360:SF28		5	426	1.1E-99	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	Pfam	PF07690	Major Facilitator Superfamily	23	328	7.3E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	CDD	cd06174	MFS	19	419	1.62482E-27	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	22	7.0	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021355715.1	3edba0c87bc0ab5f7bfebdc4f78e3090	492	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	15	425	14.632	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	Gene3D	G3DSA:1.20.1250.20		4	424	5.6E-48	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	PANTHER	PTHR11360		5	426	1.1E-99	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	SUPERFAMILY	SSF103473		226	419	1.18E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	SUPERFAMILY	SSF103473		7	198	1.18E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	PANTHER	PTHR11360:SF28		5	426	1.1E-99	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	Pfam	PF07690	Major Facilitator Superfamily	23	328	7.3E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	CDD	cd06174	MFS	19	419	1.62482E-27	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	22	7.0	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19473	3edba0c87bc0ab5f7bfebdc4f78e3090	492	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	15	425	14.632	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	CDD	cd06174	MFS	4	365	3.27E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	Gene3D	G3DSA:1.20.1250.20		191	389	1.0E-18	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	SUPERFAMILY	SSF103473		4	380	1.57E-46	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	382	11.292	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	Gene3D	G3DSA:1.20.1250.20		2	168	1.1E-13	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	Pfam	PF07690	Major Facilitator Superfamily	7	335	2.9E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_23301-0.10	c1c49989b6830f1c79e3e775f9a19fb6	411	PANTHER	PTHR11360		1	373	6.5E-67	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	PANTHER	PTHR11360:SF222		54	446	4.0E-93	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	CDD	cd06174	MFS	73	432	1.2113E-25	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	PANTHER	PTHR11360		54	446	4.0E-93	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	Gene3D	G3DSA:1.20.1250.20		259	443	7.7E-22	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	Gene3D	G3DSA:1.20.1250.20		50	238	1.8E-22	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	SUPERFAMILY	SSF103473		48	436	5.89E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	Pfam	PF07690	Major Facilitator Superfamily	68	322	1.7E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	Pfam	PF07690	Major Facilitator Superfamily	324	434	1.4E-11	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Exaiptasia_pallida_EPA|XP_020900740.1	80dc960478cbd29cf6f85ace6ed37cf0	472	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	51	441	15.716	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	PANTHER	PTHR11360:SF28		1	274	5.7E-72	T	31-10-2018
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	PANTHER	PTHR11360		1	274	5.7E-72	T	31-10-2018
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	SUPERFAMILY	SSF103473		6	274	1.19E-36	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	Gene3D	G3DSA:1.20.1250.20		1	274	4.4E-29	T	31-10-2018
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	CDD	cd06174	MFS	6	274	8.83546E-11	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	Pfam	PF07690	Major Facilitator Superfamily	8	274	2.3E-26	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Capitella_teleta_CTE|ELU17634.1	aa93b67e032c610feb0725e6c4ee0ac6	274	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	274	15.121	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	PANTHER	PTHR11360		2	367	4.4E-75	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	CDD	cd06174	MFS	25	372	5.73785E-22	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	Gene3D	G3DSA:1.20.1250.20		23	379	1.0E-35	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	SUPERFAMILY	SSF103473		25	374	5.75E-48	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	Pfam	PF07690	Major Facilitator Superfamily	25	170	1.8E-15	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	Pfam	PF07690	Major Facilitator Superfamily	202	386	7.1E-14	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_52080-0.21	7494021022212ce228982d0d8132e731	408	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	378	9.208	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	Gene3D	G3DSA:1.20.1250.20		7	224	5.4E-26	T	31-10-2018
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	Pfam	PF07690	Major Facilitator Superfamily	23	191	8.1E-24	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	Pfam	PF07690	Major Facilitator Superfamily	337	525	5.1E-17	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	PANTHER	PTHR11360		6	513	8.5E-89	T	31-10-2018
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	CDD	cd06174	MFS	17	505	3.96794E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	Gene3D	G3DSA:1.20.1250.20		319	509	2.8E-20	T	31-10-2018
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	SUPERFAMILY	SSF103473		13	199	3.01E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	SUPERFAMILY	SSF103473		312	508	3.01E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	509	14.355	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Phoronis_australis_PAU|g15776.t1	7186dca5fd7b701efe1b2ea8b02701be	540	PANTHER	PTHR11360:SF28		6	513	8.5E-89	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	SUPERFAMILY	SSF103473		281	486	6.02E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	SUPERFAMILY	SSF103473		8	143	6.02E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	CDD	cd06174	MFS	297	473	1.62777E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	134	11.59	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	Pfam	PF07690	Major Facilitator Superfamily	8	132	1.4E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	Pfam	PF07690	Major Facilitator Superfamily	305	487	2.4E-10	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	Gene3D	G3DSA:1.20.1250.20		4	168	3.2E-21	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	CDD	cd06174	MFS	7	132	1.32754E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	Gene3D	G3DSA:1.20.1250.20		285	484	1.7E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	298	490	8.825	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036314-T1	bb991a1f2bf5cea296e06fc0c707ab77	490	PANTHER	PTHR11360		10	468	1.3E-78	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_66338-0.2	5897ee3e1c566e707799eb83a2cf55e8	349	CDD	cd06174	MFS	1	322	7.01896E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_66338-0.2	5897ee3e1c566e707799eb83a2cf55e8	349	Gene3D	G3DSA:1.20.1250.20		1	332	1.8E-30	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_66338-0.2	5897ee3e1c566e707799eb83a2cf55e8	349	SUPERFAMILY	SSF103473		2	333	1.12E-40	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_66338-0.2	5897ee3e1c566e707799eb83a2cf55e8	349	PANTHER	PTHR11360		4	317	3.8E-58	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_66338-0.2	5897ee3e1c566e707799eb83a2cf55e8	349	Pfam	PF07690	Major Facilitator Superfamily	6	273	9.4E-21	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_66338-0.2	5897ee3e1c566e707799eb83a2cf55e8	349	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	326	9.825	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	PANTHER	PTHR11360		5	456	4.1E-79	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	Pfam	PF07690	Major Facilitator Superfamily	28	335	3.7E-23	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	PANTHER	PTHR11360:SF28		5	456	4.1E-79	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	SUPERFAMILY	SSF103473		8	200	3.66E-57	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	SUPERFAMILY	SSF103473		258	452	3.66E-57	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	19	457	11.824	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.10	0929737c96ae167ce80cc3a87761c8c8	483	CDD	cd06174	MFS	21	452	5.39645E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28185-2.4	1aea6d37e628fd99c86bce2dcc6756a2	455	SUPERFAMILY	SSF103473		6	415	9.42E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28185-2.4	1aea6d37e628fd99c86bce2dcc6756a2	455	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	14	419	11.888	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28185-2.4	1aea6d37e628fd99c86bce2dcc6756a2	455	Gene3D	G3DSA:1.20.1250.20		5	417	2.6E-32	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28185-2.4	1aea6d37e628fd99c86bce2dcc6756a2	455	Pfam	PF07690	Major Facilitator Superfamily	23	378	1.5E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28185-2.4	1aea6d37e628fd99c86bce2dcc6756a2	455	PANTHER	PTHR11360		15	410	1.0E-69	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_28185-2.4	1aea6d37e628fd99c86bce2dcc6756a2	455	CDD	cd06174	MFS	15	413	4.36744E-18	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	PANTHER	PTHR11360		60	432	5.6E-68	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	Gene3D	G3DSA:1.20.1250.20		252	442	8.2E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	Gene3D	G3DSA:1.20.1250.20		133	216	9.9E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	Gene3D	G3DSA:1.20.1250.20		60	132	2.0E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	CDD	cd06174	MFS	62	438	2.30462E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	Pfam	PF07690	Major Facilitator Superfamily	133	397	6.0E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	263	453	10.399	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022613-T1	4ea9af09a1fdaf7e2096c9fbc0332bab	453	SUPERFAMILY	SSF103473		62	437	3.01E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	PANTHER	PTHR11360		1	322	4.9E-57	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	CDD	cd06174	MFS	141	327	9.91173E-11	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	Gene3D	G3DSA:1.20.1250.20		145	329	8.9E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	Gene3D	G3DSA:1.20.1250.20		1	66	5.5E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	SUPERFAMILY	SSF103473		2	83	3.79E-34	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	SUPERFAMILY	SSF103473		135	327	3.79E-34	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	Pfam	PF07690	Major Facilitator Superfamily	162	329	4.0E-12	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_022609-T1	863c1b80be88601f2d683a098ee66dca	342	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	152	342	9.314	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	PANTHER	PTHR11360		4	500	3.5E-85	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	MobiDBLite	mobidb-lite	consensus disorder prediction	292	318	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	Gene3D	G3DSA:1.20.1250.20		317	516	3.4E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	Gene3D	G3DSA:1.20.1250.20		5	215	4.8E-26	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	SUPERFAMILY	SSF103473		8	201	1.23E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	SUPERFAMILY	SSF103473		312	508	1.23E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	CDD	cd06174	MFS	6	178	2.76129E-13	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	Pfam	PF07690	Major Facilitator Superfamily	343	515	1.2E-9	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	Pfam	PF07690	Major Facilitator Superfamily	10	178	2.6E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	511	11.229	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012785-T1	017623ac790a2da2662930b9b7ef07ba	522	CDD	cd06174	MFS	333	509	1.50617E-8	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_029809-T1	fbecfa5fc4400fd4943b75432c8258d4	369	SUPERFAMILY	SSF103473		211	368	2.88E-41	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_029809-T1	fbecfa5fc4400fd4943b75432c8258d4	369	SUPERFAMILY	SSF103473		19	166	2.88E-41	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_029809-T1	fbecfa5fc4400fd4943b75432c8258d4	369	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	150	9.761	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_029809-T1	fbecfa5fc4400fd4943b75432c8258d4	369	Pfam	PF07690	Major Facilitator Superfamily	19	351	1.2E-28	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_029809-T1	fbecfa5fc4400fd4943b75432c8258d4	369	PANTHER	PTHR11360		15	362	4.4E-68	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029809-T1	fbecfa5fc4400fd4943b75432c8258d4	369	CDD	cd06174	MFS	19	360	2.44697E-11	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	PANTHER	PTHR11360:SF28		32	456	1.2E-77	T	31-10-2018
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	Gene3D	G3DSA:1.20.1250.20		44	257	1.0E-16	T	31-10-2018
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	PANTHER	PTHR11360		32	456	1.2E-77	T	31-10-2018
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	MobiDBLite	mobidb-lite	consensus disorder prediction	462	481	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	Gene3D	G3DSA:1.20.1250.20		264	464	4.0E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	Pfam	PF07690	Major Facilitator Superfamily	55	367	8.5E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	CDD	cd06174	MFS	49	449	1.47827E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	45	454	16.163	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g41900.t1	da0ab663082f5a152d911371f64b35c6	481	SUPERFAMILY	SSF103473		38	455	4.19E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	MobiDBLite	mobidb-lite	consensus disorder prediction	263	296	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	Gene3D	G3DSA:1.20.1250.20		5	226	1.9E-20	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	Pfam	PF07690	Major Facilitator Superfamily	26	518	4.1E-30	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	CDD	cd06174	MFS	385	563	8.74587E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	CDD	cd06174	MFS	22	197	1.01286E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	SUPERFAMILY	SSF103473		368	569	1.57E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	SUPERFAMILY	SSF103473		14	215	1.57E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	PANTHER	PTHR11360		18	557	2.3E-91	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006081-T1	a88b0a5599fa77dc6c5919caf44ac0c5	677	Gene3D	G3DSA:1.20.1250.20		377	576	1.9E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036321-T1	6a472a816b3d0f789d095473900bc4a7	479	PANTHER	PTHR11360		19	461	1.1E-82	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036321-T1	6a472a816b3d0f789d095473900bc4a7	479	CDD	cd06174	MFS	30	461	8.0924E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036321-T1	6a472a816b3d0f789d095473900bc4a7	479	Pfam	PF07690	Major Facilitator Superfamily	29	211	1.1E-19	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_036321-T1	6a472a816b3d0f789d095473900bc4a7	479	SUPERFAMILY	SSF103473		271	465	7.85E-52	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036321-T1	6a472a816b3d0f789d095473900bc4a7	479	SUPERFAMILY	SSF103473		13	200	7.85E-52	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	Gene3D	G3DSA:1.20.1250.20		7	226	2.3E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	CDD	cd06174	MFS	387	565	2.8284E-8	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	CDD	cd06174	MFS	22	197	1.74836E-18	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	MobiDBLite	mobidb-lite	consensus disorder prediction	269	295	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	SUPERFAMILY	SSF103473		13	215	2.09E-57	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	SUPERFAMILY	SSF103473		368	563	2.09E-57	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	Gene3D	G3DSA:1.20.1250.20		353	564	1.3E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	Pfam	PF07690	Major Facilitator Superfamily	26	519	4.3E-31	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006085-T1	8eb2b31c4708a16eea8549c3f5ff88ad	571	PANTHER	PTHR11360		18	557	2.4E-88	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	Gene3D	G3DSA:1.20.1250.20		38	438	5.3E-37	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	Pfam	PF07690	Major Facilitator Superfamily	61	423	1.5E-28	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	CDD	cd06174	MFS	59	432	2.68352E-30	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	PANTHER	PTHR11360		52	428	5.1E-72	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	SUPERFAMILY	SSF103473		54	238	7.46E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022611-T1	eb143835805bb0494c6c0311a76b173f	620	SUPERFAMILY	SSF103473		266	432	7.46E-50	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022343800.1	d3c6858fa9d1d478ef23ba327c9072d7	273	Gene3D	G3DSA:1.20.1250.20		10	228	5.7E-18	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022343800.1	d3c6858fa9d1d478ef23ba327c9072d7	273	SUPERFAMILY	SSF103473		9	245	4.97E-25	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022343800.1	d3c6858fa9d1d478ef23ba327c9072d7	273	PANTHER	PTHR11360		17	212	6.9E-52	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022343800.1	d3c6858fa9d1d478ef23ba327c9072d7	273	CDD	cd06174	MFS	17	202	1.38775E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022343800.1	d3c6858fa9d1d478ef23ba327c9072d7	273	Pfam	PF07690	Major Facilitator Superfamily	37	195	9.2E-16	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_11404-0.3	73ff3e9a48e5fc718f58af9761cdb2a1	331	Gene3D	G3DSA:1.20.1250.20		5	89	8.1E-8	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_11404-0.3	73ff3e9a48e5fc718f58af9761cdb2a1	331	Pfam	PF07690	Major Facilitator Superfamily	7	256	8.2E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_11404-0.3	73ff3e9a48e5fc718f58af9761cdb2a1	331	CDD	cd06174	MFS	8	296	5.44103E-14	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_11404-0.3	73ff3e9a48e5fc718f58af9761cdb2a1	331	Gene3D	G3DSA:1.20.1250.20		111	307	2.9E-18	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_11404-0.3	73ff3e9a48e5fc718f58af9761cdb2a1	331	SUPERFAMILY	SSF103473		7	299	7.72E-38	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_11404-0.3	73ff3e9a48e5fc718f58af9761cdb2a1	331	PANTHER	PTHR11360		7	293	2.9E-54	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019279-T1	fc4a83c262134fc49c8f049ee5672c11	277	Pfam	PF07690	Major Facilitator Superfamily	2	257	8.4E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_019279-T1	fc4a83c262134fc49c8f049ee5672c11	277	PANTHER	PTHR11360:SF28		2	267	3.1E-54	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019279-T1	fc4a83c262134fc49c8f049ee5672c11	277	CDD	cd06174	MFS	2	122	1.76674E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_019279-T1	fc4a83c262134fc49c8f049ee5672c11	277	PANTHER	PTHR11360		2	267	3.1E-54	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019279-T1	fc4a83c262134fc49c8f049ee5672c11	277	SUPERFAMILY	SSF103473		180	259	8.76E-30	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_019279-T1	fc4a83c262134fc49c8f049ee5672c11	277	SUPERFAMILY	SSF103473		2	127	8.76E-30	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_63669-0.5	9749e2a03ab1ae48d854c7561d38ba6b	459	Pfam	PF07690	Major Facilitator Superfamily	24	356	2.4E-21	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_63669-0.5	9749e2a03ab1ae48d854c7561d38ba6b	459	Gene3D	G3DSA:1.20.1250.20		6	427	8.9E-32	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_63669-0.5	9749e2a03ab1ae48d854c7561d38ba6b	459	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	16	423	8.783	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_63669-0.5	9749e2a03ab1ae48d854c7561d38ba6b	459	PANTHER	PTHR11360		17	414	2.6E-74	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_63669-0.5	9749e2a03ab1ae48d854c7561d38ba6b	459	CDD	cd06174	MFS	17	417	4.89445E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_63669-0.5	9749e2a03ab1ae48d854c7561d38ba6b	459	SUPERFAMILY	SSF103473		10	423	3.92E-43	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	364	11.654	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	PANTHER	PTHR11360:SF28		6	361	8.0E-75	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	PANTHER	PTHR11360		6	361	8.0E-75	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	Gene3D	G3DSA:1.20.1250.20		1	359	6.0E-36	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	SUPERFAMILY	SSF103473		2	357	1.03E-46	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	Pfam	PF07690	Major Facilitator Superfamily	2	243	8.6E-20	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021378227.1	55496474a556c98f31935e55c85975c5	454	CDD	cd06174	MFS	1	357	8.08838E-21	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	CDD	cd06174	MFS	205	582	2.60038E-28	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	202	587	14.759	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	Gene3D	G3DSA:1.20.1250.20		402	591	4.0E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	Gene3D	G3DSA:1.20.1250.20		197	385	4.6E-19	T	31-10-2018
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	PANTHER	PTHR11360		203	576	1.7E-67	T	31-10-2018
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	Pfam	PF07690	Major Facilitator Superfamily	213	523	2.0E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	SUPERFAMILY	SSF103473		204	590	1.7E-44	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Notospermus_geniculatus_NGE|g33814.t1	d80882f09c6f63a79e61dd83c1a27a4f	649	MobiDBLite	mobidb-lite	consensus disorder prediction	1	117	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	MobiDBLite	mobidb-lite	consensus disorder prediction	1	94	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	Gene3D	G3DSA:1.20.1250.20		78	314	2.9E-21	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	460	652	13.717	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	SUPERFAMILY	SSF103473		92	291	1.22E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	SUPERFAMILY	SSF103473		442	635	1.22E-60	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	PANTHER	PTHR11360		98	638	6.2E-90	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	MobiDBLite	mobidb-lite	consensus disorder prediction	295	330	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	CDD	cd06174	MFS	105	282	5.8783E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	MobiDBLite	mobidb-lite	consensus disorder prediction	374	400	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	CDD	cd06174	MFS	459	630	2.16484E-19	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	Pfam	PF07690	Major Facilitator Superfamily	115	519	1.8E-19	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	Gene3D	G3DSA:1.20.1250.20		450	637	7.5E-21	T	31-10-2018
+Aplysia_californica_ACA|XP_005106156.2	221f5882ba6dd36f856675dc57a43be8	652	PANTHER	PTHR11360:SF28		98	638	6.2E-90	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011422438.1	aa86bbd2cb128f053af8cf1c54ad849e	447	PANTHER	PTHR11360		13	407	9.2E-79	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011422438.1	aa86bbd2cb128f053af8cf1c54ad849e	447	Gene3D	G3DSA:1.20.1250.20		5	413	6.9E-35	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011422438.1	aa86bbd2cb128f053af8cf1c54ad849e	447	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	234	447	9.612	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_gigas_CGI|XP_011422438.1	aa86bbd2cb128f053af8cf1c54ad849e	447	Pfam	PF07690	Major Facilitator Superfamily	20	293	1.1E-19	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_gigas_CGI|XP_011422438.1	aa86bbd2cb128f053af8cf1c54ad849e	447	SUPERFAMILY	SSF103473		13	411	2.22E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_gigas_CGI|XP_011422438.1	aa86bbd2cb128f053af8cf1c54ad849e	447	CDD	cd06174	MFS	16	408	2.24322E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036315-T1	6e525094820e1e8bb854275edc9f667c	319	PANTHER	PTHR11360		2	302	4.2E-41	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036315-T1	6e525094820e1e8bb854275edc9f667c	319	Gene3D	G3DSA:1.20.1250.20		5	312	8.6E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_036315-T1	6e525094820e1e8bb854275edc9f667c	319	SUPERFAMILY	SSF103473		112	306	1.96E-25	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036315-T1	6e525094820e1e8bb854275edc9f667c	319	SUPERFAMILY	SSF103473		4	47	1.96E-25	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036315-T1	6e525094820e1e8bb854275edc9f667c	319	CDD	cd06174	MFS	128	301	1.42752E-10	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_036315-T1	6e525094820e1e8bb854275edc9f667c	319	Pfam	PF07690	Major Facilitator Superfamily	144	301	1.1E-9	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_55650-0.5	6da75eb70a11ce1c3b9d6b00eabdcec7	375	Gene3D	G3DSA:1.20.1250.20		1	356	1.2E-25	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_55650-0.5	6da75eb70a11ce1c3b9d6b00eabdcec7	375	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	164	375	8.953	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_55650-0.5	6da75eb70a11ce1c3b9d6b00eabdcec7	375	Pfam	PF07690	Major Facilitator Superfamily	2	283	2.0E-12	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_55650-0.5	6da75eb70a11ce1c3b9d6b00eabdcec7	375	CDD	cd06174	MFS	1	346	4.80134E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_55650-0.5	6da75eb70a11ce1c3b9d6b00eabdcec7	375	SUPERFAMILY	SSF103473		2	353	1.57E-36	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_55650-0.5	6da75eb70a11ce1c3b9d6b00eabdcec7	375	PANTHER	PTHR11360		2	342	1.4E-58	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	166	357	12.143	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	Pfam	PF07690	Major Facilitator Superfamily	2	253	1.2E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	PANTHER	PTHR11360		1	336	1.5E-66	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	SUPERFAMILY	SSF103473		1	122	2.09E-43	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	SUPERFAMILY	SSF103473		149	342	2.09E-43	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	Gene3D	G3DSA:1.20.1250.20		1	119	5.6E-10	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	CDD	cd06174	MFS	24	341	8.51113E-16	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_gigas_CGI|XP_019925011.1	25dd60a141d6d09c72a5f71e0b90a897	357	Gene3D	G3DSA:1.20.1250.20		153	347	6.9E-22	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	Pfam	PF07690	Major Facilitator Superfamily	32	197	9.8E-19	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	Pfam	PF07690	Major Facilitator Superfamily	378	533	1.4E-8	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	CDD	cd06174	MFS	378	538	7.57438E-10	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	PANTHER	PTHR11360		19	529	6.7E-82	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	Gene3D	G3DSA:1.20.1250.20		322	537	4.7E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	Gene3D	G3DSA:1.20.1250.20		2	234	9.3E-27	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	CDD	cd06174	MFS	31	198	6.33587E-15	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	357	549	11.441	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	SUPERFAMILY	SSF103473		23	209	4.71E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017131-T1	5cf68846f00604d23d54f0e57ff92c6d	549	SUPERFAMILY	SSF103473		342	534	4.71E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	SUPERFAMILY	SSF103473		8	414	3.79E-57	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	Pfam	PF07690	Major Facilitator Superfamily	20	229	1.0E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	Pfam	PF07690	Major Facilitator Superfamily	241	421	1.6E-10	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	11	418	10.825	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	PANTHER	PTHR11360		12	407	2.5E-77	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	Gene3D	G3DSA:1.20.1250.20		5	417	2.6E-42	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-0.7	0921542f1b9627ab11b0d6eae5a69a64	439	CDD	cd06174	MFS	15	414	5.91045E-24	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	SUPERFAMILY	SSF103473		260	455	1.44E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	SUPERFAMILY	SSF103473		8	206	1.44E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	21	459	13.27	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	PANTHER	PTHR11360		3	453	2.6E-80	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	CDD	cd06174	MFS	23	453	3.03819E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	PANTHER	PTHR11360:SF28		3	453	2.6E-80	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19608	e361bb5f36cde538851ae0cd2fb45449	508	Pfam	PF07690	Major Facilitator Superfamily	30	337	4.5E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	SUPERFAMILY	SSF103473		260	455	1.44E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	SUPERFAMILY	SSF103473		8	206	1.44E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	21	459	13.27	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	PANTHER	PTHR11360		3	453	2.6E-80	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	CDD	cd06174	MFS	23	453	3.03819E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	PANTHER	PTHR11360:SF28		3	453	2.6E-80	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352412.1	e361bb5f36cde538851ae0cd2fb45449	508	Pfam	PF07690	Major Facilitator Superfamily	30	337	4.5E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	SUPERFAMILY	SSF103473		260	455	1.44E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	SUPERFAMILY	SSF103473		8	206	1.44E-59	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	21	459	13.27	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	PANTHER	PTHR11360		3	453	2.6E-80	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	CDD	cd06174	MFS	23	453	3.03819E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	PANTHER	PTHR11360:SF28		3	453	2.6E-80	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352411.1	e361bb5f36cde538851ae0cd2fb45449	508	Pfam	PF07690	Major Facilitator Superfamily	30	337	4.5E-25	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022340790.1	2d5e0f2299c48f695def284a2ff16738	571	Gene3D	G3DSA:1.20.1250.20		126	540	1.8E-37	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022340790.1	2d5e0f2299c48f695def284a2ff16738	571	SUPERFAMILY	SSF103473		134	538	7.59E-46	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022340790.1	2d5e0f2299c48f695def284a2ff16738	571	PANTHER	PTHR11360		140	535	1.6E-82	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022340790.1	2d5e0f2299c48f695def284a2ff16738	571	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	362	571	10.867	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022340790.1	2d5e0f2299c48f695def284a2ff16738	571	Pfam	PF07690	Major Facilitator Superfamily	147	421	5.5E-18	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Crassostrea_virginica_CVI|XP_022340790.1	2d5e0f2299c48f695def284a2ff16738	571	CDD	cd06174	MFS	143	538	9.24291E-23	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	PANTHER	PTHR11360		6	426	3.7E-98	T	31-10-2018
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	Pfam	PF07690	Major Facilitator Superfamily	18	328	1.4E-27	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	PANTHER	PTHR11360:SF28		6	426	3.7E-98	T	31-10-2018
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	Gene3D	G3DSA:1.20.1250.20		3	425	1.2E-46	T	31-10-2018
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	CDD	cd06174	MFS	19	419	9.45563E-26	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	22	6.0	T	31-10-2018
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	SUPERFAMILY	SSF103473		8	421	1.96E-61	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF1989.62	920a52c75f64b5e3d1d22c7cfe6c10fd	497	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	239	497	13.483	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	Gene3D	G3DSA:1.20.1250.20		6	224	2.1E-26	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	Gene3D	G3DSA:1.20.1250.20		278	491	3.7E-25	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	SUPERFAMILY	SSF103473		296	489	1.31E-64	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	SUPERFAMILY	SSF103473		11	200	1.31E-64	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	CDD	cd06174	MFS	19	487	6.14285E-25	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	MobiDBLite	mobidb-lite	consensus disorder prediction	269	289	-	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	Pfam	PF07690	Major Facilitator Superfamily	320	491	2.3E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	Pfam	PF07690	Major Facilitator Superfamily	26	213	7.4E-21	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	PANTHER	PTHR11360		16	484	2.7E-88	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.11	574de47b3bc7bba434c7ae745de4029e	569	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	501	16.056	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322409.1	5a2de067a14ab40f746a9b0e45c81127	369	CDD	cd06174	MFS	24	343	1.35544E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Crassostrea_virginica_CVI|XP_022322409.1	5a2de067a14ab40f746a9b0e45c81127	369	PANTHER	PTHR11360		1	338	1.3E-63	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322409.1	5a2de067a14ab40f746a9b0e45c81127	369	Gene3D	G3DSA:1.20.1250.20		1	351	2.5E-31	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022322409.1	5a2de067a14ab40f746a9b0e45c81127	369	SUPERFAMILY	SSF103473		151	355	7.06E-43	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322409.1	5a2de067a14ab40f746a9b0e45c81127	369	SUPERFAMILY	SSF103473		1	113	7.06E-43	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Crassostrea_virginica_CVI|XP_022322409.1	5a2de067a14ab40f746a9b0e45c81127	369	Pfam	PF07690	Major Facilitator Superfamily	1	279	3.0E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021352413.1	bd1136ddff95afda91fd5079c82f5a4d	441	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	392	12.59	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352413.1	bd1136ddff95afda91fd5079c82f5a4d	441	SUPERFAMILY	SSF103473		193	388	6.67E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352413.1	bd1136ddff95afda91fd5079c82f5a4d	441	SUPERFAMILY	SSF103473		5	139	6.67E-51	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021352413.1	bd1136ddff95afda91fd5079c82f5a4d	441	CDD	cd06174	MFS	5	386	1.19103E-18	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Mizuhopecten_yessoensis_MYE|XP_021352413.1	bd1136ddff95afda91fd5079c82f5a4d	441	Pfam	PF07690	Major Facilitator Superfamily	5	270	3.8E-22	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Mizuhopecten_yessoensis_MYE|XP_021352413.1	bd1136ddff95afda91fd5079c82f5a4d	441	PANTHER	PTHR11360		3	382	8.3E-72	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_19341-0.7	ef72294f5a9bc825dc7670de50a679fa	370	Pfam	PF07690	Major Facilitator Superfamily	3	264	2.2E-10	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Modiolus_philippinarum_MPH|Mph_scaf_19341-0.7	ef72294f5a9bc825dc7670de50a679fa	370	Gene3D	G3DSA:1.20.1250.20		1	344	1.3E-20	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_19341-0.7	ef72294f5a9bc825dc7670de50a679fa	370	SUPERFAMILY	SSF103473		3	337	1.2E-29	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_19341-0.7	ef72294f5a9bc825dc7670de50a679fa	370	CDD	cd06174	MFS	2	330	2.0646E-6	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Modiolus_philippinarum_MPH|Mph_scaf_19341-0.7	ef72294f5a9bc825dc7670de50a679fa	370	PANTHER	PTHR11360		2	328	8.4E-56	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	Pfam	PF07690	Major Facilitator Superfamily	2	361	6.3E-24	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	CDD	cd06174	MFS	2	370	1.58116E-9	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	Gene3D	G3DSA:1.20.1250.20		1	178	2.8E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	123	9.655	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	PANTHER	PTHR11360		2	420	6.7E-71	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	SUPERFAMILY	SSF103473		403	425	1.57E-40	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	SUPERFAMILY	SSF103473		204	372	1.57E-40	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022608-T1	b7e4197213e3fd0da33b5305f9483ec1	441	SUPERFAMILY	SSF103473		2	132	1.57E-40	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_019280-T1	dbdbd73df53ffa1b5e0524152edfe811	401	Pfam	PF07690	Major Facilitator Superfamily	3	206	1.2E-16	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_019280-T1	dbdbd73df53ffa1b5e0524152edfe811	401	PANTHER	PTHR11360		2	363	1.5E-72	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019280-T1	dbdbd73df53ffa1b5e0524152edfe811	401	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	371	10.165	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_019280-T1	dbdbd73df53ffa1b5e0524152edfe811	401	SUPERFAMILY	SSF103473		172	365	2.62E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_019280-T1	dbdbd73df53ffa1b5e0524152edfe811	401	SUPERFAMILY	SSF103473		2	129	2.62E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_019280-T1	dbdbd73df53ffa1b5e0524152edfe811	401	CDD	cd06174	MFS	2	362	2.16243E-17	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	CDD	cd06174	MFS	71	521	5.85563E-19	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	PANTHER	PTHR11360:SF28		61	532	1.3E-97	T	31-10-2018
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	MobiDBLite	mobidb-lite	consensus disorder prediction	1	51	-	T	31-10-2018
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	PANTHER	PTHR11360		61	532	1.3E-97	T	31-10-2018
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	SUPERFAMILY	SSF103473		327	531	3.14E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	SUPERFAMILY	SSF103473		50	253	3.14E-53	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	Gene3D	G3DSA:1.20.1250.20		339	533	1.1E-16	T	31-10-2018
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	Gene3D	G3DSA:1.20.1250.20		61	257	3.0E-19	T	31-10-2018
+Capitella_teleta_CTE|ELT89264.1	39a19fec59ffbaa96a6efa3ef1bb0aef	559	Pfam	PF07690	Major Facilitator Superfamily	75	368	1.6E-23	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	CDD	cd06174	MFS	204	381	5.24153E-10	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	207	399	9.634	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	PANTHER	PTHR11360		6	382	2.5E-59	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	SUPERFAMILY	SSF103473		191	386	9.81E-36	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	SUPERFAMILY	SSF103473		5	91	9.81E-36	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	Gene3D	G3DSA:1.20.1250.20		143	389	7.1E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	Gene3D	G3DSA:1.20.1250.20		1	138	1.9E-8	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	Pfam	PF07690	Major Facilitator Superfamily	5	92	2.1E-9	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_016765-T1	c7cacc18bd7a3fd4e50d80c19b4236a4	399	Pfam	PF07690	Major Facilitator Superfamily	226	381	9.6E-10	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	Gene3D	G3DSA:1.20.1250.20		1	193	5.4E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	SUPERFAMILY	SSF103473		2	132	1.7E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	SUPERFAMILY	SSF103473		204	396	1.7E-45	T	31-10-2018	IPR036259	MFS transporter superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	Pfam	PF07690	Major Facilitator Superfamily	2	355	3.0E-24	T	31-10-2018	IPR011701	Major facilitator superfamily	GO:0016021|GO:0055085	
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	1	123	9.485	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	CDD	cd06174	MFS	2	396	3.56229E-12	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	ProSiteProfiles	PS50850	Major facilitator superfamily (MFS) profile.	221	411	10.186	T	31-10-2018	IPR020846	Major facilitator superfamily domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	Gene3D	G3DSA:1.20.1250.20		210	400	1.5E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007052-T1	90dd7380a5142d2c73e470245d21afba	411	PANTHER	PTHR11360		2	390	3.0E-74	T	31-10-2018

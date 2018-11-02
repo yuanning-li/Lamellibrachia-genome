@@ -1,0 +1,182 @@
+Helobdella_robusta_HRO|XP_009023218.1	de257e09d6063b09f50cfb1b95958641	292	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	6	58	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009023218.1	de257e09d6063b09f50cfb1b95958641	292	SMART	SM00249		5	59	8.4E-5	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Helobdella_robusta_HRO|XP_009023218.1	de257e09d6063b09f50cfb1b95958641	292	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	3	61	8.92	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Helobdella_robusta_HRO|XP_009023218.1	de257e09d6063b09f50cfb1b95958641	292	SUPERFAMILY	SSF57903		4	65	2.44E-9	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009023218.1	de257e09d6063b09f50cfb1b95958641	292	Gene3D	G3DSA:3.30.40.10		2	63	1.4E-7	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009023218.1	de257e09d6063b09f50cfb1b95958641	292	Coils	Coil		244	264	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	51	110	9.205	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	233	260	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194:SF16		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	Coils	Coil		125	152	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	SUPERFAMILY	SSF57903		47	118	9.72E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	54	107	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007670-T1	3ff9a506d996b8d8899cc38442974d5c	363	Gene3D	G3DSA:3.30.40.10		43	109	3.5E-12	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	51	110	9.205	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	233	260	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194:SF16		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	Coils	Coil		125	152	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	SUPERFAMILY	SSF57903		47	118	9.72E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	54	107	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040875-T1	3ff9a506d996b8d8899cc38442974d5c	363	Gene3D	G3DSA:3.30.40.10		43	109	3.5E-12	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	51	110	9.205	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	233	260	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194:SF16		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	Coils	Coil		125	152	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	SUPERFAMILY	SSF57903		47	118	9.72E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	54	107	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_037336-T1	3ff9a506d996b8d8899cc38442974d5c	363	Gene3D	G3DSA:3.30.40.10		43	109	3.5E-12	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	51	110	9.205	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	233	260	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194:SF16		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	Coils	Coil		125	152	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	SUPERFAMILY	SSF57903		47	118	9.72E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	54	107	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034694-T1	3ff9a506d996b8d8899cc38442974d5c	363	Gene3D	G3DSA:3.30.40.10		43	109	3.5E-12	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	51	110	9.205	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	233	260	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	PANTHER	PTHR23194:SF16		25	113	2.2E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	Coils	Coil		125	152	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	SUPERFAMILY	SSF57903		47	118	9.72E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	54	107	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_021039-T1	3ff9a506d996b8d8899cc38442974d5c	363	Gene3D	G3DSA:3.30.40.10		43	109	3.5E-12	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Modiolus_philippinarum_MPH|Mph_scaf_42331-0.2	2c5122545e5c1523cd69fee7f3ff243a	305	ProSiteProfiles	PS50089	Zinc finger RING-type profile.	26	79	8.786	T	31-10-2018	IPR001841	Zinc finger, RING-type		
+Modiolus_philippinarum_MPH|Mph_scaf_42331-0.2	2c5122545e5c1523cd69fee7f3ff243a	305	MobiDBLite	mobidb-lite	consensus disorder prediction	255	290	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42331-0.2	2c5122545e5c1523cd69fee7f3ff243a	305	Coils	Coil		259	279	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42331-0.2	2c5122545e5c1523cd69fee7f3ff243a	305	SUPERFAMILY	SSF57903		17	81	1.86E-8	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Modiolus_philippinarum_MPH|Mph_scaf_42331-0.2	2c5122545e5c1523cd69fee7f3ff243a	305	PANTHER	PTHR37445		88	291	8.9E-17	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42331-0.2	2c5122545e5c1523cd69fee7f3ff243a	305	Gene3D	G3DSA:3.30.40.10		9	87	8.2E-8	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_007086-T1	d12dfb5f4fe6d9608fb0a81386760260	84	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	Coils	Coil		84	111	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	CDD	cd15489	PHD_SF	8	59	5.08849E-7	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	PANTHER	PTHR37445		82	280	1.2E-12	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	Coils	Coil		139	173	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	9	59	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	SUPERFAMILY	SSF57903		5	61	3.84E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009008775.1	dbbe911363cac17463e5cf5c830c6a12	308	Gene3D	G3DSA:3.30.40.10		7	96	1.9E-7	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009030597.1	db2d38ff6d7e733d2e9bf2c5f588bd2e	316	Gene3D	G3DSA:3.30.40.10		4	98	9.8E-6	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009030597.1	db2d38ff6d7e733d2e9bf2c5f588bd2e	316	Coils	Coil		64	98	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009030597.1	db2d38ff6d7e733d2e9bf2c5f588bd2e	316	SUPERFAMILY	SSF57903		6	61	7.68E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009030597.1	db2d38ff6d7e733d2e9bf2c5f588bd2e	316	SMART	SM00249		6	59	1.3E-4	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Helobdella_robusta_HRO|XP_009031543.1	c3841f95818e1cd692900f5d6b14932c	296	Gene3D	G3DSA:3.30.40.10		3	81	5.4E-6	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009031543.1	c3841f95818e1cd692900f5d6b14932c	296	SUPERFAMILY	SSF57903		5	59	1.3E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009031543.1	c3841f95818e1cd692900f5d6b14932c	296	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	6	54	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009013376.1	bbc17ad440e55466b92c1bdaebcb8bc0	563	SUPERFAMILY	SSF57903		271	326	2.26E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009013376.1	bbc17ad440e55466b92c1bdaebcb8bc0	563	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	273	321	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009013376.1	bbc17ad440e55466b92c1bdaebcb8bc0	563	Gene3D	G3DSA:3.30.40.10		270	348	1.1E-5	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009013376.1	bbc17ad440e55466b92c1bdaebcb8bc0	563	PANTHER	PTHR37445		313	531	1.0E-11	T	31-10-2018
+Helobdella_robusta_HRO|XP_009016627.1	8ee6200fcaf431a23d4e33894e5fefcc	501	SMART	SM00249		5	57	0.0022	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Helobdella_robusta_HRO|XP_009016627.1	8ee6200fcaf431a23d4e33894e5fefcc	501	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	3	59	8.876	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Helobdella_robusta_HRO|XP_009016627.1	8ee6200fcaf431a23d4e33894e5fefcc	501	Coils	Coil		81	115	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009016627.1	8ee6200fcaf431a23d4e33894e5fefcc	501	Gene3D	G3DSA:3.30.40.10		3	90	3.7E-7	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009016627.1	8ee6200fcaf431a23d4e33894e5fefcc	501	ProSiteProfiles	PS50081	Zinc finger phorbol-ester/DAG-type profile.	1	40	8.097	T	31-10-2018	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	GO:0035556	
+Helobdella_robusta_HRO|XP_009016627.1	8ee6200fcaf431a23d4e33894e5fefcc	501	SUPERFAMILY	SSF57903		4	60	1.42E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_33726-7.2	0173db691ddd9fd25aa23c0a9be6a427	387	MobiDBLite	mobidb-lite	consensus disorder prediction	346	387	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_33726-7.2	0173db691ddd9fd25aa23c0a9be6a427	387	Coils	Coil		29	56	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_33726-7.2	0173db691ddd9fd25aa23c0a9be6a427	387	PANTHER	PTHR37445		30	225	2.2E-12	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_33726-7.2	0173db691ddd9fd25aa23c0a9be6a427	387	Coils	Coil		204	224	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019337.1	b3e5f5a7e0704e4fdc7ae94c9e7ce278	654	SUPERFAMILY	SSF56219		348	545	5.76E-17	T	31-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Helobdella_robusta_HRO|XP_009019337.1	b3e5f5a7e0704e4fdc7ae94c9e7ce278	654	Pfam	PF14529	Endonuclease-reverse transcriptase	435	542	1.1E-6	T	31-10-2018	IPR005135	Endonuclease/exonuclease/phosphatase		
+Helobdella_robusta_HRO|XP_009019337.1	b3e5f5a7e0704e4fdc7ae94c9e7ce278	654	Gene3D	G3DSA:3.60.10.10		336	547	4.3E-23	T	31-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Helobdella_robusta_HRO|XP_009019337.1	b3e5f5a7e0704e4fdc7ae94c9e7ce278	654	Coils	Coil		180	200	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019337.1	b3e5f5a7e0704e4fdc7ae94c9e7ce278	654	Coils	Coil		104	131	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019337.1	b3e5f5a7e0704e4fdc7ae94c9e7ce278	654	PANTHER	PTHR33776		319	578	5.7E-40	T	31-10-2018
+Helobdella_robusta_HRO|XP_009011415.1	aa1f362a80f011c875f33e21609c1425	150	Coils	Coil		61	81	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009009000.1	fede06441fc83712647e59e00610af31	332	Coils	Coil		283	303	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009009000.1	fede06441fc83712647e59e00610af31	332	Coils	Coil		180	200	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009009000.1	fede06441fc83712647e59e00610af31	332	Coils	Coil		118	145	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009024135.1	1b932b4080048d1e7cfcf0a43af0a060	296	SUPERFAMILY	SSF57903		5	59	1.3E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009024135.1	1b932b4080048d1e7cfcf0a43af0a060	296	Gene3D	G3DSA:3.30.40.10		3	81	5.4E-6	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009024135.1	1b932b4080048d1e7cfcf0a43af0a060	296	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	6	54	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009019168.1	3c031bd129d9d27ff40ee7951f93e930	161	Coils	Coil		79	106	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009026708.1	4d4280b3b307b97ffffa562cf4b0f9ff	307	Coils	Coil		259	279	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025737-T1	035e003baa8636c15bc63827633f95cd	85	Coils	Coil		20	40	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025737-T1	035e003baa8636c15bc63827633f95cd	85	MobiDBLite	mobidb-lite	consensus disorder prediction	1	44	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011573-T1	e3e92c861da05e3c6485a2f6bceb0e05	249	MobiDBLite	mobidb-lite	consensus disorder prediction	119	146	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011573-T1	e3e92c861da05e3c6485a2f6bceb0e05	249	Coils	Coil		11	38	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009010367.1	7eb7b045f7866a4e5223138a5e21c211	302	Coils	Coil		155	175	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009010367.1	7eb7b045f7866a4e5223138a5e21c211	302	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	5	55	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009010367.1	7eb7b045f7866a4e5223138a5e21c211	302	Gene3D	G3DSA:3.30.40.10		2	93	7.5E-6	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009010367.1	7eb7b045f7866a4e5223138a5e21c211	302	SUPERFAMILY	SSF57903		4	59	1.13E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009030217.1	99185424b7f129f81734ca246a7eb877	211	Coils	Coil		88	108	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009030217.1	99185424b7f129f81734ca246a7eb877	211	Coils	Coil		31	65	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009031272.1	333d2c2f71eb5527874715408ab03b8c	146	SUPERFAMILY	SSF57903		11	62	2.19E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009027469.1	47adf9a070a198c08837ffbab4949bca	102	Coils	Coil		51	71	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008731.1	1aaa8bda001011e3615cb22f57f325da	198	PANTHER	PTHR37445		18	180	1.6E-13	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008731.1	1aaa8bda001011e3615cb22f57f325da	198	Coils	Coil		46	66	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	SMART	SM00249		6	59	0.0015	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	SUPERFAMILY	SSF56219		335	511	1.58E-13	T	31-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	PANTHER	PTHR33776		329	514	6.5E-31	T	31-10-2018
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	Coils	Coil		64	91	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	Gene3D	G3DSA:3.30.40.10		4	94	4.9E-7	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	SUPERFAMILY	SSF57903		4	61	5.76E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	Gene3D	G3DSA:3.60.10.10		328	526	5.4E-18	T	31-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Helobdella_robusta_HRO|XP_009031804.1	980771480d8425817e4b54bdeec9c932	541	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	7	58	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Modiolus_philippinarum_MPH|Mph_scaf_58134-0.17	0642af27aa989ad7ecea3d8038f8cd93	104	Coils	Coil		58	85	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_58134-0.17	0642af27aa989ad7ecea3d8038f8cd93	104	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55759-3.8	b20facfe6b0ea889d23f8b2a15c90c33	382	Coils	Coil		375	382	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55759-3.8	b20facfe6b0ea889d23f8b2a15c90c33	382	PANTHER	PTHR33395		272	344	2.2E-14	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55759-3.8	b20facfe6b0ea889d23f8b2a15c90c33	382	Coils	Coil		204	226	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55759-3.8	b20facfe6b0ea889d23f8b2a15c90c33	382	PANTHER	PTHR33395:SF2		272	344	2.2E-14	T	31-10-2018
+Helobdella_robusta_HRO|XP_009027460.1	3aa253549a442ef55ff82332e32dc916	208	Gene3D	G3DSA:3.30.40.10		1	62	8.9E-6	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009027460.1	3aa253549a442ef55ff82332e32dc916	208	SUPERFAMILY	SSF57903		4	65	2.64E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009025687.1	027cc88fb7e3fd052d5b635535809179	308	CDD	cd15489	PHD_SF	8	59	2.18198E-4	T	31-10-2018
+Helobdella_robusta_HRO|XP_009025687.1	027cc88fb7e3fd052d5b635535809179	308	PANTHER	PTHR37445		90	281	2.9E-12	T	31-10-2018
+Helobdella_robusta_HRO|XP_009025687.1	027cc88fb7e3fd052d5b635535809179	308	SUPERFAMILY	SSF57903		4	61	7.62E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009025687.1	027cc88fb7e3fd052d5b635535809179	308	Coils	Coil		146	166	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009025687.1	027cc88fb7e3fd052d5b635535809179	308	Gene3D	G3DSA:3.30.40.10		7	108	1.5E-5	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009019025.1	907c59d2353711bf78c3f68ae4730408	362	SUPERFAMILY	SSF57903		4	63	6.2E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009019025.1	907c59d2353711bf78c3f68ae4730408	362	Coils	Coil		216	236	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009009127.1	590e7ae9aae8e8401aacfdad22022a4b	313	Gene3D	G3DSA:3.30.40.10		20	102	4.2E-6	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009009127.1	590e7ae9aae8e8401aacfdad22022a4b	313	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	23	71	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009009127.1	590e7ae9aae8e8401aacfdad22022a4b	313	SUPERFAMILY	SSF57903		20	75	4.08E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009029092.1	fbf563aaa777551de82fc171dabf8aff	256	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	6	58	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009029092.1	fbf563aaa777551de82fc171dabf8aff	256	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	3	61	8.92	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Helobdella_robusta_HRO|XP_009029092.1	fbf563aaa777551de82fc171dabf8aff	256	SUPERFAMILY	SSF57903		4	65	1.84E-9	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009029092.1	fbf563aaa777551de82fc171dabf8aff	256	SMART	SM00249		5	59	8.1E-5	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Helobdella_robusta_HRO|XP_009029092.1	fbf563aaa777551de82fc171dabf8aff	256	Gene3D	G3DSA:3.30.40.10		2	63	1.3E-7	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009022323.1	125213aa308b6d4dd8ceac4326e120b7	209	Coils	Coil		35	62	-	T	31-10-2018
+Chlamys_farreri_CFA|CF31745.2	aa21242f06d057110aca620b5d7c4da5	103	Coils	Coil		54	74	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021361462.1	58f74f59f3d5b4ca280fb6cc346371e0	207	MobiDBLite	mobidb-lite	consensus disorder prediction	163	187	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021361462.1	58f74f59f3d5b4ca280fb6cc346371e0	207	PANTHER	PTHR37445		30	178	8.4E-18	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016757-T1	b1664ae75d873307d4013fb970c76ae2	243	MobiDBLite	mobidb-lite	consensus disorder prediction	113	140	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016757-T1	b1664ae75d873307d4013fb970c76ae2	243	Coils	Coil		5	32	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027948-T1	b1664ae75d873307d4013fb970c76ae2	243	MobiDBLite	mobidb-lite	consensus disorder prediction	113	140	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027948-T1	b1664ae75d873307d4013fb970c76ae2	243	Coils	Coil		5	32	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019764.1	bc751dd5f4ddd98d7143af94d3e42aa6	281	SMART	SM00249		6	59	0.0015	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Helobdella_robusta_HRO|XP_009019764.1	bc751dd5f4ddd98d7143af94d3e42aa6	281	Coils	Coil		64	91	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019764.1	bc751dd5f4ddd98d7143af94d3e42aa6	281	Gene3D	G3DSA:3.30.40.10		4	95	1.4E-7	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009019764.1	bc751dd5f4ddd98d7143af94d3e42aa6	281	SUPERFAMILY	SSF57903		4	61	2.16E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009019764.1	bc751dd5f4ddd98d7143af94d3e42aa6	281	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	7	58	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009021661.1	ff419af7571fb1cc65a7301111129c52	284	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	20	71	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009019001.1	fcbfa9b352a78ca6a02cf16f14089cea	332	Coils	Coil		284	304	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009012729.1	43162fc2836e597b77399862ffce9d6c	199	Coils	Coil		18	38	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009020968.1	37b05c924af1bc6e168039df9fc8ada0	107	Coils	Coil		31	92	-	T	31-10-2018
+Chlamys_farreri_CFA|CF64599.2	02c6c4443bc73acbf32117ac1cfd55f1	116	Coils	Coil		72	92	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009010397.1	73c5c32f3436dec321879020e13f10c4	220	Coils	Coil		17	37	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009011939.1	0115a26feb55b6c2141e8635b94e1ff2	358	Coils	Coil		177	197	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009011939.1	0115a26feb55b6c2141e8635b94e1ff2	358	Coils	Coil		96	123	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019621.1	957c445ca3c78feb7cfc709375cc15c9	285	Coils	Coil		129	149	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009019621.1	957c445ca3c78feb7cfc709375cc15c9	285	Coils	Coil		232	255	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009020790.1	1108cded3eec1000c97ee38a2e7f9e53	372	Coils	Coil		259	279	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009032049.1	3e08011e7a67b11ef49d490c0095dff6	277	Coils	Coil		229	249	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009018670.1	0df94c8d44f97d9870dcfa5df3279c75	366	Coils	Coil		104	131	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008801.1	c7353e17fe2eb32f14d950923545858a	320	Coils	Coil		159	179	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008801.1	c7353e17fe2eb32f14d950923545858a	320	SUPERFAMILY	SSF57903		5	62	5.76E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009008801.1	c7353e17fe2eb32f14d950923545858a	320	Coils	Coil		79	106	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009008801.1	c7353e17fe2eb32f14d950923545858a	320	Gene3D	G3DSA:3.30.40.10		4	97	2.6E-5	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009031691.1	2a18c5d3195950f51802ea5533b2722b	244	SUPERFAMILY	SSF57903		5	63	1.9E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009020738.1	61b14a5ec0a56f89b65178719707478c	375	Coils	Coil		259	279	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008078-T1	d520d9fae9f7d44513f7ff5c638ef472	140	MobiDBLite	mobidb-lite	consensus disorder prediction	80	101	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009030208.1	54221ccbcee33240f0cd45437ee6ea00	252	Coils	Coil		95	115	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009051267.1	d44d043fd0936715331fcc7738a66430	179	Coils	Coil		173	179	-	T	31-10-2018
+Chlamys_farreri_CFA|CF60969.17	91e085087b766eff7ba016ee132237c3	173	MobiDBLite	mobidb-lite	consensus disorder prediction	99	121	-	T	31-10-2018

@@ -1,0 +1,688 @@
+Patinopecten_yessoensis_PYE|PY_T12981	18d1b90c6b7cad92eae30c148fc2cb4d	299	MobiDBLite	mobidb-lite	consensus disorder prediction	246	299	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12981	18d1b90c6b7cad92eae30c148fc2cb4d	299	MobiDBLite	mobidb-lite	consensus disorder prediction	52	77	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022292855.1	02603a48bb4d1fa7a9fb811b4061f865	712	SUPERFAMILY	SSF56204		384	696	9.59E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022292855.1	02603a48bb4d1fa7a9fb811b4061f865	712	MobiDBLite	mobidb-lite	consensus disorder prediction	239	276	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g38727.t1	74d414f814ac361440482170514e52b5	777	MobiDBLite	mobidb-lite	consensus disorder prediction	427	450	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g38727.t1	74d414f814ac361440482170514e52b5	777	MobiDBLite	mobidb-lite	consensus disorder prediction	300	355	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g38727.t1	74d414f814ac361440482170514e52b5	777	Gene3D	G3DSA:3.90.1750.10		430	587	1.3E-6	T	30-10-2018
+Notospermus_geniculatus_NGE|g38727.t1	74d414f814ac361440482170514e52b5	777	SUPERFAMILY	SSF56204		449	761	4.58E-13	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g38727.t1	74d414f814ac361440482170514e52b5	777	MobiDBLite	mobidb-lite	consensus disorder prediction	370	400	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305727.1	1c50a76fd3e33981e6e5a01b86789c6c	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305727.1	1c50a76fd3e33981e6e5a01b86789c6c	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305727.1	1c50a76fd3e33981e6e5a01b86789c6c	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305727.1	1c50a76fd3e33981e6e5a01b86789c6c	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305726.1	1c50a76fd3e33981e6e5a01b86789c6c	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305726.1	1c50a76fd3e33981e6e5a01b86789c6c	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305726.1	1c50a76fd3e33981e6e5a01b86789c6c	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305726.1	1c50a76fd3e33981e6e5a01b86789c6c	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305728.1	1c50a76fd3e33981e6e5a01b86789c6c	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305728.1	1c50a76fd3e33981e6e5a01b86789c6c	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305728.1	1c50a76fd3e33981e6e5a01b86789c6c	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305728.1	1c50a76fd3e33981e6e5a01b86789c6c	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	PANTHER	PTHR43998:SF1		18	295	2.1E-52	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	MobiDBLite	mobidb-lite	consensus disorder prediction	489	515	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	99	186	24.363	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	MobiDBLite	mobidb-lite	consensus disorder prediction	272	330	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SUPERFAMILY	SSF81296		186	276	4.6E-13	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	178	278	16.924	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	ProSiteProfiles	PS50237	HECT domain profile.	823	913	9.771	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	ProSiteProfiles	PS50237	HECT domain profile.	598	635	12.003	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SMART	SM00557		99	189	4.9E-20	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SMART	SM00557		8	98	3.0E-9	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SMART	SM00557		190	279	5.0E-4	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Gene3D	G3DSA:3.30.2410.10		812	912	6.1E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	11	95	16.431	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SUPERFAMILY	SSF56204		580	897	5.1E-25	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Gene3D	G3DSA:3.90.1750.10		560	715	3.0E-10	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	MobiDBLite	mobidb-lite	consensus disorder prediction	380	441	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	642	910	4.0E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Gene3D	G3DSA:2.60.40.10		98	191	3.9E-21	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Gene3D	G3DSA:2.60.40.10		4	97	1.3E-13	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Pfam	PF00630	Filamin/ABP280 repeat	99	180	6.0E-13	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Pfam	PF00630	Filamin/ABP280 repeat	187	275	3.6E-7	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SUPERFAMILY	SSF81296		99	189	3.14E-21	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	PANTHER	PTHR43998		18	295	2.1E-52	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	SUPERFAMILY	SSF81296		11	97	8.67E-13	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031677-T1	ebaa261f88da44a75a7845286ea7ba6e	915	Gene3D	G3DSA:2.60.40.10		192	296	1.9E-13	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Crassostrea_virginica_CVI|XP_022322206.1	3de76d5d39dd516ee992c9fac9429c50	642	MobiDBLite	mobidb-lite	consensus disorder prediction	212	272	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322206.1	3de76d5d39dd516ee992c9fac9429c50	642	SUPERFAMILY	SSF56204		317	616	1.7E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022322206.1	3de76d5d39dd516ee992c9fac9429c50	642	MobiDBLite	mobidb-lite	consensus disorder prediction	81	111	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	ProSiteProfiles	PS51283	DUSP domain profile.	7	115	16.779	T	30-10-2018	IPR006615	Peptidase C19, ubiquitin-specific peptidase, DUSP domain	GO:0004843	Reactome: R-HSA-5689880
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	PANTHER	PTHR21646:SF4		7	208	4.3E-71	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	Pfam	PF06337	DUSP domain	27	102	7.4E-18	T	30-10-2018	IPR006615	Peptidase C19, ubiquitin-specific peptidase, DUSP domain	GO:0004843	Reactome: R-HSA-5689880
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	SUPERFAMILY	SSF56204		256	575	6.54E-18	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	Pfam	PF14836	Ubiquitin-like domain	133	206	5.8E-8	T	30-10-2018	IPR028135	Ubiquitin-like domain, USP-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	Gene3D	G3DSA:3.90.1750.10		208	396	1.1E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	PANTHER	PTHR21646		7	208	4.3E-71	T	30-10-2018	IPR026670	Gametogenetin-binding protein 1	GO:0000266|GO:0007283	
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	Gene3D	G3DSA:3.10.20.90		130	207	4.4E-17	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	SMART	SM00695		23	118	1.8E-22	T	30-10-2018	IPR006615	Peptidase C19, ubiquitin-specific peptidase, DUSP domain	GO:0004843	Reactome: R-HSA-5689880
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	SUPERFAMILY	SSF143791		6	115	2.22E-29	T	30-10-2018	IPR035927	DUSP-like superfamily		Reactome: R-HSA-5689880
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	336	589	2.4E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	Gene3D	G3DSA:3.30.2230.10		2	129	1.5E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033186-T1	b89163f1160feb322170122178aef2c5	592	ProSiteProfiles	PS50237	HECT domain profile.	274	303	9.957	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF14481.1	c291876787559f75ab70029f94efea5e	122	ProSiteProfiles	PS50237	HECT domain profile.	32	60	10.763	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF14481.1	c291876787559f75ab70029f94efea5e	122	SUPERFAMILY	SSF56204		15	116	1.7E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF14481.1	c291876787559f75ab70029f94efea5e	122	Gene3D	G3DSA:3.90.1750.10		5	115	6.5E-8	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021369249.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	84	107	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021369249.1	fb3480f231adc7e9bf380024e35d631a	664	Gene3D	G3DSA:3.90.1750.10		318	474	4.3E-7	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021369249.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	307	335	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021369249.1	fb3480f231adc7e9bf380024e35d631a	664	SUPERFAMILY	SSF56204		340	636	1.57E-14	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021369249.1	fb3480f231adc7e9bf380024e35d631a	664	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	573	637	1.6E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021369249.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	214	234	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T20073	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	84	107	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T20073	fb3480f231adc7e9bf380024e35d631a	664	Gene3D	G3DSA:3.90.1750.10		318	474	4.3E-7	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T20073	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	307	335	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T20073	fb3480f231adc7e9bf380024e35d631a	664	SUPERFAMILY	SSF56204		340	636	1.57E-14	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T20073	fb3480f231adc7e9bf380024e35d631a	664	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	573	637	1.6E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T20073	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	214	234	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367844.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	84	107	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367844.1	fb3480f231adc7e9bf380024e35d631a	664	Gene3D	G3DSA:3.90.1750.10		318	474	4.3E-7	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367844.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	307	335	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367844.1	fb3480f231adc7e9bf380024e35d631a	664	SUPERFAMILY	SSF56204		340	636	1.57E-14	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021367844.1	fb3480f231adc7e9bf380024e35d631a	664	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	573	637	1.6E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021367844.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	214	234	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367843.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	84	107	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367843.1	fb3480f231adc7e9bf380024e35d631a	664	Gene3D	G3DSA:3.90.1750.10		318	474	4.3E-7	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367843.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	307	335	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367843.1	fb3480f231adc7e9bf380024e35d631a	664	SUPERFAMILY	SSF56204		340	636	1.57E-14	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021367843.1	fb3480f231adc7e9bf380024e35d631a	664	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	573	637	1.6E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021367843.1	fb3480f231adc7e9bf380024e35d631a	664	MobiDBLite	mobidb-lite	consensus disorder prediction	214	234	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	Gene3D	G3DSA:3.90.1750.10		260	403	7.4E-8	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	ProSiteProfiles	PS50918	WWE domain profile.	1	68	20.771	T	30-10-2018	IPR004170	WWE domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	SUPERFAMILY	SSF57850		187	260	1.1E-10	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	Gene3D	G3DSA:3.30.2410.10		501	609	1.0E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	PANTHER	PTHR12622		83	261	6.2E-36	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	ProSiteProfiles	PS50089	Zinc finger RING-type profile.	192	248	10.837	T	30-10-2018	IPR001841	Zinc finger, RING-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	Gene3D	G3DSA:3.30.40.10		171	251	7.3E-17	T	30-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	466	605	2.1E-10	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	PANTHER	PTHR12622:SF21		83	261	6.2E-36	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	Pfam	PF02825	WWE domain	2	68	4.1E-14	T	30-10-2018	IPR004170	WWE domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	PANTHER	PTHR12622:SF21		566	611	6.2E-36	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	PANTHER	PTHR12622:SF21		1	78	6.2E-36	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	SUPERFAMILY	SSF117839		1	74	2.09E-16	T	30-10-2018	IPR037197	WWE domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	SMART	SM00184		192	247	4.7E-4	T	30-10-2018	IPR001841	Zinc finger, RING-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	SUPERFAMILY	SSF56204		269	601	7.19E-20	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	CDD	cd16459	RING-H2_DTX1_like	191	252	7.9186E-27	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	ProSiteProfiles	PS50237	HECT domain profile.	469	585	10.221	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	Gene3D	G3DSA:3.30.720.50		1	77	5.7E-16	T	30-10-2018	IPR037197	WWE domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	PANTHER	PTHR12622		566	611	6.2E-36	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	MobiDBLite	mobidb-lite	consensus disorder prediction	76	166	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	SMART	SM00678		1	76	2.4E-4	T	30-10-2018	IPR018123	WWE domain, subgroup	GO:0008270	MetaCyc: PWY-7511
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	ProSiteProfiles	PS50237	HECT domain profile.	292	319	8.748	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006504-T1	5718c97389aa42a13fc9bec9839d2b31	680	PANTHER	PTHR12622		1	78	6.2E-36	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Pfam	PF00630	Filamin/ABP280 repeat	93	171	1.1E-10	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	453	696	1.0E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Gene3D	G3DSA:3.30.2410.10		607	706	7.1E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	MobiDBLite	mobidb-lite	consensus disorder prediction	285	316	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	PANTHER	PTHR43998:SF1		16	281	2.3E-48	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	ProSiteProfiles	PS50237	HECT domain profile.	395	684	13.104	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	190	276	13.986	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Gene3D	G3DSA:3.30.2160.10		489	520	1.2E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SUPERFAMILY	SSF81296		192	273	1.27E-9	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SUPERFAMILY	SSF81296		11	92	6.34E-11	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	1	91	17.294	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	93	181	20.623	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Gene3D	G3DSA:2.60.40.10		4	92	1.1E-12	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Gene3D	G3DSA:2.60.40.10		93	186	5.0E-17	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Gene3D	G3DSA:2.60.40.10		187	293	5.7E-10	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	Gene3D	G3DSA:3.90.1750.10		378	488	1.2E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SUPERFAMILY	SSF56204		370	694	1.07E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SMART	SM00557		183	282	0.0024	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SMART	SM00557		5	94	8.2E-11	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SMART	SM00557		95	181	8.2E-6	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	SUPERFAMILY	SSF81296		93	183	9.34E-18	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012818-T1	7df2f691cc393985d7b3632b360fdc01	712	PANTHER	PTHR43998		16	281	2.3E-48	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_23153-5.7	561df77744add4c4eb57677c73b8aacd	241	SUPERFAMILY	SSF56204		6	214	1.23E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_23153-5.7	561df77744add4c4eb57677c73b8aacd	241	Gene3D	G3DSA:3.90.1750.10		3	87	1.5E-5	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_23153-5.7	561df77744add4c4eb57677c73b8aacd	241	Gene3D	G3DSA:3.30.2160.10		90	105	1.5E-5	T	30-10-2018
+Notospermus_geniculatus_NGE|g30311.t1	4522dff120c4742721e94a53df2056d9	735	MobiDBLite	mobidb-lite	consensus disorder prediction	304	329	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g30311.t1	4522dff120c4742721e94a53df2056d9	735	ProSiteProfiles	PS50237	HECT domain profile.	424	460	8.547	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g30311.t1	4522dff120c4742721e94a53df2056d9	735	MobiDBLite	mobidb-lite	consensus disorder prediction	94	125	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g30311.t1	4522dff120c4742721e94a53df2056d9	735	SUPERFAMILY	SSF56204		407	708	8.5E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g30311.t1	4522dff120c4742721e94a53df2056d9	735	Gene3D	G3DSA:3.90.1750.10		385	532	7.7E-6	T	30-10-2018
+Chlamys_farreri_CFA|CF64715.2	42856b5addfdb7d5d0b159bf3b9c9cc6	111	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	20	85	1.4E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF64715.2	42856b5addfdb7d5d0b159bf3b9c9cc6	111	Gene3D	G3DSA:3.30.2410.10		12	104	5.2E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF64715.2	42856b5addfdb7d5d0b159bf3b9c9cc6	111	SUPERFAMILY	SSF56204		21	83	6.54E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022316806.1	e1ff4f5dc4a56ac4aa522ccc65569589	624	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316806.1	e1ff4f5dc4a56ac4aa522ccc65569589	624	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022316806.1	e1ff4f5dc4a56ac4aa522ccc65569589	624	SUPERFAMILY	SSF56204		341	461	5.49E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	Pfam	PF05529	B-cell receptor-associated protein 31-like	58	211	3.1E-35	T	30-10-2018	IPR008417	B-cell receptor-associated protein 29/31	GO:0005783|GO:0006886|GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	ProSiteProfiles	PS50237	HECT domain profile.	490	580	9.058	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	SUPERFAMILY	SSF56204		247	564	6.8E-21	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	PANTHER	PTHR12701:SF18		58	231	1.7E-31	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	Gene3D	G3DSA:3.30.2410.10		481	579	1.0E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	ProSiteProfiles	PS50237	HECT domain profile.	264	293	10.267	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	489	580	6.6E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	Gene3D	G3DSA:3.90.1750.10		250	359	7.7E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	PANTHER	PTHR12701		58	231	1.7E-31	T	30-10-2018	IPR008417	B-cell receptor-associated protein 29/31	GO:0005783|GO:0006886|GO:0016021	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	Coils	Coil		178	198	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006170-T1	fdbb694614c2c4486bd07feeeae383c4	582	MobiDBLite	mobidb-lite	consensus disorder prediction	198	218	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1309-0.2	92b50917c99fd418a7ec2926a5bf52d0	385	MobiDBLite	mobidb-lite	consensus disorder prediction	105	126	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1309-0.2	92b50917c99fd418a7ec2926a5bf52d0	385	MobiDBLite	mobidb-lite	consensus disorder prediction	1	35	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1309-0.2	92b50917c99fd418a7ec2926a5bf52d0	385	SUPERFAMILY	SSF56204		143	370	5.23E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_27307-2.2	0ec7b4f9b31c2cda31fdab20e114f31e	381	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_27307-2.2	0ec7b4f9b31c2cda31fdab20e114f31e	381	MobiDBLite	mobidb-lite	consensus disorder prediction	101	122	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_27307-2.2	0ec7b4f9b31c2cda31fdab20e114f31e	381	SUPERFAMILY	SSF56204		139	366	4.84E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022304944.1	afb2f38d0f2de774ecbc3d929caf35b1	684	MobiDBLite	mobidb-lite	consensus disorder prediction	211	248	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022304944.1	afb2f38d0f2de774ecbc3d929caf35b1	684	SUPERFAMILY	SSF56204		356	668	8.63E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_013554-T1	019bca41ee0fb916843d9a4b37fb1c01	129	SUPERFAMILY	SSF56204		60	118	2.35E-7	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_013554-T1	019bca41ee0fb916843d9a4b37fb1c01	129	MobiDBLite	mobidb-lite	consensus disorder prediction	29	63	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013554-T1	019bca41ee0fb916843d9a4b37fb1c01	129	Gene3D	G3DSA:3.90.1750.10		47	123	1.1E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013554-T1	019bca41ee0fb916843d9a4b37fb1c01	129	ProSiteProfiles	PS50237	HECT domain profile.	81	117	10.097	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020915196.1	e3531fbce0468e7aabf71f3b8fa7f7fb	246	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	144	231	5.7E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020915196.1	e3531fbce0468e7aabf71f3b8fa7f7fb	246	SUPERFAMILY	SSF56204		143	229	9.81E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	SUPERFAMILY	SSF48726		137	235	3.48E-5	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	719	856	6.4E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	Gene3D	G3DSA:3.30.2410.10		769	862	1.9E-7	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	SUPERFAMILY	SSF56204		532	850	2.22E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	PANTHER	PTHR11254		281	841	4.2E-14	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	Coils	Coil		512	539	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	MobiDBLite	mobidb-lite	consensus disorder prediction	466	489	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	Gene3D	G3DSA:3.90.1750.10		490	651	5.0E-8	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	PANTHER	PTHR11254:SF354		281	841	4.2E-14	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	ProSiteProfiles	PS50835	Ig-like domain profile.	244	332	7.885	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	16	5.0	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	Gene3D	G3DSA:2.60.40.10		137	247	2.2E-8	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	ProSiteProfiles	PS50237	HECT domain profile.	775	867	10.252	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	Coils	Coil		866	867	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372657.1	ef52f75ed661d61633b3b20fd73e1ba1	867	SMART	SM00119		548	867	8.3E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	SUPERFAMILY	SSF48726		137	235	3.48E-5	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	719	856	6.4E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	Gene3D	G3DSA:3.30.2410.10		769	862	1.9E-7	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	SUPERFAMILY	SSF56204		532	850	2.22E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	PANTHER	PTHR11254		281	841	4.2E-14	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	Coils	Coil		512	539	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	MobiDBLite	mobidb-lite	consensus disorder prediction	466	489	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	Gene3D	G3DSA:3.90.1750.10		490	651	5.0E-8	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	PANTHER	PTHR11254:SF354		281	841	4.2E-14	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	ProSiteProfiles	PS50835	Ig-like domain profile.	244	332	7.885	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	16	5.0	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	Gene3D	G3DSA:2.60.40.10		137	247	2.2E-8	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	ProSiteProfiles	PS50237	HECT domain profile.	775	867	10.252	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	Coils	Coil		866	867	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T21958	ef52f75ed661d61633b3b20fd73e1ba1	867	SMART	SM00119		548	867	8.3E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	SUPERFAMILY	SSF56204		198	522	3.4E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	ProSiteProfiles	PS50237	HECT domain profile.	228	272	9.492	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	ProSiteProfiles	PS51322	UEV domain profile.	11	154	50.941	T	30-10-2018	IPR008883	Ubiquitin E2 variant, N-terminal	GO:0006464|GO:0015031	
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	Gene3D	G3DSA:3.10.110.10		2	154	2.0E-54	T	30-10-2018	IPR016135	Ubiquitin-conjugating enzyme/RWD-like		
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	Pfam	PF05743	UEV domain	31	150	8.6E-42	T	30-10-2018	IPR008883	Ubiquitin E2 variant, N-terminal	GO:0006464|GO:0015031	
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	PANTHER	PTHR23306		16	194	7.2E-68	T	30-10-2018
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	375	523	5.4E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	SUPERFAMILY	SSF54495		13	150	5.0E-35	T	30-10-2018	IPR016135	Ubiquitin-conjugating enzyme/RWD-like		
+Lingula_anatina_LAN|XP_013390436.1	4b86a8fc49651802a4416a0156916afe	536	Gene3D	G3DSA:3.90.1750.10		198	349	4.9E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010726-T1	2c6f047dbd1fab7b78eb02fd8b678b46	703	Gene3D	G3DSA:3.30.2410.10		601	700	7.0E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010726-T1	2c6f047dbd1fab7b78eb02fd8b678b46	703	MobiDBLite	mobidb-lite	consensus disorder prediction	265	317	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010726-T1	2c6f047dbd1fab7b78eb02fd8b678b46	703	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	609	694	1.8E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_010726-T1	2c6f047dbd1fab7b78eb02fd8b678b46	703	SUPERFAMILY	SSF56204		363	674	9.29E-19	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_010726-T1	2c6f047dbd1fab7b78eb02fd8b678b46	703	Gene3D	G3DSA:3.90.1750.10		351	429	2.6E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010726-T1	2c6f047dbd1fab7b78eb02fd8b678b46	703	ProSiteProfiles	PS50237	HECT domain profile.	385	421	10.639	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	Gene3D	G3DSA:3.30.2410.10		410	515	5.0E-5	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	PANTHER	PTHR11254:SF301		426	502	8.0E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	PANTHER	PTHR11254:SF301		179	265	8.0E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	ProSiteProfiles	PS50237	HECT domain profile.	197	516	10.965	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	Gene3D	G3DSA:3.90.1750.10		163	293	5.0E-11	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	PANTHER	PTHR11254		426	502	8.0E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	PANTHER	PTHR11254		179	265	8.0E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	414	513	6.7E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13250-0.6	a94eaa8747ce1ef86b94d5cfd003edce	516	SUPERFAMILY	SSF56204		179	503	2.27E-20	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022344889.1	af6e0ccfa29a0ed3785487dc2ead0536	666	MobiDBLite	mobidb-lite	consensus disorder prediction	55	116	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022344889.1	af6e0ccfa29a0ed3785487dc2ead0536	666	Gene3D	G3DSA:3.30.2410.10		560	660	2.3E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022344889.1	af6e0ccfa29a0ed3785487dc2ead0536	666	SUPERFAMILY	SSF56204		581	645	7.72E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022344889.1	af6e0ccfa29a0ed3785487dc2ead0536	666	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	577	645	6.1E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022344889.1	af6e0ccfa29a0ed3785487dc2ead0536	666	MobiDBLite	mobidb-lite	consensus disorder prediction	245	266	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	200	277	15.445	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	423	679	2.8E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	PANTHER	PTHR43998:SF1		10	273	4.0E-56	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SUPERFAMILY	SSF56204		348	656	2.88E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	ProSiteProfiles	PS50237	HECT domain profile.	584	681	9.663	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SUPERFAMILY	SSF81296		97	186	6.47E-21	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	98	184	23.808	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Gene3D	G3DSA:3.90.1750.10		350	460	1.5E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	1	93	20.849	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	ProSiteProfiles	PS50237	HECT domain profile.	366	402	8.686	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	PANTHER	PTHR43998		10	273	4.0E-56	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Gene3D	G3DSA:3.30.2410.10		577	680	4.1E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SMART	SM00557		98	184	1.4E-11	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SMART	SM00557		6	96	3.7E-16	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SMART	SM00557		186	280	1.4E-5	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Gene3D	G3DSA:2.60.40.10		196	291	4.8E-12	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Gene3D	G3DSA:2.60.40.10		98	195	3.2E-19	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SUPERFAMILY	SSF81296		178	275	1.27E-11	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Pfam	PF00630	Filamin/ABP280 repeat	98	180	6.9E-12	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Pfam	PF00630	Filamin/ABP280 repeat	17	89	6.5E-7	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	SUPERFAMILY	SSF81296		13	95	8.01E-16	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_006360-T1	ce742e4bb56c0f3d6e5cb7829a8e5a2f	683	Gene3D	G3DSA:2.60.40.10		6	97	1.5E-17	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Capitella_teleta_CTE|ELU13102.1	f026443d0f8c6fff2aa651d2aef544f7	696	Gene3D	G3DSA:3.30.2410.10		596	689	5.1E-10	T	30-10-2018
+Capitella_teleta_CTE|ELU13102.1	f026443d0f8c6fff2aa651d2aef544f7	696	SUPERFAMILY	SSF56204		373	680	1.31E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU13102.1	f026443d0f8c6fff2aa651d2aef544f7	696	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	598	681	2.1E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU13102.1	f026443d0f8c6fff2aa651d2aef544f7	696	ProSiteProfiles	PS50237	HECT domain profile.	612	682	8.903	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	324	586	2.1E-10	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	MobiDBLite	mobidb-lite	consensus disorder prediction	119	144	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	PANTHER	PTHR11254		231	572	6.1E-15	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	ProSiteProfiles	PS50237	HECT domain profile.	270	588	13.708	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	SMART	SM00119		268	588	6.2E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	Gene3D	G3DSA:3.90.1750.10		223	393	1.2E-6	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	Gene3D	G3DSA:3.30.2410.10		486	588	9.8E-8	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	SUPERFAMILY	SSF56204		250	576	6.54E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021375763.1	4ece567242cd25d1ffcd2bcb99c2c45b	590	PANTHER	PTHR11254:SF354		231	572	6.1E-15	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	324	586	2.1E-10	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	MobiDBLite	mobidb-lite	consensus disorder prediction	119	144	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	PANTHER	PTHR11254		231	572	6.1E-15	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	ProSiteProfiles	PS50237	HECT domain profile.	270	588	13.708	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	SMART	SM00119		268	588	6.2E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	Gene3D	G3DSA:3.90.1750.10		223	393	1.2E-6	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	Gene3D	G3DSA:3.30.2410.10		486	588	9.8E-8	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	SUPERFAMILY	SSF56204		250	576	6.54E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T19108	4ece567242cd25d1ffcd2bcb99c2c45b	590	PANTHER	PTHR11254:SF354		231	572	6.1E-15	T	30-10-2018
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	Coils	Coil		927	927	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	825	907	1.2E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	Gene3D	G3DSA:3.30.70.1820		145	234	2.3E-6	T	30-10-2018
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	PANTHER	PTHR11505		54	279	5.8E-45	T	30-10-2018	IPR004244	Transposase, L1		
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	PANTHER	PTHR11505:SF197		54	279	5.8E-45	T	30-10-2018
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	Coils	Coil		109	143	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	MobiDBLite	mobidb-lite	consensus disorder prediction	1	42	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g4586.t1	717c5a7d56f1758beffeb3cba720743e	927	SUPERFAMILY	SSF56204		631	900	1.2E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25357	919f230d57aefb7a7360817e186af9a7	114	SUPERFAMILY	SSF56204		32	99	1.96E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25357	919f230d57aefb7a7360817e186af9a7	114	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	33	102	8.8E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T02860	4129b7289cb2b6b60ba5730b50124300	422	MobiDBLite	mobidb-lite	consensus disorder prediction	24	44	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T02860	4129b7289cb2b6b60ba5730b50124300	422	SUPERFAMILY	SSF56204		152	418	2.35E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	ProSiteProfiles	PS50237	HECT domain profile.	791	853	11.693	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	ProSiteProfiles	PS50237	HECT domain profile.	560	588	9.74	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	PANTHER	PTHR11254:SF67		804	862	1.2E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	PANTHER	PTHR11254:SF67		203	631	1.2E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	Gene3D	G3DSA:3.90.1750.10		507	641	4.0E-9	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	Gene3D	G3DSA:3.30.2410.10		786	873	2.2E-7	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	SUPERFAMILY	SSF56204		543	858	1.66E-21	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	PANTHER	PTHR11254		804	862	1.2E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	PANTHER	PTHR11254		203	631	1.2E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	ProSiteProfiles	PS50835	Ig-like domain profile.	238	322	6.923	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	790	863	2.1E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	Coils	Coil		522	542	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37922-4.7	6ca9e88f582408511227561701d92d37	879	MobiDBLite	mobidb-lite	consensus disorder prediction	439	495	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022325584.1	3133491df652d39eb3d4bcaa421c0843	673	MobiDBLite	mobidb-lite	consensus disorder prediction	212	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022325584.1	3133491df652d39eb3d4bcaa421c0843	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	106	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022325584.1	3133491df652d39eb3d4bcaa421c0843	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022325584.1	3133491df652d39eb3d4bcaa421c0843	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022344890.1	07ed34bcfa46ba54c402429b0f293fca	649	SUPERFAMILY	SSF56204		564	628	7.46E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022344890.1	07ed34bcfa46ba54c402429b0f293fca	649	Gene3D	G3DSA:3.30.2410.10		543	643	2.2E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022344890.1	07ed34bcfa46ba54c402429b0f293fca	649	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	560	628	5.9E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022344890.1	07ed34bcfa46ba54c402429b0f293fca	649	MobiDBLite	mobidb-lite	consensus disorder prediction	228	249	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022344890.1	07ed34bcfa46ba54c402429b0f293fca	649	MobiDBLite	mobidb-lite	consensus disorder prediction	38	99	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40207-0.20	db94eb01ea9ab90bc947a3de71939f9a	477	SUPERFAMILY	SSF56204		306	454	5.1E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40207-0.20	db94eb01ea9ab90bc947a3de71939f9a	477	MobiDBLite	mobidb-lite	consensus disorder prediction	187	239	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	SUPERFAMILY	SSF48726		137	235	3.48E-5	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	PANTHER	PTHR11254		281	842	4.1E-14	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	SMART	SM00119		549	868	8.3E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	Gene3D	G3DSA:3.90.1750.10		491	652	5.0E-8	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	Gene3D	G3DSA:3.30.2410.10		770	863	1.9E-7	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	MobiDBLite	mobidb-lite	consensus disorder prediction	467	490	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	SUPERFAMILY	SSF56204		533	851	2.22E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	PANTHER	PTHR11254:SF354		281	842	4.1E-14	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	720	857	6.4E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	Coils	Coil		513	540	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	Gene3D	G3DSA:2.60.40.10		137	247	2.2E-8	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	ProSiteProfiles	PS50835	Ig-like domain profile.	244	332	7.885	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	16	5.0	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372647.1	89244a9d44bf5e8d71a4684b057456be	868	ProSiteProfiles	PS50237	HECT domain profile.	776	868	10.252	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	PANTHER	PTHR43998:SF1		3	117	4.9E-18	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	Gene3D	G3DSA:3.90.1750.10		283	390	1.3E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	PANTHER	PTHR43998		3	117	4.9E-18	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	1	26	8.808	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	SUPERFAMILY	SSF56204		277	595	5.1E-25	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	MobiDBLite	mobidb-lite	consensus disorder prediction	112	166	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	SMART	SM00119		294	611	0.0056	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	341	609	6.7E-13	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	SUPERFAMILY	SSF81296		36	115	9.34E-10	T	30-10-2018	IPR014756	Immunoglobulin E-set		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	Gene3D	G3DSA:3.30.2410.10		506	610	6.0E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	ProSiteProfiles	PS50237	HECT domain profile.	296	611	11.011	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	Gene3D	G3DSA:2.60.40.10		29	114	4.8E-12	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	MobiDBLite	mobidb-lite	consensus disorder prediction	189	220	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	SMART	SM00557		28	121	0.0015	T	30-10-2018	IPR001298	Filamin/ABP280 repeat	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	Gene3D	G3DSA:3.30.2160.10		396	429	1.3E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	Gene3D	G3DSA:2.60.40.10		3	28	4.8E-12	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031675-T1	090d05599d29f736a052fa38db4f3ef0	613	ProSiteProfiles	PS50194	Filamin/ABP280 repeat profile.	41	118	14.274	T	30-10-2018	IPR017868	Filamin/ABP280 repeat-like		
+Crassostrea_virginica_CVI|XP_022337790.1	fc5b5ee8e815a81aab9a4b5677353ffd	666	MobiDBLite	mobidb-lite	consensus disorder prediction	242	266	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022337790.1	fc5b5ee8e815a81aab9a4b5677353ffd	666	MobiDBLite	mobidb-lite	consensus disorder prediction	55	116	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022337790.1	fc5b5ee8e815a81aab9a4b5677353ffd	666	Gene3D	G3DSA:3.30.2410.10		560	660	7.5E-6	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022337790.1	fc5b5ee8e815a81aab9a4b5677353ffd	666	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	577	645	1.6E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022337790.1	fc5b5ee8e815a81aab9a4b5677353ffd	666	SUPERFAMILY	SSF56204		581	645	9.55E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_037215-T1	20fa54244a1c8c03c5f3a08dd02616d0	242	SUPERFAMILY	SSF56204		100	229	4.45E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g43154.t1	39e7930a1c29e645404ff7fd247e8712	319	Gene3D	G3DSA:3.30.2410.10		211	317	8.0E-7	T	30-10-2018
+Notospermus_geniculatus_NGE|g43154.t1	39e7930a1c29e645404ff7fd247e8712	319	SUPERFAMILY	SSF56204		20	304	2.62E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g43154.t1	39e7930a1c29e645404ff7fd247e8712	319	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	216	311	2.2E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g43154.t1	39e7930a1c29e645404ff7fd247e8712	319	SMART	SM00119		5	317	0.0075	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU18471.1	f1dce9d76ee258cd81ed166b29eb302f	319	Gene3D	G3DSA:3.30.2410.10		213	312	4.9E-6	T	30-10-2018
+Capitella_teleta_CTE|ELU18471.1	f1dce9d76ee258cd81ed166b29eb302f	319	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	220	301	1.0E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU18471.1	f1dce9d76ee258cd81ed166b29eb302f	319	ProSiteProfiles	PS50237	HECT domain profile.	234	292	8.841	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU18471.1	f1dce9d76ee258cd81ed166b29eb302f	319	MobiDBLite	mobidb-lite	consensus disorder prediction	50	75	-	T	30-10-2018
+Capitella_teleta_CTE|ELU18471.1	f1dce9d76ee258cd81ed166b29eb302f	319	SUPERFAMILY	SSF56204		221	293	4.58E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022338207.1	bcb37159b8f1d2815961fa37d1cf50da	669	SMART	SM00119		342	662	0.0025	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022338207.1	bcb37159b8f1d2815961fa37d1cf50da	669	SUPERFAMILY	SSF56204		339	655	1.31E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022338207.1	bcb37159b8f1d2815961fa37d1cf50da	669	Gene3D	G3DSA:3.30.2410.10		557	664	5.8E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022338207.1	bcb37159b8f1d2815961fa37d1cf50da	669	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	420	657	7.4E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022338207.1	bcb37159b8f1d2815961fa37d1cf50da	669	MobiDBLite	mobidb-lite	consensus disorder prediction	76	96	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022338207.1	bcb37159b8f1d2815961fa37d1cf50da	669	MobiDBLite	mobidb-lite	consensus disorder prediction	210	306	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009058786.1	01a553f37446cd55f1d6a4e476cf69ca	558	MobiDBLite	mobidb-lite	consensus disorder prediction	177	198	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009058786.1	01a553f37446cd55f1d6a4e476cf69ca	558	SUPERFAMILY	SSF56204		471	532	3.53E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lottia_gigantea_LGI|XP_009058786.1	01a553f37446cd55f1d6a4e476cf69ca	558	MobiDBLite	mobidb-lite	consensus disorder prediction	34	54	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007174-T1	9db5587b30e161c9f9daf4eac689cb14	120	SUPERFAMILY	SSF56204		3	41	1.96E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_007174-T1	9db5587b30e161c9f9daf4eac689cb14	120	ProSiteProfiles	PS50237	HECT domain profile.	2	38	9.833	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	SUPERFAMILY	SSF48726		37	62	6.31E-5	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	SUPERFAMILY	SSF48726		161	228	6.31E-5	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	ProSiteProfiles	PS50237	HECT domain profile.	785	847	11.213	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	MobiDBLite	mobidb-lite	consensus disorder prediction	433	497	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	Gene3D	G3DSA:3.90.1750.10		504	627	3.3E-9	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	782	860	1.1E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	Gene3D	G3DSA:3.30.2410.10		777	867	1.3E-6	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	SMART	SM00119		552	873	0.0065	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	ProSiteProfiles	PS50835	Ig-like domain profile.	233	317	7.177	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	Coils	Coil		516	536	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	SUPERFAMILY	SSF56204		537	851	1.57E-20	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_17061-0.2	6fb35c84eeb44a7ab4c1ed2ccbdde706	873	ProSiteProfiles	PS50237	HECT domain profile.	554	582	9.74	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF63119.1	1d65187c8e466ec6d76d48109c60ac6b	219	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	30-10-2018
+Chlamys_farreri_CFA|CF63119.1	1d65187c8e466ec6d76d48109c60ac6b	219	Gene3D	G3DSA:3.90.1750.10		34	179	5.4E-12	T	30-10-2018
+Chlamys_farreri_CFA|CF63119.1	1d65187c8e466ec6d76d48109c60ac6b	219	ProSiteProfiles	PS50237	HECT domain profile.	76	104	10.205	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF63119.1	1d65187c8e466ec6d76d48109c60ac6b	219	SUPERFAMILY	SSF56204		53	187	1.7E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22631-3.14	865750f9676f64f0b5567f5a80e20eab	555	Gene3D	G3DSA:3.90.1750.10		191	306	2.4E-9	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22631-3.14	865750f9676f64f0b5567f5a80e20eab	555	ProSiteProfiles	PS50237	HECT domain profile.	236	264	9.415	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22631-3.14	865750f9676f64f0b5567f5a80e20eab	555	SUPERFAMILY	SSF56204		208	355	1.2E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22631-3.14	865750f9676f64f0b5567f5a80e20eab	555	SUPERFAMILY	SSF56204		415	539	1.2E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22631-3.14	865750f9676f64f0b5567f5a80e20eab	555	MobiDBLite	mobidb-lite	consensus disorder prediction	143	196	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22631-3.14	865750f9676f64f0b5567f5a80e20eab	555	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	466	552	1.5E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	SUPERFAMILY	SSF56204		524	607	6.41E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	PANTHER	PTHR23322:SF1		422	507	6.4E-15	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	PANTHER	PTHR23322		422	507	6.4E-15	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	PANTHER	PTHR23322		237	364	6.4E-15	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	ProSiteProfiles	PS50033	UBX domain profile.	293	363	12.158	T	30-10-2018	IPR001012	UBX domain	GO:0005515	
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	Pfam	PF00789	UBX domain	293	362	9.9E-6	T	30-10-2018	IPR001012	UBX domain	GO:0005515	
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	Coils	Coil		247	267	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	SUPERFAMILY	SSF54236		286	366	1.45E-7	T	30-10-2018	IPR029071	Ubiquitin-like domain superfamily		
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	PANTHER	PTHR23322:SF1		237	364	6.4E-15	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	MobiDBLite	mobidb-lite	consensus disorder prediction	374	516	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	MobiDBLite	mobidb-lite	consensus disorder prediction	34	58	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g10924.t1	e5ef35de8afa4ea0ae166930addc11ed	794	Gene3D	G3DSA:3.10.20.90		291	364	1.9E-9	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351424.1	725b94d8558f114594dce75540b4aa40	535	Gene3D	G3DSA:3.90.1750.10		265	428	2.2E-11	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351424.1	725b94d8558f114594dce75540b4aa40	535	MobiDBLite	mobidb-lite	consensus disorder prediction	85	170	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351424.1	725b94d8558f114594dce75540b4aa40	535	SUPERFAMILY	SSF56204		282	429	2.35E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021351424.1	725b94d8558f114594dce75540b4aa40	535	ProSiteProfiles	PS50237	HECT domain profile.	305	333	10.298	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g2727.t1	5cb84adb847ae918cbad29813f728145	152	Gene3D	G3DSA:3.90.1750.10		26	143	8.0E-6	T	30-10-2018
+Notospermus_geniculatus_NGE|g2727.t1	5cb84adb847ae918cbad29813f728145	152	SUPERFAMILY	SSF56204		49	144	2.88E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_019020-T1	6613ea49519d1368bbb342c68b559f19	425	ProSiteProfiles	PS50237	HECT domain profile.	104	140	13.119	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_019020-T1	6613ea49519d1368bbb342c68b559f19	425	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	332	408	3.5E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_019020-T1	6613ea49519d1368bbb342c68b559f19	425	Gene3D	G3DSA:3.30.2410.10		314	416	6.0E-5	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019020-T1	6613ea49519d1368bbb342c68b559f19	425	SUPERFAMILY	SSF56204		101	396	6.54E-18	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_019020-T1	6613ea49519d1368bbb342c68b559f19	425	Gene3D	G3DSA:3.90.1750.10		68	177	1.0E-10	T	30-10-2018
+Capitella_teleta_CTE|ELU06789.1	b588257a49898ef16501f9e2736eed9b	384	SUPERFAMILY	SSF56204		62	368	1.28E-13	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU06789.1	b588257a49898ef16501f9e2736eed9b	384	Gene3D	G3DSA:3.30.2410.10		284	378	2.4E-7	T	30-10-2018
+Capitella_teleta_CTE|ELU06789.1	b588257a49898ef16501f9e2736eed9b	384	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	284	369	5.1E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g24800.t1	ea2321b5ed27a71b3f25ae667ea9c588	698	MobiDBLite	mobidb-lite	consensus disorder prediction	323	356	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g24800.t1	ea2321b5ed27a71b3f25ae667ea9c588	698	SUPERFAMILY	SSF56204		371	681	1.57E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lottia_gigantea_LGI|XP_009058199.1	2fb865ee18315f70a1a00ec5cea86d36	665	SUPERFAMILY	SSF56204		356	643	6.8E-13	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lottia_gigantea_LGI|XP_009058199.1	2fb865ee18315f70a1a00ec5cea86d36	665	MobiDBLite	mobidb-lite	consensus disorder prediction	75	99	-	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	737	835	4.0E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	Coils	Coil		491	518	-	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	Gene3D	G3DSA:3.30.2410.10		748	841	9.8E-7	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	PANTHER	PTHR11254		318	820	2.6E-14	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	Gene3D	G3DSA:2.60.40.10		111	226	1.9E-8	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	Gene3D	G3DSA:3.90.1750.10		468	629	4.7E-8	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	SUPERFAMILY	SSF48726		114	211	1.08E-5	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	ProSiteProfiles	PS50237	HECT domain profile.	754	846	9.601	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	MobiDBLite	mobidb-lite	consensus disorder prediction	444	469	-	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	SUPERFAMILY	SSF56204		511	829	4.71E-23	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	PANTHER	PTHR11254:SF354		318	820	2.6E-14	T	30-10-2018
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	SMART	SM00119		527	846	6.5E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF50107.1	f665efe8277a682e79ca336b28f7c359	903	ProSiteProfiles	PS50835	Ig-like domain profile.	222	310	6.941	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Notospermus_geniculatus_NGE|g40533.t1	9612a0dea08ad22dd037f9ab649505d1	223	MobiDBLite	mobidb-lite	consensus disorder prediction	94	127	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377147.1	d29bd50af8154f7c0d411f56728d695c	223	SUPERFAMILY	SSF56204		86	191	1.83E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021377147.1	d29bd50af8154f7c0d411f56728d695c	223	ProSiteProfiles	PS50237	HECT domain profile.	103	131	9.151	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021377147.1	d29bd50af8154f7c0d411f56728d695c	223	Gene3D	G3DSA:3.90.1750.10		83	221	2.0E-9	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377139.1	d29bd50af8154f7c0d411f56728d695c	223	SUPERFAMILY	SSF56204		86	191	1.83E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021377139.1	d29bd50af8154f7c0d411f56728d695c	223	ProSiteProfiles	PS50237	HECT domain profile.	103	131	9.151	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021377139.1	d29bd50af8154f7c0d411f56728d695c	223	Gene3D	G3DSA:3.90.1750.10		83	221	2.0E-9	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011418577.1	5bf1dc0d7bf50455f7a438e91a0657db	394	SUPERFAMILY	SSF56204		306	378	3.79E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340172.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340172.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340172.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340172.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340170.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340170.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340170.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340170.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340169.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340169.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340169.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340169.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340153.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340153.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340153.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340153.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340152.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340152.1	7a47f0f37918cfd452db3ab2a991d7cf	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022340152.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		345	492	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022340152.1	7a47f0f37918cfd452db3ab2a991d7cf	673	SUPERFAMILY	SSF56204		527	658	6.54E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	Gene3D	G3DSA:3.30.2410.10		268	372	3.1E-7	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	ProSiteProfiles	PS50237	HECT domain profile.	251	346	8.981	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	SUPERFAMILY	SSF56204		39	346	1.12E-22	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	Gene3D	G3DSA:3.90.1750.10		19	180	2.1E-9	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	SMART	SM00119		55	373	0.001	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	PANTHER	PTHR11254		38	360	1.2E-13	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	269	371	7.9E-10	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020905989.1	9d625dfd5636708c9917d4a75c374cc1	375	ProSiteProfiles	PS50237	HECT domain profile.	57	94	9.849	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022337791.1	781ab35294dbb2356a33c7de13a9f3a7	649	Gene3D	G3DSA:3.30.2410.10		543	643	7.3E-6	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022337791.1	781ab35294dbb2356a33c7de13a9f3a7	649	SUPERFAMILY	SSF56204		564	628	9.29E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022337791.1	781ab35294dbb2356a33c7de13a9f3a7	649	MobiDBLite	mobidb-lite	consensus disorder prediction	38	100	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022337791.1	781ab35294dbb2356a33c7de13a9f3a7	649	MobiDBLite	mobidb-lite	consensus disorder prediction	225	249	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022337791.1	781ab35294dbb2356a33c7de13a9f3a7	649	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	560	628	1.5E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF57487.1	d0f03911fe74389bdaa1541d604b3d11	90	ProSiteProfiles	PS50237	HECT domain profile.	6	46	11.368	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF57487.1	d0f03911fe74389bdaa1541d604b3d11	90	Gene3D	G3DSA:3.90.1750.10		2	88	9.5E-7	T	30-10-2018
+Chlamys_farreri_CFA|CF57487.1	d0f03911fe74389bdaa1541d604b3d11	90	SUPERFAMILY	SSF56204		6	89	2.35E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25816	0b9175f3469cfe861187f5424eeeda36	181	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	89	177	2.2E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25816	0b9175f3469cfe861187f5424eeeda36	181	SUPERFAMILY	SSF56204		88	168	1.31E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25816	0b9175f3469cfe861187f5424eeeda36	181	ProSiteProfiles	PS50237	HECT domain profile.	88	179	11.089	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25816	0b9175f3469cfe861187f5424eeeda36	181	Gene3D	G3DSA:3.30.2410.10		79	179	1.4E-8	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020864-T1	c9646812c1a651311c257bac5dffb295	217	ProSiteProfiles	PS50237	HECT domain profile.	7	43	9.337	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_020864-T1	c9646812c1a651311c257bac5dffb295	217	SUPERFAMILY	SSF56204		4	202	5.23E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020898656.1	272c2e9e5e41bcda2e2c3a9dd2608469	192	Gene3D	G3DSA:3.30.2410.10		85	189	1.1E-5	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020898656.1	272c2e9e5e41bcda2e2c3a9dd2608469	192	SUPERFAMILY	SSF56204		68	175	8.24E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020898656.1	272c2e9e5e41bcda2e2c3a9dd2608469	192	Coils	Coil		98	118	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020898656.1	272c2e9e5e41bcda2e2c3a9dd2608469	192	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	83	178	4.5E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_016300-T1	45ae82a1d1c813412151eeab22a8a278	438	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	84	328	1.1E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_016300-T1	45ae82a1d1c813412151eeab22a8a278	438	Gene3D	G3DSA:3.30.2160.10		125	185	4.6E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016300-T1	45ae82a1d1c813412151eeab22a8a278	438	Gene3D	G3DSA:3.90.1750.10		14	124	4.6E-6	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016300-T1	45ae82a1d1c813412151eeab22a8a278	438	SUPERFAMILY	SSF56204		13	321	2.22E-21	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_016300-T1	45ae82a1d1c813412151eeab22a8a278	438	MobiDBLite	mobidb-lite	consensus disorder prediction	347	438	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018776-T1	3afdb5b48e39d3648d187ecb4b520fb7	105	Gene3D	G3DSA:3.90.1750.10		12	90	2.5E-5	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018776-T1	3afdb5b48e39d3648d187ecb4b520fb7	105	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018776-T1	3afdb5b48e39d3648d187ecb4b520fb7	105	SUPERFAMILY	SSF56204		27	85	9.02E-7	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_023932021.1	4c8ae0bd53e5a96b27d5adace0eff84b	435	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023932021.1	4c8ae0bd53e5a96b27d5adace0eff84b	435	SUPERFAMILY	SSF56204		138	409	9.59E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T00731	01f24f0f76082a6c6a90dc1db3e87b37	312	ProSiteProfiles	PS50237	HECT domain profile.	31	59	10.298	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T00731	01f24f0f76082a6c6a90dc1db3e87b37	312	PANTHER	PTHR11254		11	289	1.8E-12	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00731	01f24f0f76082a6c6a90dc1db3e87b37	312	Gene3D	G3DSA:3.90.1750.10		9	155	1.1E-11	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T00731	01f24f0f76082a6c6a90dc1db3e87b37	312	SUPERFAMILY	SSF56204		12	298	1.05E-20	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g13204.t1	d66b8fe3a83bbed69758d839132737ba	466	SUPERFAMILY	SSF56204		135	450	2.22E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g13204.t1	d66b8fe3a83bbed69758d839132737ba	466	MobiDBLite	mobidb-lite	consensus disorder prediction	83	124	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g13204.t1	d66b8fe3a83bbed69758d839132737ba	466	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	369	453	2.9E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g13204.t1	d66b8fe3a83bbed69758d839132737ba	466	Gene3D	G3DSA:3.30.2410.10		361	463	1.8E-6	T	30-10-2018
+Notospermus_geniculatus_NGE|g13204.t1	d66b8fe3a83bbed69758d839132737ba	466	MobiDBLite	mobidb-lite	consensus disorder prediction	24	60	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290557.1	e4b55c285623205c293bec08edd7c68f	457	Gene3D	G3DSA:3.90.1750.10		321	405	4.2E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290557.1	e4b55c285623205c293bec08edd7c68f	457	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290557.1	e4b55c285623205c293bec08edd7c68f	457	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290557.1	e4b55c285623205c293bec08edd7c68f	457	SUPERFAMILY	SSF56204		339	451	1.44E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_002409-T1	24cdd7bea9461ce90e9cdcf3c75dea03	166	ProSiteProfiles	PS50237	HECT domain profile.	73	138	9.911	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_002409-T1	24cdd7bea9461ce90e9cdcf3c75dea03	166	Gene3D	G3DSA:3.30.2410.10		55	157	1.4E-7	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002409-T1	24cdd7bea9461ce90e9cdcf3c75dea03	166	SUPERFAMILY	SSF56204		77	147	1.57E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_002409-T1	24cdd7bea9461ce90e9cdcf3c75dea03	166	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	77	149	3.6E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022311351.1	5d3b45d25dd8c1ad9e96ffa44be9a642	658	MobiDBLite	mobidb-lite	consensus disorder prediction	81	117	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022311351.1	5d3b45d25dd8c1ad9e96ffa44be9a642	658	SUPERFAMILY	SSF56204		334	632	4.05E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_gigas_CGI|XP_011435144.1	0b06cc997be92c7deea84237ba68a3e1	614	MobiDBLite	mobidb-lite	consensus disorder prediction	202	237	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435144.1	0b06cc997be92c7deea84237ba68a3e1	614	MobiDBLite	mobidb-lite	consensus disorder prediction	60	94	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435144.1	0b06cc997be92c7deea84237ba68a3e1	614	SUPERFAMILY	SSF56204		384	560	4.45E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62525-4.2	ac65bc8c9912cb1c2144ebc61137d912	465	Gene3D	G3DSA:3.90.1750.10		158	266	1.0E-7	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62525-4.2	ac65bc8c9912cb1c2144ebc61137d912	465	MobiDBLite	mobidb-lite	consensus disorder prediction	46	81	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62525-4.2	ac65bc8c9912cb1c2144ebc61137d912	465	SUPERFAMILY	SSF56204		167	449	1.02E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62525-4.2	ac65bc8c9912cb1c2144ebc61137d912	465	Gene3D	G3DSA:3.30.2160.10		267	321	1.0E-7	T	30-10-2018
+Notospermus_geniculatus_NGE|g1501.t1	bd1145d812a24a9039fab31e2a202c61	284	MobiDBLite	mobidb-lite	consensus disorder prediction	57	76	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g1501.t1	bd1145d812a24a9039fab31e2a202c61	284	MobiDBLite	mobidb-lite	consensus disorder prediction	153	180	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g1501.t1	bd1145d812a24a9039fab31e2a202c61	284	MobiDBLite	mobidb-lite	consensus disorder prediction	199	239	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020914361.1	bc8067f871de866e615de0be5114634b	305	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	213	292	3.4E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020914361.1	bc8067f871de866e615de0be5114634b	305	Gene3D	G3DSA:3.30.2410.10		201	302	3.0E-6	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020914361.1	bc8067f871de866e615de0be5114634b	305	SUPERFAMILY	SSF56204		7	291	3.4E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_023932020.1	8f05f8e02834059ef4d0fcb95894eb35	451	MobiDBLite	mobidb-lite	consensus disorder prediction	24	46	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023932020.1	8f05f8e02834059ef4d0fcb95894eb35	451	SUPERFAMILY	SSF56204		154	425	1.05E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_015476-T1	00411fb50921af1a9e154b24e1111af8	300	SUPERFAMILY	SSF56204		5	258	1.96E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_015476-T1	00411fb50921af1a9e154b24e1111af8	300	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	171	257	3.8E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_015476-T1	00411fb50921af1a9e154b24e1111af8	300	ProSiteProfiles	PS50237	HECT domain profile.	171	256	9.322	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022287706.1	27d3977d5d069966591868eee9099ceb	673	SUPERFAMILY	SSF56204		340	658	3.53E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022287706.1	27d3977d5d069966591868eee9099ceb	673	MobiDBLite	mobidb-lite	consensus disorder prediction	211	246	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022287706.1	27d3977d5d069966591868eee9099ceb	673	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022287706.1	27d3977d5d069966591868eee9099ceb	673	Gene3D	G3DSA:3.90.1750.10		345	453	3.3E-5	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018135-T1	b9200e5678027461f4eb8fb1d070dc3a	212	ProSiteProfiles	PS50237	HECT domain profile.	32	68	13.414	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_018135-T1	b9200e5678027461f4eb8fb1d070dc3a	212	Gene3D	G3DSA:3.90.1750.10		6	98	1.8E-9	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018135-T1	b9200e5678027461f4eb8fb1d070dc3a	212	SUPERFAMILY	SSF56204		15	103	2.22E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g18188.t1	20da1eb61efa4b7b4f477ae49f6f449d	703	SUPERFAMILY	SSF56204		380	674	2.22E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g18188.t1	20da1eb61efa4b7b4f477ae49f6f449d	703	MobiDBLite	mobidb-lite	consensus disorder prediction	278	312	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g18188.t1	20da1eb61efa4b7b4f477ae49f6f449d	703	MobiDBLite	mobidb-lite	consensus disorder prediction	230	262	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g18188.t1	20da1eb61efa4b7b4f477ae49f6f449d	703	MobiDBLite	mobidb-lite	consensus disorder prediction	91	110	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019423-T1	f2725d626dd0a11c653789af803e612c	226	ProSiteProfiles	PS50237	HECT domain profile.	172	201	8.547	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_019423-T1	f2725d626dd0a11c653789af803e612c	226	Gene3D	G3DSA:3.90.1750.10		123	214	7.0E-8	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_019423-T1	f2725d626dd0a11c653789af803e612c	226	SUPERFAMILY	SSF56204		148	206	1.15E-7	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF10949.2	653db74798f3f4f42646541885bd73b1	494	SUPERFAMILY	SSF56204		367	467	6.54E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF10949.2	653db74798f3f4f42646541885bd73b1	494	MobiDBLite	mobidb-lite	consensus disorder prediction	234	256	-	T	30-10-2018
+Chlamys_farreri_CFA|CF10949.2	653db74798f3f4f42646541885bd73b1	494	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	408	466	1.2E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g38406.t1	47d8ee302fcefacfd7cb54bdfc48e982	640	MobiDBLite	mobidb-lite	consensus disorder prediction	64	108	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g38406.t1	47d8ee302fcefacfd7cb54bdfc48e982	640	MobiDBLite	mobidb-lite	consensus disorder prediction	229	308	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g38406.t1	47d8ee302fcefacfd7cb54bdfc48e982	640	SUPERFAMILY	SSF56204		312	378	1.2E-13	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g38406.t1	47d8ee302fcefacfd7cb54bdfc48e982	640	SUPERFAMILY	SSF56204		405	623	1.2E-13	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g38406.t1	47d8ee302fcefacfd7cb54bdfc48e982	640	MobiDBLite	mobidb-lite	consensus disorder prediction	148	188	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g38406.t1	47d8ee302fcefacfd7cb54bdfc48e982	640	Coils	Coil		71	91	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305156.1	8fc21e6ae2114fce97b57738a673aca2	361	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	92	344	2.2E-12	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305156.1	8fc21e6ae2114fce97b57738a673aca2	361	SUPERFAMILY	SSF56204		30	332	1.57E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305156.1	8fc21e6ae2114fce97b57738a673aca2	361	SMART	SM00119		46	357	0.0072	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305156.1	8fc21e6ae2114fce97b57738a673aca2	361	Gene3D	G3DSA:3.90.1750.10		10	167	3.6E-8	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305157.1	8fc21e6ae2114fce97b57738a673aca2	361	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	92	344	2.2E-12	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305157.1	8fc21e6ae2114fce97b57738a673aca2	361	SUPERFAMILY	SSF56204		30	332	1.57E-17	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305157.1	8fc21e6ae2114fce97b57738a673aca2	361	SMART	SM00119		46	357	0.0072	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022305157.1	8fc21e6ae2114fce97b57738a673aca2	361	Gene3D	G3DSA:3.90.1750.10		10	167	3.6E-8	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367845.1	6533b70cffcecc7b644164afdb099139	643	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	552	616	1.5E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Mizuhopecten_yessoensis_MYE|XP_021367845.1	6533b70cffcecc7b644164afdb099139	643	Gene3D	G3DSA:3.90.1750.10		295	453	3.9E-7	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367845.1	6533b70cffcecc7b644164afdb099139	643	MobiDBLite	mobidb-lite	consensus disorder prediction	286	314	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367845.1	6533b70cffcecc7b644164afdb099139	643	MobiDBLite	mobidb-lite	consensus disorder prediction	63	86	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367845.1	6533b70cffcecc7b644164afdb099139	643	MobiDBLite	mobidb-lite	consensus disorder prediction	193	212	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367845.1	6533b70cffcecc7b644164afdb099139	643	SUPERFAMILY	SSF56204		319	615	1.44E-14	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF54033.3	cdca436669612f9674050d1a99fc4861	122	Gene3D	G3DSA:3.90.1750.10		4	115	2.0E-8	T	30-10-2018
+Chlamys_farreri_CFA|CF54033.3	cdca436669612f9674050d1a99fc4861	122	SUPERFAMILY	SSF56204		15	116	7.72E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF54033.3	cdca436669612f9674050d1a99fc4861	122	ProSiteProfiles	PS50237	HECT domain profile.	32	72	11.631	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022326523.1	4cfeb3cc72721fc0267d0c6b58b26713	736	SUPERFAMILY	SSF56204		649	721	3.01E-7	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022326523.1	4cfeb3cc72721fc0267d0c6b58b26713	736	MobiDBLite	mobidb-lite	consensus disorder prediction	92	116	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326523.1	4cfeb3cc72721fc0267d0c6b58b26713	736	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	649	722	2.1E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022326523.1	4cfeb3cc72721fc0267d0c6b58b26713	736	MobiDBLite	mobidb-lite	consensus disorder prediction	239	284	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_43393-0.0	8320131bda10602d0efebe8c04cc98ba	200	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	104	183	2.4E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_43393-0.0	8320131bda10602d0efebe8c04cc98ba	200	SUPERFAMILY	SSF56204		34	182	1.83E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020915229.1	760ef9fb21b84546ff8f48a33b003c82	331	Coils	Coil		13	33	-	T	30-10-2018
+Chlamys_farreri_CFA|CF723133.1	99fa7862d0abee8e5c0a14fdd9635de2	290	SUPERFAMILY	SSF56204		61	264	3.53E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF723133.1	99fa7862d0abee8e5c0a14fdd9635de2	290	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	113	278	2.9E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T17993	1f022ce57d923e28fb6e7bce493e6ab5	315	SUPERFAMILY	SSF56204		86	279	5.89E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T17993	1f022ce57d923e28fb6e7bce493e6ab5	315	ProSiteProfiles	PS50237	HECT domain profile.	103	131	9.151	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T17993	1f022ce57d923e28fb6e7bce493e6ab5	315	Gene3D	G3DSA:3.90.1750.10		83	226	4.1E-9	T	30-10-2018
+Chlamys_farreri_CFA|CF38063.3	0350d97bc37573f5b1ab911817ac01cf	568	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	390	555	6.7E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF38063.3	0350d97bc37573f5b1ab911817ac01cf	568	MobiDBLite	mobidb-lite	consensus disorder prediction	208	229	-	T	30-10-2018
+Chlamys_farreri_CFA|CF38063.3	0350d97bc37573f5b1ab911817ac01cf	568	SUPERFAMILY	SSF56204		242	542	6.67E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF38063.3	0350d97bc37573f5b1ab911817ac01cf	568	MobiDBLite	mobidb-lite	consensus disorder prediction	51	108	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6522-5.0	300684733716d1ad3760ec30c7d6e37e	793	SUPERFAMILY	SSF56204		460	765	7.98E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6522-5.0	300684733716d1ad3760ec30c7d6e37e	793	Gene3D	G3DSA:3.30.2410.10		682	776	4.7E-5	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6522-5.0	300684733716d1ad3760ec30c7d6e37e	793	MobiDBLite	mobidb-lite	consensus disorder prediction	269	290	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25938	00a88c323a67ebc5ec615435e2d1386c	141	Gene3D	G3DSA:3.30.2410.10		38	138	3.7E-9	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25938	00a88c323a67ebc5ec615435e2d1386c	141	SUPERFAMILY	SSF56204		49	125	1.44E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25938	00a88c323a67ebc5ec615435e2d1386c	141	ProSiteProfiles	PS50237	HECT domain profile.	49	139	9.864	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Patinopecten_yessoensis_PYE|PY_T25938	00a88c323a67ebc5ec615435e2d1386c	141	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	50	137	3.3E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_48636-0.1	4f9ad75f846a62660d1130ce5317a130	120	MobiDBLite	mobidb-lite	consensus disorder prediction	28	77	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g40333.t1	56fc2271b3f89cb58ac3b99444190cd7	296	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Capitella_teleta_CTE|ELT96428.1	d5d35ae8ed2648f2bb3439309f34a4ec	466	SUPERFAMILY	SSF56204		143	450	4.71E-18	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELT96428.1	d5d35ae8ed2648f2bb3439309f34a4ec	466	Gene3D	G3DSA:3.30.2410.10		366	459	2.8E-10	T	30-10-2018
+Capitella_teleta_CTE|ELT96428.1	d5d35ae8ed2648f2bb3439309f34a4ec	466	ProSiteProfiles	PS50237	HECT domain profile.	382	452	8.903	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELT96428.1	d5d35ae8ed2648f2bb3439309f34a4ec	466	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	367	451	1.1E-9	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_023932019.1	0a3ef0eeb7bef4a2f755c31553b33fcd	461	SUPERFAMILY	SSF56204		164	435	1.13E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_023932019.1	0a3ef0eeb7bef4a2f755c31553b33fcd	461	MobiDBLite	mobidb-lite	consensus disorder prediction	28	56	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9932-0.11	efb8ea38362b6025ec8204f1ad0a96b4	268	MobiDBLite	mobidb-lite	consensus disorder prediction	103	133	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022301734.1	5c147a5a615e99fd730cfb042c03e30e	762	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	578	734	3.7E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022301734.1	5c147a5a615e99fd730cfb042c03e30e	762	MobiDBLite	mobidb-lite	consensus disorder prediction	234	299	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022301734.1	5c147a5a615e99fd730cfb042c03e30e	762	SUPERFAMILY	SSF56204		429	734	7.85E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF51905.9	eb6bd446f32017bb9cfb1a6e37f0482c	255	MobiDBLite	mobidb-lite	consensus disorder prediction	232	255	-	T	30-10-2018
+Chlamys_farreri_CFA|CF51905.9	eb6bd446f32017bb9cfb1a6e37f0482c	255	MobiDBLite	mobidb-lite	consensus disorder prediction	89	132	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022300917.1	4ef8f2cd3db4521d7430312abb4c30f0	337	SUPERFAMILY	SSF56204		4	308	1.31E-8	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_032934-T1	dd0dcbd756a4558561cf24f39ef9977c	326	SUPERFAMILY	SSF56204		14	126	1.7E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_032934-T1	dd0dcbd756a4558561cf24f39ef9977c	326	SUPERFAMILY	SSF56204		153	297	1.7E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_032934-T1	dd0dcbd756a4558561cf24f39ef9977c	326	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	230	317	8.0E-8	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_032934-T1	dd0dcbd756a4558561cf24f39ef9977c	326	Gene3D	G3DSA:3.30.2410.10		224	323	3.2E-6	T	30-10-2018
+Notospermus_geniculatus_NGE|g14461.t1	3c12a57cfe6bdeec5cf56489f2824c23	685	MobiDBLite	mobidb-lite	consensus disorder prediction	94	119	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011446571.1	d69b48eca4e083b1a9c4655476d7f870	760	MobiDBLite	mobidb-lite	consensus disorder prediction	268	291	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011446571.1	d69b48eca4e083b1a9c4655476d7f870	760	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	511	732	1.2E-7	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_gigas_CGI|XP_011446571.1	d69b48eca4e083b1a9c4655476d7f870	760	SUPERFAMILY	SSF56204		426	732	2.62E-15	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_gigas_CGI|XP_011446571.1	d69b48eca4e083b1a9c4655476d7f870	760	Gene3D	G3DSA:3.30.2410.10		649	740	2.1E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF699733.1	b08a9d70a5c7dc056c68538a0fa6fb68	189	SUPERFAMILY	SSF56204		102	186	3.66E-12	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF699733.1	b08a9d70a5c7dc056c68538a0fa6fb68	189	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	108	187	3.1E-10	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF699733.1	b08a9d70a5c7dc056c68538a0fa6fb68	189	Gene3D	G3DSA:3.30.2410.10		92	189	1.4E-7	T	30-10-2018
+Chlamys_farreri_CFA|CF699733.1	b08a9d70a5c7dc056c68538a0fa6fb68	189	ProSiteProfiles	PS50237	HECT domain profile.	114	176	10.469	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g25074.t1	e2cc96996bfc4e9329ef7fdb1941a154	555	Pfam	PF00789	UBX domain	29	98	1.9E-6	T	30-10-2018	IPR001012	UBX domain	GO:0005515	
+Notospermus_geniculatus_NGE|g25074.t1	e2cc96996bfc4e9329ef7fdb1941a154	555	ProSiteProfiles	PS50033	UBX domain profile.	29	99	12.794	T	30-10-2018	IPR001012	UBX domain	GO:0005515	
+Notospermus_geniculatus_NGE|g25074.t1	e2cc96996bfc4e9329ef7fdb1941a154	555	SUPERFAMILY	SSF56204		228	528	2.62E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g25074.t1	e2cc96996bfc4e9329ef7fdb1941a154	555	Gene3D	G3DSA:3.10.20.90		27	100	2.9E-10	T	30-10-2018
+Notospermus_geniculatus_NGE|g25074.t1	e2cc96996bfc4e9329ef7fdb1941a154	555	SUPERFAMILY	SSF54236		21	103	1.58E-8	T	30-10-2018	IPR029071	Ubiquitin-like domain superfamily		
+Capitella_teleta_CTE|ELU02397.1	7a0924db42f0de690bfe739612dbd6d0	259	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	152	243	5.0E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU02397.1	7a0924db42f0de690bfe739612dbd6d0	259	Gene3D	G3DSA:3.30.2410.10		148	252	3.2E-7	T	30-10-2018
+Capitella_teleta_CTE|ELU02397.1	7a0924db42f0de690bfe739612dbd6d0	259	SUPERFAMILY	SSF56204		153	231	7.19E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU17777.1	983ddc751fd1535501255a5686d42730	401	SUPERFAMILY	SSF56204		118	393	6.98E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Capitella_teleta_CTE|ELU17777.1	983ddc751fd1535501255a5686d42730	401	MobiDBLite	mobidb-lite	consensus disorder prediction	56	90	-	T	30-10-2018
+Chlamys_farreri_CFA|CF31253.1	710c78309e6a0071782885a14c98f19e	145	MobiDBLite	mobidb-lite	consensus disorder prediction	53	73	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g23262.t1	833a43fc1bdc6a3c2e305c4fa1abef12	555	SUPERFAMILY	SSF56204		228	528	1.44E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g23262.t1	833a43fc1bdc6a3c2e305c4fa1abef12	555	MobiDBLite	mobidb-lite	consensus disorder prediction	152	171	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g23262.t1	833a43fc1bdc6a3c2e305c4fa1abef12	555	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	466	529	9.4E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g34975.t1	7aca8a18e6356977747fc58076e756a5	319	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	164	309	2.0E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g34975.t1	7aca8a18e6356977747fc58076e756a5	319	SUPERFAMILY	SSF56204		9	292	2.35E-13	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_46577-8.7	84abffe99f4c38b1f073441ba2602234	319	MobiDBLite	mobidb-lite	consensus disorder prediction	70	98	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_46577-8.7	84abffe99f4c38b1f073441ba2602234	319	MobiDBLite	mobidb-lite	consensus disorder prediction	123	143	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g26264.t1	512b7c17beb3186eb20e65ed3395124c	372	MobiDBLite	mobidb-lite	consensus disorder prediction	90	110	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_29696-2.3	26a955e42cdce82c40d07a186422c6b8	218	MobiDBLite	mobidb-lite	consensus disorder prediction	161	182	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020916898.1	687eaee285ab5cb62127189a4471e2a7	266	Gene3D	G3DSA:3.30.2410.10		157	264	1.1E-8	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020916898.1	687eaee285ab5cb62127189a4471e2a7	266	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	160	264	9.2E-11	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020916898.1	687eaee285ab5cb62127189a4471e2a7	266	ProSiteProfiles	PS50237	HECT domain profile.	185	264	8.593	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Exaiptasia_pallida_EPA|XP_020916898.1	687eaee285ab5cb62127189a4471e2a7	266	SUPERFAMILY	SSF56204		140	248	9.29E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lottia_gigantea_LGI|XP_009053387.1	59596e8b711f63182ffd8c1bed3e058e	348	SUPERFAMILY	SSF56204		160	258	2.49E-7	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lottia_gigantea_LGI|XP_009053387.1	59596e8b711f63182ffd8c1bed3e058e	348	Gene3D	G3DSA:3.90.1750.10		77	280	2.0E-5	T	30-10-2018
+Lottia_gigantea_LGI|XP_009053387.1	59596e8b711f63182ffd8c1bed3e058e	348	MobiDBLite	mobidb-lite	consensus disorder prediction	1	42	-	T	30-10-2018
+Chlamys_farreri_CFA|CF31345.5	3f4ad2b64de56d621d018aade5ee9d3b	291	MobiDBLite	mobidb-lite	consensus disorder prediction	31	53	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025637-T1	4f86be1ec337b574fcb176478fc6466b	165	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294881.1	3ec79ef2c7cabcdce148458c345b3b9e	356	Gene3D	G3DSA:3.90.1750.10		247	329	3.0E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294881.1	3ec79ef2c7cabcdce148458c345b3b9e	356	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294881.1	3ec79ef2c7cabcdce148458c345b3b9e	356	MobiDBLite	mobidb-lite	consensus disorder prediction	138	173	-	T	30-10-2018
+Chlamys_farreri_CFA|CF28741.1	2ca353e98f11a4a3fb22d6c7dadec1bf	222	Gene3D	G3DSA:3.30.2410.10		121	220	2.2E-6	T	30-10-2018
+Chlamys_farreri_CFA|CF28741.1	2ca353e98f11a4a3fb22d6c7dadec1bf	222	ProSiteProfiles	PS50237	HECT domain profile.	82	220	8.934	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF28741.1	2ca353e98f11a4a3fb22d6c7dadec1bf	222	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	132	219	1.6E-6	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Chlamys_farreri_CFA|CF28741.1	2ca353e98f11a4a3fb22d6c7dadec1bf	222	SUPERFAMILY	SSF56204		36	204	3.27E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_013401622.1	0d16aeabf6c898cf7be9dc687f1c4a74	137	MobiDBLite	mobidb-lite	consensus disorder prediction	24	43	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g17801.t1	a066b54d07b502df661d86944171af16	371	SUPERFAMILY	SSF56204		44	344	4.05E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g17801.t1	a066b54d07b502df661d86944171af16	371	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	282	345	4.9E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Notospermus_geniculatus_NGE|g26406.t1	7ca0ee5d25324b52e20a85a87ca0aa1a	353	MobiDBLite	mobidb-lite	consensus disorder prediction	64	109	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023931644.1	152d7d11c2b1b5bc2ec0467d5964efae	302	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	195	289	2.0E-4	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lingula_anatina_LAN|XP_023931644.1	152d7d11c2b1b5bc2ec0467d5964efae	302	SUPERFAMILY	SSF56204		10	287	1.44E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_46235-0.0	abd977e55a6f3977b61a38eed46f2d61	202	SUPERFAMILY	SSF56204		5	89	3.14E-6	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Modiolus_philippinarum_MPH|Mph_scaf_57832-0.0	5329b7fbc602518be34f1bc4dd03a253	226	SUPERFAMILY	SSF56204		99	180	7.46E-5	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022300942.1	c9cd5c1b6d24a87ec0fd788b9a54db24	205	MobiDBLite	mobidb-lite	consensus disorder prediction	82	103	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022291886.1	7c40f7a59b0c3647ea541340c55ad2c8	766	Pfam	PF00632	HECT-domain (ubiquitin-transferase)	582	738	3.3E-5	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022291886.1	7c40f7a59b0c3647ea541340c55ad2c8	766	SUPERFAMILY	SSF56204		433	738	1.44E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022291886.1	7c40f7a59b0c3647ea541340c55ad2c8	766	MobiDBLite	mobidb-lite	consensus disorder prediction	233	301	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022288693.1	7bc80d20e0aaeff0a2f9b1772d823e8b	641	MobiDBLite	mobidb-lite	consensus disorder prediction	47	75	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022288693.1	7bc80d20e0aaeff0a2f9b1772d823e8b	641	SUPERFAMILY	SSF56204		313	460	5.75E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Crassostrea_virginica_CVI|XP_022288693.1	7bc80d20e0aaeff0a2f9b1772d823e8b	641	SUPERFAMILY	SSF56204		495	626	5.75E-10	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_002408-T1	c0b1418c11d9c58113c65ddf644cd8e1	204	Gene3D	G3DSA:3.90.1750.10		21	169	2.6E-10	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002408-T1	c0b1418c11d9c58113c65ddf644cd8e1	204	ProSiteProfiles	PS50237	HECT domain profile.	61	97	14.08	T	30-10-2018	IPR000569	HECT domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_002408-T1	c0b1418c11d9c58113c65ddf644cd8e1	204	SUPERFAMILY	SSF56204		43	153	1.2E-11	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_60577-0.9	6d75c8a398427c6effc3f60194914eba	325	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49505-2.11	1b1f0994e54c0f10cd1df2fdf99ca5fe	349	SUPERFAMILY	SSF56204		76	333	2.22E-9	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49505-2.11	1b1f0994e54c0f10cd1df2fdf99ca5fe	349	MobiDBLite	mobidb-lite	consensus disorder prediction	41	61	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g26407.t1	81b3b7f19b4e0a48b28b1be632ce8e0d	293	SUPERFAMILY	SSF56204		7	271	2.88E-7	T	30-10-2018	IPR035983	HECT, E3 ligase catalytic domain	GO:0004842	MetaCyc: PWY-7511|Reactome: R-HSA-983168
+Lamellibrachia_luymsi_proteins_LLU|FUN_008320-T1	d7303504298608463debf2f94bc095c7	109	MobiDBLite	mobidb-lite	consensus disorder prediction	30	64	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022292915.1	142c1eb63ff81778202c7dc8da27f37a	199	MobiDBLite	mobidb-lite	consensus disorder prediction	79	107	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g34974.t1	e57d0208a0cb9379fd7acdcc9e6076f6	425	MobiDBLite	mobidb-lite	consensus disorder prediction	363	411	-	T	30-10-2018
+Capitella_teleta_CTE|ELT92913.1	a210dfcf303c1b2b87efac28077904ee	242	MobiDBLite	mobidb-lite	consensus disorder prediction	1	45	-	T	30-10-2018

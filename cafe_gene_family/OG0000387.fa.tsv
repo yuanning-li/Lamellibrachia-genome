@@ -1,0 +1,801 @@
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Gene3D	G3DSA:3.10.100.10		86	225	1.3E-25	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF01822	WSC domain	227	304	3.4E-10	T	30-10-2018	IPR002889	Carbohydrate-binding WSC		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF01822	WSC domain	829	907	2.8E-9	T	30-10-2018	IPR002889	Carbohydrate-binding WSC		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSiteProfiles	PS51212	WSC domain profile.	825	917	9.023	T	30-10-2018	IPR002889	Carbohydrate-binding WSC		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Gene3D	G3DSA:2.60.120.260		365	444	3.1E-5	T	30-10-2018	IPR008979	Galactose-binding-like domain superfamily		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SUPERFAMILY	SSF56496		310	356	2.54E-5	T	30-10-2018	IPR036056	Fibrinogen-like, C-terminal		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	982	1042	6.998	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	919	981	8.013	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Gene3D	G3DSA:2.10.70.10		985	1042	3.6E-6	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF00084	Sushi repeat (SCR repeat)	990	1040	0.0011	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	CDD	cd00033	CCP	921	976	0.00846902	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSitePatterns	PS00615	C-type lectin domain signature.	199	221	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SMART	SM00032		921	979	0.25	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SMART	SM00032		984	1040	0.043	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SUPERFAMILY	SSF56436		4	56	7.73E-13	T	30-10-2018	IPR016187	C-type lectin fold		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	MobiDBLite	mobidb-lite	consensus disorder prediction	27	46	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSiteProfiles	PS51212	WSC domain profile.	224	315	9.876	T	30-10-2018	IPR002889	Carbohydrate-binding WSC		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	CDD	cd00037	CLECT	108	222	7.47156E-19	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SUPERFAMILY	SSF57535		920	986	2.92E-6	T	30-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSiteProfiles	PS50041	C-type lectin domain profile.	1	53	12.724	T	30-10-2018	IPR001304	C-type lectin-like		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	ProSiteProfiles	PS50041	C-type lectin domain profile.	105	222	16.999	T	30-10-2018	IPR001304	C-type lectin-like		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SUPERFAMILY	SSF57535		979	1044	2.92E-6	T	30-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	CDD	cd00037	CLECT	4	54	2.1129E-7	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Gene3D	G3DSA:2.10.70.10		916	984	4.1E-7	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	PANTHER	PTHR22803		5	420	3.4E-24	T	30-10-2018
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SMART	SM00034		97	222	1.1E-16	T	30-10-2018	IPR001304	C-type lectin-like		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Gene3D	G3DSA:3.10.100.10		1	57	8.9E-9	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SMART	SM00321		825	917	0.0045	T	30-10-2018	IPR002889	Carbohydrate-binding WSC		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SMART	SM00321		224	317	1.7E-5	T	30-10-2018	IPR002889	Carbohydrate-binding WSC		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	SUPERFAMILY	SSF56436		95	227	3.61E-27	T	30-10-2018	IPR016187	C-type lectin fold		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF00059	Lectin C-type domain	4	54	1.8E-4	T	30-10-2018	IPR001304	C-type lectin-like		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF00059	Lectin C-type domain	116	223	3.7E-10	T	30-10-2018	IPR001304	C-type lectin-like		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF12248	Farnesoic acid 0-methyl transferase	489	575	9.5E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lingula_anatina_LAN|XP_023933391.1	5906775d7e44e3d05d82a72db1b130b2	1047	Pfam	PF12248	Farnesoic acid 0-methyl transferase	638	735	5.9E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g12527.t1	0b1e726cffe484b425890438cbcb0183	252	Pfam	PF12248	Farnesoic acid 0-methyl transferase	86	173	4.9E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	ProSiteProfiles	PS51252	Antistasin-like domain profile.	350	376	10.382	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	SUPERFAMILY	SSF57262		349	378	4.88E-5	T	30-10-2018	IPR011061	Hirudin/antistatin	GO:0004857	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	SUPERFAMILY	SSF56436		164	293	2.62E-33	T	30-10-2018	IPR016187	C-type lectin fold		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	ProSiteProfiles	PS50041	C-type lectin domain profile.	168	289	23.156	T	30-10-2018	IPR001304	C-type lectin-like		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Gene3D	G3DSA:2.10.22.10		380	405	7.5E-7	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Gene3D	G3DSA:2.10.22.10		348	379	3.7E-8	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	ProSiteProfiles	PS51252	Antistasin-like domain profile.	322	347	8.508	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Gene3D	G3DSA:3.10.100.10		145	295	4.5E-33	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Pfam	PF12248	Farnesoic acid 0-methyl transferase	32	133	9.8E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	PANTHER	PTHR22803		88	317	8.5E-28	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	SMART	SM00034		161	289	2.4E-26	T	30-10-2018	IPR001304	C-type lectin-like		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	SUPERFAMILY	SSF57262		378	408	6.98E-5	T	30-10-2018	IPR011061	Hirudin/antistatin	GO:0004857	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	PANTHER	PTHR22803:SF90		88	317	8.5E-28	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Gene3D	G3DSA:2.60.120.260		406	489	5.0E-17	T	30-10-2018	IPR008979	Galactose-binding-like domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	ProSiteProfiles	PS51252	Antistasin-like domain profile.	379	405	9.283	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	CDD	cd00037	CLECT	172	290	1.89642E-28	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	ProSiteProfiles	PS51252	Antistasin-like domain profile.	294	319	9.531	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	SUPERFAMILY	SSF49785		407	488	1.23E-11	T	30-10-2018	IPR008979	Galactose-binding-like domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	ProSitePatterns	PS00615	C-type lectin domain signature.	264	288	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Pfam	PF02822	Antistasin family	294	319	6.5E-6	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Pfam	PF02822	Antistasin family	350	376	1.2E-6	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Pfam	PF02822	Antistasin family	379	405	2.1E-4	T	30-10-2018	IPR004094	Antistasin-like domain	GO:0004867	
+Modiolus_philippinarum_MPH|Mph_scaf_25470-0.6	218cada6f8a48a01b6be9582778f4db4	489	Pfam	PF00059	Lectin C-type domain	179	290	6.6E-18	T	30-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	Pfam	PF12248	Farnesoic acid 0-methyl transferase	342	438	2.1E-5	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	Pfam	PF12248	Farnesoic acid 0-methyl transferase	199	278	4.5E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	Pfam	PF12248	Farnesoic acid 0-methyl transferase	637	725	2.6E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	Pfam	PF12248	Farnesoic acid 0-methyl transferase	60	152	2.0E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649		630	745	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649		326	416	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649:SF8		630	745	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649:SF8		182	262	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649:SF8		34	160	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649:SF8		523	597	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649:SF8		326	416	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649		182	262	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649		34	160	7.8E-41	T	30-10-2018
+Capitella_teleta_CTE|ELT97145.1	40db1d31c8d8e1794f0fd2803c888538	779	PANTHER	PTHR31649		523	597	7.8E-41	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	PANTHER	PTHR31649:SF8		57	180	6.9E-24	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	Gene3D	G3DSA:3.10.100.10		174	260	4.8E-19	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	SMART	SM00034		125	254	0.0094	T	30-10-2018	IPR001304	C-type lectin-like		
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	CDD	cd00037	CLECT	181	254	8.1974E-18	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	PANTHER	PTHR31649		57	180	6.9E-24	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	Pfam	PF00059	Lectin C-type domain	187	255	3.6E-8	T	30-10-2018	IPR001304	C-type lectin-like		
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	ProSiteProfiles	PS50041	C-type lectin domain profile.	188	254	16.576	T	30-10-2018	IPR001304	C-type lectin-like		
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	Pfam	PF12248	Farnesoic acid 0-methyl transferase	72	174	5.1E-29	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	ProSitePatterns	PS00615	C-type lectin domain signature.	229	253	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Modiolus_philippinarum_MPH|Mph_scaf_9599-0.4	c1cca07057de17752fe869b6a314660b	265	SUPERFAMILY	SSF56436		181	257	4.9E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Modiolus_philippinarum_MPH|Mph_scaf_47552-0.0	9f5523a59b8f3e55ea89cfe43cb12f40	210	Pfam	PF00024	PAN domain	153	197	2.1E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_47552-0.0	9f5523a59b8f3e55ea89cfe43cb12f40	210	Pfam	PF12248	Farnesoic acid 0-methyl transferase	36	115	4.5E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_47552-0.0	9f5523a59b8f3e55ea89cfe43cb12f40	210	Gene3D	G3DSA:3.50.4.10		137	210	3.1E-5	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_47552-0.0	9f5523a59b8f3e55ea89cfe43cb12f40	210	SUPERFAMILY	SSF57414		157	201	2.35E-5	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	Pfam	PF02140	Galactose binding lectin domain	53	101	1.4E-4	T	30-10-2018	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	CDD	cd01450	vWFA_subfamily_ECM	363	523	1.23022E-9	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	CDD	cd01450	vWFA_subfamily_ECM	559	698	2.39574E-13	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	Gene3D	G3DSA:3.40.50.410		549	738	3.1E-24	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	Pfam	PF00092	von Willebrand factor type A domain	566	724	1.2E-16	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	Pfam	PF00092	von Willebrand factor type A domain	364	530	2.5E-10	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	Gene3D	G3DSA:3.40.50.410		361	548	2.8E-20	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	ProSiteProfiles	PS50234	VWFA domain profile.	559	732	15.624	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	SMART	SM00327		362	543	0.011	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	SMART	SM00327		558	733	1.5E-10	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	ProSiteProfiles	PS50092	Thrombospondin type-1 (TSP1) repeat profile.	102	151	8.934	T	30-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	Pfam	PF12248	Farnesoic acid 0-methyl transferase	193	294	1.4E-22	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	ProSiteProfiles	PS50234	VWFA domain profile.	364	542	17.773	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	SUPERFAMILY	SSF53300		556	734	1.19E-23	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	PANTHER	PTHR44105		358	747	4.0E-37	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011423740.1	8c788290875f7bf21782776d128e3464	889	SUPERFAMILY	SSF53300		342	542	1.13E-20	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Chlamys_farreri_CFA|CF63937.8	d148197f651517c78b8b63ce9a2995dc	169	PANTHER	PTHR31649:SF8		37	163	4.9E-21	T	30-10-2018
+Chlamys_farreri_CFA|CF63937.8	d148197f651517c78b8b63ce9a2995dc	169	PANTHER	PTHR31649		37	163	4.9E-21	T	30-10-2018
+Chlamys_farreri_CFA|CF63937.8	d148197f651517c78b8b63ce9a2995dc	169	Pfam	PF12248	Farnesoic acid 0-methyl transferase	53	158	1.3E-24	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	Pfam	PF12248	Farnesoic acid 0-methyl transferase	128	225	7.8E-26	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	Gene3D	G3DSA:3.10.100.10		23	108	8.8E-8	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	PANTHER	PTHR36695		111	228	4.9E-16	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	ProSiteProfiles	PS50041	C-type lectin domain profile.	236	307	12.596	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	CDD	cd00037	CLECT	228	308	2.41174E-12	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	SUPERFAMILY	SSF56436		30	92	4.96E-19	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	SUPERFAMILY	SSF56436		233	307	4.96E-19	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	Gene3D	G3DSA:3.10.100.10		210	309	2.3E-11	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	SMART	SM00034		30	307	1.1E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_gigas_CGI|XP_019921363.1	ac97f64671b0c71ce0b6fed2fff10206	317	Pfam	PF00059	Lectin C-type domain	224	307	2.5E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-2.8	9e8618affcc59c63a1dbfda02238076a	182	Pfam	PF12248	Farnesoic acid 0-methyl transferase	83	169	9.9E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		881	1010	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		185	311	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		881	1010	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		316	470	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		185	311	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	Pfam	PF12248	Farnesoic acid 0-methyl transferase	915	995	4.4E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	Pfam	PF12248	Farnesoic acid 0-methyl transferase	66	149	4.5E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	Pfam	PF12248	Farnesoic acid 0-methyl transferase	206	296	4.1E-13	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	Pfam	PF12248	Farnesoic acid 0-methyl transferase	766	851	3.7E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	Pfam	PF12248	Farnesoic acid 0-methyl transferase	612	709	7.1E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	Pfam	PF12248	Farnesoic acid 0-methyl transferase	344	444	1.1E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		35	148	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		593	714	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		539	566	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		733	826	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		593	714	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		316	470	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	MobiDBLite	mobidb-lite	consensus disorder prediction	1009	1045	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649:SF8		35	148	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		733	826	1.4E-67	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034686-T1	b2a1d4c578867093e7e437714bb3064c	1120	PANTHER	PTHR31649		539	566	1.4E-67	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Gene3D	G3DSA:2.60.40.10		932	1028	1.5E-11	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	PANTHER	PTHR24035:SF122		445	760	2.0E-105	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00409		1037	1123	0.18	T	30-10-2018	IPR003599	Immunoglobulin subtype		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00409		937	1027	0.73	T	30-10-2018	IPR003599	Immunoglobulin subtype		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	PANTHER	PTHR24035		644	927	2.0E-105	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	PANTHER	PTHR24035		445	760	2.0E-105	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	786	926	3.0E-7	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	491	653	8.0E-4	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	PANTHER	PTHR24035:SF122		644	927	2.0E-105	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SUPERFAMILY	SSF48726		937	1028	4.13E-13	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SUPERFAMILY	SSF48726		1030	1122	2.31E-8	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	ProSiteProfiles	PS50227	G-protein coupled receptors family 2 profile 1.	1104	1183	11.701	T	30-10-2018	IPR001879	GPCR, family 2, extracellular hormone receptor domain	GO:0004930|GO:0016020	
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Pfam	PF12248	Farnesoic acid 0-methyl transferase	212	292	1.1E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Pfam	PF12248	Farnesoic acid 0-methyl transferase	63	140	5.0E-10	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Pfam	PF07679	Immunoglobulin I-set domain	936	1026	8.4E-11	T	30-10-2018	IPR013098	Immunoglobulin I-set		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Coils	Coil		1252	1261	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		801	834	39.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		656	698	70.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		709	744	59.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		845	880	46.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		891	926	160.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		527	562	56.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		755	790	220.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		619	654	100.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		453	483	240.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00181		485	516	230.0	T	30-10-2018	IPR000742	EGF-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Gene3D	G3DSA:2.60.40.10		1034	1124	3.3E-5	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SMART	SM00008		1126	1188	7.0E-5	T	30-10-2018	IPR001879	GPCR, family 2, extracellular hormone receptor domain	GO:0004930|GO:0016020	
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Gene3D	G3DSA:2.170.300.10		474	612	1.9E-21	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Gene3D	G3DSA:2.170.300.10		749	881	7.8E-23	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Gene3D	G3DSA:2.170.300.10		613	748	3.6E-24	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	SUPERFAMILY	SSF111418		1120	1179	1.83E-7	T	30-10-2018	IPR036445	GPCR family 2, extracellular hormone receptor domain superfamily	GO:0004930|GO:0016020	
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	ProSiteProfiles	PS50835	Ig-like domain profile.	1028	1117	8.411	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Crassostrea_gigas_CGI|XP_019923126.1	bd6289ff2c70d342cf0ad0a052784a56	1261	Gene3D	G3DSA:2.60.120.260		308	445	3.4E-7	T	30-10-2018	IPR008979	Galactose-binding-like domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649:SF8		61	186	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649		352	443	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649		663	728	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649:SF8		663	728	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649:SF8		209	333	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649:SF8		497	579	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649:SF8		352	443	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649		497	579	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649		209	333	8.0E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	Pfam	PF12248	Farnesoic acid 0-methyl transferase	385	446	1.3E-6	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	Pfam	PF12248	Farnesoic acid 0-methyl transferase	79	178	2.5E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	Pfam	PF12248	Farnesoic acid 0-methyl transferase	224	320	6.5E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	Pfam	PF12248	Farnesoic acid 0-methyl transferase	659	728	4.2E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035448-T1	d51bc14e479aad1d6f88fd3e3139b2d5	867	PANTHER	PTHR31649		61	186	8.0E-40	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	CDD	cd00037	CLECT	117	189	2.19968E-13	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	SUPERFAMILY	SSF56436		118	193	2.1E-15	T	30-10-2018	IPR016187	C-type lectin fold		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	PANTHER	PTHR31649		3	113	4.8E-22	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	Pfam	PF12248	Farnesoic acid 0-methyl transferase	7	109	2.2E-30	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	Gene3D	G3DSA:3.10.100.10		109	192	5.5E-15	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	ProSiteProfiles	PS50041	C-type lectin domain profile.	123	189	15.168	T	30-10-2018	IPR001304	C-type lectin-like		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	PANTHER	PTHR31649:SF8		3	113	4.8E-22	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.35	7e4a711f194de14cbc23d5250a2bd2df	201	Pfam	PF00059	Lectin C-type domain	123	189	6.9E-6	T	30-10-2018	IPR001304	C-type lectin-like		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017653-T1	ff918d4e6579b5f2dc24ebc300db4903	339	PANTHER	PTHR31649		143	279	1.3E-15	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017653-T1	ff918d4e6579b5f2dc24ebc300db4903	339	Pfam	PF12248	Farnesoic acid 0-methyl transferase	24	113	1.1E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017653-T1	ff918d4e6579b5f2dc24ebc300db4903	339	PANTHER	PTHR31649		2	118	1.3E-15	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017653-T1	ff918d4e6579b5f2dc24ebc300db4903	339	SUPERFAMILY	SSF48431		259	330	4.32E-6	T	30-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_017653-T1	ff918d4e6579b5f2dc24ebc300db4903	339	PANTHER	PTHR31649:SF8		143	279	1.3E-15	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017653-T1	ff918d4e6579b5f2dc24ebc300db4903	339	PANTHER	PTHR31649:SF8		2	118	1.3E-15	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.8	b69998852b26362e2e0ef1e7dd2c8b23	236	Pfam	PF12248	Farnesoic acid 0-methyl transferase	61	147	5.9E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.8	b69998852b26362e2e0ef1e7dd2c8b23	236	ProSiteProfiles	PS50948	PAN/Apple domain profile.	161	236	7.489	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.8	b69998852b26362e2e0ef1e7dd2c8b23	236	Gene3D	G3DSA:3.50.4.10		163	232	1.3E-7	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.8	b69998852b26362e2e0ef1e7dd2c8b23	236	Pfam	PF00024	PAN domain	167	223	1.3E-7	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.8	b69998852b26362e2e0ef1e7dd2c8b23	236	SUPERFAMILY	SSF57414		168	218	9.42E-6	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326915.1	13417a6bcfbafd877edab79ab9369d72	274	Pfam	PF12248	Farnesoic acid 0-methyl transferase	60	151	1.3E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022326915.1	13417a6bcfbafd877edab79ab9369d72	274	PANTHER	PTHR31649:SF8		20	163	6.3E-13	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326915.1	13417a6bcfbafd877edab79ab9369d72	274	PANTHER	PTHR31649		20	163	6.3E-13	T	30-10-2018
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	MobiDBLite	mobidb-lite	consensus disorder prediction	298	318	-	T	30-10-2018
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	PANTHER	PTHR31649:SF8		173	296	3.0E-26	T	30-10-2018
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	Pfam	PF12248	Farnesoic acid 0-methyl transferase	58	143	5.6E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	Pfam	PF12248	Farnesoic acid 0-methyl transferase	187	290	9.9E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	PANTHER	PTHR31649		37	137	3.0E-26	T	30-10-2018
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	PANTHER	PTHR31649:SF8		37	137	3.0E-26	T	30-10-2018
+Capitella_teleta_CTE|ELU05632.1	66336d2b1bee1974685db883a99b8297	368	PANTHER	PTHR31649		173	296	3.0E-26	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	Gene3D	G3DSA:2.60.120.740		18	106	2.3E-8	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	Gene3D	G3DSA:3.40.50.410		364	517	1.0E-13	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	Pfam	PF12248	Farnesoic acid 0-methyl transferase	196	296	1.0E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	SUPERFAMILY	SSF57535		309	366	1.46E-5	T	30-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	Pfam	PF00092	von Willebrand factor type A domain	367	505	9.9E-8	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	SUPERFAMILY	SSF82895		103	153	5.49E-5	T	30-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	ProSiteProfiles	PS50228	SUEL-type lectin domain profile.	29	104	9.066	T	30-10-2018	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	ProSiteProfiles	PS50092	Thrombospondin type-1 (TSP1) repeat profile.	104	154	8.802	T	30-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	ProSiteProfiles	PS50234	VWFA domain profile.	367	504	13.159	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	SUPERFAMILY	SSF53300		364	505	6.99E-17	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011449500.1	bc5c6cf8e7fa9fa76445e3647aae3fa6	533	Pfam	PF02140	Galactose binding lectin domain	36	103	2.0E-8	T	30-10-2018	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649:SF8		135	265	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649		279	417	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649		565	699	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649:SF8		431	550	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649:SF8		774	849	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649:SF8		279	417	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	Pfam	PF12248	Farnesoic acid 0-methyl transferase	592	691	7.3E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	Pfam	PF12248	Farnesoic acid 0-methyl transferase	769	828	2.4E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	Pfam	PF12248	Farnesoic acid 0-methyl transferase	457	542	4.0E-7	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	Pfam	PF12248	Farnesoic acid 0-methyl transferase	312	395	5.4E-7	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	Pfam	PF12248	Farnesoic acid 0-methyl transferase	150	248	9.2E-13	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649		135	265	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649		431	550	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649		774	849	9.4E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017242-T1	de7848a6e996009be0b80dd0cdd09eb4	909	PANTHER	PTHR31649:SF8		565	699	9.4E-35	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326914.1	f5db464fc6c3458d9a0c53195b409ecf	286	PANTHER	PTHR31649:SF8		32	175	6.9E-13	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326914.1	f5db464fc6c3458d9a0c53195b409ecf	286	PANTHER	PTHR31649		32	175	6.9E-13	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326914.1	f5db464fc6c3458d9a0c53195b409ecf	286	Pfam	PF12248	Farnesoic acid 0-methyl transferase	72	163	1.4E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-2.6	9090e489aa6e33014d5edfdb4eeb051c	66	Pfam	PF00024	PAN domain	19	61	1.7E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-2.6	9090e489aa6e33014d5edfdb4eeb051c	66	SUPERFAMILY	SSF57414		18	60	2.94E-7	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-2.6	9090e489aa6e33014d5edfdb4eeb051c	66	Gene3D	G3DSA:3.50.4.10		3	65	6.2E-7	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	Gene3D	G3DSA:2.80.10.70		239	399	4.6E-9	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	Pfam	PF12248	Farnesoic acid 0-methyl transferase	424	514	3.2E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	Coils	Coil		257	277	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	SUPERFAMILY	SSF57414		545	587	1.77E-5	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	PANTHER	PTHR11046		240	281	3.3E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	PANTHER	PTHR11046		93	219	3.3E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	Pfam	PF00024	PAN domain	547	587	4.9E-5	T	30-10-2018	IPR003609	PAN/Apple domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19149-0.7	9d8c4421e359f42afe99b44aecf67432	593	Gene3D	G3DSA:3.50.4.10		534	592	1.6E-5	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	PANTHER	PTHR31649		298	434	1.5E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	PANTHER	PTHR31649		510	609	1.5E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	Pfam	PF00024	PAN domain	58	101	8.3E-7	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	Pfam	PF00024	PAN domain	463	505	1.5E-5	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	Pfam	PF12248	Farnesoic acid 0-methyl transferase	336	425	7.0E-11	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	Pfam	PF12248	Farnesoic acid 0-methyl transferase	507	596	2.3E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	ProSiteProfiles	PS50948	PAN/Apple domain profile.	53	118	7.549	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	ProSiteProfiles	PS50948	PAN/Apple domain profile.	619	678	6.741	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	PANTHER	PTHR31649:SF8		1	31	1.5E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	ProSiteProfiles	PS50948	PAN/Apple domain profile.	457	517	6.64	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	Coils	Coil		170	190	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	PANTHER	PTHR31649:SF8		510	609	1.5E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	PANTHER	PTHR31649		1	31	1.5E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.4	3c66db28bd80d34d9dd60be5a5c69d89	678	PANTHER	PTHR31649:SF8		298	434	1.5E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_37801-0.4	1184ab218ed4629adbffe8936b21a4af	187	Pfam	PF12248	Farnesoic acid 0-methyl transferase	61	150	3.7E-19	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.10	dc10fea75a9b9ea261aaed17b74b7bcb	230	ProSiteProfiles	PS50948	PAN/Apple domain profile.	171	230	7.388	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.10	dc10fea75a9b9ea261aaed17b74b7bcb	230	PANTHER	PTHR31649:SF8		13	148	8.7E-15	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.10	dc10fea75a9b9ea261aaed17b74b7bcb	230	Gene3D	G3DSA:3.50.4.10		160	227	5.4E-5	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.10	dc10fea75a9b9ea261aaed17b74b7bcb	230	PANTHER	PTHR31649		13	148	8.7E-15	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.10	dc10fea75a9b9ea261aaed17b74b7bcb	230	Pfam	PF12248	Farnesoic acid 0-methyl transferase	48	136	7.2E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_62350-0.10	dc10fea75a9b9ea261aaed17b74b7bcb	230	Pfam	PF00024	PAN domain	176	217	3.8E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Capitella_teleta_CTE|ELU12990.1	41e4ee39cd629da08c73a9f5d7337191	260	PANTHER	PTHR31649		3	124	2.9E-31	T	30-10-2018
+Capitella_teleta_CTE|ELU12990.1	41e4ee39cd629da08c73a9f5d7337191	260	PANTHER	PTHR31649		137	260	2.9E-31	T	30-10-2018
+Capitella_teleta_CTE|ELU12990.1	41e4ee39cd629da08c73a9f5d7337191	260	PANTHER	PTHR31649:SF8		3	124	2.9E-31	T	30-10-2018
+Capitella_teleta_CTE|ELU12990.1	41e4ee39cd629da08c73a9f5d7337191	260	Pfam	PF12248	Farnesoic acid 0-methyl transferase	12	112	1.3E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU12990.1	41e4ee39cd629da08c73a9f5d7337191	260	Pfam	PF12248	Farnesoic acid 0-methyl transferase	167	255	3.2E-21	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU12990.1	41e4ee39cd629da08c73a9f5d7337191	260	PANTHER	PTHR31649:SF8		137	260	2.9E-31	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_43743-0.0	c3d076c466b1499cff8e87a2d49baad0	167	Pfam	PF12248	Farnesoic acid 0-methyl transferase	65	144	1.6E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	Pfam	PF00059	Lectin C-type domain	240	307	4.3E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	SUPERFAMILY	SSF56436		13	86	1.82E-14	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	ProSitePatterns	PS00615	C-type lectin domain signature.	282	306	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	SMART	SM00034		29	307	4.2E-18	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	ProSiteProfiles	PS50041	C-type lectin domain profile.	241	307	15.309	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	CDD	cd00037	CLECT	234	308	1.74094E-16	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	Pfam	PF12248	Farnesoic acid 0-methyl transferase	126	227	1.5E-26	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	Gene3D	G3DSA:3.10.100.10		230	310	5.5E-19	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_virginica_CVI|XP_022341677.1	665f98ad38c30670355f7dfbf965d77a	312	SUPERFAMILY	SSF56436		234	308	2.8E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	CDD	cd01450	vWFA_subfamily_ECM	315	475	5.79252E-9	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	CDD	cd00033	CCP	257	308	0.00643761	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	Pfam	PF12248	Farnesoic acid 0-methyl transferase	145	246	6.2E-23	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	PANTHER	PTHR44105		310	702	3.6E-35	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	ProSiteProfiles	PS50234	VWFA domain profile.	506	684	15.307	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	ProSiteProfiles	PS50835	Ig-like domain profile.	217	280	6.669	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	Pfam	PF00092	von Willebrand factor type A domain	518	676	7.6E-17	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	Pfam	PF00092	von Willebrand factor type A domain	316	482	3.6E-9	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	Gene3D	G3DSA:3.40.50.410		313	499	5.7E-20	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	SMART	SM00327		314	495	0.044	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	SMART	SM00327		510	685	2.8E-9	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	SUPERFAMILY	SSF53300		311	494	9.54E-20	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	SUPERFAMILY	SSF57535		258	315	1.1E-5	T	30-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	ProSiteProfiles	PS50234	VWFA domain profile.	316	494	16.874	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	Gene3D	G3DSA:3.40.50.410		500	690	9.6E-24	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	SUPERFAMILY	SSF53300		508	686	1.22E-23	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_011450361.2	4bb81f8b1b94d2eb3f6e63bedca220fd	739	CDD	cd01450	vWFA_subfamily_ECM	511	650	5.16438E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326916.1	a6058095a9151b305dce221cb694af4d	270	PANTHER	PTHR31649:SF8		32	169	1.1E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326916.1	a6058095a9151b305dce221cb694af4d	270	Pfam	PF12248	Farnesoic acid 0-methyl transferase	72	163	1.2E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022326916.1	a6058095a9151b305dce221cb694af4d	270	PANTHER	PTHR31649		32	169	1.1E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	CDD	cd00037	CLECT	265	339	7.19421E-11	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	ProSiteProfiles	PS50041	C-type lectin domain profile.	272	338	12.928	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	SMART	SM00034		62	338	2.7E-8	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	CDD	cd00037	CLECT	78	119	4.32714E-4	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	PANTHER	PTHR22802		211	256	1.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	PANTHER	PTHR22802		268	338	1.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	PANTHER	PTHR22802		70	185	1.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	Gene3D	G3DSA:3.10.100.10		232	347	6.1E-12	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	Pfam	PF12248	Farnesoic acid 0-methyl transferase	160	256	1.3E-28	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	PANTHER	PTHR22802:SF280		268	338	1.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	Gene3D	G3DSA:3.10.100.10		57	137	7.9E-8	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	Pfam	PF00059	Lectin C-type domain	267	338	2.9E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	PANTHER	PTHR22802:SF280		211	256	1.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	PANTHER	PTHR22802:SF280		70	185	1.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	SUPERFAMILY	SSF56436		266	340	2.67E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_virginica_CVI|XP_022343555.1	b57f65dde6ff60bba9643f5d774be298	349	SUPERFAMILY	SSF56436		61	124	2.67E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_011428609.1	b68b6480dfd85409c8ccd26f872524f3	255	Pfam	PF12248	Farnesoic acid 0-methyl transferase	71	136	4.5E-6	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_45011-0.4	9fd39a5b8cd0bab2d5569f08920ed471	294	SUPERFAMILY	SSF57414		223	276	1.63E-7	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_45011-0.4	9fd39a5b8cd0bab2d5569f08920ed471	294	Gene3D	G3DSA:3.50.4.10		222	292	2.6E-6	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_45011-0.4	9fd39a5b8cd0bab2d5569f08920ed471	294	Pfam	PF00024	PAN domain	225	281	4.8E-8	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_45011-0.4	9fd39a5b8cd0bab2d5569f08920ed471	294	SMART	SM00473		219	294	0.0063	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_45011-0.4	9fd39a5b8cd0bab2d5569f08920ed471	294	Pfam	PF12248	Farnesoic acid 0-methyl transferase	120	202	2.9E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_45011-0.4	9fd39a5b8cd0bab2d5569f08920ed471	294	ProSiteProfiles	PS50948	PAN/Apple domain profile.	217	294	7.812	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	PANTHER	PTHR31649		103	226	5.3E-23	T	30-10-2018
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	PANTHER	PTHR31649		37	87	5.3E-23	T	30-10-2018
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	CDD	cd00037	CLECT	227	302	4.33811E-17	T	30-10-2018
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	ProSiteProfiles	PS50041	C-type lectin domain profile.	235	301	17.319	T	30-10-2018	IPR001304	C-type lectin-like		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	SMART	SM00034		22	301	4.4E-16	T	30-10-2018	IPR001304	C-type lectin-like		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	ProSitePatterns	PS00615	C-type lectin domain signature.	276	300	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	Pfam	PF12248	Farnesoic acid 0-methyl transferase	119	221	8.0E-28	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	PANTHER	PTHR31649:SF8		37	87	5.3E-23	T	30-10-2018
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	Pfam	PF00059	Lectin C-type domain	41	175	9.9E-5	T	30-10-2018	IPR001304	C-type lectin-like		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	Pfam	PF00059	Lectin C-type domain	234	301	3.7E-10	T	30-10-2018	IPR001304	C-type lectin-like		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	Gene3D	G3DSA:3.10.100.10		218	304	2.0E-20	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	PANTHER	PTHR31649:SF8		103	226	5.3E-23	T	30-10-2018
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	SUPERFAMILY	SSF56436		229	302	2.17E-24	T	30-10-2018	IPR016187	C-type lectin fold		
+Chlamys_farreri_CFA|CF61423.13	a3d02c5c24da6b522adc96f7eb55ab2d	304	SUPERFAMILY	SSF56436		21	83	2.17E-24	T	30-10-2018	IPR016187	C-type lectin fold		
+Chlamys_farreri_CFA|CF62369.1	474a7b73dbac2d53f83a1805c0433b1d	128	PANTHER	PTHR31649:SF8		1	122	1.6E-20	T	30-10-2018
+Chlamys_farreri_CFA|CF62369.1	474a7b73dbac2d53f83a1805c0433b1d	128	Pfam	PF12248	Farnesoic acid 0-methyl transferase	12	117	5.2E-25	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF62369.1	474a7b73dbac2d53f83a1805c0433b1d	128	PANTHER	PTHR31649		1	122	1.6E-20	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	SUPERFAMILY	SSF57414		168	210	3.37E-6	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	Gene3D	G3DSA:3.50.4.10		154	219	2.9E-5	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	Pfam	PF12248	Farnesoic acid 0-methyl transferase	45	127	8.1E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	ProSiteProfiles	PS50948	PAN/Apple domain profile.	145	227	7.762	T	30-10-2018	IPR003609	PAN/Apple domain		
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	PANTHER	PTHR31649:SF8		15	129	1.4E-12	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	PANTHER	PTHR31649		15	129	1.4E-12	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25369	84f37582a045b737ecf6ec9c12ee1e6b	227	Pfam	PF00024	PAN domain	165	201	4.9E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Capitella_teleta_CTE|ELT90394.1	0e7fc7dfa144e5734edd93600845d374	452	Pfam	PF12248	Farnesoic acid 0-methyl transferase	338	438	6.4E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT90394.1	0e7fc7dfa144e5734edd93600845d374	452	PANTHER	PTHR31649		177	289	4.3E-16	T	30-10-2018
+Capitella_teleta_CTE|ELT90394.1	0e7fc7dfa144e5734edd93600845d374	452	PANTHER	PTHR31649		311	443	4.3E-16	T	30-10-2018
+Capitella_teleta_CTE|ELT90394.1	0e7fc7dfa144e5734edd93600845d374	452	PANTHER	PTHR31649:SF8		177	289	4.3E-16	T	30-10-2018
+Capitella_teleta_CTE|ELT90394.1	0e7fc7dfa144e5734edd93600845d374	452	PANTHER	PTHR31649:SF8		311	443	4.3E-16	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019919966.1	44f64bb55a826ab46b28302521e138b3	184	Pfam	PF12248	Farnesoic acid 0-methyl transferase	108	175	9.6E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_64501-0.6	303da365df5a927c39f346bf320b4a8e	164	Pfam	PF12248	Farnesoic acid 0-methyl transferase	61	141	2.0E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	ProSiteProfiles	PS50041	C-type lectin domain profile.	172	261	12.532	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	PANTHER	PTHR22802		187	261	3.0E-16	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	PANTHER	PTHR22802		3	39	3.0E-16	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	SUPERFAMILY	SSF56436		187	262	1.33E-15	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	SUPERFAMILY	SSF56436		3	45	1.33E-15	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	PANTHER	PTHR22802:SF280		3	39	3.0E-16	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	Gene3D	G3DSA:3.10.100.10		164	270	1.5E-12	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	Pfam	PF12248	Farnesoic acid 0-methyl transferase	84	177	7.7E-24	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	PANTHER	PTHR22802:SF280		187	261	3.0E-16	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	Pfam	PF00059	Lectin C-type domain	181	261	7.0E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	CDD	cd00037	CLECT	182	262	2.38301E-12	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921362.1	4c18a7095ac53aacaf2fa0321401763d	278	CDD	cd00037	CLECT	3	40	6.6813E-4	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326545.1	de4d35ff3d9d8bae4f973dc447ab7679	436	Pfam	PF12248	Farnesoic acid 0-methyl transferase	72	163	7.9E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022326545.1	de4d35ff3d9d8bae4f973dc447ab7679	436	Pfam	PF12248	Farnesoic acid 0-methyl transferase	222	313	3.3E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022326545.1	de4d35ff3d9d8bae4f973dc447ab7679	436	PANTHER	PTHR31649		32	179	1.1E-27	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326545.1	de4d35ff3d9d8bae4f973dc447ab7679	436	PANTHER	PTHR31649		182	318	1.1E-27	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326545.1	de4d35ff3d9d8bae4f973dc447ab7679	436	PANTHER	PTHR31649:SF8		32	179	1.1E-27	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326545.1	de4d35ff3d9d8bae4f973dc447ab7679	436	PANTHER	PTHR31649:SF8		182	318	1.1E-27	T	30-10-2018
+Chlamys_farreri_CFA|CF56961.1	14c56d4b60ada46c7db784228c3acfff	169	Pfam	PF12248	Farnesoic acid 0-methyl transferase	61	157	7.0E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF56961.1	14c56d4b60ada46c7db784228c3acfff	169	PANTHER	PTHR31649		37	161	9.4E-15	T	30-10-2018
+Chlamys_farreri_CFA|CF56961.1	14c56d4b60ada46c7db784228c3acfff	169	PANTHER	PTHR31649:SF8		37	161	9.4E-15	T	30-10-2018
+Capitella_teleta_CTE|ELT97147.1	f27c3b3be7a76e6755f1c5c8873d8ccb	253	Pfam	PF12248	Farnesoic acid 0-methyl transferase	97	157	1.1E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lingula_anatina_LAN|XP_013382094.1	9f3efc626e613d91768337cac727e47d	181	PANTHER	PTHR31649		28	153	5.9E-15	T	30-10-2018
+Lingula_anatina_LAN|XP_013382094.1	9f3efc626e613d91768337cac727e47d	181	Pfam	PF12248	Farnesoic acid 0-methyl transferase	56	155	1.6E-27	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lingula_anatina_LAN|XP_013382094.1	9f3efc626e613d91768337cac727e47d	181	PANTHER	PTHR31649:SF8		28	153	5.9E-15	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428608.1	a0e86e6629b96ebeab176db0cc5bd7f8	375	MobiDBLite	mobidb-lite	consensus disorder prediction	325	375	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428608.1	a0e86e6629b96ebeab176db0cc5bd7f8	375	PANTHER	PTHR31649		55	181	5.5E-15	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428608.1	a0e86e6629b96ebeab176db0cc5bd7f8	375	Pfam	PF12248	Farnesoic acid 0-methyl transferase	79	168	6.7E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011428608.1	a0e86e6629b96ebeab176db0cc5bd7f8	375	PANTHER	PTHR31649:SF8		55	181	5.5E-15	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	CDD	cd00037	CLECT	229	303	2.8578E-17	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	Pfam	PF12248	Farnesoic acid 0-methyl transferase	121	223	2.5E-28	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	Gene3D	G3DSA:3.10.100.10		221	305	3.0E-21	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	ProSiteProfiles	PS50041	C-type lectin domain profile.	237	303	17.434	T	30-10-2018	IPR001304	C-type lectin-like		
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	SUPERFAMILY	SSF56436		232	304	1.14E-19	T	30-10-2018	IPR016187	C-type lectin fold		
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	PANTHER	PTHR31649:SF8		105	228	7.9E-23	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	ProSitePatterns	PS00615	C-type lectin domain signature.	278	302	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	PANTHER	PTHR31649		105	228	7.9E-23	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	Pfam	PF00059	Lectin C-type domain	236	303	2.2E-10	T	30-10-2018	IPR001304	C-type lectin-like		
+Mizuhopecten_yessoensis_MYE|XP_021357826.1	0a926f4cb647014ff5ebbf469262584a	306	SMART	SM00034		22	303	1.2E-4	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022289493.1	72abd467bf4f411a8bad4e63088b4e8f	270	PANTHER	PTHR31649		40	177	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289493.1	72abd467bf4f411a8bad4e63088b4e8f	270	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	120	1.7E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289493.1	72abd467bf4f411a8bad4e63088b4e8f	270	PANTHER	PTHR31649:SF8		40	177	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289492.1	72abd467bf4f411a8bad4e63088b4e8f	270	PANTHER	PTHR31649		40	177	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289492.1	72abd467bf4f411a8bad4e63088b4e8f	270	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	120	1.7E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289492.1	72abd467bf4f411a8bad4e63088b4e8f	270	PANTHER	PTHR31649:SF8		40	177	1.3E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_41049-0.5	77c66f1fbc26ff1099f45bab22fc6ff3	165	PANTHER	PTHR31649:SF8		29	154	2.6E-14	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_41049-0.5	77c66f1fbc26ff1099f45bab22fc6ff3	165	PANTHER	PTHR31649		29	154	2.6E-14	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_41049-0.5	77c66f1fbc26ff1099f45bab22fc6ff3	165	Pfam	PF12248	Farnesoic acid 0-methyl transferase	53	148	8.2E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	SUPERFAMILY	SSF56436		28	90	8.7E-31	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	SUPERFAMILY	SSF56436		235	308	8.7E-31	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	Pfam	PF12248	Farnesoic acid 0-methyl transferase	126	227	1.3E-26	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	PANTHER	PTHR22802		28	308	2.7E-25	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	ProSiteProfiles	PS50041	C-type lectin domain profile.	241	307	16.141	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	CDD	cd00037	CLECT	234	308	1.11018E-17	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	Gene3D	G3DSA:3.10.100.10		225	313	3.1E-20	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	Pfam	PF00059	Lectin C-type domain	240	307	1.5E-8	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_gigas_CGI|XP_011422596.1	a2062842dee9c83c6494ade6ab5b1318	313	SMART	SM00034		29	307	5.2E-21	T	30-10-2018	IPR001304	C-type lectin-like		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.10	80d90ba5e1b0bc56421cc2a26104de46	139	Pfam	PF00024	PAN domain	70	127	7.8E-9	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.10	80d90ba5e1b0bc56421cc2a26104de46	139	Pfam	PF12248	Farnesoic acid 0-methyl transferase	1	52	8.5E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.10	80d90ba5e1b0bc56421cc2a26104de46	139	Gene3D	G3DSA:3.50.4.10		68	138	3.5E-9	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.10	80d90ba5e1b0bc56421cc2a26104de46	139	ProSiteProfiles	PS50948	PAN/Apple domain profile.	64	139	8.156	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.10	80d90ba5e1b0bc56421cc2a26104de46	139	SUPERFAMILY	SSF57414		70	134	1.35E-7	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	SUPERFAMILY	SSF56436		84	154	2.1E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	PANTHER	PTHR22802:SF280		87	155	9.9E-15	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	PANTHER	PTHR22802:SF280		26	68	9.9E-15	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	Pfam	PF12248	Farnesoic acid 0-methyl transferase	4	74	4.6E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	PANTHER	PTHR22802		87	155	9.9E-15	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	PANTHER	PTHR22802		26	68	9.9E-15	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	ProSiteProfiles	PS50041	C-type lectin domain profile.	88	154	16.756	T	30-10-2018	IPR001304	C-type lectin-like		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	Pfam	PF00059	Lectin C-type domain	86	155	7.7E-9	T	30-10-2018	IPR001304	C-type lectin-like		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	SMART	SM00034		25	154	0.0059	T	30-10-2018	IPR001304	C-type lectin-like		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	CDD	cd00037	CLECT	82	154	3.17322E-17	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	ProSitePatterns	PS00615	C-type lectin domain signature.	129	153	-	T	30-10-2018	IPR018378	C-type lectin, conserved site		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-2.37	15b63547e32532385ab9e8e1d8644491	168	Gene3D	G3DSA:3.10.100.10		72	160	9.4E-20	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	PANTHER	PTHR31649		329	454	6.2E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	PANTHER	PTHR31649		176	305	6.2E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	PANTHER	PTHR31649		25	153	6.2E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	Pfam	PF12248	Farnesoic acid 0-methyl transferase	48	143	1.4E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	Pfam	PF12248	Farnesoic acid 0-methyl transferase	191	295	1.1E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	Pfam	PF12248	Farnesoic acid 0-methyl transferase	350	446	1.3E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	PANTHER	PTHR31649:SF8		329	454	6.2E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	PANTHER	PTHR31649:SF8		176	305	6.2E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017237-T1	bb1e6ea5961618bc0fc90ba761a5f9fd	460	PANTHER	PTHR31649:SF8		25	153	6.2E-35	T	30-10-2018
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	Pfam	PF02932	Neurotransmitter-gated ion-channel transmembrane region	311	447	5.9E-15	T	30-10-2018	IPR006029	Neurotransmitter-gated ion-channel transmembrane domain	GO:0006811|GO:0016021	
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	Gene3D	G3DSA:1.20.58.390		274	392	3.6E-18	T	30-10-2018
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	PANTHER	PTHR18945:SF505		1	285	1.3E-75	T	30-10-2018
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	PANTHER	PTHR18945:SF505		288	490	1.3E-75	T	30-10-2018
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	PANTHER	PTHR18945		1	285	1.3E-75	T	30-10-2018	IPR006201	Neurotransmitter-gated ion-channel	GO:0004888|GO:0005216|GO:0016021|GO:0034220	
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	SUPERFAMILY	SSF90112		305	507	1.96E-24	T	30-10-2018	IPR036719	Neurotransmitter-gated ion-channel transmembrane domain superfamily	GO:0006811|GO:0016021	
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	Pfam	PF02931	Neurotransmitter-gated ion-channel ligand binding domain	154	228	2.0E-11	T	30-10-2018	IPR006202	Neurotransmitter-gated ion-channel ligand-binding domain	GO:0005230|GO:0006811|GO:0016021	
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	PANTHER	PTHR18945		288	490	1.3E-75	T	30-10-2018	IPR006201	Neurotransmitter-gated ion-channel	GO:0004888|GO:0005216|GO:0016021|GO:0034220	
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	Pfam	PF12248	Farnesoic acid 0-methyl transferase	14	111	2.8E-26	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	MobiDBLite	mobidb-lite	consensus disorder prediction	126	146	-	T	30-10-2018
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	Gene3D	G3DSA:2.70.170.10		143	242	3.9E-20	T	30-10-2018	IPR036734	Neurotransmitter-gated ion-channel ligand-binding domain superfamily	GO:0005230|GO:0006811|GO:0016021	
+Diphania_pulex_DPU|EFX81382.1	b6c0ff87edf37e812942e0b0e0d64b76	509	SUPERFAMILY	SSF63712		152	301	8.89E-19	T	30-10-2018	IPR036734	Neurotransmitter-gated ion-channel ligand-binding domain superfamily	GO:0005230|GO:0006811|GO:0016021	
+Crassostrea_virginica_CVI|XP_022289496.1	e11dba6c0aa5201a69547a5f3e011580	270	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	123	2.6E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Mizuhopecten_yessoensis_MYE|XP_021349440.1	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649:SF8		59	185	3.8E-29	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021349440.1	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649		59	185	3.8E-29	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021349440.1	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649		209	335	3.8E-29	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021349440.1	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649:SF8		209	335	3.8E-29	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021349440.1	c85767422bfdae5f18d6487bc69837bb	337	Pfam	PF12248	Farnesoic acid 0-methyl transferase	78	170	4.0E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Mizuhopecten_yessoensis_MYE|XP_021349440.1	c85767422bfdae5f18d6487bc69837bb	337	Pfam	PF12248	Farnesoic acid 0-methyl transferase	237	327	5.0E-19	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T18554	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649:SF8		59	185	3.8E-29	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T18554	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649		59	185	3.8E-29	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T18554	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649		209	335	3.8E-29	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T18554	c85767422bfdae5f18d6487bc69837bb	337	PANTHER	PTHR31649:SF8		209	335	3.8E-29	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T18554	c85767422bfdae5f18d6487bc69837bb	337	Pfam	PF12248	Farnesoic acid 0-methyl transferase	78	170	4.0E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T18554	c85767422bfdae5f18d6487bc69837bb	337	Pfam	PF12248	Farnesoic acid 0-methyl transferase	237	327	5.0E-19	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	ProSiteProfiles	PS50092	Thrombospondin type-1 (TSP1) repeat profile.	5	55	8.64	T	30-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	Gene3D	G3DSA:2.10.70.10		208	266	1.6E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	SUPERFAMILY	SSF82895		7	49	1.57E-5	T	30-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	Pfam	PF12248	Farnesoic acid 0-methyl transferase	98	198	3.9E-22	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	PANTHER	PTHR31649:SF8		78	210	5.9E-16	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	CDD	cd00033	CCP	208	258	0.00146937	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	205	262	8.064	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	Pfam	PF00084	Sushi repeat (SCR repeat)	208	256	3.5E-5	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	SUPERFAMILY	SSF57535		208	260	8.9E-7	T	30-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	17	6.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	PANTHER	PTHR31649		78	210	5.9E-16	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322681.1	4255b6067970880222c115ff3725f2bd	340	Gene3D	G3DSA:2.20.100.10		6	56	4.8E-5	T	30-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Crassostrea_virginica_CVI|XP_022289486.1	f00aa947bc55d1002bfd04de672ba0b1	377	PANTHER	PTHR31649:SF8		51	218	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289486.1	f00aa947bc55d1002bfd04de672ba0b1	377	PANTHER	PTHR31649		51	218	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289486.1	f00aa947bc55d1002bfd04de672ba0b1	377	Pfam	PF12248	Farnesoic acid 0-methyl transferase	82	169	2.0E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_63969-1.15	b7b758112e9f7b146768784566bd5a9d	172	ProSiteProfiles	PS50948	PAN/Apple domain profile.	102	172	7.58	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_63969-1.15	b7b758112e9f7b146768784566bd5a9d	172	Gene3D	G3DSA:3.50.4.10		97	167	4.5E-8	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_63969-1.15	b7b758112e9f7b146768784566bd5a9d	172	SUPERFAMILY	SSF57414		109	153	5.69E-5	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_63969-1.15	b7b758112e9f7b146768784566bd5a9d	172	Pfam	PF00024	PAN domain	104	160	4.5E-5	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_63969-1.15	b7b758112e9f7b146768784566bd5a9d	172	Pfam	PF12248	Farnesoic acid 0-methyl transferase	11	64	1.1E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU12989.1	2628bd045b67a8aabdb9e4421012233d	277	Pfam	PF12248	Farnesoic acid 0-methyl transferase	12	113	2.0E-24	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU12989.1	2628bd045b67a8aabdb9e4421012233d	277	Pfam	PF12248	Farnesoic acid 0-methyl transferase	149	251	3.1E-28	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU12989.1	2628bd045b67a8aabdb9e4421012233d	277	PANTHER	PTHR31649		122	254	7.3E-38	T	30-10-2018
+Capitella_teleta_CTE|ELU12989.1	2628bd045b67a8aabdb9e4421012233d	277	PANTHER	PTHR31649:SF8		122	254	7.3E-38	T	30-10-2018
+Capitella_teleta_CTE|ELU12989.1	2628bd045b67a8aabdb9e4421012233d	277	PANTHER	PTHR31649		2	117	7.3E-38	T	30-10-2018
+Capitella_teleta_CTE|ELU12989.1	2628bd045b67a8aabdb9e4421012233d	277	PANTHER	PTHR31649:SF8		2	117	7.3E-38	T	30-10-2018
+Capitella_teleta_CTE|ELU12988.1	1afc86c72ff15ae8d09deb9f7b629000	68	Pfam	PF12248	Farnesoic acid 0-methyl transferase	1	64	1.6E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	ProSiteProfiles	PS50041	C-type lectin domain profile.	261	327	12.928	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	PANTHER	PTHR22802:SF280		257	327	1.6E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	PANTHER	PTHR22802:SF280		197	245	1.6E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	CDD	cd00037	CLECT	254	328	7.09901E-11	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	Gene3D	G3DSA:3.10.100.10		46	126	7.5E-8	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	Pfam	PF12248	Farnesoic acid 0-methyl transferase	149	245	1.2E-28	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	Gene3D	G3DSA:3.10.100.10		220	336	5.3E-12	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	PANTHER	PTHR22802		59	174	1.6E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	SMART	SM00034		51	327	2.7E-8	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	PANTHER	PTHR22802		197	245	1.6E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	PANTHER	PTHR22802		257	327	1.6E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	PANTHER	PTHR22802:SF280		59	174	1.6E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	CDD	cd00037	CLECT	67	108	4.23108E-4	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	SUPERFAMILY	SSF56436		50	113	2.83E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	SUPERFAMILY	SSF56436		255	329	2.83E-20	T	30-10-2018	IPR016187	C-type lectin fold		
+Crassostrea_virginica_CVI|XP_022343556.1	82f5041820532dc92b8811af66e4827c	338	Pfam	PF00059	Lectin C-type domain	256	327	2.8E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Crassostrea_virginica_CVI|XP_022326546.1	10e3ab830e8f820abe6768fbfea2159e	406	PANTHER	PTHR31649:SF8		32	180	7.8E-28	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326546.1	10e3ab830e8f820abe6768fbfea2159e	406	PANTHER	PTHR31649:SF8		182	318	7.8E-28	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326546.1	10e3ab830e8f820abe6768fbfea2159e	406	Pfam	PF12248	Farnesoic acid 0-methyl transferase	72	163	7.0E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022326546.1	10e3ab830e8f820abe6768fbfea2159e	406	Pfam	PF12248	Farnesoic acid 0-methyl transferase	222	313	2.9E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022326546.1	10e3ab830e8f820abe6768fbfea2159e	406	PANTHER	PTHR31649		32	180	7.8E-28	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022326546.1	10e3ab830e8f820abe6768fbfea2159e	406	PANTHER	PTHR31649		182	318	7.8E-28	T	30-10-2018
+Capitella_teleta_CTE|ELU00402.1	f1f607c954a245499b0b6a90af004abf	258	PANTHER	PTHR31649		146	258	4.5E-21	T	30-10-2018
+Capitella_teleta_CTE|ELU00402.1	f1f607c954a245499b0b6a90af004abf	258	PANTHER	PTHR31649		2	116	4.5E-21	T	30-10-2018
+Capitella_teleta_CTE|ELU00402.1	f1f607c954a245499b0b6a90af004abf	258	Pfam	PF12248	Farnesoic acid 0-methyl transferase	11	107	2.5E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU00402.1	f1f607c954a245499b0b6a90af004abf	258	Pfam	PF12248	Farnesoic acid 0-methyl transferase	166	256	7.6E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU00402.1	f1f607c954a245499b0b6a90af004abf	258	PANTHER	PTHR31649:SF8		146	258	4.5E-21	T	30-10-2018
+Capitella_teleta_CTE|ELU00402.1	f1f607c954a245499b0b6a90af004abf	258	PANTHER	PTHR31649:SF8		2	116	4.5E-21	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428613.1	32d8723b4c96394843ca8589ae3e166a	310	PANTHER	PTHR31649:SF8		180	310	5.4E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428613.1	32d8723b4c96394843ca8589ae3e166a	310	PANTHER	PTHR31649:SF8		31	171	5.4E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428613.1	32d8723b4c96394843ca8589ae3e166a	310	PANTHER	PTHR31649		180	310	5.4E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428613.1	32d8723b4c96394843ca8589ae3e166a	310	Pfam	PF12248	Farnesoic acid 0-methyl transferase	202	300	3.4E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011428613.1	32d8723b4c96394843ca8589ae3e166a	310	Pfam	PF12248	Farnesoic acid 0-methyl transferase	53	152	5.2E-10	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011428613.1	32d8723b4c96394843ca8589ae3e166a	310	PANTHER	PTHR31649		31	171	5.4E-29	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289495.1	62b83ac63982eebfe577cea487343ece	270	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	121	3.7E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289495.1	62b83ac63982eebfe577cea487343ece	270	PANTHER	PTHR31649		40	183	6.9E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289495.1	62b83ac63982eebfe577cea487343ece	270	PANTHER	PTHR31649:SF8		40	183	6.9E-12	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58140-6.11	4686da1e595c32274933f6298c3c18f7	183	PANTHER	PTHR31649		27	155	3.0E-16	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58140-6.11	4686da1e595c32274933f6298c3c18f7	183	PANTHER	PTHR31649:SF8		27	155	3.0E-16	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58140-6.11	4686da1e595c32274933f6298c3c18f7	183	Pfam	PF12248	Farnesoic acid 0-methyl transferase	51	145	7.1E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	PANTHER	PTHR31649		41	164	2.8E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	Pfam	PF12248	Farnesoic acid 0-methyl transferase	76	159	3.3E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	PANTHER	PTHR31649:SF8		41	164	2.8E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	Coils	Coil		243	263	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	Gene3D	G3DSA:2.10.70.10		174	227	7.2E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	SUPERFAMILY	SSF57535		177	234	2.92E-8	T	30-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Crassostrea_virginica_CVI|XP_022328016.1	d5847391359e9a44a3672d6563c38634	317	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	171	228	7.743	T	30-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_20124-0.0	1a46a667057d68ff022cba604a4568bd	176	Pfam	PF12248	Farnesoic acid 0-methyl transferase	87	175	7.3E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_20124-0.0	1a46a667057d68ff022cba604a4568bd	176	PANTHER	PTHR31649:SF8		56	175	4.4E-13	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_20124-0.0	1a46a667057d68ff022cba604a4568bd	176	PANTHER	PTHR31649		56	175	4.4E-13	T	30-10-2018
+Chlamys_farreri_CFA|CF58035.3	91ce57223e19b31a34fc03e45ecaae0f	545	MobiDBLite	mobidb-lite	consensus disorder prediction	174	428	-	T	30-10-2018
+Chlamys_farreri_CFA|CF58035.3	91ce57223e19b31a34fc03e45ecaae0f	545	PANTHER	PTHR31649:SF8		50	189	1.1E-14	T	30-10-2018
+Chlamys_farreri_CFA|CF58035.3	91ce57223e19b31a34fc03e45ecaae0f	545	Pfam	PF12248	Farnesoic acid 0-methyl transferase	71	164	5.8E-22	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF58035.3	91ce57223e19b31a34fc03e45ecaae0f	545	PANTHER	PTHR31649		50	189	1.1E-14	T	30-10-2018
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PANTHER	PTHR10127		66	93	1.4E-39	T	30-10-2018
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	Gene3D	G3DSA:3.40.390.10		97	260	6.7E-33	T	30-10-2018	IPR024079	Metallopeptidase, catalytic domain superfamily	GO:0008237	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	Gene3D	G3DSA:3.40.390.10		24	96	1.1E-9	T	30-10-2018	IPR024079	Metallopeptidase, catalytic domain superfamily	GO:0008237	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	SUPERFAMILY	SSF55486		66	95	1.13E-9	T	30-10-2018
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PANTHER	PTHR10127:SF781		100	260	1.4E-39	T	30-10-2018
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	Pfam	PF01400	Astacin (Peptidase family M12A)	94	230	1.6E-20	T	30-10-2018	IPR001506	Peptidase M12A	GO:0004222|GO:0006508	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	SMART	SM00235		83	219	3.1E-16	T	30-10-2018	IPR006026	Peptidase, metallopeptidase	GO:0006508|GO:0008237|GO:0008270	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PRINTS	PR00480	Astacin family signature	183	200	2.1E-10	T	30-10-2018	IPR001506	Peptidase M12A	GO:0004222|GO:0006508	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PRINTS	PR00480	Astacin family signature	164	182	2.1E-10	T	30-10-2018	IPR001506	Peptidase M12A	GO:0004222|GO:0006508	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PRINTS	PR00480	Astacin family signature	244	257	2.1E-10	T	30-10-2018	IPR001506	Peptidase M12A	GO:0004222|GO:0006508	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PRINTS	PR00480	Astacin family signature	214	229	2.1E-10	T	30-10-2018	IPR001506	Peptidase M12A	GO:0004222|GO:0006508	
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PANTHER	PTHR10127:SF781		66	93	1.4E-39	T	30-10-2018
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	Pfam	PF12248	Farnesoic acid 0-methyl transferase	322	422	1.4E-30	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	SUPERFAMILY	SSF55486		99	258	2.29E-25	T	30-10-2018
+Phoronis_australis_PAU|g15703.t1	0fdffd2796dfeb04a36b28a1d930c860	430	PANTHER	PTHR10127		100	260	1.4E-39	T	30-10-2018
+Chlamys_farreri_CFA|CF61233.1	2674709168574344afbdf1d6b0a3f87c	202	PANTHER	PTHR31649:SF8		70	192	3.0E-13	T	30-10-2018
+Chlamys_farreri_CFA|CF61233.1	2674709168574344afbdf1d6b0a3f87c	202	PANTHER	PTHR31649:SF8		10	32	3.0E-13	T	30-10-2018
+Chlamys_farreri_CFA|CF61233.1	2674709168574344afbdf1d6b0a3f87c	202	Pfam	PF12248	Farnesoic acid 0-methyl transferase	95	191	6.6E-19	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF61233.1	2674709168574344afbdf1d6b0a3f87c	202	MobiDBLite	mobidb-lite	consensus disorder prediction	1	39	-	T	30-10-2018
+Chlamys_farreri_CFA|CF61233.1	2674709168574344afbdf1d6b0a3f87c	202	PANTHER	PTHR31649		70	192	3.0E-13	T	30-10-2018
+Chlamys_farreri_CFA|CF61233.1	2674709168574344afbdf1d6b0a3f87c	202	PANTHER	PTHR31649		10	32	3.0E-13	T	30-10-2018
+Chlamys_farreri_CFA|CF64313.15	c04667b8013d083e18dd994f417bc134	237	MobiDBLite	mobidb-lite	consensus disorder prediction	197	218	-	T	30-10-2018
+Chlamys_farreri_CFA|CF64313.15	c04667b8013d083e18dd994f417bc134	237	PANTHER	PTHR31649		59	194	1.1E-19	T	30-10-2018
+Chlamys_farreri_CFA|CF64313.15	c04667b8013d083e18dd994f417bc134	237	PANTHER	PTHR31649:SF8		59	194	1.1E-19	T	30-10-2018
+Chlamys_farreri_CFA|CF64313.15	c04667b8013d083e18dd994f417bc134	237	Pfam	PF12248	Farnesoic acid 0-methyl transferase	71	170	3.8E-24	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF27241.1	bca7a6d7566608ae350a580b1db65943	66	Pfam	PF00024	PAN domain	6	45	1.6E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF27241.1	bca7a6d7566608ae350a580b1db65943	66	SUPERFAMILY	SSF57414		8	50	5.1E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF27241.1	bca7a6d7566608ae350a580b1db65943	66	Gene3D	G3DSA:3.50.4.10		1	62	6.1E-6	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_20911-0.3	d062802b9e6a90e6e2905498173ad218	262	Pfam	PF12248	Farnesoic acid 0-methyl transferase	71	160	1.5E-11	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_20911-0.3	d062802b9e6a90e6e2905498173ad218	262	ProSiteProfiles	PS50948	PAN/Apple domain profile.	193	262	7.327	T	30-10-2018	IPR003609	PAN/Apple domain		
+Crassostrea_virginica_CVI|XP_022289487.1	771b28c99bf2e56a8fd6bd7e76cd4077	376	PANTHER	PTHR31649		50	217	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289487.1	771b28c99bf2e56a8fd6bd7e76cd4077	376	Pfam	PF12248	Farnesoic acid 0-methyl transferase	81	168	2.0E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289487.1	771b28c99bf2e56a8fd6bd7e76cd4077	376	PANTHER	PTHR31649:SF8		50	217	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289487.1	771b28c99bf2e56a8fd6bd7e76cd4077	376	Coils	Coil		374	376	-	T	30-10-2018
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	PANTHER	PTHR31649		73	201	1.1E-15	T	30-10-2018
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	Pfam	PF00024	PAN domain	214	259	2.3E-5	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	Gene3D	G3DSA:3.50.4.10		212	274	6.5E-6	T	30-10-2018
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	SUPERFAMILY	SSF57414		222	262	9.02E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	ProSiteProfiles	PS50948	PAN/Apple domain profile.	200	280	7.873	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	PANTHER	PTHR31649:SF8		73	201	1.1E-15	T	30-10-2018
+Chlamys_farreri_CFA|CF2707.8	a9dcef2f126d2ea3a1a366cca5f6a60c	280	Pfam	PF12248	Farnesoic acid 0-methyl transferase	89	193	5.7E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g13367.t1	890fd635d5d60de7a94de93ed05971e0	475	PANTHER	PTHR31649		341	468	2.3E-41	T	30-10-2018
+Phoronis_australis_PAU|g13367.t1	890fd635d5d60de7a94de93ed05971e0	475	PANTHER	PTHR31649		202	325	2.3E-41	T	30-10-2018
+Phoronis_australis_PAU|g13367.t1	890fd635d5d60de7a94de93ed05971e0	475	Pfam	PF12248	Farnesoic acid 0-methyl transferase	223	320	5.1E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g13367.t1	890fd635d5d60de7a94de93ed05971e0	475	Pfam	PF12248	Farnesoic acid 0-methyl transferase	367	464	2.6E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g13367.t1	890fd635d5d60de7a94de93ed05971e0	475	PANTHER	PTHR31649:SF8		341	468	2.3E-41	T	30-10-2018
+Phoronis_australis_PAU|g13367.t1	890fd635d5d60de7a94de93ed05971e0	475	PANTHER	PTHR31649:SF8		202	325	2.3E-41	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25748	a2b35dd5a8227df46007f17b7f4480e8	155	Pfam	PF12248	Farnesoic acid 0-methyl transferase	62	145	1.1E-13	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T08073	005b99d775de3547e85f7a685bb9137b	264	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	173	5.0E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_33948-0.1	d2cc07a70c83139f96a3f654abd7d844	168	Pfam	PF12248	Farnesoic acid 0-methyl transferase	17	78	1.7E-11	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_33948-0.1	d2cc07a70c83139f96a3f654abd7d844	168	ProSiteProfiles	PS50948	PAN/Apple domain profile.	109	168	7.216	T	30-10-2018	IPR003609	PAN/Apple domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		205	340	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		498	621	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		103	177	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		619	714	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		103	177	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		345	473	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		205	340	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	99	169	2.8E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	379	468	8.3E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	747	849	1.4E-19	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	895	984	1.7E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	619	696	5.5E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	222	321	2.3E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		733	854	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		876	1017	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	MobiDBLite	mobidb-lite	consensus disorder prediction	1093	1130	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		498	621	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		345	473	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649		619	714	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		733	854	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035447-T1	bc955499130e88a9f9b557e4dfb9fb5b	1267	PANTHER	PTHR31649:SF8		876	1017	5.4E-70	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017238-T1	271c2f5f36f90bd359396bce7df4b2bc	147	Pfam	PF12248	Farnesoic acid 0-methyl transferase	12	113	7.3E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF38599.1	5ebade7d1ba18cc828ae81cb45b2b1c5	102	Pfam	PF12248	Farnesoic acid 0-methyl transferase	3	95	5.6E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF54149.1	e7a73e8fd6319b48539b5965e737c10c	66	SUPERFAMILY	SSF57414		8	48	1.22E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF54149.1	e7a73e8fd6319b48539b5965e737c10c	66	ProSiteProfiles	PS50948	PAN/Apple domain profile.	1	66	7.337	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF54149.1	e7a73e8fd6319b48539b5965e737c10c	66	Pfam	PF00024	PAN domain	5	45	8.4E-7	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF54149.1	e7a73e8fd6319b48539b5965e737c10c	66	Gene3D	G3DSA:3.50.4.10		1	60	2.6E-6	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923143.1	736f293abd52921ad8554cabc02a0ca9	327	PANTHER	PTHR31649:SF8		197	327	6.9E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923143.1	736f293abd52921ad8554cabc02a0ca9	327	PANTHER	PTHR31649		197	327	6.9E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923143.1	736f293abd52921ad8554cabc02a0ca9	327	PANTHER	PTHR31649		48	188	6.9E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923143.1	736f293abd52921ad8554cabc02a0ca9	327	PANTHER	PTHR31649:SF8		48	188	6.9E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019923143.1	736f293abd52921ad8554cabc02a0ca9	327	Pfam	PF12248	Farnesoic acid 0-methyl transferase	219	317	3.8E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019923143.1	736f293abd52921ad8554cabc02a0ca9	327	Pfam	PF12248	Farnesoic acid 0-methyl transferase	70	169	5.8E-10	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU10678.1	c5871eae1e48d1b7c8c4ac04a348f7d8	260	PANTHER	PTHR31649:SF8		134	259	2.6E-41	T	30-10-2018
+Capitella_teleta_CTE|ELU10678.1	c5871eae1e48d1b7c8c4ac04a348f7d8	260	PANTHER	PTHR31649:SF8		1	116	2.6E-41	T	30-10-2018
+Capitella_teleta_CTE|ELU10678.1	c5871eae1e48d1b7c8c4ac04a348f7d8	260	Pfam	PF12248	Farnesoic acid 0-methyl transferase	10	111	2.3E-23	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU10678.1	c5871eae1e48d1b7c8c4ac04a348f7d8	260	Pfam	PF12248	Farnesoic acid 0-methyl transferase	153	255	8.7E-24	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU10678.1	c5871eae1e48d1b7c8c4ac04a348f7d8	260	PANTHER	PTHR31649		134	259	2.6E-41	T	30-10-2018
+Capitella_teleta_CTE|ELU10678.1	c5871eae1e48d1b7c8c4ac04a348f7d8	260	PANTHER	PTHR31649		1	116	2.6E-41	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920266.1	248d4deac1a74dca4dd879a5a48fd818	160	Pfam	PF12248	Farnesoic acid 0-methyl transferase	55	154	1.2E-21	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019920266.1	248d4deac1a74dca4dd879a5a48fd818	160	PANTHER	PTHR31649:SF8		22	158	4.2E-24	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019920266.1	248d4deac1a74dca4dd879a5a48fd818	160	PANTHER	PTHR31649		22	158	4.2E-24	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_52859-0.1	6be7854383167b48b6586f19b15f085f	261	Gene3D	G3DSA:3.50.4.10		196	259	1.6E-6	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_52859-0.1	6be7854383167b48b6586f19b15f085f	261	Pfam	PF00024	PAN domain	213	256	1.7E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_52859-0.1	6be7854383167b48b6586f19b15f085f	261	Pfam	PF12248	Farnesoic acid 0-methyl transferase	92	180	5.2E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_52859-0.1	6be7854383167b48b6586f19b15f085f	261	SUPERFAMILY	SSF57414		213	258	2.35E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF36987.13	4aa3ef6db63195586fe651a65ec5e2b6	264	Pfam	PF12248	Farnesoic acid 0-methyl transferase	85	169	9.8E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF36987.13	4aa3ef6db63195586fe651a65ec5e2b6	264	SUPERFAMILY	SSF57414		203	243	4.71E-6	T	30-10-2018
+Chlamys_farreri_CFA|CF36987.13	4aa3ef6db63195586fe651a65ec5e2b6	264	Pfam	PF00024	PAN domain	200	243	1.5E-4	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF36987.13	4aa3ef6db63195586fe651a65ec5e2b6	264	ProSiteProfiles	PS50948	PAN/Apple domain profile.	185	264	7.256	T	30-10-2018	IPR003609	PAN/Apple domain		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	Gene3D	G3DSA:3.40.50.410		551	736	1.1E-23	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	Gene3D	G3DSA:3.40.50.410		359	547	2.4E-18	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	Pfam	PF12248	Farnesoic acid 0-methyl transferase	192	291	1.0E-21	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	Pfam	PF02140	Galactose binding lectin domain	52	96	4.5E-6	T	30-10-2018	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	Pfam	PF00092	von Willebrand factor type A domain	566	703	5.1E-14	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	Pfam	PF00092	von Willebrand factor type A domain	362	528	4.1E-10	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	ProSiteProfiles	PS50234	VWFA domain profile.	362	540	16.346	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	SUPERFAMILY	SSF53300		554	732	6.99E-23	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	CDD	cd01450	vWFA_subfamily_ECM	557	687	8.22521E-12	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	ProSiteProfiles	PS50234	VWFA domain profile.	562	730	15.254	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	PANTHER	PTHR44105		356	737	2.1E-33	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	SUPERFAMILY	SSF53300		337	540	3.84E-20	T	30-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	SMART	SM00327		360	537	0.026	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_gigas_CGI|XP_019929073.1	977ebc39d5f2a55cc0ffac06f4613f69	750	SMART	SM00327		556	731	3.1E-4	T	30-10-2018	IPR002035	von Willebrand factor, type A		
+Crassostrea_virginica_CVI|XP_022289498.1	dd3a5ead6e354a5feb94721b5c257a43	267	PANTHER	PTHR31649		38	186	5.7E-13	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289498.1	dd3a5ead6e354a5feb94721b5c257a43	267	PANTHER	PTHR31649:SF8		38	186	5.7E-13	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289498.1	dd3a5ead6e354a5feb94721b5c257a43	267	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	119	1.1E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU02988.1	f83bd2893f19975a923460884766c4b0	264	PANTHER	PTHR31649:SF8		149	264	9.7E-34	T	30-10-2018
+Capitella_teleta_CTE|ELU02988.1	f83bd2893f19975a923460884766c4b0	264	PANTHER	PTHR31649		1	125	9.7E-34	T	30-10-2018
+Capitella_teleta_CTE|ELU02988.1	f83bd2893f19975a923460884766c4b0	264	PANTHER	PTHR31649		149	264	9.7E-34	T	30-10-2018
+Capitella_teleta_CTE|ELU02988.1	f83bd2893f19975a923460884766c4b0	264	Pfam	PF12248	Farnesoic acid 0-methyl transferase	163	256	2.6E-21	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU02988.1	f83bd2893f19975a923460884766c4b0	264	Pfam	PF12248	Farnesoic acid 0-methyl transferase	12	117	1.1E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU02988.1	f83bd2893f19975a923460884766c4b0	264	PANTHER	PTHR31649:SF8		1	125	9.7E-34	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25472	4bde26029b3616644520bfb1d987e01c	178	PANTHER	PTHR31649:SF8		51	172	2.7E-14	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25472	4bde26029b3616644520bfb1d987e01c	178	PANTHER	PTHR31649		51	172	2.7E-14	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25472	4bde26029b3616644520bfb1d987e01c	178	Pfam	PF12248	Farnesoic acid 0-methyl transferase	68	163	1.1E-22	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF60969.20	820ddcdc891fbe2fa936b7d7281d9d86	281	ProSiteProfiles	PS50948	PAN/Apple domain profile.	198	281	8.176	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF60969.20	820ddcdc891fbe2fa936b7d7281d9d86	281	SUPERFAMILY	SSF57414		218	277	2.39E-6	T	30-10-2018
+Chlamys_farreri_CFA|CF60969.20	820ddcdc891fbe2fa936b7d7281d9d86	281	Pfam	PF12248	Farnesoic acid 0-methyl transferase	88	184	3.4E-10	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289489.1	9b88e8ca51b01fb30009e23a17782517	376	PANTHER	PTHR31649		50	178	2.2E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289489.1	9b88e8ca51b01fb30009e23a17782517	376	Pfam	PF12248	Farnesoic acid 0-methyl transferase	81	168	2.8E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289489.1	9b88e8ca51b01fb30009e23a17782517	376	PANTHER	PTHR31649:SF8		50	178	2.2E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_35388-0.0	73924b6039fadf7c14c28985e75b7572	174	PANTHER	PTHR31649		50	170	2.5E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_35388-0.0	73924b6039fadf7c14c28985e75b7572	174	PANTHER	PTHR31649:SF8		50	170	2.5E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_35388-0.0	73924b6039fadf7c14c28985e75b7572	174	Pfam	PF12248	Farnesoic acid 0-methyl transferase	66	165	9.8E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lottia_gigantea_LGI|XP_009047064.1	e141235e73afe9e661b522ee4011dc7f	420	Pfam	PF12248	Farnesoic acid 0-methyl transferase	50	146	1.4E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289497.1	ccd97ca7741fd18d1228e2f475a44dc9	269	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	119	1.3E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022322930.1	74f0b50bfb134fbc55160150aaa4ae07	163	PANTHER	PTHR31649		24	158	6.7E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322930.1	74f0b50bfb134fbc55160150aaa4ae07	163	Pfam	PF12248	Farnesoic acid 0-methyl transferase	55	154	2.6E-20	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022322930.1	74f0b50bfb134fbc55160150aaa4ae07	163	PANTHER	PTHR31649:SF8		24	158	6.7E-20	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T25681	a10f1f09136ed1051ca630e355ef31f5	146	Pfam	PF12248	Farnesoic acid 0-methyl transferase	53	123	9.0E-11	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU12991.1	48110891112187cf2fcf467bbdd9c454	160	PANTHER	PTHR31649:SF8		29	159	6.8E-22	T	30-10-2018
+Capitella_teleta_CTE|ELU12991.1	48110891112187cf2fcf467bbdd9c454	160	PANTHER	PTHR31649		29	159	6.8E-22	T	30-10-2018
+Capitella_teleta_CTE|ELU12991.1	48110891112187cf2fcf467bbdd9c454	160	Pfam	PF12248	Farnesoic acid 0-methyl transferase	49	154	7.5E-25	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF25473.12	bfc0285d19825b2ef075d257a47914ae	222	ProSiteProfiles	PS50948	PAN/Apple domain profile.	150	222	7.499	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF25473.12	bfc0285d19825b2ef075d257a47914ae	222	SUPERFAMILY	SSF57414		162	206	5.49E-6	T	30-10-2018
+Chlamys_farreri_CFA|CF25473.12	bfc0285d19825b2ef075d257a47914ae	222	Pfam	PF00024	PAN domain	161	203	1.4E-4	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF25473.12	bfc0285d19825b2ef075d257a47914ae	222	Pfam	PF12248	Farnesoic acid 0-methyl transferase	41	127	1.8E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.7	e46d22ab1eb53d4182c08259982178f8	263	Gene3D	G3DSA:3.50.4.10		198	262	2.2E-6	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.7	e46d22ab1eb53d4182c08259982178f8	263	ProSiteProfiles	PS50948	PAN/Apple domain profile.	189	263	7.58	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.7	e46d22ab1eb53d4182c08259982178f8	263	Pfam	PF12248	Farnesoic acid 0-methyl transferase	89	180	1.5E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.7	e46d22ab1eb53d4182c08259982178f8	263	Pfam	PF00024	PAN domain	195	254	1.3E-7	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_15493-0.7	e46d22ab1eb53d4182c08259982178f8	263	SUPERFAMILY	SSF57414		201	245	3.53E-5	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	ProSiteProfiles	PS50041	C-type lectin domain profile.	165	224	14.874	T	30-10-2018	IPR001304	C-type lectin-like		
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	PANTHER	PTHR31649:SF8		33	156	4.5E-23	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	Pfam	PF12248	Farnesoic acid 0-methyl transferase	49	151	1.5E-28	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	Pfam	PF00059	Lectin C-type domain	164	225	4.8E-7	T	30-10-2018	IPR001304	C-type lectin-like		
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	CDD	cd00037	CLECT	157	227	5.08004E-14	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	Gene3D	G3DSA:3.10.100.10		149	228	1.8E-17	T	30-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	PANTHER	PTHR31649		33	156	4.5E-23	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T17152	891b123bf2d72583b641fc2ef111f310	242	SUPERFAMILY	SSF56436		160	226	5.6E-16	T	30-10-2018	IPR016187	C-type lectin fold		
+Capitella_teleta_CTE|ELU06969.1	60fc1fdd0b0db4e5c633171d7efb0a6a	173	Pfam	PF12248	Farnesoic acid 0-methyl transferase	69	136	1.1E-5	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_72727-0.3	67aba625be8988c04f2873b2789109e8	240	Pfam	PF12248	Farnesoic acid 0-methyl transferase	39	110	9.0E-10	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELU17125.1	e5f804802090a4d91f89d923b61da349	186	Pfam	PF12248	Farnesoic acid 0-methyl transferase	83	150	2.7E-5	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_15417-0.0	e87df58c47814859cde9a4c163bfae38	278	PANTHER	PTHR11732		240	278	1.9E-12	T	30-10-2018	IPR020471	Aldo/keto reductase	GO:0016491|GO:0055114	
+Modiolus_philippinarum_MPH|Mph_scaf_15417-0.0	e87df58c47814859cde9a4c163bfae38	278	PANTHER	PTHR11732:SF312		240	278	1.9E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_15417-0.0	e87df58c47814859cde9a4c163bfae38	278	Pfam	PF12248	Farnesoic acid 0-methyl transferase	58	154	5.1E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_15417-0.0	e87df58c47814859cde9a4c163bfae38	278	ProSitePatterns	PS00062	Aldo/keto reductase family signature 2.	241	258	-	T	30-10-2018	IPR018170	Aldo/keto reductase, conserved site	GO:0016491|GO:0055114	
+Modiolus_philippinarum_MPH|Mph_scaf_15417-0.0	e87df58c47814859cde9a4c163bfae38	278	SUPERFAMILY	SSF51430		240	278	9.82E-8	T	30-10-2018	IPR036812	NADP-dependent oxidoreductase domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_15417-0.0	e87df58c47814859cde9a4c163bfae38	278	Gene3D	G3DSA:3.20.20.100		218	278	1.4E-12	T	30-10-2018	IPR036812	NADP-dependent oxidoreductase domain superfamily		
+Chlamys_farreri_CFA|CF723603.1	78dd6d6b94d3aa9f8e43292a693426fc	148	PANTHER	PTHR31649		23	147	5.5E-12	T	30-10-2018
+Chlamys_farreri_CFA|CF723603.1	78dd6d6b94d3aa9f8e43292a693426fc	148	PANTHER	PTHR31649:SF8		23	147	5.5E-12	T	30-10-2018
+Chlamys_farreri_CFA|CF723603.1	78dd6d6b94d3aa9f8e43292a693426fc	148	Pfam	PF12248	Farnesoic acid 0-methyl transferase	44	140	1.8E-11	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T26334	dd4c0ac276b403fff0c7acc40b711d47	194	PANTHER	PTHR31649:SF8		37	159	6.4E-15	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T26334	dd4c0ac276b403fff0c7acc40b711d47	194	Pfam	PF12248	Farnesoic acid 0-methyl transferase	51	154	1.1E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Patinopecten_yessoensis_PYE|PY_T26334	dd4c0ac276b403fff0c7acc40b711d47	194	PANTHER	PTHR31649		37	159	6.4E-15	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289488.1	80012a5d4d3978e3b9fa4581d9b7fb59	376	Pfam	PF12248	Farnesoic acid 0-methyl transferase	81	168	2.0E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289488.1	80012a5d4d3978e3b9fa4581d9b7fb59	376	PANTHER	PTHR31649		50	217	1.3E-12	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289488.1	80012a5d4d3978e3b9fa4581d9b7fb59	376	PANTHER	PTHR31649:SF8		50	217	1.3E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_47864-0.6	e8fcf3171521ca0dd61ba5fda4e7fb90	239	Pfam	PF12248	Farnesoic acid 0-methyl transferase	62	160	1.4E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64807-2.1	cd895e0753be3edff3e333914e0334a5	401	PANTHER	PTHR31649		47	154	1.5E-14	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64807-2.1	cd895e0753be3edff3e333914e0334a5	401	Pfam	PF12248	Farnesoic acid 0-methyl transferase	62	155	4.0E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64807-2.1	cd895e0753be3edff3e333914e0334a5	401	MobiDBLite	mobidb-lite	consensus disorder prediction	215	240	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64807-2.1	cd895e0753be3edff3e333914e0334a5	401	PANTHER	PTHR31649:SF8		47	154	1.5E-14	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.15	59e14becc58771213d944b79f6bca17f	66	Gene3D	G3DSA:3.50.4.10		3	65	5.1E-6	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.15	59e14becc58771213d944b79f6bca17f	66	SUPERFAMILY	SSF57414		18	61	8.44E-7	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.15	59e14becc58771213d944b79f6bca17f	66	Pfam	PF00024	PAN domain	18	61	7.0E-6	T	30-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF14743.21	16d35f6db66dfeac8c207e1f4be53f9a	250	Gene3D	G3DSA:3.50.4.10		179	241	5.1E-5	T	30-10-2018
+Chlamys_farreri_CFA|CF14743.21	16d35f6db66dfeac8c207e1f4be53f9a	250	PANTHER	PTHR31649:SF8		43	168	1.8E-17	T	30-10-2018
+Chlamys_farreri_CFA|CF14743.21	16d35f6db66dfeac8c207e1f4be53f9a	250	Pfam	PF12248	Farnesoic acid 0-methyl transferase	67	162	2.9E-21	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF14743.21	16d35f6db66dfeac8c207e1f4be53f9a	250	PANTHER	PTHR31649		43	168	1.8E-17	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28403-0.3	6d4487fe5e78e04fdc57c1823e01e4c9	160	Pfam	PF12248	Farnesoic acid 0-methyl transferase	55	142	1.0E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g12523.t1	d6c7e9f94411326d75ca6440500d72b4	263	PANTHER	PTHR31649:SF8		60	190	1.1E-20	T	30-10-2018
+Phoronis_australis_PAU|g12523.t1	d6c7e9f94411326d75ca6440500d72b4	263	Pfam	PF12248	Farnesoic acid 0-methyl transferase	87	185	2.6E-23	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Phoronis_australis_PAU|g12523.t1	d6c7e9f94411326d75ca6440500d72b4	263	PANTHER	PTHR31649		60	190	1.1E-20	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022289500.1	5e9b54cbdd1b3f3090e7cd920721484e	266	Pfam	PF12248	Farnesoic acid 0-methyl transferase	75	123	7.3E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002653-T1	cc3f4c9cf0e7b28e5fcc64e114385985	376	PANTHER	PTHR31649:SF8		203	336	5.2E-20	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002653-T1	cc3f4c9cf0e7b28e5fcc64e114385985	376	Pfam	PF12248	Farnesoic acid 0-methyl transferase	84	170	1.1E-11	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002653-T1	cc3f4c9cf0e7b28e5fcc64e114385985	376	Pfam	PF12248	Farnesoic acid 0-methyl transferase	223	310	2.1E-10	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002653-T1	cc3f4c9cf0e7b28e5fcc64e114385985	376	PANTHER	PTHR31649		203	336	5.2E-20	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002653-T1	cc3f4c9cf0e7b28e5fcc64e114385985	376	PANTHER	PTHR31649		59	183	5.2E-20	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002653-T1	cc3f4c9cf0e7b28e5fcc64e114385985	376	PANTHER	PTHR31649:SF8		59	183	5.2E-20	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.13	e1122b9ac48e710774b72504970ff821	249	Pfam	PF00024	PAN domain	201	244	1.8E-5	T	30-10-2018	IPR003609	PAN/Apple domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.13	e1122b9ac48e710774b72504970ff821	249	SUPERFAMILY	SSF57414		201	244	4.32E-5	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.13	e1122b9ac48e710774b72504970ff821	249	Gene3D	G3DSA:3.50.4.10		182	247	5.0E-6	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_866-4.13	e1122b9ac48e710774b72504970ff821	249	Pfam	PF12248	Farnesoic acid 0-methyl transferase	83	169	2.3E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31557-7.27	8e9dec0a0b44ecac53ec819db6c14ee1	121	Pfam	PF12248	Farnesoic acid 0-methyl transferase	7	74	6.8E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.9	51e21690ea0a550519c419c330d82d26	245	Pfam	PF12248	Farnesoic acid 0-methyl transferase	71	162	1.5E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.9	51e21690ea0a550519c419c330d82d26	245	Pfam	PF00024	PAN domain	176	233	2.1E-7	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.9	51e21690ea0a550519c419c330d82d26	245	Gene3D	G3DSA:3.50.4.10		180	244	5.5E-6	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.9	51e21690ea0a550519c419c330d82d26	245	ProSiteProfiles	PS50948	PAN/Apple domain profile.	171	245	7.519	T	30-10-2018	IPR003609	PAN/Apple domain		
+Modiolus_philippinarum_MPH|Mph_scaf_7977-0.9	51e21690ea0a550519c419c330d82d26	245	SUPERFAMILY	SSF57414		176	236	4.12E-5	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022296294.1	efad10accf9798f518fe166f46dceda3	240	Pfam	PF12248	Farnesoic acid 0-methyl transferase	135	231	3.6E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011457134.1	152c7fa87a9a55c69a7cd55e5fdd73c4	248	Pfam	PF12248	Farnesoic acid 0-methyl transferase	143	240	4.5E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF33489.12	3efe4913a30dd2194d6e604f16563e07	335	PANTHER	PTHR31649		209	333	4.4E-26	T	30-10-2018
+Chlamys_farreri_CFA|CF33489.12	3efe4913a30dd2194d6e604f16563e07	335	PANTHER	PTHR31649		57	179	4.4E-26	T	30-10-2018
+Chlamys_farreri_CFA|CF33489.12	3efe4913a30dd2194d6e604f16563e07	335	PANTHER	PTHR31649:SF8		57	179	4.4E-26	T	30-10-2018
+Chlamys_farreri_CFA|CF33489.12	3efe4913a30dd2194d6e604f16563e07	335	PANTHER	PTHR31649:SF8		209	333	4.4E-26	T	30-10-2018
+Chlamys_farreri_CFA|CF33489.12	3efe4913a30dd2194d6e604f16563e07	335	Pfam	PF12248	Farnesoic acid 0-methyl transferase	235	326	3.0E-18	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Chlamys_farreri_CFA|CF33489.12	3efe4913a30dd2194d6e604f16563e07	335	Pfam	PF12248	Farnesoic acid 0-methyl transferase	72	167	1.6E-16	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_gigas_CGI|XP_011427787.1	bcc7e5109f77e62eef07c9cdbbc1221e	245	Pfam	PF12248	Farnesoic acid 0-methyl transferase	138	232	1.5E-9	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017239-T1	6b392c9f80fd79a1e05c2d06ce0538ba	729	Pfam	PF12248	Farnesoic acid 0-methyl transferase	591	650	1.6E-13	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017239-T1	6b392c9f80fd79a1e05c2d06ce0538ba	729	Pfam	PF12248	Farnesoic acid 0-methyl transferase	432	530	2.5E-12	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lamellibrachia_luymsi_proteins_LLU|FUN_017239-T1	6b392c9f80fd79a1e05c2d06ce0538ba	729	PANTHER	PTHR31649		567	653	4.8E-18	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017239-T1	6b392c9f80fd79a1e05c2d06ce0538ba	729	PANTHER	PTHR31649		415	543	4.8E-18	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017239-T1	6b392c9f80fd79a1e05c2d06ce0538ba	729	PANTHER	PTHR31649:SF8		567	653	4.8E-18	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017239-T1	6b392c9f80fd79a1e05c2d06ce0538ba	729	PANTHER	PTHR31649:SF8		415	543	4.8E-18	T	30-10-2018
+Capitella_teleta_CTE|ELT98457.1	4f066b60850faeec3abc5898261d8048	283	PANTHER	PTHR31649:SF8		144	277	4.0E-28	T	30-10-2018
+Capitella_teleta_CTE|ELT98457.1	4f066b60850faeec3abc5898261d8048	283	PANTHER	PTHR31649:SF8		9	141	4.0E-28	T	30-10-2018
+Capitella_teleta_CTE|ELT98457.1	4f066b60850faeec3abc5898261d8048	283	PANTHER	PTHR31649		9	141	4.0E-28	T	30-10-2018
+Capitella_teleta_CTE|ELT98457.1	4f066b60850faeec3abc5898261d8048	283	Pfam	PF12248	Farnesoic acid 0-methyl transferase	168	269	1.6E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT98457.1	4f066b60850faeec3abc5898261d8048	283	Pfam	PF12248	Farnesoic acid 0-methyl transferase	46	115	1.2E-7	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Capitella_teleta_CTE|ELT98457.1	4f066b60850faeec3abc5898261d8048	283	PANTHER	PTHR31649		144	277	4.0E-28	T	30-10-2018
+Lottia_gigantea_LGI|XP_009066636.1	eb2078f8e34202310ca2df4157386a5c	248	Pfam	PF00024	PAN domain	180	227	6.9E-5	T	30-10-2018	IPR003609	PAN/Apple domain		
+Lottia_gigantea_LGI|XP_009066636.1	eb2078f8e34202310ca2df4157386a5c	248	SUPERFAMILY	SSF57414		178	230	6.28E-6	T	30-10-2018
+Lottia_gigantea_LGI|XP_009066636.1	eb2078f8e34202310ca2df4157386a5c	248	Pfam	PF12248	Farnesoic acid 0-methyl transferase	68	158	4.1E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_45817-0.7	97f70d81fe6124b0efea57f5603e5045	179	Pfam	PF12248	Farnesoic acid 0-methyl transferase	78	165	5.1E-17	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_54131-0.9	09ffbdf25e9e7de1241f67d81c3d6325	173	Pfam	PF12248	Farnesoic acid 0-methyl transferase	73	162	3.5E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_24542-0.2	b5216982625fe59dafcc985b82ae4b17	237	Pfam	PF12248	Farnesoic acid 0-methyl transferase	65	150	1.6E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Modiolus_philippinarum_MPH|Mph_scaf_43740-0.1	55cd88c990c89312d1ddccfb35de1fcd	154	Pfam	PF12248	Farnesoic acid 0-methyl transferase	54	141	6.4E-14	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lingula_anatina_LAN|XP_023930787.1	fa82cad7dcba4d011dc7a3495f0b2d82	247	Pfam	PF12248	Farnesoic acid 0-methyl transferase	69	142	4.0E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lingula_anatina_LAN|XP_013404185.1	9c9f1cc5738c7a9c579cd93bba770bf3	247	Pfam	PF12248	Farnesoic acid 0-methyl transferase	69	141	5.7E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Crassostrea_virginica_CVI|XP_022289490.1	f7603a7e36c3acd035d03eccdb861336	316	Pfam	PF12248	Farnesoic acid 0-methyl transferase	21	108	2.1E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Lingula_anatina_LAN|XP_013385045.1	ec44fb8e881238a8f9c2145dd1dc212e	238	Pfam	PF12248	Farnesoic acid 0-methyl transferase	60	133	3.7E-8	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		
+Mizuhopecten_yessoensis_MYE|XP_021364534.1	3f4b1dc7d56f02862e09f7c19719ac01	251	Pfam	PF12248	Farnesoic acid 0-methyl transferase	62	160	4.5E-15	T	30-10-2018	IPR022041	Farnesoic acid O-methyl transferase		

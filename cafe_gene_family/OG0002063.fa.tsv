@@ -1,0 +1,62 @@
+Octopus_bimaculoides_OBI|XP_014788809.1	c958c3bfd89a1ece3011921f4c0e0f77	310	Coils	Coil		26	46	-	T	31-10-2018
+Octopus_bimaculoides_OBI|XP_014788809.1	c958c3bfd89a1ece3011921f4c0e0f77	310	Coils	Coil		280	307	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017639-T1	e5623a1e5c9cd8765a4d743ddfcf8ad4	114	Pfam	PF00910	RNA helicase	3	69	1.9E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Modiolus_philippinarum_MPH|Mph_scaf_16569-0.1	eccc6d76ba50a1a89a2dc83a6b3d1a95	212	SMART	SM00110		1	118	2.6E-4	T	31-10-2018	IPR001073	C1q domain		
+Modiolus_philippinarum_MPH|Mph_scaf_16569-0.1	eccc6d76ba50a1a89a2dc83a6b3d1a95	212	Pfam	PF00386	C1q domain	9	90	8.9E-12	T	31-10-2018	IPR001073	C1q domain		
+Modiolus_philippinarum_MPH|Mph_scaf_16569-0.1	eccc6d76ba50a1a89a2dc83a6b3d1a95	212	Gene3D	G3DSA:2.60.120.40		4	96	2.9E-17	T	31-10-2018	IPR008983	Tumour necrosis factor-like domain superfamily	GO:0005515	
+Modiolus_philippinarum_MPH|Mph_scaf_16569-0.1	eccc6d76ba50a1a89a2dc83a6b3d1a95	212	ProSiteProfiles	PS50871	C1q domain profile.	3	142	9.685	T	31-10-2018	IPR001073	C1q domain		
+Modiolus_philippinarum_MPH|Mph_scaf_16569-0.1	eccc6d76ba50a1a89a2dc83a6b3d1a95	212	Pfam	PF00910	RNA helicase	97	189	2.5E-7	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Modiolus_philippinarum_MPH|Mph_scaf_16569-0.1	eccc6d76ba50a1a89a2dc83a6b3d1a95	212	SUPERFAMILY	SSF49842		7	88	1.45E-14	T	31-10-2018	IPR008983	Tumour necrosis factor-like domain superfamily	GO:0005515	
+Modiolus_philippinarum_MPH|Mph_scaf_32093-0.8	c89231d29cd894ab4e3449497bcc7e2c	485	MobiDBLite	mobidb-lite	consensus disorder prediction	464	485	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_61995-0.1	1d0533a897267ca7c2783d6493415fbe	183	Pfam	PF00910	RNA helicase	71	163	2.3E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_017634-T1	dbb7239ab426ca2e2dacad4193696267	332	Pfam	PF02407	Putative viral replication protein	10	90	2.2E-20	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_017634-T1	dbb7239ab426ca2e2dacad4193696267	332	Gene3D	G3DSA:3.40.1310.20		2	106	5.4E-33	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28380-0.1	e7c89a23097d0a719b2c50aafc8c16cc	359	Coils	Coil		223	243	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28380-0.1	e7c89a23097d0a719b2c50aafc8c16cc	359	MobiDBLite	mobidb-lite	consensus disorder prediction	306	340	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28380-0.1	e7c89a23097d0a719b2c50aafc8c16cc	359	Coils	Coil		255	289	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_68968-0.4	96da34352aec8db5a16b09a99b0b5957	300	Pfam	PF02407	Putative viral replication protein	7	91	6.4E-18	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Modiolus_philippinarum_MPH|Mph_scaf_68968-0.4	96da34352aec8db5a16b09a99b0b5957	300	Gene3D	G3DSA:3.40.1310.20		1	107	7.7E-37	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013163-T1	192ca6752ec2d25c945038b53138ac61	225	Pfam	PF00910	RNA helicase	104	189	1.2E-6	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_013163-T1	192ca6752ec2d25c945038b53138ac61	225	Coils	Coil		223	225	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013164-T1	c90b5526345e43822a2968ba03a99f04	285	Gene3D	G3DSA:3.40.1310.20		1	63	3.4E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013164-T1	c90b5526345e43822a2968ba03a99f04	285	Pfam	PF00910	RNA helicase	165	243	1.9E-4	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_013164-T1	c90b5526345e43822a2968ba03a99f04	285	Pfam	PF02407	Putative viral replication protein	5	47	9.3E-9	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_017635-T1	d4b2f1e1e70fa57559ee67fc2f9e46de	298	Pfam	PF02407	Putative viral replication protein	1	56	5.2E-12	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_017635-T1	d4b2f1e1e70fa57559ee67fc2f9e46de	298	Gene3D	G3DSA:3.40.1310.20		1	72	3.3E-21	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017638-T1	0fb26b12f2e008910d5d07a66a03ea86	445	Pfam	PF02407	Putative viral replication protein	7	87	2.5E-21	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_017638-T1	0fb26b12f2e008910d5d07a66a03ea86	445	Gene3D	G3DSA:3.40.1310.20		1	104	4.0E-32	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017641-T1	303f400349b2ff634c58e78f0172c2da	523	Pfam	PF00910	RNA helicase	403	488	5.1E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_017641-T1	303f400349b2ff634c58e78f0172c2da	523	Gene3D	G3DSA:3.40.1310.20		200	306	2.0E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017641-T1	303f400349b2ff634c58e78f0172c2da	523	Gene3D	G3DSA:3.40.1310.20		1	103	6.8E-34	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017641-T1	303f400349b2ff634c58e78f0172c2da	523	Pfam	PF02407	Putative viral replication protein	7	87	3.9E-21	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_013166-T1	847c6f83adff8d96b64cca4e3e0b007a	272	Gene3D	G3DSA:3.40.1310.20		1	78	1.6E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013166-T1	847c6f83adff8d96b64cca4e3e0b007a	272	Pfam	PF00910	RNA helicase	171	251	2.6E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_013166-T1	847c6f83adff8d96b64cca4e3e0b007a	272	Pfam	PF02407	Putative viral replication protein	5	64	3.2E-16	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Modiolus_philippinarum_MPH|Mph_scaf_68209-0.7	0c86f40d89bd537e5621283aee9112f8	176	Pfam	PF00910	RNA helicase	10	102	2.9E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Modiolus_philippinarum_MPH|Mph_scaf_10873-0.5	4c7b0d43007a4f8fff931dc60d859fbc	364	Gene3D	G3DSA:3.40.1310.20		141	173	1.5E-6	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_10873-0.5	4c7b0d43007a4f8fff931dc60d859fbc	364	Pfam	PF00910	RNA helicase	252	344	2.0E-4	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018681-T1	3b01004512799c4c3935c17d10acfc53	213	Pfam	PF00910	RNA helicase	95	177	7.1E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Modiolus_philippinarum_MPH|Mph_scaf_42418-0.10	f2e53eff09759106fe077f348943aace	512	Pfam	PF02407	Putative viral replication protein	10	100	9.7E-20	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Modiolus_philippinarum_MPH|Mph_scaf_42418-0.10	f2e53eff09759106fe077f348943aace	512	Gene3D	G3DSA:3.40.1310.20		2	117	1.5E-31	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42418-0.10	f2e53eff09759106fe077f348943aace	512	Coils	Coil		153	177	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42418-0.10	f2e53eff09759106fe077f348943aace	512	Coils	Coil		351	378	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017637-T1	fe18ad63b6f9654d9819e60eb9fbf1f4	256	Pfam	PF02407	Putative viral replication protein	7	87	1.1E-21	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_017637-T1	fe18ad63b6f9654d9819e60eb9fbf1f4	256	Gene3D	G3DSA:3.40.1310.20		1	103	1.8E-34	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028301-T1	52c39cc0bb8289d911e6ef7511e47537	148	Pfam	PF00910	RNA helicase	18	105	5.0E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Lamellibrachia_luymsi_proteins_LLU|FUN_028303-T1	52c39cc0bb8289d911e6ef7511e47537	148	Pfam	PF00910	RNA helicase	18	105	5.0E-5	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Modiolus_philippinarum_MPH|Mph_scaf_73093-0.0	cec8b0ecb836f83bcd0c52464223f7d7	302	Pfam	PF02407	Putative viral replication protein	7	91	4.9E-16	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Modiolus_philippinarum_MPH|Mph_scaf_73093-0.0	cec8b0ecb836f83bcd0c52464223f7d7	302	Gene3D	G3DSA:3.40.1310.20		1	107	6.3E-36	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011649-T1	9c393381c88589b7a403bdd65935108e	183	Pfam	PF00910	RNA helicase	49	141	6.4E-6	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Modiolus_philippinarum_MPH|Mph_scaf_10171-0.2	6558be5fe39833b94a723b924a270c76	220	MobiDBLite	mobidb-lite	consensus disorder prediction	145	166	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028296-T1	406d32008912f73370662a3b0fc938aa	124	Pfam	PF02407	Putative viral replication protein	8	89	5.7E-16	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Lamellibrachia_luymsi_proteins_LLU|FUN_028296-T1	406d32008912f73370662a3b0fc938aa	124	Gene3D	G3DSA:3.40.1310.20		2	105	3.7E-31	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_65502-0.1	2a491e285af837d1fab8d8c13f9211c7	353	Gene3D	G3DSA:3.40.1310.20		44	152	9.3E-8	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_65502-0.1	2a491e285af837d1fab8d8c13f9211c7	353	SUPERFAMILY	SSF55464		48	144	2.2E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF8357.14	831120065556c45f16417b1d8fbffa62	135	MobiDBLite	mobidb-lite	consensus disorder prediction	27	51	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013167-T1	1aa299de2cd9b45d2dd56992cc18dd73	327	Gene3D	G3DSA:3.40.1310.20		2	72	1.5E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013167-T1	1aa299de2cd9b45d2dd56992cc18dd73	327	Pfam	PF02407	Putative viral replication protein	4	55	7.3E-11	T	31-10-2018	IPR003365	Viral replication-associated protein, N-terminal	GO:0006260|GO:0016779|GO:0016888|GO:0018142|GO:0042624	KEGG: 00230+3.6.1.3
+Chlamys_farreri_CFA|CF42189.1	d5d6685b94c64b28b62e6a3e24eba117	359	MobiDBLite	mobidb-lite	consensus disorder prediction	25	49	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_55775-0.2	79f573aabf3a4b5e8c9f9f9947ad7be1	221	MobiDBLite	mobidb-lite	consensus disorder prediction	175	203	-	T	31-10-2018
+Chlamys_farreri_CFA|CF18255.5	ac6d7417d13fc89c570f2c80fedd3f3c	145	Pfam	PF00910	RNA helicase	26	106	2.0E-4	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	
+Chlamys_farreri_CFA|CF18255.4	dbbfa091b4f6cb90efbba280691f0c3c	150	MobiDBLite	mobidb-lite	consensus disorder prediction	30	51	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027803-T1	02f102861e4b579f4d87b3f7cff59dd6	240	Pfam	PF00910	RNA helicase	120	205	2.6E-6	T	31-10-2018	IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	GO:0003723|GO:0003724	

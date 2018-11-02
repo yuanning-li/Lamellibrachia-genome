@@ -1,0 +1,199 @@
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	Pfam	PF00628	PHD-finger	19	72	8.2E-8	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	Coils	Coil		111	131	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	19	71	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	SMART	SM00249		18	72	3.2E-4	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	Gene3D	G3DSA:3.30.40.10		8	73	2.0E-14	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	SUPERFAMILY	SSF57903		7	78	3.1E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	16	74	9.321	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	PANTHER	PTHR37445		2	110	1.2E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	PANTHER	PTHR37445		123	265	1.2E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002353-T1	e842c0687be909287e3682e9248c567f	286	Coils	Coil		89	109	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T02322	5dc6f3723366b8c4ddb7fb7263def1d8	154	Coils	Coil		6	26	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T02322	5dc6f3723366b8c4ddb7fb7263def1d8	154	PANTHER	PTHR37445		6	135	4.8E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g31384.t1	19214204108ef2cb0ca9d31e5d4abe63	484	MobiDBLite	mobidb-lite	consensus disorder prediction	85	143	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31384.t1	19214204108ef2cb0ca9d31e5d4abe63	484	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31384.t1	19214204108ef2cb0ca9d31e5d4abe63	484	MobiDBLite	mobidb-lite	consensus disorder prediction	444	484	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31384.t1	19214204108ef2cb0ca9d31e5d4abe63	484	Coils	Coil		233	253	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31384.t1	19214204108ef2cb0ca9d31e5d4abe63	484	Coils	Coil		307	334	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	Coils	Coil		111	131	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	19	71	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	Coils	Coil		232	256	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	SMART	SM00249		18	72	3.2E-4	T	31-10-2018	IPR001965	Zinc finger, PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	Gene3D	G3DSA:3.30.40.10		8	73	2.0E-14	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	Pfam	PF00628	PHD-finger	19	72	8.2E-8	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	SUPERFAMILY	SSF57903		7	78	3.1E-11	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	PANTHER	PTHR37445		122	266	4.1E-20	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	ProSiteProfiles	PS50016	Zinc finger PHD-type profile.	16	74	9.321	T	31-10-2018	IPR019787	Zinc finger, PHD-finger		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000768-T1	03a8dee61edf929dbb908ecabffe080c	286	Coils	Coil		89	109	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5446.t1	4839b76248873335f8017b7c7734213f	394	MobiDBLite	mobidb-lite	consensus disorder prediction	63	99	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5446.t1	4839b76248873335f8017b7c7734213f	394	MobiDBLite	mobidb-lite	consensus disorder prediction	1	45	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5446.t1	4839b76248873335f8017b7c7734213f	394	Coils	Coil		198	237	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g5446.t1	4839b76248873335f8017b7c7734213f	394	MobiDBLite	mobidb-lite	consensus disorder prediction	111	139	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g7470.t1	fdb53370c3b4b3eb7a4302c8d5676c22	488	Coils	Coil		225	245	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g7470.t1	fdb53370c3b4b3eb7a4302c8d5676c22	488	MobiDBLite	mobidb-lite	consensus disorder prediction	51	122	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g7470.t1	fdb53370c3b4b3eb7a4302c8d5676c22	488	PANTHER	PTHR37445		221	476	3.0E-16	T	31-10-2018
+Notospermus_geniculatus_NGE|g7470.t1	fdb53370c3b4b3eb7a4302c8d5676c22	488	Coils	Coil		319	346	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g7470.t1	fdb53370c3b4b3eb7a4302c8d5676c22	488	MobiDBLite	mobidb-lite	consensus disorder prediction	466	488	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g7470.t1	fdb53370c3b4b3eb7a4302c8d5676c22	488	Coils	Coil		435	455	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6952.t1	03402c1e02a2c871c0eb10bedd1fe776	495	MobiDBLite	mobidb-lite	consensus disorder prediction	455	495	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6952.t1	03402c1e02a2c871c0eb10bedd1fe776	495	Coils	Coil		245	279	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6952.t1	03402c1e02a2c871c0eb10bedd1fe776	495	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	MobiDBLite	mobidb-lite	consensus disorder prediction	114	165	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	Coils	Coil		523	524	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	Coils	Coil		213	233	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	Coils	Coil		397	424	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	MobiDBLite	mobidb-lite	consensus disorder prediction	40	70	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	MobiDBLite	mobidb-lite	consensus disorder prediction	437	465	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g22091.t1	c2e4e9b10881827cfc12d4064896b83a	524	MobiDBLite	mobidb-lite	consensus disorder prediction	1	28	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42516.t1	be9e00b44decd0c05d636409768ce641	378	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42516.t1	be9e00b44decd0c05d636409768ce641	378	MobiDBLite	mobidb-lite	consensus disorder prediction	346	378	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42516.t1	be9e00b44decd0c05d636409768ce641	378	PANTHER	PTHR37445		132	364	8.4E-14	T	31-10-2018
+Notospermus_geniculatus_NGE|g42516.t1	be9e00b44decd0c05d636409768ce641	378	MobiDBLite	mobidb-lite	consensus disorder prediction	53	122	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42516.t1	be9e00b44decd0c05d636409768ce641	378	Coils	Coil		200	220	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34073.t1	55f43e9b73e899bcbb9c649a87d187f5	438	MobiDBLite	mobidb-lite	consensus disorder prediction	1	30	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34073.t1	55f43e9b73e899bcbb9c649a87d187f5	438	Coils	Coil		435	438	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34073.t1	55f43e9b73e899bcbb9c649a87d187f5	438	MobiDBLite	mobidb-lite	consensus disorder prediction	389	438	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34073.t1	55f43e9b73e899bcbb9c649a87d187f5	438	PANTHER	PTHR37445		164	372	3.5E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031121-T1	126f123709368be4ecb47f922d7f501d	254	SUPERFAMILY	SSF57903		2	46	4.21E-8	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031121-T1	126f123709368be4ecb47f922d7f501d	254	PANTHER	PTHR37445		84	235	9.0E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031121-T1	126f123709368be4ecb47f922d7f501d	254	PANTHER	PTHR37445		56	79	9.0E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031121-T1	126f123709368be4ecb47f922d7f501d	254	Gene3D	G3DSA:3.30.40.10		1	41	8.1E-10	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_031121-T1	126f123709368be4ecb47f922d7f501d	254	Coils	Coil		79	99	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	Pfam	PF00069	Protein kinase domain	5	117	3.3E-18	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	ProSitePatterns	PS00108	Serine/Threonine protein kinases active-site signature.	55	67	-	T	31-10-2018	IPR008271	Serine/threonine-protein kinase, active site	GO:0004672|GO:0006468	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	SMART	SM00220		2	292	2.8E-4	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	Coils	Coil		213	233	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	ProSiteProfiles	PS50011	Protein kinase domain profile.	1	289	16.839	T	31-10-2018	IPR000719	Protein kinase domain	GO:0004672|GO:0005524|GO:0006468	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	CDD	cd00180	PKc	2	111	7.04623E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	SUPERFAMILY	SSF56112		161	199	2.5E-21	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	SUPERFAMILY	SSF56112		2	110	2.5E-21	T	31-10-2018	IPR011009	Protein kinase-like domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018921-T1	2ea3bb3eb97f3cd48eec4e7b66e53257	381	PANTHER	PTHR13954		2	205	1.2E-28	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	Coils	Coil		200	224	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	PANTHER	PTHR37445		91	233	4.1E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	PANTHER	PTHR37445		55	79	4.1E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	SUPERFAMILY	SSF57903		2	46	4.65E-8	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	Gene3D	G3DSA:3.30.40.10		1	41	3.7E-9	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	Coils	Coil		57	77	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009488-T1	4962273295d2c67100d796716e3b24c6	254	Coils	Coil		79	99	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g24103.t1	6fd85ff16ce8094ac812f9155e4b22c2	291	PANTHER	PTHR37445		66	285	4.3E-14	T	31-10-2018
+Notospermus_geniculatus_NGE|g24103.t1	6fd85ff16ce8094ac812f9155e4b22c2	291	Coils	Coil		248	268	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32819.t1	5829fdd309f7bd5adc1f769b2d246872	476	MobiDBLite	mobidb-lite	consensus disorder prediction	1	47	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32819.t1	5829fdd309f7bd5adc1f769b2d246872	476	Coils	Coil		424	444	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32819.t1	5829fdd309f7bd5adc1f769b2d246872	476	PANTHER	PTHR37445		232	445	5.7E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g32819.t1	5829fdd309f7bd5adc1f769b2d246872	476	Coils	Coil		307	327	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32819.t1	5829fdd309f7bd5adc1f769b2d246872	476	MobiDBLite	mobidb-lite	consensus disorder prediction	73	96	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32819.t1	5829fdd309f7bd5adc1f769b2d246872	476	SUPERFAMILY	SSF57903		143	209	9.6E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Notospermus_geniculatus_NGE|g4268.t1	75342dd83170d2eff969027213af94f6	286	MobiDBLite	mobidb-lite	consensus disorder prediction	1	72	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42760.t1	66512d7f1a6b20833d017b142403cd1b	153	PANTHER	PTHR37445		2	141	5.3E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g42760.t1	66512d7f1a6b20833d017b142403cd1b	153	Coils	Coil		96	120	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009010316.1	cb068f58b7910dcad600325a44519e7b	248	SUPERFAMILY	SSF57903		4	64	1.94E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Helobdella_robusta_HRO|XP_009010316.1	cb068f58b7910dcad600325a44519e7b	248	Coils	Coil		201	221	-	T	31-10-2018
+Helobdella_robusta_HRO|XP_009010316.1	cb068f58b7910dcad600325a44519e7b	248	ProSitePatterns	PS01359	Zinc finger PHD-type signature.	6	60	-	T	31-10-2018	IPR019786	Zinc finger, PHD-type, conserved site		
+Helobdella_robusta_HRO|XP_009010316.1	cb068f58b7910dcad600325a44519e7b	248	Coils	Coil		82	102	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T01022	69a3b77bbd85630e4f495769b5b01cd1	153	Coils	Coil		99	119	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T01022	69a3b77bbd85630e4f495769b5b01cd1	153	PANTHER	PTHR37445		20	142	3.9E-13	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T01022	69a3b77bbd85630e4f495769b5b01cd1	153	MobiDBLite	mobidb-lite	consensus disorder prediction	129	153	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41096.t1	55c5e23ff08f8f7f742382ef76b79c32	457	MobiDBLite	mobidb-lite	consensus disorder prediction	417	457	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41096.t1	55c5e23ff08f8f7f742382ef76b79c32	457	Coils	Coil		280	307	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41096.t1	55c5e23ff08f8f7f742382ef76b79c32	457	Coils	Coil		206	226	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41096.t1	55c5e23ff08f8f7f742382ef76b79c32	457	MobiDBLite	mobidb-lite	consensus disorder prediction	59	116	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32821.t1	be93d67809fe5a214208e23cb70dac1f	476	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32821.t1	be93d67809fe5a214208e23cb70dac1f	476	PANTHER	PTHR37445		232	445	2.3E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g32821.t1	be93d67809fe5a214208e23cb70dac1f	476	Coils	Coil		307	327	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32821.t1	be93d67809fe5a214208e23cb70dac1f	476	MobiDBLite	mobidb-lite	consensus disorder prediction	73	96	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g32821.t1	be93d67809fe5a214208e23cb70dac1f	476	SUPERFAMILY	SSF57903		143	209	9.6E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Notospermus_geniculatus_NGE|g32821.t1	be93d67809fe5a214208e23cb70dac1f	476	MobiDBLite	mobidb-lite	consensus disorder prediction	361	381	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31636.t1	53553edb609799e32145dffd52343ac3	277	Coils	Coil		99	119	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31636.t1	53553edb609799e32145dffd52343ac3	277	PANTHER	PTHR37445		175	262	3.5E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g31636.t1	53553edb609799e32145dffd52343ac3	277	PANTHER	PTHR37445		17	146	3.5E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g31636.t1	53553edb609799e32145dffd52343ac3	277	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31636.t1	53553edb609799e32145dffd52343ac3	277	Coils	Coil		226	246	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016002-T1	ccd92cf32f90583630c2c610d80882c9	121	PANTHER	PTHR37445		15	104	5.5E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016002-T1	ccd92cf32f90583630c2c610d80882c9	121	Coils	Coil		2	22	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6130.t1	54081a7af680656a3f2e61273e4bdbb4	261	MobiDBLite	mobidb-lite	consensus disorder prediction	191	261	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g6130.t1	54081a7af680656a3f2e61273e4bdbb4	261	PANTHER	PTHR37445		42	208	4.0E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g36173.t1	7ce40566c3394380e79289c38efa5089	576	Coils	Coil		525	545	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36173.t1	7ce40566c3394380e79289c38efa5089	576	MobiDBLite	mobidb-lite	consensus disorder prediction	121	141	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36173.t1	7ce40566c3394380e79289c38efa5089	576	Coils	Coil		408	428	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36173.t1	7ce40566c3394380e79289c38efa5089	576	PANTHER	PTHR34180		1	120	3.3E-15	T	31-10-2018
+Notospermus_geniculatus_NGE|g36173.t1	7ce40566c3394380e79289c38efa5089	576	MobiDBLite	mobidb-lite	consensus disorder prediction	165	196	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36173.t1	7ce40566c3394380e79289c38efa5089	576	SUPERFAMILY	SSF57903		244	314	4.8E-6	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_002261-T1	71b2d8cd43b272984cdd78ddbb28679c	145	Coils	Coil		91	115	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002261-T1	71b2d8cd43b272984cdd78ddbb28679c	145	Coils	Coil		16	36	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_002261-T1	71b2d8cd43b272984cdd78ddbb28679c	145	MobiDBLite	mobidb-lite	consensus disorder prediction	45	65	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10511.t1	af16535883ee8f9a4f2fd8ccfe82d84c	262	Coils	Coil		211	238	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10511.t1	af16535883ee8f9a4f2fd8ccfe82d84c	262	Coils	Coil		20	40	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10511.t1	af16535883ee8f9a4f2fd8ccfe82d84c	262	MobiDBLite	mobidb-lite	consensus disorder prediction	147	168	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g10511.t1	af16535883ee8f9a4f2fd8ccfe82d84c	262	Coils	Coil		94	114	-	T	31-10-2018
+Capitella_teleta_CTE|ELT99183.1	6a06d2df049f65bb9db04cc6fd9d60aa	145	MobiDBLite	mobidb-lite	consensus disorder prediction	125	145	-	T	31-10-2018
+Capitella_teleta_CTE|ELT99183.1	6a06d2df049f65bb9db04cc6fd9d60aa	145	PANTHER	PTHR37445		2	126	1.2E-12	T	31-10-2018
+Chlamys_farreri_CFA|CF24991.40	68eadf41e6bbcca3e5fad77165265fa9	61	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	31-10-2018
+Chlamys_farreri_CFA|CF24991.40	68eadf41e6bbcca3e5fad77165265fa9	61	MobiDBLite	mobidb-lite	consensus disorder prediction	42	61	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g30221.t1	3c39acd33cf03ca79db7f2cf14dbd814	249	MobiDBLite	mobidb-lite	consensus disorder prediction	195	249	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g30221.t1	3c39acd33cf03ca79db7f2cf14dbd814	249	Coils	Coil		178	198	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g30221.t1	3c39acd33cf03ca79db7f2cf14dbd814	249	Coils	Coil		21	41	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27042.t1	9149c14784c199885faf620550c489ac	476	MobiDBLite	mobidb-lite	consensus disorder prediction	90	129	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27042.t1	9149c14784c199885faf620550c489ac	476	Coils	Coil		250	277	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27042.t1	9149c14784c199885faf620550c489ac	476	Coils	Coil		421	441	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013627-T1	d46a6139d71fd495af989c1d2eed20db	159	MobiDBLite	mobidb-lite	consensus disorder prediction	137	159	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013627-T1	d46a6139d71fd495af989c1d2eed20db	159	Gene3D	G3DSA:3.30.40.10		1	41	1.7E-9	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_013627-T1	d46a6139d71fd495af989c1d2eed20db	159	SUPERFAMILY	SSF57903		2	44	3.1E-8	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_013627-T1	d46a6139d71fd495af989c1d2eed20db	159	Coils	Coil		57	77	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013627-T1	d46a6139d71fd495af989c1d2eed20db	159	Coils	Coil		79	99	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016698-T1	4d432729396126e4d5f8dca7fea43873	182	Coils	Coil		26	53	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016698-T1	4d432729396126e4d5f8dca7fea43873	182	PANTHER	PTHR44215		98	150	3.5E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016698-T1	4d432729396126e4d5f8dca7fea43873	182	MobiDBLite	mobidb-lite	consensus disorder prediction	151	182	-	T	31-10-2018
+Chlamys_farreri_CFA|CF12611.6	9c1d242a4cf6e995ef5cea89274ca696	81	MobiDBLite	mobidb-lite	consensus disorder prediction	55	81	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001945-T1	79bbed5aa3b10a1469f345d663299aab	132	Gene3D	G3DSA:3.30.40.10		1	42	4.1E-8	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_001945-T1	79bbed5aa3b10a1469f345d663299aab	132	MobiDBLite	mobidb-lite	consensus disorder prediction	112	132	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001945-T1	79bbed5aa3b10a1469f345d663299aab	132	Coils	Coil		57	77	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001945-T1	79bbed5aa3b10a1469f345d663299aab	132	Coils	Coil		79	99	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001945-T1	79bbed5aa3b10a1469f345d663299aab	132	SUPERFAMILY	SSF57903		2	46	3.77E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Notospermus_geniculatus_NGE|g42409.t1	a785e7571aaa8b00042c4c85f62fea6e	556	MobiDBLite	mobidb-lite	consensus disorder prediction	129	193	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42409.t1	a785e7571aaa8b00042c4c85f62fea6e	556	Coils	Coil		508	528	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g42409.t1	a785e7571aaa8b00042c4c85f62fea6e	556	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g16941.t1	6d979aef6757097bf46a8815ad3ec895	498	Coils	Coil		454	474	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g16941.t1	6d979aef6757097bf46a8815ad3ec895	498	MobiDBLite	mobidb-lite	consensus disorder prediction	105	132	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g16941.t1	6d979aef6757097bf46a8815ad3ec895	498	Coils	Coil		231	265	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037870-T1	b5753114d8d88dcbf12f06d03a0ddb60	177	Coils	Coil		2	22	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037870-T1	b5753114d8d88dcbf12f06d03a0ddb60	177	PANTHER	PTHR37445		14	157	6.5E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037870-T1	b5753114d8d88dcbf12f06d03a0ddb60	177	Coils	Coil		123	147	-	T	31-10-2018
+Capitella_teleta_CTE|ELT99371.1	4e2ff6b8a9a9c430208b77dc4842d04e	300	MobiDBLite	mobidb-lite	consensus disorder prediction	213	274	-	T	31-10-2018
+Capitella_teleta_CTE|ELT95589.1	4e2ff6b8a9a9c430208b77dc4842d04e	300	MobiDBLite	mobidb-lite	consensus disorder prediction	213	274	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g12294.t1	bd7c7e34fb33dcbfd28f928da33c939d	294	Coils	Coil		107	127	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g12294.t1	bd7c7e34fb33dcbfd28f928da33c939d	294	Coils	Coil		181	201	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g12294.t1	bd7c7e34fb33dcbfd28f928da33c939d	294	Gene3D	G3DSA:3.30.40.10		23	85	3.0E-5	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Notospermus_geniculatus_NGE|g12294.t1	bd7c7e34fb33dcbfd28f928da33c939d	294	SUPERFAMILY	SSF57903		18	93	2.7E-7	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Notospermus_geniculatus_NGE|g29715.t1	2937f73f1ef8ebbad054fe76bc033583	285	MobiDBLite	mobidb-lite	consensus disorder prediction	1	45	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g29715.t1	2937f73f1ef8ebbad054fe76bc033583	285	MobiDBLite	mobidb-lite	consensus disorder prediction	255	285	-	T	31-10-2018
+Chlamys_farreri_CFA|CF48295.67	f159f7a487e1a6ab1707313393df1ce4	201	MobiDBLite	mobidb-lite	consensus disorder prediction	85	151	-	T	31-10-2018
+Chlamys_farreri_CFA|CF48295.67	f159f7a487e1a6ab1707313393df1ce4	201	PANTHER	PTHR37445		3	111	5.9E-13	T	31-10-2018
+Chlamys_farreri_CFA|CF48295.67	f159f7a487e1a6ab1707313393df1ce4	201	PANTHER	PTHR37445		104	139	5.9E-13	T	31-10-2018
+Chlamys_farreri_CFA|CF48295.67	f159f7a487e1a6ab1707313393df1ce4	201	Coils	Coil		85	105	-	T	31-10-2018
+Capitella_teleta_CTE|ELU17441.1	9dc1242bac939883f14b5c98f0462c11	254	PANTHER	PTHR37445		17	159	9.7E-13	T	31-10-2018
+Capitella_teleta_CTE|ELU17441.1	9dc1242bac939883f14b5c98f0462c11	254	Gene3D	G3DSA:3.60.10.10		137	253	2.3E-6	T	31-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Notospermus_geniculatus_NGE|g34570.t1	d0e137487969b9b34007ae5d041a6e15	298	Coils	Coil		31	65	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34570.t1	d0e137487969b9b34007ae5d041a6e15	298	Coils	Coil		254	274	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g26630.t1	8a0e8081278c4532b0a224bc6ea7af7f	211	Coils	Coil		126	146	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g26630.t1	8a0e8081278c4532b0a224bc6ea7af7f	211	Coils	Coil		176	196	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g26630.t1	8a0e8081278c4532b0a224bc6ea7af7f	211	SUPERFAMILY	SSF57903		15	74	1.87E-5	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Chlamys_farreri_CFA|CF48227.129	156f80414e3776d649a0a91351de65b4	398	MobiDBLite	mobidb-lite	consensus disorder prediction	1	52	-	T	31-10-2018
+Chlamys_farreri_CFA|CF48227.129	156f80414e3776d649a0a91351de65b4	398	PANTHER	PTHR37445		126	300	3.6E-14	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T24532	e5983e6f9b996465d5578deed597f2c8	243	MobiDBLite	mobidb-lite	consensus disorder prediction	114	243	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T24532	e5983e6f9b996465d5578deed597f2c8	243	Coils	Coil		84	104	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T24532	e5983e6f9b996465d5578deed597f2c8	243	PANTHER	PTHR37445		7	128	4.0E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004036-T1	d1770d3a179b5800d6c829844c08e952	113	Gene3D	G3DSA:3.30.40.10		1	52	3.9E-11	T	31-10-2018	IPR013083	Zinc finger, RING/FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_004036-T1	d1770d3a179b5800d6c829844c08e952	113	SUPERFAMILY	SSF57903		12	56	4.87E-9	T	31-10-2018	IPR011011	Zinc finger, FYVE/PHD-type		
+Lamellibrachia_luymsi_proteins_LLU|FUN_004036-T1	d1770d3a179b5800d6c829844c08e952	113	Coils	Coil		74	94	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g20186.t1	9f2206625fe1799ea271688f7d033007	333	Coils	Coil		282	302	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g20186.t1	9f2206625fe1799ea271688f7d033007	333	MobiDBLite	mobidb-lite	consensus disorder prediction	1	82	-	T	31-10-2018
+Chlamys_farreri_CFA|CF15075.1	b9af82d3135928aae137bcde2743b3bc	90	Coils	Coil		71	90	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23331	ec7eff45dad22b5b4b8ff4a0833f0974	251	Coils	Coil		6	26	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23331	ec7eff45dad22b5b4b8ff4a0833f0974	251	MobiDBLite	mobidb-lite	consensus disorder prediction	121	203	-	T	31-10-2018
+Capitella_teleta_CTE|ELT87902.1	5b2f638eddf740156f9dadd193e50094	358	MobiDBLite	mobidb-lite	consensus disorder prediction	336	358	-	T	31-10-2018
+Capitella_teleta_CTE|ELT87902.1	5b2f638eddf740156f9dadd193e50094	358	PANTHER	PTHR37445		29	212	3.9E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g40477.t1	cae57906e99d731dec25f66f5e1ece60	375	MobiDBLite	mobidb-lite	consensus disorder prediction	74	134	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g40477.t1	cae57906e99d731dec25f66f5e1ece60	375	Coils	Coil		320	347	-	T	31-10-2018
+Capitella_teleta_CTE|ELU10063.1	61f66afc51406be82eac4a09bc6fda79	438	PANTHER	PTHR37445		71	213	2.9E-14	T	31-10-2018
+Capitella_teleta_CTE|ELU10063.1	61f66afc51406be82eac4a09bc6fda79	438	PANTHER	PTHR37445		329	345	2.9E-14	T	31-10-2018
+Capitella_teleta_CTE|ELU10063.1	61f66afc51406be82eac4a09bc6fda79	438	MobiDBLite	mobidb-lite	consensus disorder prediction	241	315	-	T	31-10-2018

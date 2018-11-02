@@ -1,0 +1,374 @@
+Bathymodiolus_platifrons_BPL|Bpl_scaf_15735-0.0	026b680a28bc4d1ce591bd2c30b8342f	207	CDD	cd00229	SGNH_hydrolase	48	195	2.55713E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_15735-0.0	026b680a28bc4d1ce591bd2c30b8342f	207	Gene3D	G3DSA:3.40.50.1110		5	199	4.1E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_15735-0.0	026b680a28bc4d1ce591bd2c30b8342f	207	SUPERFAMILY	SSF52266		10	195	1.5E-11	T	31-10-2018
+Chlamys_farreri_CFA|CF60659.4	9afaabf994326eb416533cbde643b717	163	SUPERFAMILY	SSF52266		5	133	3.48E-10	T	31-10-2018
+Chlamys_farreri_CFA|CF60659.4	9afaabf994326eb416533cbde643b717	163	Gene3D	G3DSA:3.40.50.1110		1	129	4.0E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_70092-0.5	0ae3b1ce9a4b1a307cdc60759cbfc669	202	CDD	cd00229	SGNH_hydrolase	10	175	4.20533E-6	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_70092-0.5	0ae3b1ce9a4b1a307cdc60759cbfc669	202	Gene3D	G3DSA:3.40.50.1110		2	181	1.1E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_70092-0.5	0ae3b1ce9a4b1a307cdc60759cbfc669	202	SUPERFAMILY	SSF52266		5	176	1.17E-10	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_40318-0.0	ce3d353ac20a950185d821a1241a1594	198	CDD	cd00229	SGNH_hydrolase	5	171	0.00463471	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_40318-0.0	ce3d353ac20a950185d821a1241a1594	198	Gene3D	G3DSA:3.40.50.1110		2	179	4.6E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_40318-0.0	ce3d353ac20a950185d821a1241a1594	198	SUPERFAMILY	SSF52266		5	179	5.5E-14	T	31-10-2018
+Chlamys_farreri_CFA|CF34217.8	add3cfd7ccd82e7cf15d48b7d61901aa	112	CDD	cd00229	SGNH_hydrolase	7	89	0.00197991	T	31-10-2018
+Chlamys_farreri_CFA|CF34217.8	add3cfd7ccd82e7cf15d48b7d61901aa	112	SUPERFAMILY	SSF52266		7	102	2.33E-6	T	31-10-2018
+Chlamys_farreri_CFA|CF34217.8	add3cfd7ccd82e7cf15d48b7d61901aa	112	Gene3D	G3DSA:3.40.50.1110		1	108	8.2E-6	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021362278.1	40ab1319d1dc2eff64793a70c987d55b	205	Coils	Coil		123	143	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362278.1	40ab1319d1dc2eff64793a70c987d55b	205	SUPERFAMILY	SSF52266		4	178	1.67E-18	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362278.1	40ab1319d1dc2eff64793a70c987d55b	205	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	15	176	1.9E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Mizuhopecten_yessoensis_MYE|XP_021362278.1	40ab1319d1dc2eff64793a70c987d55b	205	CDD	cd00229	SGNH_hydrolase	6	178	1.57553E-8	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362278.1	40ab1319d1dc2eff64793a70c987d55b	205	Gene3D	G3DSA:3.40.50.1110		1	180	7.9E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T01453	40ab1319d1dc2eff64793a70c987d55b	205	Coils	Coil		123	143	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T01453	40ab1319d1dc2eff64793a70c987d55b	205	SUPERFAMILY	SSF52266		4	178	1.67E-18	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T01453	40ab1319d1dc2eff64793a70c987d55b	205	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	15	176	1.9E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Patinopecten_yessoensis_PYE|PY_T01453	40ab1319d1dc2eff64793a70c987d55b	205	CDD	cd00229	SGNH_hydrolase	6	178	1.57553E-8	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T01453	40ab1319d1dc2eff64793a70c987d55b	205	Gene3D	G3DSA:3.40.50.1110		1	180	7.9E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_46578-6.22	8e84afdcc18066785cf171240c148e36	243	CDD	cd00229	SGNH_hydrolase	16	57	0.00507501	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_46578-6.22	8e84afdcc18066785cf171240c148e36	243	Gene3D	G3DSA:3.40.50.1110		7	138	1.0E-5	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_46578-6.22	8e84afdcc18066785cf171240c148e36	243	MobiDBLite	mobidb-lite	consensus disorder prediction	115	179	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_46578-6.22	8e84afdcc18066785cf171240c148e36	243	SUPERFAMILY	SSF52266		14	105	5.66E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_32097-0.7	8a3c900a56703fbd2e5358db89a52c1a	499	MobiDBLite	mobidb-lite	consensus disorder prediction	467	487	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_32097-0.7	8a3c900a56703fbd2e5358db89a52c1a	499	CDD	cd00229	SGNH_hydrolase	6	169	2.04686E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_32097-0.7	8a3c900a56703fbd2e5358db89a52c1a	499	MobiDBLite	mobidb-lite	consensus disorder prediction	214	280	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_32097-0.7	8a3c900a56703fbd2e5358db89a52c1a	499	PANTHER	PTHR35558		212	474	9.1E-27	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_32097-0.7	8a3c900a56703fbd2e5358db89a52c1a	499	SUPERFAMILY	SSF52266		4	173	1.37E-14	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_32097-0.7	8a3c900a56703fbd2e5358db89a52c1a	499	Gene3D	G3DSA:3.40.50.1110		1	179	5.0E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_36543-0.1	8102c8ff717a94b5c1c5561668a8c74b	188	CDD	cd00229	SGNH_hydrolase	5	167	6.23425E-9	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_36543-0.1	8102c8ff717a94b5c1c5561668a8c74b	188	Gene3D	G3DSA:3.40.50.1110		4	172	9.1E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_36543-0.1	8102c8ff717a94b5c1c5561668a8c74b	188	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	44	160	3.4E-5	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Modiolus_philippinarum_MPH|Mph_scaf_36543-0.1	8102c8ff717a94b5c1c5561668a8c74b	188	SUPERFAMILY	SSF52266		17	168	5.95E-14	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011425309.1	0e88afbbf9fe116bcfb47333f4c63120	222	CDD	cd00229	SGNH_hydrolase	6	165	1.30321E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011425309.1	0e88afbbf9fe116bcfb47333f4c63120	222	SUPERFAMILY	SSF52266		5	165	2.17E-13	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011425309.1	0e88afbbf9fe116bcfb47333f4c63120	222	Gene3D	G3DSA:3.40.50.1110		3	166	2.3E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011427345.1	89db7ec5ddc006a796f609e49b9573bc	257	CDD	cd00229	SGNH_hydrolase	6	165	4.53773E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011427345.1	89db7ec5ddc006a796f609e49b9573bc	257	Gene3D	G3DSA:3.40.50.1110		3	166	4.1E-6	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011427345.1	89db7ec5ddc006a796f609e49b9573bc	257	SUPERFAMILY	SSF52266		5	165	3.66E-11	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	SUPERFAMILY	SSF81321		187	491	2.29E-57	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	Gene3D	G3DSA:1.20.1070.10		172	497	8.6E-68	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	Gene3D	G3DSA:3.40.50.1110		2	171	3.9E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	Pfam	PF00001	7 transmembrane receptor (rhodopsin family)	204	461	8.9E-36	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	ProSiteProfiles	PS50262	G-protein coupled receptors family 1 profile.	203	461	32.328	T	31-10-2018	IPR017452	GPCR, rhodopsin-like, 7TM	GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PANTHER	PTHR24240		182	484	2.3E-74	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	SUPERFAMILY	SSF52266		4	176	1.83E-14	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	CDD	cd14969	7tmA_Opsins_type2_animals	188	472	1.54709E-69	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	188	212	1.7E-25	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	443	469	1.7E-25	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	221	242	1.7E-25	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	266	288	1.7E-25	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	405	429	1.7E-25	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Patinopecten_yessoensis_PYE|PY_T23365	749a58317fce93782cdd2db5463eb0f8	531	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	351	374	1.7E-25	T	31-10-2018	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Crassostrea_virginica_CVI|XP_022298440.1	8539adb5d3da54ee6773b241af1ce4e8	196	CDD	cd00229	SGNH_hydrolase	64	165	1.45473E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298440.1	8539adb5d3da54ee6773b241af1ce4e8	196	SUPERFAMILY	SSF52266		4	165	1.38E-13	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298440.1	8539adb5d3da54ee6773b241af1ce4e8	196	Gene3D	G3DSA:3.40.50.1110		2	166	9.6E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_35780-0.1	37dbcd23f09bdc099cb283f9406661ca	188	Gene3D	G3DSA:3.40.50.1110		2	186	3.4E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_35780-0.1	37dbcd23f09bdc099cb283f9406661ca	188	SUPERFAMILY	SSF52266		4	181	1.23E-15	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_35780-0.1	37dbcd23f09bdc099cb283f9406661ca	188	CDD	cd00229	SGNH_hydrolase	6	180	1.18809E-5	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	CDD	cd00229	SGNH_hydrolase	187	303	1.50416E-5	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	SUPERFAMILY	SSF63712		14	160	1.57E-37	T	31-10-2018	IPR036734	Neurotransmitter-gated ion-channel ligand-binding domain superfamily	GO:0005230|GO:0006811|GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	Pfam	PF02931	Neurotransmitter-gated ion-channel ligand binding domain	16	160	7.8E-38	T	31-10-2018	IPR006202	Neurotransmitter-gated ion-channel ligand-binding domain	GO:0005230|GO:0006811|GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	Gene3D	G3DSA:2.70.170.10		4	164	2.5E-32	T	31-10-2018	IPR036734	Neurotransmitter-gated ion-channel ligand-binding domain superfamily	GO:0005230|GO:0006811|GO:0016021	
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	PANTHER	PTHR18945		330	353	2.1E-29	T	31-10-2018	IPR006201	Neurotransmitter-gated ion-channel	GO:0004888|GO:0005216|GO:0016021|GO:0034220	
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	MobiDBLite	mobidb-lite	consensus disorder prediction	333	368	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	Gene3D	G3DSA:3.40.50.1110		165	318	1.8E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	PANTHER	PTHR18945		17	159	2.1E-29	T	31-10-2018	IPR006201	Neurotransmitter-gated ion-channel	GO:0004888|GO:0005216|GO:0016021|GO:0034220	
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	PANTHER	PTHR18945:SF577		330	353	2.1E-29	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	PANTHER	PTHR18945:SF577		17	159	2.1E-29	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	SUPERFAMILY	SSF52266		166	310	8.7E-11	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71406-0.3	8e960747f3a8a418b8322f10d97d369e	428	MobiDBLite	mobidb-lite	consensus disorder prediction	381	428	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38475-0.11	3a2ea7cf869ff063d8df0d23dbaec814	403	SUPERFAMILY	SSF52266		27	179	1.67E-13	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38475-0.11	3a2ea7cf869ff063d8df0d23dbaec814	403	CDD	cd00229	SGNH_hydrolase	33	176	3.4459E-5	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38475-0.11	3a2ea7cf869ff063d8df0d23dbaec814	403	MobiDBLite	mobidb-lite	consensus disorder prediction	230	251	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38475-0.11	3a2ea7cf869ff063d8df0d23dbaec814	403	Gene3D	G3DSA:3.40.50.1110		2	190	3.0E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_virginica_CVI|XP_022333016.1	76f89ed81aa6b9427d93fa3c32e79616	210	CDD	cd00229	SGNH_hydrolase	64	165	1.75514E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022333016.1	76f89ed81aa6b9427d93fa3c32e79616	210	Gene3D	G3DSA:3.40.50.1110		2	166	2.3E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_virginica_CVI|XP_022333016.1	76f89ed81aa6b9427d93fa3c32e79616	210	SUPERFAMILY	SSF52266		5	165	2.33E-13	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58578-0.9	deb214ff6ef51fddb83e307a2acdc115	531	CDD	cd00229	SGNH_hydrolase	6	171	3.8343E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58578-0.9	deb214ff6ef51fddb83e307a2acdc115	531	Gene3D	G3DSA:3.40.50.1110		1	178	1.5E-12	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58578-0.9	deb214ff6ef51fddb83e307a2acdc115	531	SUPERFAMILY	SSF52266		4	172	2.29E-15	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_58578-0.9	deb214ff6ef51fddb83e307a2acdc115	531	PANTHER	PTHR35558		262	508	1.1E-24	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_56822-1.1	e8d526d3974c7977744c3ea9d76ed446	297	SUPERFAMILY	SSF52266		6	166	4.12E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_56822-1.1	e8d526d3974c7977744c3ea9d76ed446	297	MobiDBLite	mobidb-lite	consensus disorder prediction	174	208	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_56822-1.1	e8d526d3974c7977744c3ea9d76ed446	297	CDD	cd00229	SGNH_hydrolase	30	159	6.39166E-4	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371843.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	MobiDBLite	mobidb-lite	consensus disorder prediction	178	207	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371843.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	SUPERFAMILY	SSF52266		3	152	9.66E-14	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371843.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	Gene3D	G3DSA:3.40.50.1110		2	169	1.8E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021371843.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	CDD	cd00229	SGNH_hydrolase	25	168	3.36347E-5	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371844.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	MobiDBLite	mobidb-lite	consensus disorder prediction	178	207	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371844.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	SUPERFAMILY	SSF52266		3	152	9.66E-14	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371844.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	Gene3D	G3DSA:3.40.50.1110		2	169	1.8E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021371844.1	282fe46519f1f2a75c9dc9d80c51f3c6	207	CDD	cd00229	SGNH_hydrolase	25	168	3.36347E-5	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371842.1	603124455bc674c5d47be574d46bc318	230	Gene3D	G3DSA:3.40.50.1110		2	167	2.6E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Mizuhopecten_yessoensis_MYE|XP_021371842.1	603124455bc674c5d47be574d46bc318	230	CDD	cd00229	SGNH_hydrolase	25	168	3.40037E-5	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021371842.1	603124455bc674c5d47be574d46bc318	230	SUPERFAMILY	SSF52266		3	152	1.35E-13	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18614	f4dce2333074096f442220acf49dfb76	113	CDD	cd00229	SGNH_hydrolase	2	113	2.49334E-4	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18614	f4dce2333074096f442220acf49dfb76	113	SUPERFAMILY	SSF52266		3	102	1.08E-8	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18614	f4dce2333074096f442220acf49dfb76	113	Gene3D	G3DSA:3.40.50.1110		1	107	2.6E-7	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	SUPERFAMILY	SSF52266		574	750	9.99E-19	T	31-10-2018
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	631	749	2.5E-6	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	CDD	cd00229	SGNH_hydrolase	576	747	1.61399E-9	T	31-10-2018
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	Gene3D	G3DSA:3.40.50.1110		569	755	1.1E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	MobiDBLite	mobidb-lite	consensus disorder prediction	1	54	-	T	31-10-2018
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	Coils	Coil		335	355	-	T	31-10-2018
+Chlamys_farreri_CFA|CF53907.16	b592078bd6bc8dc2b20359bec865801c	770	MobiDBLite	mobidb-lite	consensus disorder prediction	295	317	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26746-1.5	58c2b4a8c394c06529f5d9f46b0fbbd0	188	CDD	cd00229	SGNH_hydrolase	6	180	3.18071E-7	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26746-1.5	58c2b4a8c394c06529f5d9f46b0fbbd0	188	SUPERFAMILY	SSF52266		4	181	7.18E-18	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26746-1.5	58c2b4a8c394c06529f5d9f46b0fbbd0	188	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	67	171	2.0E-5	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26746-1.5	58c2b4a8c394c06529f5d9f46b0fbbd0	188	Gene3D	G3DSA:3.40.50.1110		2	186	1.6E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T04572	894cc7d3cd93eeab77aa8fa950c51365	128	Gene3D	G3DSA:3.40.50.1110		1	107	5.3E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T04572	894cc7d3cd93eeab77aa8fa950c51365	128	SUPERFAMILY	SSF52266		2	104	6.78E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013808-T1	5c66e6d4b8506226e340699928885ed7	200	SUPERFAMILY	SSF52266		5	182	2.0E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_013808-T1	5c66e6d4b8506226e340699928885ed7	200	Gene3D	G3DSA:3.40.50.1110		3	188	1.2E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF15245.1	be521f30dd3b134d2c66810c280dc4a6	176	SUPERFAMILY	SSF52266		3	168	4.89E-16	T	31-10-2018
+Chlamys_farreri_CFA|CF15245.1	be521f30dd3b134d2c66810c280dc4a6	176	Gene3D	G3DSA:3.40.50.1110		2	175	4.9E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF15245.1	be521f30dd3b134d2c66810c280dc4a6	176	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	27	159	3.0E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Crassostrea_virginica_CVI|XP_022333017.1	5b059ba37364c010d354a42791ee284d	202	CDD	cd00229	SGNH_hydrolase	64	165	1.58441E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022333017.1	5b059ba37364c010d354a42791ee284d	202	Gene3D	G3DSA:3.40.50.1110		2	166	2.1E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_virginica_CVI|XP_022333017.1	5b059ba37364c010d354a42791ee284d	202	SUPERFAMILY	SSF52266		5	165	1.83E-13	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T03796	56c17fd6e738935744145341b93a68dd	198	CDD	cd00229	SGNH_hydrolase	4	179	4.96949E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T03796	56c17fd6e738935744145341b93a68dd	198	SUPERFAMILY	SSF52266		3	179	5.83E-20	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T03796	56c17fd6e738935744145341b93a68dd	198	Gene3D	G3DSA:3.40.50.1110		1	183	5.7E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T03796	56c17fd6e738935744145341b93a68dd	198	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	31	178	3.7E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Patinopecten_yessoensis_PYE|PY_T10306	56c17fd6e738935744145341b93a68dd	198	CDD	cd00229	SGNH_hydrolase	4	179	4.96949E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T10306	56c17fd6e738935744145341b93a68dd	198	SUPERFAMILY	SSF52266		3	179	5.83E-20	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T10306	56c17fd6e738935744145341b93a68dd	198	Gene3D	G3DSA:3.40.50.1110		1	183	5.7E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T10306	56c17fd6e738935744145341b93a68dd	198	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	31	178	3.7E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Patinopecten_yessoensis_PYE|PY_T13657	56c17fd6e738935744145341b93a68dd	198	CDD	cd00229	SGNH_hydrolase	4	179	4.96949E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T13657	56c17fd6e738935744145341b93a68dd	198	SUPERFAMILY	SSF52266		3	179	5.83E-20	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T13657	56c17fd6e738935744145341b93a68dd	198	Gene3D	G3DSA:3.40.50.1110		1	183	5.7E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T13657	56c17fd6e738935744145341b93a68dd	198	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	31	178	3.7E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Patinopecten_yessoensis_PYE|PY_T18332	56c17fd6e738935744145341b93a68dd	198	CDD	cd00229	SGNH_hydrolase	4	179	4.96949E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18332	56c17fd6e738935744145341b93a68dd	198	SUPERFAMILY	SSF52266		3	179	5.83E-20	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18332	56c17fd6e738935744145341b93a68dd	198	Gene3D	G3DSA:3.40.50.1110		1	183	5.7E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T18332	56c17fd6e738935744145341b93a68dd	198	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	31	178	3.7E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Notospermus_geniculatus_NGE|g14382.t1	def6a9b3c4cb6e3b30410848994a572d	226	SUPERFAMILY	SSF52266		4	187	8.98E-10	T	31-10-2018
+Notospermus_geniculatus_NGE|g14382.t1	def6a9b3c4cb6e3b30410848994a572d	226	CDD	cd00229	SGNH_hydrolase	26	183	3.15484E-4	T	31-10-2018
+Notospermus_geniculatus_NGE|g14382.t1	def6a9b3c4cb6e3b30410848994a572d	226	Gene3D	G3DSA:3.40.50.1110		2	210	3.7E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011421629.1	16a1abf26c1137933f05d1242ea0ba57	255	CDD	cd00229	SGNH_hydrolase	6	165	8.23093E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421629.1	16a1abf26c1137933f05d1242ea0ba57	255	SUPERFAMILY	SSF52266		5	165	4.16E-12	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421629.1	16a1abf26c1137933f05d1242ea0ba57	255	Gene3D	G3DSA:3.40.50.1110		3	166	6.5E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10280-0.3	4d915f20825c6165c150a3fd7aefe734	187	Gene3D	G3DSA:3.40.50.1110		2	184	2.1E-12	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10280-0.3	4d915f20825c6165c150a3fd7aefe734	187	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	65	168	5.2E-6	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10280-0.3	4d915f20825c6165c150a3fd7aefe734	187	CDD	cd00229	SGNH_hydrolase	6	168	1.43924E-5	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10280-0.3	4d915f20825c6165c150a3fd7aefe734	187	SUPERFAMILY	SSF52266		4	172	1.83E-15	T	31-10-2018
+Lingula_anatina_LAN|XP_013405905.1	02eaa512eeccb9945064f06c0f8b6287	434	MobiDBLite	mobidb-lite	consensus disorder prediction	353	434	-	T	31-10-2018
+Lingula_anatina_LAN|XP_013405905.1	02eaa512eeccb9945064f06c0f8b6287	434	CDD	cd00229	SGNH_hydrolase	3	180	1.11682E-11	T	31-10-2018
+Lingula_anatina_LAN|XP_013405905.1	02eaa512eeccb9945064f06c0f8b6287	434	Gene3D	G3DSA:3.40.50.1110		1	185	1.3E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Lingula_anatina_LAN|XP_013405905.1	02eaa512eeccb9945064f06c0f8b6287	434	MobiDBLite	mobidb-lite	consensus disorder prediction	190	318	-	T	31-10-2018
+Lingula_anatina_LAN|XP_013405905.1	02eaa512eeccb9945064f06c0f8b6287	434	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	31	173	1.1E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Lingula_anatina_LAN|XP_013405905.1	02eaa512eeccb9945064f06c0f8b6287	434	SUPERFAMILY	SSF52266		2	183	9.66E-18	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18168	fabd34eae6d64236e28753473e95624d	194	Gene3D	G3DSA:3.40.50.1110		2	185	5.5E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T18168	fabd34eae6d64236e28753473e95624d	194	CDD	cd00229	SGNH_hydrolase	4	177	8.30292E-7	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18168	fabd34eae6d64236e28753473e95624d	194	SUPERFAMILY	SSF52266		4	185	1.53E-17	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T00321	fabd34eae6d64236e28753473e95624d	194	Gene3D	G3DSA:3.40.50.1110		2	185	5.5E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T00321	fabd34eae6d64236e28753473e95624d	194	CDD	cd00229	SGNH_hydrolase	4	177	8.30292E-7	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T00321	fabd34eae6d64236e28753473e95624d	194	SUPERFAMILY	SSF52266		4	185	1.53E-17	T	31-10-2018
+Notospermus_geniculatus_NGE|g33175.t1	3718a4f2b6e48eb3f36869bb33f9c5eb	204	Gene3D	G3DSA:3.40.50.1110		1	193	2.9E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Notospermus_geniculatus_NGE|g33175.t1	3718a4f2b6e48eb3f36869bb33f9c5eb	204	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	23	177	7.3E-10	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Notospermus_geniculatus_NGE|g33175.t1	3718a4f2b6e48eb3f36869bb33f9c5eb	204	SUPERFAMILY	SSF52266		1	178	3.66E-11	T	31-10-2018
+Notospermus_geniculatus_NGE|g33175.t1	3718a4f2b6e48eb3f36869bb33f9c5eb	204	CDD	cd00229	SGNH_hydrolase	3	184	3.09933E-4	T	31-10-2018
+Chlamys_farreri_CFA|CF46473.1	00b1367199cd1a2ecfffa0a534b8f6cc	387	SUPERFAMILY	SSF52266		52	229	8.42E-9	T	31-10-2018
+Chlamys_farreri_CFA|CF46473.1	00b1367199cd1a2ecfffa0a534b8f6cc	387	Gene3D	G3DSA:3.40.50.1110		43	232	5.9E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF25845.3	7498c27f87e9b1a1ca4d51d45aa790d7	195	CDD	cd00229	SGNH_hydrolase	36	174	5.09908E-6	T	31-10-2018
+Chlamys_farreri_CFA|CF25845.3	7498c27f87e9b1a1ca4d51d45aa790d7	195	Gene3D	G3DSA:3.40.50.1110		2	176	3.1E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF25845.3	7498c27f87e9b1a1ca4d51d45aa790d7	195	SUPERFAMILY	SSF52266		4	174	4.16E-16	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011425310.1	b89c19c7afc26ef35118730f277198c6	205	CDD	cd00229	SGNH_hydrolase	6	165	2.02856E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011425310.1	b89c19c7afc26ef35118730f277198c6	205	Gene3D	G3DSA:3.40.50.1110		3	166	1.8E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011425310.1	b89c19c7afc26ef35118730f277198c6	205	SUPERFAMILY	SSF52266		5	165	1.67E-13	T	31-10-2018
+Chlamys_farreri_CFA|CF53387.1	5d6f94bc9a09df05d7ccb70d3369cc57	176	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	27	159	6.2E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Chlamys_farreri_CFA|CF53387.1	5d6f94bc9a09df05d7ccb70d3369cc57	176	SUPERFAMILY	SSF52266		3	168	4.12E-16	T	31-10-2018
+Chlamys_farreri_CFA|CF53387.1	5d6f94bc9a09df05d7ccb70d3369cc57	176	Gene3D	G3DSA:3.40.50.1110		2	175	3.9E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64483-0.7	0b273e12ef866c5186a07a8e949e14fe	354	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	193	336	5.5E-6	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64483-0.7	0b273e12ef866c5186a07a8e949e14fe	354	Gene3D	G3DSA:3.40.50.1110		148	344	4.7E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64483-0.7	0b273e12ef866c5186a07a8e949e14fe	354	CDD	cd00229	SGNH_hydrolase	165	343	2.3031E-7	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64483-0.7	0b273e12ef866c5186a07a8e949e14fe	354	SUPERFAMILY	SSF52266		159	346	1.25E-16	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23443-1.3	917acddab00df244c43e0539442352b6	188	SUPERFAMILY	SSF52266		4	179	3.5E-17	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23443-1.3	917acddab00df244c43e0539442352b6	188	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	61	170	1.0E-5	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Modiolus_philippinarum_MPH|Mph_scaf_23443-1.3	917acddab00df244c43e0539442352b6	188	CDD	cd00229	SGNH_hydrolase	4	178	1.74432E-7	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23443-1.3	917acddab00df244c43e0539442352b6	188	Gene3D	G3DSA:3.40.50.1110		2	180	6.4E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF58757.1	6299a0c176b83fe2e0edcb22831fc6ac	100	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	38	95	1.4E-5	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Chlamys_farreri_CFA|CF58757.1	6299a0c176b83fe2e0edcb22831fc6ac	100	SUPERFAMILY	SSF52266		3	98	3.16E-10	T	31-10-2018
+Chlamys_farreri_CFA|CF58757.1	6299a0c176b83fe2e0edcb22831fc6ac	100	Gene3D	G3DSA:3.40.50.1110		2	100	3.1E-7	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1314-0.19	4b6b02811840cbb54b774a1600a7baf9	196	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	56	180	3.1E-5	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1314-0.19	4b6b02811840cbb54b774a1600a7baf9	196	CDD	cd00229	SGNH_hydrolase	9	174	7.29678E-7	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1314-0.19	4b6b02811840cbb54b774a1600a7baf9	196	Gene3D	G3DSA:3.40.50.1110		1	187	1.7E-12	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_1314-0.19	4b6b02811840cbb54b774a1600a7baf9	196	SUPERFAMILY	SSF52266		5	175	8.16E-15	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19752	b5dfc9df872a9134ecc2f1e438d3a745	196	Gene3D	G3DSA:3.40.50.1110		1	192	2.8E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T19752	b5dfc9df872a9134ecc2f1e438d3a745	196	SUPERFAMILY	SSF52266		4	182	4.66E-16	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19752	b5dfc9df872a9134ecc2f1e438d3a745	196	CDD	cd00229	SGNH_hydrolase	8	182	2.99782E-10	T	31-10-2018
+Lottia_gigantea_LGI|XP_009060702.1	826b62df81e8ee43fb9357d69c240e58	278	Gene3D	G3DSA:3.40.50.1110		82	222	2.1E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Lottia_gigantea_LGI|XP_009060702.1	826b62df81e8ee43fb9357d69c240e58	278	SUPERFAMILY	SSF52266		88	222	2.2E-11	T	31-10-2018
+Lottia_gigantea_LGI|XP_009060702.1	826b62df81e8ee43fb9357d69c240e58	278	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009060702.1	826b62df81e8ee43fb9357d69c240e58	278	CDD	cd00229	SGNH_hydrolase	106	222	5.53239E-5	T	31-10-2018
+Phoronis_australis_PAU|g19346.t1	69bc86646516441995a6a17fc28e7ec8	190	Gene3D	G3DSA:3.40.50.1110		2	181	1.4E-18	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Phoronis_australis_PAU|g19346.t1	69bc86646516441995a6a17fc28e7ec8	190	CDD	cd00229	SGNH_hydrolase	7	178	3.85748E-8	T	31-10-2018
+Phoronis_australis_PAU|g19346.t1	69bc86646516441995a6a17fc28e7ec8	190	SUPERFAMILY	SSF52266		5	179	5.31E-20	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T03750	819483efed22641ada3e4d26f15248d5	155	Gene3D	G3DSA:3.40.50.1110		1	150	2.0E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T03750	819483efed22641ada3e4d26f15248d5	155	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	56	143	2.8E-5	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Patinopecten_yessoensis_PYE|PY_T03750	819483efed22641ada3e4d26f15248d5	155	SUPERFAMILY	SSF52266		3	148	1.13E-12	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T03750	819483efed22641ada3e4d26f15248d5	155	CDD	cd00229	SGNH_hydrolase	4	132	5.32007E-5	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421289.1	9d702a950db0c77800891046e6a0a7c6	222	CDD	cd00229	SGNH_hydrolase	6	165	2.16216E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421289.1	9d702a950db0c77800891046e6a0a7c6	222	Gene3D	G3DSA:3.40.50.1110		3	166	1.8E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011421289.1	9d702a950db0c77800891046e6a0a7c6	222	SUPERFAMILY	SSF52266		5	165	2.5E-13	T	31-10-2018
+Chlamys_farreri_CFA|CF58035.10	547ce3bc28fcdc412960e601fb17ad96	202	CDD	cd00229	SGNH_hydrolase	7	174	1.5516E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF58035.10	547ce3bc28fcdc412960e601fb17ad96	202	SUPERFAMILY	SSF52266		4	173	7.66E-17	T	31-10-2018
+Chlamys_farreri_CFA|CF58035.10	547ce3bc28fcdc412960e601fb17ad96	202	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	27	172	1.3E-7	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Chlamys_farreri_CFA|CF58035.10	547ce3bc28fcdc412960e601fb17ad96	202	Gene3D	G3DSA:3.40.50.1110		2	175	1.9E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Capitella_teleta_CTE|ELU16085.1	ede71e3568bf85d6239b11bbb81053bc	263	SUPERFAMILY	SSF52266		150	251	5.16E-9	T	31-10-2018
+Capitella_teleta_CTE|ELU16085.1	ede71e3568bf85d6239b11bbb81053bc	263	Gene3D	G3DSA:3.40.50.1110		150	262	1.7E-6	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018445-T1	3f834fecc3bfd42679b9c6db4afa06b6	188	SUPERFAMILY	SSF52266		3	167	7.16E-13	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018445-T1	3f834fecc3bfd42679b9c6db4afa06b6	188	CDD	cd00229	SGNH_hydrolase	4	167	4.87826E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018445-T1	3f834fecc3bfd42679b9c6db4afa06b6	188	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	23	167	6.4E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018445-T1	3f834fecc3bfd42679b9c6db4afa06b6	188	Gene3D	G3DSA:3.40.50.1110		2	171	5.1E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF56299.1	06d997e317c9c51d36622e9d5f22cd73	177	Gene3D	G3DSA:3.40.50.1110		2	176	5.8E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF56299.1	06d997e317c9c51d36622e9d5f22cd73	177	SUPERFAMILY	SSF52266		3	168	7.66E-16	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_7661-0.4	378f039340da7ba7140fb1776620b7bf	211	SUPERFAMILY	SSF52266		4	183	4.5E-15	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_7661-0.4	378f039340da7ba7140fb1776620b7bf	211	Gene3D	G3DSA:3.40.50.1110		2	191	6.6E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_7661-0.4	378f039340da7ba7140fb1776620b7bf	211	CDD	cd00229	SGNH_hydrolase	24	171	1.8903E-8	T	31-10-2018
+Chlamys_farreri_CFA|CF29865.26	9f0fd27ca0ef2b181815a19adc40471f	200	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	21	173	1.1E-7	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Chlamys_farreri_CFA|CF29865.26	9f0fd27ca0ef2b181815a19adc40471f	200	SUPERFAMILY	SSF52266		3	173	4.66E-15	T	31-10-2018
+Chlamys_farreri_CFA|CF29865.26	9f0fd27ca0ef2b181815a19adc40471f	200	CDD	cd00229	SGNH_hydrolase	5	173	1.71617E-8	T	31-10-2018
+Chlamys_farreri_CFA|CF29865.26	9f0fd27ca0ef2b181815a19adc40471f	200	Gene3D	G3DSA:3.40.50.1110		2	175	5.8E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T13025	2e7195e62dee543852bbae500fd08e91	181	SUPERFAMILY	SSF52266		2	162	6.57E-13	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T13025	2e7195e62dee543852bbae500fd08e91	181	CDD	cd00229	SGNH_hydrolase	31	158	4.60606E-7	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T13025	2e7195e62dee543852bbae500fd08e91	181	Gene3D	G3DSA:3.40.50.1110		2	169	1.2E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T02186	97de40064999398f2fb6570976cd3511	198	Gene3D	G3DSA:3.40.50.1110		2	167	1.6E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T02186	97de40064999398f2fb6570976cd3511	198	CDD	cd00229	SGNH_hydrolase	25	168	3.05774E-5	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T02186	97de40064999398f2fb6570976cd3511	198	SUPERFAMILY	SSF52266		3	152	8.33E-14	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_39098-0.13	1d3b239d9b38846815857fe80d6e6d83	140	Gene3D	G3DSA:3.40.50.1110		3	135	2.7E-7	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_39098-0.13	1d3b239d9b38846815857fe80d6e6d83	140	SUPERFAMILY	SSF52266		16	133	7.83E-8	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_39098-0.13	1d3b239d9b38846815857fe80d6e6d83	140	CDD	cd00229	SGNH_hydrolase	8	116	0.00482604	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421631.1	eb1a7344656f7492903fa5483a79d389	205	CDD	cd00229	SGNH_hydrolase	6	165	7.60846E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421631.1	eb1a7344656f7492903fa5483a79d389	205	Gene3D	G3DSA:3.40.50.1110		3	166	3.3E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011421631.1	eb1a7344656f7492903fa5483a79d389	205	SUPERFAMILY	SSF52266		5	165	2.0E-12	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T11752	b814b9c987cd7936a04960b04658da62	205	Coils	Coil		123	143	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T11752	b814b9c987cd7936a04960b04658da62	205	Gene3D	G3DSA:3.40.50.1110		1	182	2.1E-17	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T11752	b814b9c987cd7936a04960b04658da62	205	CDD	cd00229	SGNH_hydrolase	6	178	1.88603E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T11752	b814b9c987cd7936a04960b04658da62	205	SUPERFAMILY	SSF52266		4	185	4.33E-19	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T11752	b814b9c987cd7936a04960b04658da62	205	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	54	176	5.6E-9	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Chlamys_farreri_CFA|CF49603.7	494e0b32c66078a39585e9b5958407b6	162	Gene3D	G3DSA:3.40.50.1110		2	162	1.2E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF49603.7	494e0b32c66078a39585e9b5958407b6	162	SUPERFAMILY	SSF52266		3	161	1.68E-13	T	31-10-2018
+Chlamys_farreri_CFA|CF49603.7	494e0b32c66078a39585e9b5958407b6	162	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	18	159	4.1E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17877-2.9	de192f2148bb05eccccc50cd6b1394fa	196	CDD	cd00229	SGNH_hydrolase	9	181	9.68389E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17877-2.9	de192f2148bb05eccccc50cd6b1394fa	196	SUPERFAMILY	SSF52266		5	183	9.71E-10	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17877-2.9	de192f2148bb05eccccc50cd6b1394fa	196	Gene3D	G3DSA:3.40.50.1110		2	188	2.3E-6	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF18079.1	a0bc5fb682796d3311806e8d04d48ca6	225	CDD	cd00229	SGNH_hydrolase	39	185	2.97155E-7	T	31-10-2018
+Chlamys_farreri_CFA|CF18079.1	a0bc5fb682796d3311806e8d04d48ca6	225	Gene3D	G3DSA:3.40.50.1110		2	197	1.9E-12	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF18079.1	a0bc5fb682796d3311806e8d04d48ca6	225	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	43	178	1.1E-7	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Chlamys_farreri_CFA|CF18079.1	a0bc5fb682796d3311806e8d04d48ca6	225	SUPERFAMILY	SSF52266		5	186	3.83E-15	T	31-10-2018
+Chlamys_farreri_CFA|CF11709.1	a7a98466e87d9334c752554d34d84b3b	177	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	29	159	6.5E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Chlamys_farreri_CFA|CF11709.1	a7a98466e87d9334c752554d34d84b3b	177	Gene3D	G3DSA:3.40.50.1110		2	176	8.7E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF11709.1	a7a98466e87d9334c752554d34d84b3b	177	SUPERFAMILY	SSF52266		3	168	1.37E-15	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_22350-0.0	c1b18ea8e53bcd639f4f94def5698c6a	202	CDD	cd00229	SGNH_hydrolase	10	175	3.81214E-6	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_22350-0.0	c1b18ea8e53bcd639f4f94def5698c6a	202	Gene3D	G3DSA:3.40.50.1110		2	180	1.0E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_22350-0.0	c1b18ea8e53bcd639f4f94def5698c6a	202	SUPERFAMILY	SSF52266		5	176	8.43E-11	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298785.1	d1cd00557852789120a49bf18abc1da0	196	CDD	cd00229	SGNH_hydrolase	64	165	1.00699E-5	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298785.1	d1cd00557852789120a49bf18abc1da0	196	Gene3D	G3DSA:3.40.50.1110		1	166	7.4E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_virginica_CVI|XP_022298785.1	d1cd00557852789120a49bf18abc1da0	196	SUPERFAMILY	SSF52266		5	165	9.49E-13	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40595-10.11	99923fd9de2a1f7fc5529d95b28396ec	240	SUPERFAMILY	SSF52266		2	101	1.3E-9	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40595-10.11	99923fd9de2a1f7fc5529d95b28396ec	240	MobiDBLite	mobidb-lite	consensus disorder prediction	155	193	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40595-10.11	99923fd9de2a1f7fc5529d95b28396ec	240	Gene3D	G3DSA:3.40.50.1110		1	107	1.9E-9	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF55873.1	2e5913f9f66f9a1df407bcb1cc7a2d8e	243	CDD	cd00229	SGNH_hydrolase	124	237	0.00823992	T	31-10-2018
+Chlamys_farreri_CFA|CF55873.1	2e5913f9f66f9a1df407bcb1cc7a2d8e	243	Gene3D	G3DSA:3.40.50.1110		57	239	5.5E-7	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF55873.1	2e5913f9f66f9a1df407bcb1cc7a2d8e	243	SUPERFAMILY	SSF52266		91	237	2.33E-9	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22037-0.15	ef7fb2c9f1797895636fe07e717025de	131	SUPERFAMILY	SSF52266		33	125	1.97E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF64279.34	9884c8461808bcdd989c8492f8f055d0	205	SUPERFAMILY	SSF52266		5	182	4.16E-17	T	31-10-2018
+Chlamys_farreri_CFA|CF64279.34	9884c8461808bcdd989c8492f8f055d0	205	Gene3D	G3DSA:3.40.50.1110		1	186	1.5E-15	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF64279.34	9884c8461808bcdd989c8492f8f055d0	205	CDD	cd00229	SGNH_hydrolase	6	178	3.56603E-9	T	31-10-2018
+Chlamys_farreri_CFA|CF64279.34	9884c8461808bcdd989c8492f8f055d0	205	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	53	176	1.1E-7	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40897-6.17	0619e181fd4a06624eeff7e7fa98bbbf	668	SUPERFAMILY	SSF52266		4	189	4.0E-12	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40897-6.17	0619e181fd4a06624eeff7e7fa98bbbf	668	Coils	Coil		664	668	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40897-6.17	0619e181fd4a06624eeff7e7fa98bbbf	668	CDD	cd00229	SGNH_hydrolase	9	182	3.88046E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40897-6.17	0619e181fd4a06624eeff7e7fa98bbbf	668	Gene3D	G3DSA:3.40.50.1110		1	192	9.5E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_40897-6.17	0619e181fd4a06624eeff7e7fa98bbbf	668	PANTHER	PTHR35558		308	555	1.4E-22	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421290.1	fa4d8ba77e7447750a61bdf08e649e7b	205	CDD	cd00229	SGNH_hydrolase	6	165	3.3826E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421290.1	fa4d8ba77e7447750a61bdf08e649e7b	205	SUPERFAMILY	SSF52266		5	165	1.83E-13	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011421290.1	fa4d8ba77e7447750a61bdf08e649e7b	205	Gene3D	G3DSA:3.40.50.1110		3	166	1.4E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF20341.6	2d3dba29ecda28eb140f7102cba0faf3	196	Gene3D	G3DSA:3.40.50.1110		1	186	1.4E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF20341.6	2d3dba29ecda28eb140f7102cba0faf3	196	CDD	cd00229	SGNH_hydrolase	6	178	1.55751E-7	T	31-10-2018
+Chlamys_farreri_CFA|CF20341.6	2d3dba29ecda28eb140f7102cba0faf3	196	SUPERFAMILY	SSF52266		3	185	4.0E-18	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T05356	e3d1458ac0c48df8b3750cc7a0024826	205	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	53	176	5.0E-9	T	31-10-2018	IPR001087	GDSL lipase/esterase	GO:0016788	
+Patinopecten_yessoensis_PYE|PY_T05356	e3d1458ac0c48df8b3750cc7a0024826	205	Coils	Coil		123	143	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T05356	e3d1458ac0c48df8b3750cc7a0024826	205	Gene3D	G3DSA:3.40.50.1110		1	182	7.5E-16	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T05356	e3d1458ac0c48df8b3750cc7a0024826	205	SUPERFAMILY	SSF52266		4	185	3.66E-18	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T05356	e3d1458ac0c48df8b3750cc7a0024826	205	CDD	cd00229	SGNH_hydrolase	6	178	8.11844E-10	T	31-10-2018
+Chlamys_farreri_CFA|CF59683.2	d03da41406ad779c222f384d02c80cf4	83	Gene3D	G3DSA:3.40.50.1110		1	82	4.2E-6	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF59683.2	d03da41406ad779c222f384d02c80cf4	83	SUPERFAMILY	SSF52266		3	77	4.16E-8	T	31-10-2018
+Chlamys_farreri_CFA|CF59683.2	d03da41406ad779c222f384d02c80cf4	83	CDD	cd00229	SGNH_hydrolase	6	82	1.1392E-4	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_5324-0.3	c61e5bd9b33271dcecf79f5b93e7fcbc	314	SUPERFAMILY	SSF52266		27	135	1.16E-5	T	31-10-2018
+Lottia_gigantea_LGI|XP_009059294.1	b8c02275a15e2ad8c4f8fb3b25a9a1dd	236	MobiDBLite	mobidb-lite	consensus disorder prediction	177	198	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009059294.1	b8c02275a15e2ad8c4f8fb3b25a9a1dd	236	SUPERFAMILY	SSF52266		18	170	3.05E-7	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62577-2.13	56a085a2de4480c228edc2dce87422d6	300	Gene3D	G3DSA:3.40.50.1110		1	171	4.9E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62577-2.13	56a085a2de4480c228edc2dce87422d6	300	SUPERFAMILY	SSF52266		4	146	3.66E-10	T	31-10-2018
+Chlamys_farreri_CFA|CF27151.3	5312c48f4e60c7eb11deb86502cbc2c7	174	SUPERFAMILY	SSF52266		2	165	7.99E-15	T	31-10-2018
+Chlamys_farreri_CFA|CF27151.3	5312c48f4e60c7eb11deb86502cbc2c7	174	Gene3D	G3DSA:3.40.50.1110		1	173	2.6E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF27151.3	5312c48f4e60c7eb11deb86502cbc2c7	174	CDD	cd00229	SGNH_hydrolase	4	165	2.58556E-9	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011453301.1	f4525479ca9108ca154d643c5fa12b8d	222	CDD	cd00229	SGNH_hydrolase	6	165	5.0379E-7	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011453301.1	f4525479ca9108ca154d643c5fa12b8d	222	Gene3D	G3DSA:3.40.50.1110		3	166	1.4E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Crassostrea_gigas_CGI|XP_011453301.1	f4525479ca9108ca154d643c5fa12b8d	222	SUPERFAMILY	SSF52266		5	165	2.0E-13	T	31-10-2018
+Chlamys_farreri_CFA|CF17139.4	2931142472a81771292fd6e8d03c1018	198	SUPERFAMILY	SSF52266		3	180	9.49E-18	T	31-10-2018
+Chlamys_farreri_CFA|CF17139.4	2931142472a81771292fd6e8d03c1018	198	Gene3D	G3DSA:3.40.50.1110		2	185	9.0E-16	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF17139.4	2931142472a81771292fd6e8d03c1018	198	CDD	cd00229	SGNH_hydrolase	4	180	5.76708E-8	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_56181-0.10	8120a4d801b64e615651551b3ba55c03	147	CDD	cd00229	SGNH_hydrolase	6	133	0.00163461	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_56181-0.10	8120a4d801b64e615651551b3ba55c03	147	Gene3D	G3DSA:3.40.50.1110		1	145	2.9E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_56181-0.10	8120a4d801b64e615651551b3ba55c03	147	SUPERFAMILY	SSF52266		3	131	3.83E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T09877	c08409264cc45a85c53722bc16365761	137	CDD	cd00229	SGNH_hydrolase	4	97	5.39979E-4	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T09877	c08409264cc45a85c53722bc16365761	137	SUPERFAMILY	SSF52266		3	101	4.5E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T09877	c08409264cc45a85c53722bc16365761	137	Gene3D	G3DSA:3.40.50.1110		2	120	6.3E-6	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Lottia_gigantea_LGI|XP_009049488.1	5bfeb48cb339f0d1bfc079f1182c2374	222	CDD	cd00229	SGNH_hydrolase	40	204	1.63075E-6	T	31-10-2018
+Lottia_gigantea_LGI|XP_009049488.1	5bfeb48cb339f0d1bfc079f1182c2374	222	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	49	205	6.3E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Lottia_gigantea_LGI|XP_009049488.1	5bfeb48cb339f0d1bfc079f1182c2374	222	SUPERFAMILY	SSF52266		28	216	2.14E-17	T	31-10-2018
+Lottia_gigantea_LGI|XP_009049488.1	5bfeb48cb339f0d1bfc079f1182c2374	222	Gene3D	G3DSA:3.40.50.1110		28	213	4.4E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19386-3.24	3b856ad5f8fc6f2548b7994f15c13f2a	215	MobiDBLite	mobidb-lite	consensus disorder prediction	103	148	-	T	31-10-2018
+Chlamys_farreri_CFA|CF54739.1	3fb4f7dd3ae4bd2a3ac1beb310da31b6	176	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	27	159	9.3E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Chlamys_farreri_CFA|CF54739.1	3fb4f7dd3ae4bd2a3ac1beb310da31b6	176	SUPERFAMILY	SSF52266		3	168	2.29E-15	T	31-10-2018
+Chlamys_farreri_CFA|CF54739.1	3fb4f7dd3ae4bd2a3ac1beb310da31b6	176	Gene3D	G3DSA:3.40.50.1110		2	175	1.8E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Notospermus_geniculatus_NGE|g21454.t1	c53ade7e58881619f945dd4987f7cf77	209	Gene3D	G3DSA:3.40.50.1110		1	192	1.5E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Notospermus_geniculatus_NGE|g21454.t1	c53ade7e58881619f945dd4987f7cf77	209	SUPERFAMILY	SSF52266		2	177	2.02E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g21454.t1	c53ade7e58881619f945dd4987f7cf77	209	CDD	cd00229	SGNH_hydrolase	3	184	2.59362E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13626-0.1	03a2eb3aa098fa7c0991c2b8b6201ad8	88	CDD	cd00229	SGNH_hydrolase	19	73	0.00581515	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_13626-0.1	03a2eb3aa098fa7c0991c2b8b6201ad8	88	SUPERFAMILY	SSF52266		2	84	6.83E-7	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_34292-0.2	9182896f77fdd2f86032001555ce76a5	210	CDD	cd00229	SGNH_hydrolase	7	174	1.78922E-5	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_34292-0.2	9182896f77fdd2f86032001555ce76a5	210	Gene3D	G3DSA:3.40.50.1110		1	182	3.0E-10	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_34292-0.2	9182896f77fdd2f86032001555ce76a5	210	SUPERFAMILY	SSF52266		4	181	4.28E-13	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11609-1.16	7a0fb5567e1216eec18a7c54a38e9870	228	MobiDBLite	mobidb-lite	consensus disorder prediction	93	118	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11609-1.16	7a0fb5567e1216eec18a7c54a38e9870	228	MobiDBLite	mobidb-lite	consensus disorder prediction	1	33	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T22088	afd7c3ec8f7d6f7c33aad045c6acf44c	150	SUPERFAMILY	SSF52266		2	109	6.28E-5	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T14982	1f1616849aa2f5ef8800e19cb4b3b9d8	187	SUPERFAMILY	SSF52266		2	180	6.33E-17	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T14982	1f1616849aa2f5ef8800e19cb4b3b9d8	187	Gene3D	G3DSA:3.40.50.1110		1	185	1.4E-13	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T14982	1f1616849aa2f5ef8800e19cb4b3b9d8	187	CDD	cd00229	SGNH_hydrolase	3	178	1.80582E-9	T	31-10-2018
+Chlamys_farreri_CFA|CF46459.1	043170d27ffad69f7f252edebff8e66a	168	SUPERFAMILY	SSF52266		28	156	1.12E-8	T	31-10-2018
+Chlamys_farreri_CFA|CF46459.1	043170d27ffad69f7f252edebff8e66a	168	CDD	cd00229	SGNH_hydrolase	17	146	6.06975E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF46459.1	043170d27ffad69f7f252edebff8e66a	168	Gene3D	G3DSA:3.40.50.1110		2	160	2.4E-7	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T04942	1f7dc5f9b33e429ec6c576957e3cb320	184	Gene3D	G3DSA:3.40.50.1110		2	156	1.9E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T04942	1f7dc5f9b33e429ec6c576957e3cb320	184	SUPERFAMILY	SSF52266		4	151	1.62E-11	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_45214-3.12	39e8e7a0faea9175a6125105061f1c46	142	Gene3D	G3DSA:3.40.50.1110		4	140	1.3E-5	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_45214-3.12	39e8e7a0faea9175a6125105061f1c46	142	SUPERFAMILY	SSF52266		5	135	9.83E-7	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T03095	b7c7ba55dafa8a03269446cb5b445f47	247	Gene3D	G3DSA:3.40.50.1110		1	154	1.1E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T03095	b7c7ba55dafa8a03269446cb5b445f47	247	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	2	137	3.4E-9	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Patinopecten_yessoensis_PYE|PY_T03095	b7c7ba55dafa8a03269446cb5b445f47	247	SUPERFAMILY	SSF52266		3	143	6.16E-14	T	31-10-2018
+Chlamys_farreri_CFA|CF42667.7	7f9e3ea0eb1f3ad37f4477cb7e07b3cd	204	Gene3D	G3DSA:3.40.50.1110		1	188	2.4E-14	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF42667.7	7f9e3ea0eb1f3ad37f4477cb7e07b3cd	204	CDD	cd00229	SGNH_hydrolase	6	180	9.91482E-7	T	31-10-2018
+Chlamys_farreri_CFA|CF42667.7	7f9e3ea0eb1f3ad37f4477cb7e07b3cd	204	SUPERFAMILY	SSF52266		4	187	4.5E-17	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_5989-0.0	6ec1e1410d301266e5d013dea0f44f99	235	SUPERFAMILY	SSF52266		6	187	2.83E-16	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_5989-0.0	6ec1e1410d301266e5d013dea0f44f99	235	Pfam	PF13472	GDSL-like Lipase/Acylhydrolase family	35	177	5.0E-8	T	31-10-2018	IPR013830	SGNH hydrolase-type esterase domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_5989-0.0	6ec1e1410d301266e5d013dea0f44f99	235	CDD	cd00229	SGNH_hydrolase	31	179	1.44119E-6	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_5989-0.0	6ec1e1410d301266e5d013dea0f44f99	235	Gene3D	G3DSA:3.40.50.1110		3	187	1.9E-15	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF54483.4	fce3f7f176fb169e4af7942d26f71f11	185	SUPERFAMILY	SSF52266		4	180	1.65E-14	T	31-10-2018
+Chlamys_farreri_CFA|CF54483.4	fce3f7f176fb169e4af7942d26f71f11	185	Gene3D	G3DSA:3.40.50.1110		2	181	8.0E-12	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26250-0.3	d23d3eb210df2f3b438b4224635dc257	246	Gene3D	G3DSA:3.40.50.1110		5	192	2.8E-7	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26250-0.3	d23d3eb210df2f3b438b4224635dc257	246	SUPERFAMILY	SSF52266		10	157	4.16E-9	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T00653	9465f28ab937e6e0deb29ac91192e5ff	168	Gene3D	G3DSA:3.40.50.1110		2	154	1.2E-8	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Patinopecten_yessoensis_PYE|PY_T00653	9465f28ab937e6e0deb29ac91192e5ff	168	SUPERFAMILY	SSF52266		5	153	9.16E-10	T	31-10-2018
+Phoronis_australis_PAU|g19876.t1	2b280591497a15725fed55a6c05cf5e0	190	SUPERFAMILY	SSF52266		5	179	5.13E-20	T	31-10-2018
+Phoronis_australis_PAU|g19876.t1	2b280591497a15725fed55a6c05cf5e0	190	Gene3D	G3DSA:3.40.50.1110		2	181	4.3E-19	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF64833.6	93ad76fa356bf3c54b83b82c8f334084	309	SUPERFAMILY	SSF52266		4	178	2.17E-16	T	31-10-2018
+Chlamys_farreri_CFA|CF64833.6	93ad76fa356bf3c54b83b82c8f334084	309	CDD	cd00229	SGNH_hydrolase	4	177	9.43334E-8	T	31-10-2018
+Chlamys_farreri_CFA|CF64833.6	93ad76fa356bf3c54b83b82c8f334084	309	MobiDBLite	mobidb-lite	consensus disorder prediction	230	261	-	T	31-10-2018
+Chlamys_farreri_CFA|CF64833.6	93ad76fa356bf3c54b83b82c8f334084	309	Gene3D	G3DSA:3.40.50.1110		2	183	1.9E-12	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF16261.3	063cdc7f9b9c61084c3191b3abc69146	162	Gene3D	G3DSA:3.40.50.1110		2	156	3.1E-5	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		
+Chlamys_farreri_CFA|CF16261.3	063cdc7f9b9c61084c3191b3abc69146	162	SUPERFAMILY	SSF52266		4	147	2.2E-8	T	31-10-2018
+Chlamys_farreri_CFA|CF16261.3	063cdc7f9b9c61084c3191b3abc69146	162	CDD	cd00229	SGNH_hydrolase	4	90	0.00861494	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020124-T1	2aa0a33a1b9a5aaa36c823e836e60016	93	SUPERFAMILY	SSF52266		8	73	9.89E-7	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T18608	9a2bbdb2b2aec8cb8aa0ddc14a2c7f1a	107	SUPERFAMILY	SSF52266		4	100	2.52E-6	T	31-10-2018
+Chlamys_farreri_CFA|CF53907.9	9104d3e115659a74a47443f27363ee8c	116	SUPERFAMILY	SSF52266		34	101	6.11E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033999-T1	9de9a112e778e63a4f941fa7190f8469	231	SUPERFAMILY	SSF52266		32	161	3.66E-11	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033999-T1	9de9a112e778e63a4f941fa7190f8469	231	Gene3D	G3DSA:3.40.50.1110		1	163	6.1E-11	T	31-10-2018	IPR036514	SGNH hydrolase superfamily		

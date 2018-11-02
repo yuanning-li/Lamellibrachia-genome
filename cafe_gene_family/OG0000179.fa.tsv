@@ -1,0 +1,1121 @@
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	MobiDBLite	mobidb-lite	consensus disorder prediction	382	435	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	MobiDBLite	mobidb-lite	consensus disorder prediction	27	56	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	PANTHER	PTHR10283		160	378	6.2E-74	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	MobiDBLite	mobidb-lite	consensus disorder prediction	80	157	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	170	368	2.2E-33	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	PANTHER	PTHR10283:SF66		160	378	6.2E-74	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029334-T1	df2cc3e42f29c43ff4020a4963f0ff2d	520	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	348	364	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA46632.1	d6ca0db5448da2957fc1109629a01b3c	754	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	75	735	2.7E-87	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA46632.1	d6ca0db5448da2957fc1109629a01b3c	754	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	681	697	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA46632.1	d6ca0db5448da2957fc1109629a01b3c	754	MobiDBLite	mobidb-lite	consensus disorder prediction	285	320	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA46632.1	d6ca0db5448da2957fc1109629a01b3c	754	PANTHER	PTHR10283		74	748	5.6E-175	T	30-10-2018
+Macrostomum_lignano_MLI|PAA46632.1	d6ca0db5448da2957fc1109629a01b3c	754	PANTHER	PTHR10283:SF82		74	748	5.6E-175	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47130.1	d6ca0db5448da2957fc1109629a01b3c	754	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	75	735	2.7E-87	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA47130.1	d6ca0db5448da2957fc1109629a01b3c	754	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	681	697	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA47130.1	d6ca0db5448da2957fc1109629a01b3c	754	MobiDBLite	mobidb-lite	consensus disorder prediction	285	320	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47130.1	d6ca0db5448da2957fc1109629a01b3c	754	PANTHER	PTHR10283		74	748	5.6E-175	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47130.1	d6ca0db5448da2957fc1109629a01b3c	754	PANTHER	PTHR10283:SF82		74	748	5.6E-175	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54025.1	c690c56472de42244c9584d0e204c50a	780	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	707	723	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA54025.1	c690c56472de42244c9584d0e204c50a	780	MobiDBLite	mobidb-lite	consensus disorder prediction	311	346	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54025.1	c690c56472de42244c9584d0e204c50a	780	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	101	761	3.0E-87	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA54025.1	c690c56472de42244c9584d0e204c50a	780	PANTHER	PTHR10283:SF82		100	774	6.9E-175	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54025.1	c690c56472de42244c9584d0e204c50a	780	PANTHER	PTHR10283		100	774	6.9E-175	T	30-10-2018
+Lingula_anatina_LAN|XP_023933349.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283:SF82		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933349.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933349.1	88609603061386a8cba6200f5bbb717a	569	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	544	1.2E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933349.1	88609603061386a8cba6200f5bbb717a	569	MobiDBLite	mobidb-lite	consensus disorder prediction	182	219	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933349.1	88609603061386a8cba6200f5bbb717a	569	CDD	cd01115	SLC13_permease	47	544	5.52164E-59	T	30-10-2018
+Lingula_anatina_LAN|XP_023933349.1	88609603061386a8cba6200f5bbb717a	569	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933347.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283:SF82		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933347.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933347.1	88609603061386a8cba6200f5bbb717a	569	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	544	1.2E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933347.1	88609603061386a8cba6200f5bbb717a	569	MobiDBLite	mobidb-lite	consensus disorder prediction	182	219	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933347.1	88609603061386a8cba6200f5bbb717a	569	CDD	cd01115	SLC13_permease	47	544	5.52164E-59	T	30-10-2018
+Lingula_anatina_LAN|XP_023933347.1	88609603061386a8cba6200f5bbb717a	569	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933344.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283:SF82		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933344.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933344.1	88609603061386a8cba6200f5bbb717a	569	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	544	1.2E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933344.1	88609603061386a8cba6200f5bbb717a	569	MobiDBLite	mobidb-lite	consensus disorder prediction	182	219	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933344.1	88609603061386a8cba6200f5bbb717a	569	CDD	cd01115	SLC13_permease	47	544	5.52164E-59	T	30-10-2018
+Lingula_anatina_LAN|XP_023933344.1	88609603061386a8cba6200f5bbb717a	569	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933341.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283:SF82		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933341.1	88609603061386a8cba6200f5bbb717a	569	PANTHER	PTHR10283		9	544	2.3E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_023933341.1	88609603061386a8cba6200f5bbb717a	569	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	544	1.2E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933341.1	88609603061386a8cba6200f5bbb717a	569	MobiDBLite	mobidb-lite	consensus disorder prediction	182	219	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933341.1	88609603061386a8cba6200f5bbb717a	569	CDD	cd01115	SLC13_permease	47	544	5.52164E-59	T	30-10-2018
+Lingula_anatina_LAN|XP_023933341.1	88609603061386a8cba6200f5bbb717a	569	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029327-T1	fd0222cb1cdec0d9ed9a716bdb360d75	674	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	460	651	2.3E-22	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029327-T1	fd0222cb1cdec0d9ed9a716bdb360d75	674	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	50	401	2.4E-52	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029327-T1	fd0222cb1cdec0d9ed9a716bdb360d75	674	PANTHER	PTHR10283:SF82		633	667	5.6E-152	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029327-T1	fd0222cb1cdec0d9ed9a716bdb360d75	674	PANTHER	PTHR10283		24	631	5.6E-152	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029327-T1	fd0222cb1cdec0d9ed9a716bdb360d75	674	PANTHER	PTHR10283		633	667	5.6E-152	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029327-T1	fd0222cb1cdec0d9ed9a716bdb360d75	674	PANTHER	PTHR10283:SF82		24	631	5.6E-152	T	30-10-2018
+Lingula_anatina_LAN|XP_013410629.1	daa935d9d393caafd1d911f547e679ef	522	PANTHER	PTHR10283		1	489	2.2E-189	T	30-10-2018
+Lingula_anatina_LAN|XP_013410629.1	daa935d9d393caafd1d911f547e679ef	522	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	478	2.3E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410629.1	daa935d9d393caafd1d911f547e679ef	522	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	425	441	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410629.1	daa935d9d393caafd1d911f547e679ef	522	CDD	cd01115	SLC13_permease	1	475	4.00154E-61	T	30-10-2018
+Lingula_anatina_LAN|XP_013410629.1	daa935d9d393caafd1d911f547e679ef	522	PANTHER	PTHR10283:SF82		1	489	2.2E-189	T	30-10-2018
+Macrostomum_lignano_MLI|PAA86249.1	322df8d654dc53b3bd32348a7cc01712	641	PANTHER	PTHR10283		21	623	7.3E-168	T	30-10-2018
+Macrostomum_lignano_MLI|PAA86249.1	322df8d654dc53b3bd32348a7cc01712	641	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	558	574	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA86249.1	322df8d654dc53b3bd32348a7cc01712	641	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	25	608	6.4E-85	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA86249.1	322df8d654dc53b3bd32348a7cc01712	641	CDD	cd01115	SLC13_permease	56	608	1.32695E-51	T	30-10-2018
+Diphania_pulex_DPU|EFX86421.1	cc848c1379c64c936c6e6d7dfe576eec	525	PANTHER	PTHR10283		8	524	1.8E-189	T	30-10-2018
+Diphania_pulex_DPU|EFX86421.1	cc848c1379c64c936c6e6d7dfe576eec	525	PANTHER	PTHR10283:SF82		8	524	1.8E-189	T	30-10-2018
+Diphania_pulex_DPU|EFX86421.1	cc848c1379c64c936c6e6d7dfe576eec	525	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	523	5.1E-90	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX86421.1	cc848c1379c64c936c6e6d7dfe576eec	525	CDD	cd01115	SLC13_permease	42	524	3.44236E-60	T	30-10-2018
+Capitella_teleta_CTE|ELU04585.1	08d2ceda42f55c94b23cc5c08e98c55d	588	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	20	570	1.8E-101	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU04585.1	08d2ceda42f55c94b23cc5c08e98c55d	588	CDD	cd01115	SLC13_permease	50	568	2.17204E-68	T	30-10-2018
+Capitella_teleta_CTE|ELU04585.1	08d2ceda42f55c94b23cc5c08e98c55d	588	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	519	535	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU04585.1	08d2ceda42f55c94b23cc5c08e98c55d	588	PANTHER	PTHR10283		14	581	8.6E-193	T	30-10-2018
+Capitella_teleta_CTE|ELU04585.1	08d2ceda42f55c94b23cc5c08e98c55d	588	PANTHER	PTHR10283:SF82		14	581	8.6E-193	T	30-10-2018
+Aplysia_californica_ACA|XP_012942314.1	9ca175e8567e29a7d13bb7c66414b63c	610	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	585	2.7E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012942314.1	9ca175e8567e29a7d13bb7c66414b63c	610	CDD	cd01115	SLC13_permease	43	580	6.40481E-60	T	30-10-2018
+Aplysia_californica_ACA|XP_012942314.1	9ca175e8567e29a7d13bb7c66414b63c	610	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	535	551	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012942314.1	9ca175e8567e29a7d13bb7c66414b63c	610	PANTHER	PTHR10283:SF82		11	595	1.4E-191	T	30-10-2018
+Aplysia_californica_ACA|XP_012942314.1	9ca175e8567e29a7d13bb7c66414b63c	610	PANTHER	PTHR10283		11	595	1.4E-191	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	MobiDBLite	mobidb-lite	consensus disorder prediction	412	443	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	PANTHER	PTHR10283:SF82		11	359	1.1E-160	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	PANTHER	PTHR10283		11	359	1.1E-160	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	PANTHER	PTHR10283		440	695	1.1E-160	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	PANTHER	PTHR10283:SF82		440	695	1.1E-160	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	344	3.6E-42	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_039864-T1	6785718df9c21046a4f370aa2fc95acc	709	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	448	689	3.3E-44	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_022022-T1	43a9bf7769d3e2879063cac6f33ddb45	597	PANTHER	PTHR10283:SF82		3	591	6.0E-191	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022022-T1	43a9bf7769d3e2879063cac6f33ddb45	597	MobiDBLite	mobidb-lite	consensus disorder prediction	181	201	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022022-T1	43a9bf7769d3e2879063cac6f33ddb45	597	CDD	cd01115	SLC13_permease	42	570	1.24595E-65	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022022-T1	43a9bf7769d3e2879063cac6f33ddb45	597	PANTHER	PTHR10283		3	591	6.0E-191	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022022-T1	43a9bf7769d3e2879063cac6f33ddb45	597	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	575	3.1E-92	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_022022-T1	43a9bf7769d3e2879063cac6f33ddb45	597	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	527	543	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_022271-T1	666bb8f3177ff63d378f9fd7296d3827	358	PANTHER	PTHR10283		8	357	1.2E-86	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022271-T1	666bb8f3177ff63d378f9fd7296d3827	358	PANTHER	PTHR10283:SF82		8	357	1.2E-86	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022271-T1	666bb8f3177ff63d378f9fd7296d3827	358	MobiDBLite	mobidb-lite	consensus disorder prediction	159	179	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022271-T1	666bb8f3177ff63d378f9fd7296d3827	358	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	358	1.7E-42	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA74563.1	10efc91be80712a08427f0a06613a8d3	641	PANTHER	PTHR10283		24	634	1.4E-169	T	30-10-2018
+Macrostomum_lignano_MLI|PAA74563.1	10efc91be80712a08427f0a06613a8d3	641	PANTHER	PTHR10283:SF82		24	634	1.4E-169	T	30-10-2018
+Macrostomum_lignano_MLI|PAA74563.1	10efc91be80712a08427f0a06613a8d3	641	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	558	574	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA74563.1	10efc91be80712a08427f0a06613a8d3	641	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	25	608	5.2E-85	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA74563.1	10efc91be80712a08427f0a06613a8d3	641	CDD	cd01115	SLC13_permease	56	608	6.93985E-52	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922619.1	664de433bbe503cd33176ff4f77fd510	352	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	339	3.2E-58	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_019922619.1	664de433bbe503cd33176ff4f77fd510	352	PANTHER	PTHR10283		11	341	5.4E-101	T	30-10-2018
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	CDD	cd01115	SLC13_permease	67	589	5.80594E-57	T	30-10-2018
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	43	590	1.4E-92	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	MobiDBLite	mobidb-lite	consensus disorder prediction	192	247	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	PANTHER	PTHR10283		35	617	3.6E-188	T	30-10-2018
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	PANTHER	PTHR10283:SF82		35	617	3.6E-188	T	30-10-2018
+Lingula_anatina_LAN|XP_013404115.1	5e5d2b2280be07f7677d7eb5d1bed4dc	628	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	539	555	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_038515-T1	a3bff34a2581281abcd1fe24cc0cec5b	286	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	102	272	2.6E-29	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_038515-T1	a3bff34a2581281abcd1fe24cc0cec5b	286	PANTHER	PTHR10283		90	274	5.0E-51	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038515-T1	a3bff34a2581281abcd1fe24cc0cec5b	286	PANTHER	PTHR10283:SF82		90	274	5.0E-51	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_13969-1.9	593a6237c93d4171ed7b3ebde78e0d80	603	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	577	4.6E-107	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_13969-1.9	593a6237c93d4171ed7b3ebde78e0d80	603	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	525	541	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_13969-1.9	593a6237c93d4171ed7b3ebde78e0d80	603	CDD	cd01115	SLC13_permease	44	566	1.72879E-69	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_13969-1.9	593a6237c93d4171ed7b3ebde78e0d80	603	PANTHER	PTHR10283		9	596	6.6E-201	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_13969-1.9	593a6237c93d4171ed7b3ebde78e0d80	603	PANTHER	PTHR10283:SF82		9	596	6.6E-201	T	30-10-2018
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	227	243	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	PANTHER	PTHR10283		1	112	2.1E-94	T	30-10-2018
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	PANTHER	PTHR10283:SF82		128	140	2.1E-94	T	30-10-2018
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	110	1.6E-11	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	141	281	7.5E-25	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	PANTHER	PTHR10283		141	294	2.1E-94	T	30-10-2018
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	PANTHER	PTHR10283		128	140	2.1E-94	T	30-10-2018
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	PANTHER	PTHR10283:SF82		1	112	2.1E-94	T	30-10-2018
+Lingula_anatina_LAN|XP_013393776.1	89dbeb94292c5176870e5d510fdfdeb3	320	PANTHER	PTHR10283:SF82		141	294	2.1E-94	T	30-10-2018
+Phoronis_australis_PAU|g5054.t1	3123b76ae164fd01a3d391ba0d37040b	639	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	558	574	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Phoronis_australis_PAU|g5054.t1	3123b76ae164fd01a3d391ba0d37040b	639	CDD	cd01115	SLC13_permease	47	598	7.14712E-64	T	30-10-2018
+Phoronis_australis_PAU|g5054.t1	3123b76ae164fd01a3d391ba0d37040b	639	PANTHER	PTHR10283		11	625	4.4E-203	T	30-10-2018
+Phoronis_australis_PAU|g5054.t1	3123b76ae164fd01a3d391ba0d37040b	639	PANTHER	PTHR10283:SF82		11	625	4.4E-203	T	30-10-2018
+Phoronis_australis_PAU|g5054.t1	3123b76ae164fd01a3d391ba0d37040b	639	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	613	1.1E-103	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16108	21d84b0725b715baa41e11d6c53eb1df	619	CDD	cd01115	SLC13_permease	43	569	3.74288E-71	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16108	21d84b0725b715baa41e11d6c53eb1df	619	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	580	3.8E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16108	21d84b0725b715baa41e11d6c53eb1df	619	PANTHER	PTHR10283		12	606	8.1E-205	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16108	21d84b0725b715baa41e11d6c53eb1df	619	PANTHER	PTHR10283:SF82		12	606	8.1E-205	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16108	21d84b0725b715baa41e11d6c53eb1df	619	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	526	542	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021353956.1	21d84b0725b715baa41e11d6c53eb1df	619	CDD	cd01115	SLC13_permease	43	569	3.74288E-71	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353956.1	21d84b0725b715baa41e11d6c53eb1df	619	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	580	3.8E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021353956.1	21d84b0725b715baa41e11d6c53eb1df	619	PANTHER	PTHR10283		12	606	8.1E-205	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353956.1	21d84b0725b715baa41e11d6c53eb1df	619	PANTHER	PTHR10283:SF82		12	606	8.1E-205	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353956.1	21d84b0725b715baa41e11d6c53eb1df	619	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	526	542	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_022020-T1	5287591b81269e0d2c6da057ed2e82d6	599	CDD	cd01115	SLC13_permease	45	566	1.57781E-69	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022020-T1	5287591b81269e0d2c6da057ed2e82d6	599	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	35	578	7.5E-93	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_022020-T1	5287591b81269e0d2c6da057ed2e82d6	599	PANTHER	PTHR10283:SF82		39	583	6.7E-188	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022020-T1	5287591b81269e0d2c6da057ed2e82d6	599	PANTHER	PTHR10283		39	583	6.7E-188	T	30-10-2018
+Aplysia_californica_ACA|XP_012942320.1	fb742bbe97ee48dd2d25c207a4cd530f	634	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	562	578	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012942320.1	fb742bbe97ee48dd2d25c207a4cd530f	634	CDD	cd01115	SLC13_permease	43	607	1.61553E-52	T	30-10-2018
+Aplysia_californica_ACA|XP_012942320.1	fb742bbe97ee48dd2d25c207a4cd530f	634	MobiDBLite	mobidb-lite	consensus disorder prediction	208	268	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012942320.1	fb742bbe97ee48dd2d25c207a4cd530f	634	PANTHER	PTHR10283:SF82		9	624	2.0E-172	T	30-10-2018
+Aplysia_californica_ACA|XP_012942320.1	fb742bbe97ee48dd2d25c207a4cd530f	634	PANTHER	PTHR10283		9	624	2.0E-172	T	30-10-2018
+Aplysia_californica_ACA|XP_012942320.1	fb742bbe97ee48dd2d25c207a4cd530f	634	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	10	612	6.6E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336915.1	ed3ee391d4a62808ab971deae95dc141	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	576	6.8E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336915.1	ed3ee391d4a62808ab971deae95dc141	614	CDD	cd01115	SLC13_permease	46	574	4.07835E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336915.1	ed3ee391d4a62808ab971deae95dc141	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	524	540	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336915.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336915.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283:SF82		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336918.1	ed3ee391d4a62808ab971deae95dc141	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	576	6.8E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336918.1	ed3ee391d4a62808ab971deae95dc141	614	CDD	cd01115	SLC13_permease	46	574	4.07835E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336918.1	ed3ee391d4a62808ab971deae95dc141	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	524	540	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336918.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336918.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283:SF82		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336917.1	ed3ee391d4a62808ab971deae95dc141	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	576	6.8E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336917.1	ed3ee391d4a62808ab971deae95dc141	614	CDD	cd01115	SLC13_permease	46	574	4.07835E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336917.1	ed3ee391d4a62808ab971deae95dc141	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	524	540	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336917.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336917.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283:SF82		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336916.1	ed3ee391d4a62808ab971deae95dc141	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	576	6.8E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336916.1	ed3ee391d4a62808ab971deae95dc141	614	CDD	cd01115	SLC13_permease	46	574	4.07835E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336916.1	ed3ee391d4a62808ab971deae95dc141	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	524	540	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336916.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336916.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283:SF82		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336919.1	ed3ee391d4a62808ab971deae95dc141	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	576	6.8E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336919.1	ed3ee391d4a62808ab971deae95dc141	614	CDD	cd01115	SLC13_permease	46	574	4.07835E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336919.1	ed3ee391d4a62808ab971deae95dc141	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	524	540	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022336919.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283		13	591	7.6E-177	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336919.1	ed3ee391d4a62808ab971deae95dc141	614	PANTHER	PTHR10283:SF82		13	591	7.6E-177	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790416.1	0cc1eaa15e5b8689b2243050fb115375	532	PANTHER	PTHR10283		9	33	4.8E-156	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790416.1	0cc1eaa15e5b8689b2243050fb115375	532	PANTHER	PTHR10283		36	527	4.8E-156	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790416.1	0cc1eaa15e5b8689b2243050fb115375	532	CDD	cd01115	SLC13_permease	35	502	4.92499E-55	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790416.1	0cc1eaa15e5b8689b2243050fb115375	532	PANTHER	PTHR10283:SF82		9	33	4.8E-156	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790416.1	0cc1eaa15e5b8689b2243050fb115375	532	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	35	506	9.7E-80	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Octopus_bimaculoides_OBI|XP_014790416.1	0cc1eaa15e5b8689b2243050fb115375	532	PANTHER	PTHR10283:SF82		36	527	4.8E-156	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922628.1	b0edd90ed3ebf4cf477566f809c39251	599	PANTHER	PTHR10283		12	575	1.1E-188	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922628.1	b0edd90ed3ebf4cf477566f809c39251	599	CDD	cd01115	SLC13_permease	42	548	5.95641E-55	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922628.1	b0edd90ed3ebf4cf477566f809c39251	599	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	565	4.6E-106	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_019922628.1	b0edd90ed3ebf4cf477566f809c39251	599	PANTHER	PTHR10283:SF82		12	575	1.1E-188	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011426797.1	b0edd90ed3ebf4cf477566f809c39251	599	PANTHER	PTHR10283		12	575	1.1E-188	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011426797.1	b0edd90ed3ebf4cf477566f809c39251	599	CDD	cd01115	SLC13_permease	42	548	5.95641E-55	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011426797.1	b0edd90ed3ebf4cf477566f809c39251	599	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	565	4.6E-106	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011426797.1	b0edd90ed3ebf4cf477566f809c39251	599	PANTHER	PTHR10283:SF82		12	575	1.1E-188	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011426796.1	b0edd90ed3ebf4cf477566f809c39251	599	PANTHER	PTHR10283		12	575	1.1E-188	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011426796.1	b0edd90ed3ebf4cf477566f809c39251	599	CDD	cd01115	SLC13_permease	42	548	5.95641E-55	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011426796.1	b0edd90ed3ebf4cf477566f809c39251	599	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	565	4.6E-106	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011426796.1	b0edd90ed3ebf4cf477566f809c39251	599	PANTHER	PTHR10283:SF82		12	575	1.1E-188	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	562	578	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	PANTHER	PTHR10283:SF82		130	290	4.1E-152	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	PANTHER	PTHR10283:SF82		313	628	4.1E-152	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	136	287	8.5E-28	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	315	616	7.6E-48	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	CDD	cd01115	SLC13_permease	168	616	1.43505E-57	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	MobiDBLite	mobidb-lite	consensus disorder prediction	11	42	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	PANTHER	PTHR10283		130	290	4.1E-152	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091641.1	3d87d21c3025b4d0197ab42645514623	637	PANTHER	PTHR10283		313	628	4.1E-152	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917055.1	1a1041389c0a6348d4673b7f53c1a56a	661	PANTHER	PTHR10283		51	649	5.4E-223	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917055.1	1a1041389c0a6348d4673b7f53c1a56a	661	PANTHER	PTHR10283:SF82		51	649	5.4E-223	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917055.1	1a1041389c0a6348d4673b7f53c1a56a	661	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	56	629	3.8E-115	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Exaiptasia_pallida_EPA|XP_020917055.1	1a1041389c0a6348d4673b7f53c1a56a	661	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	575	591	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Exaiptasia_pallida_EPA|XP_020917055.1	1a1041389c0a6348d4673b7f53c1a56a	661	CDD	cd01115	SLC13_permease	85	625	5.46071E-77	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917055.1	1a1041389c0a6348d4673b7f53c1a56a	661	Coils	Coil		198	225	-	T	30-10-2018
+Chlamys_farreri_CFA|CF59619.1	dfb0440f6d1e1caceec4a1e308063762	265	PANTHER	PTHR10283		23	202	1.8E-62	T	30-10-2018
+Chlamys_farreri_CFA|CF59619.1	dfb0440f6d1e1caceec4a1e308063762	265	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	30	179	1.2E-31	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF59619.1	dfb0440f6d1e1caceec4a1e308063762	265	PANTHER	PTHR10283:SF66		23	202	1.8E-62	T	30-10-2018
+Chlamys_farreri_CFA|CF59619.1	dfb0440f6d1e1caceec4a1e308063762	265	MobiDBLite	mobidb-lite	consensus disorder prediction	246	265	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009043643.1	efccf3e6076d58a2322bb8ec326aa062	563	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	7	540	2.9E-92	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009043643.1	efccf3e6076d58a2322bb8ec326aa062	563	PANTHER	PTHR10283:SF82		3	546	8.6E-197	T	30-10-2018
+Lottia_gigantea_LGI|XP_009043643.1	efccf3e6076d58a2322bb8ec326aa062	563	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	486	502	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009043643.1	efccf3e6076d58a2322bb8ec326aa062	563	CDD	cd01115	SLC13_permease	39	536	9.21265E-69	T	30-10-2018
+Lottia_gigantea_LGI|XP_009043643.1	efccf3e6076d58a2322bb8ec326aa062	563	PANTHER	PTHR10283		3	546	8.6E-197	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	254	270	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	PANTHER	PTHR10283		146	289	4.2E-70	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	PANTHER	PTHR10283		3	41	4.2E-70	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	PANTHER	PTHR10283:SF82		97	134	4.2E-70	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	PANTHER	PTHR10283:SF82		146	289	4.2E-70	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	PANTHER	PTHR10283:SF82		3	41	4.2E-70	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	4	44	1.7E-5	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	151	287	1.1E-33	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013064579.1	2bd09da9f34df8c5033a68cdec48ebc2	290	PANTHER	PTHR10283		97	134	4.2E-70	T	30-10-2018
+Chlamys_farreri_CFA|CF52873.2	bbb0abcee72c1e4ad970790c5bd62b3d	597	PANTHER	PTHR10283:SF82		15	587	9.8E-177	T	30-10-2018
+Chlamys_farreri_CFA|CF52873.2	bbb0abcee72c1e4ad970790c5bd62b3d	597	PANTHER	PTHR10283		15	587	9.8E-177	T	30-10-2018
+Chlamys_farreri_CFA|CF52873.2	bbb0abcee72c1e4ad970790c5bd62b3d	597	CDD	cd01115	SLC13_permease	49	559	1.6985E-65	T	30-10-2018
+Chlamys_farreri_CFA|CF52873.2	bbb0abcee72c1e4ad970790c5bd62b3d	597	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	20	560	3.1E-91	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF52873.2	bbb0abcee72c1e4ad970790c5bd62b3d	597	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	509	525	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_730364.1	e438f34653eff09d2f033690a30b6e0c	572	PANTHER	PTHR10283		20	561	1.0E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_730364.1	e438f34653eff09d2f033690a30b6e0c	572	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	495	511	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_730364.1	e438f34653eff09d2f033690a30b6e0c	572	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	26	548	1.2E-83	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_730364.1	e438f34653eff09d2f033690a30b6e0c	572	PANTHER	PTHR10283:SF82		20	561	1.0E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_730364.1	e438f34653eff09d2f033690a30b6e0c	572	CDD	cd01115	SLC13_permease	50	527	2.97655E-53	T	30-10-2018
+Drosophila_melanogaster_DME|NP_524150.1	e438f34653eff09d2f033690a30b6e0c	572	PANTHER	PTHR10283		20	561	1.0E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_524150.1	e438f34653eff09d2f033690a30b6e0c	572	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	495	511	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_524150.1	e438f34653eff09d2f033690a30b6e0c	572	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	26	548	1.2E-83	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_524150.1	e438f34653eff09d2f033690a30b6e0c	572	PANTHER	PTHR10283:SF82		20	561	1.0E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_524150.1	e438f34653eff09d2f033690a30b6e0c	572	CDD	cd01115	SLC13_permease	50	527	2.97655E-53	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001163465.1	e438f34653eff09d2f033690a30b6e0c	572	PANTHER	PTHR10283		20	561	1.0E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001163465.1	e438f34653eff09d2f033690a30b6e0c	572	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	495	511	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001163465.1	e438f34653eff09d2f033690a30b6e0c	572	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	26	548	1.2E-83	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001163465.1	e438f34653eff09d2f033690a30b6e0c	572	PANTHER	PTHR10283:SF82		20	561	1.0E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001163465.1	e438f34653eff09d2f033690a30b6e0c	572	CDD	cd01115	SLC13_permease	50	527	2.97655E-53	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029668.1	b99c15a42dbc83a111e18a3820dde290	614	PANTHER	PTHR10283:SF82		14	588	1.1E-200	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029668.1	b99c15a42dbc83a111e18a3820dde290	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	562	3.5E-101	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009029668.1	b99c15a42dbc83a111e18a3820dde290	614	CDD	cd01115	SLC13_permease	47	560	1.85655E-52	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029668.1	b99c15a42dbc83a111e18a3820dde290	614	PANTHER	PTHR10283		14	588	1.1E-200	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029668.1	b99c15a42dbc83a111e18a3820dde290	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	510	526	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	CDD	cd01115	SLC13_permease	420	912	2.61016E-69	T	30-10-2018
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	388	404	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	416	923	4.4E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	415	1.3E-58	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	CDD	cd01115	SLC13_permease	4	415	1.31611E-50	T	30-10-2018
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	PANTHER	PTHR10283		1	415	0.0	T	30-10-2018
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	PANTHER	PTHR10283		416	949	0.0	T	30-10-2018
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	PANTHER	PTHR10283:SF82		1	415	0.0	T	30-10-2018
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	PANTHER	PTHR10283:SF82		416	949	0.0	T	30-10-2018
+Chlamys_farreri_CFA|CF65015.22	874d164c437079450b215031c30cecf6	958	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	869	885	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011440239.2	97af295d7ac94e6807c0f7f0b6b5cd13	580	CDD	cd01115	SLC13_permease	56	547	4.76118E-71	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440239.2	97af295d7ac94e6807c0f7f0b6b5cd13	580	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	27	557	1.6E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011440239.2	97af295d7ac94e6807c0f7f0b6b5cd13	580	PANTHER	PTHR10283		23	577	7.5E-196	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440239.2	97af295d7ac94e6807c0f7f0b6b5cd13	580	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	503	519	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011440239.2	97af295d7ac94e6807c0f7f0b6b5cd13	580	PANTHER	PTHR10283:SF82		23	577	7.5E-196	T	30-10-2018
+Capitella_teleta_CTE|ELT88416.1	d3ed889932a6a1227d9807a426c9d3ad	550	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	3	527	6.0E-93	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT88416.1	d3ed889932a6a1227d9807a426c9d3ad	550	CDD	cd01115	SLC13_permease	31	519	2.50807E-67	T	30-10-2018
+Capitella_teleta_CTE|ELT88416.1	d3ed889932a6a1227d9807a426c9d3ad	550	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	475	491	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT88416.1	d3ed889932a6a1227d9807a426c9d3ad	550	PANTHER	PTHR10283:SF82		2	540	4.0E-178	T	30-10-2018
+Capitella_teleta_CTE|ELT88416.1	d3ed889932a6a1227d9807a426c9d3ad	550	PANTHER	PTHR10283		2	540	4.0E-178	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027201.1	15e1ff015046d86f15a44b6eca6979c1	562	PANTHER	PTHR10283:SF82		19	555	2.0E-144	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027201.1	15e1ff015046d86f15a44b6eca6979c1	562	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	489	505	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001027201.1	15e1ff015046d86f15a44b6eca6979c1	562	PANTHER	PTHR10283		19	555	2.0E-144	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027201.1	15e1ff015046d86f15a44b6eca6979c1	562	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	42	543	2.9E-61	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001027202.1	15e1ff015046d86f15a44b6eca6979c1	562	PANTHER	PTHR10283:SF82		19	555	2.0E-144	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027202.1	15e1ff015046d86f15a44b6eca6979c1	562	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	489	505	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001027202.1	15e1ff015046d86f15a44b6eca6979c1	562	PANTHER	PTHR10283		19	555	2.0E-144	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027202.1	15e1ff015046d86f15a44b6eca6979c1	562	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	42	543	2.9E-61	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T12178	7393693bc4705b7cfdce89bfa57a0324	323	PANTHER	PTHR10283:SF82		5	297	6.3E-95	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12178	7393693bc4705b7cfdce89bfa57a0324	323	PANTHER	PTHR10283		5	297	6.3E-95	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12178	7393693bc4705b7cfdce89bfa57a0324	323	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	47	272	5.9E-41	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T12178	7393693bc4705b7cfdce89bfa57a0324	323	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	7	38	1.0E-4	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009051653.1	72d8fff13e4c600c6299f5d7cb5571ff	570	PANTHER	PTHR10283:SF82		9	554	2.0E-185	T	30-10-2018
+Lottia_gigantea_LGI|XP_009051653.1	72d8fff13e4c600c6299f5d7cb5571ff	570	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	11	549	2.3E-103	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009051653.1	72d8fff13e4c600c6299f5d7cb5571ff	570	MobiDBLite	mobidb-lite	consensus disorder prediction	183	205	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009051653.1	72d8fff13e4c600c6299f5d7cb5571ff	570	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	495	511	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009051653.1	72d8fff13e4c600c6299f5d7cb5571ff	570	PANTHER	PTHR10283		9	554	2.0E-185	T	30-10-2018
+Lottia_gigantea_LGI|XP_009051653.1	72d8fff13e4c600c6299f5d7cb5571ff	570	CDD	cd01115	SLC13_permease	41	539	5.7283E-69	T	30-10-2018
+Lottia_gigantea_LGI|XP_009051654.1	d9e1c73dbddbd95223d8f81ebdda96ec	588	PANTHER	PTHR10283		9	573	4.4E-182	T	30-10-2018
+Lottia_gigantea_LGI|XP_009051654.1	d9e1c73dbddbd95223d8f81ebdda96ec	588	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	566	5.6E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009051654.1	d9e1c73dbddbd95223d8f81ebdda96ec	588	CDD	cd01115	SLC13_permease	43	551	5.00197E-61	T	30-10-2018
+Lottia_gigantea_LGI|XP_009051654.1	d9e1c73dbddbd95223d8f81ebdda96ec	588	PANTHER	PTHR10283:SF82		9	573	4.4E-182	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011431160.1	36f425e368877110130e3a1e39be46bc	318	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	22	291	2.7E-47	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011431160.1	36f425e368877110130e3a1e39be46bc	318	PANTHER	PTHR10283:SF82		12	318	1.0E-92	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011431160.1	36f425e368877110130e3a1e39be46bc	318	PANTHER	PTHR10283		12	318	1.0E-92	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091670.1	628029bbe64b64da34d98b98b92c8224	268	PANTHER	PTHR10283		2	253	7.3E-81	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091670.1	628029bbe64b64da34d98b98b92c8224	268	PANTHER	PTHR10283:SF109		2	253	7.3E-81	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091670.1	628029bbe64b64da34d98b98b92c8224	268	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	246	4.0E-44	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091670.1	628029bbe64b64da34d98b98b92c8224	268	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	192	208	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022341107.1	4fad5e88efe0ddfb3af7126fb876c29e	581	CDD	cd01115	SLC13_permease	56	548	3.57735E-72	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022341107.1	4fad5e88efe0ddfb3af7126fb876c29e	581	MobiDBLite	mobidb-lite	consensus disorder prediction	195	216	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022341107.1	4fad5e88efe0ddfb3af7126fb876c29e	581	PANTHER	PTHR10283		24	571	3.9E-196	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022341107.1	4fad5e88efe0ddfb3af7126fb876c29e	581	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	27	558	4.1E-100	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022341107.1	4fad5e88efe0ddfb3af7126fb876c29e	581	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	504	520	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022341107.1	4fad5e88efe0ddfb3af7126fb876c29e	581	PANTHER	PTHR10283:SF82		24	571	3.9E-196	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029321-T1	620786c53745bf0a5f8bc4ca263ebf04	595	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	502	518	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029321-T1	620786c53745bf0a5f8bc4ca263ebf04	595	PANTHER	PTHR10283		2	577	1.3E-195	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029321-T1	620786c53745bf0a5f8bc4ca263ebf04	595	PANTHER	PTHR10283:SF66		2	577	1.3E-195	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029321-T1	620786c53745bf0a5f8bc4ca263ebf04	595	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	552	6.9E-105	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029321-T1	620786c53745bf0a5f8bc4ca263ebf04	595	CDD	cd01115	SLC13_permease	15	543	4.50058E-63	T	30-10-2018
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	PANTHER	PTHR10283		212	516	1.7E-158	T	30-10-2018
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	PANTHER	PTHR10283		3	179	1.7E-158	T	30-10-2018
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	PANTHER	PTHR10283:SF82		212	516	1.7E-158	T	30-10-2018
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	PANTHER	PTHR10283:SF82		3	179	1.7E-158	T	30-10-2018
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	CDD	cd01115	SLC13_permease	6	499	1.19285E-55	T	30-10-2018
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	213	508	6.8E-58	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT88417.1	b1da433b29d36eea2a262fc4e45f4cc1	526	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	4	131	2.1E-29	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	PANTHER	PTHR10283:SF82		647	1240	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	CDD	cd01115	SLC13_permease	676	1204	2.02435E-64	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	CDD	cd01115	SLC13_permease	50	590	8.32397E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	652	1209	1.5E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	21	594	3.0E-97	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	206	239	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	MobiDBLite	mobidb-lite	consensus disorder prediction	836	855	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	PANTHER	PTHR10283		647	1240	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	PANTHER	PTHR10283		21	601	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	PANTHER	PTHR10283:SF82		21	601	0.0	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022343964.1	68127f0bc8e17b014787541e75b530c3	1291	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	1154	1170	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF64101.2	0c51b84775b86a941605bff3a130a49a	524	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	473	7.8E-76	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF64101.2	0c51b84775b86a941605bff3a130a49a	524	PANTHER	PTHR10283		1	498	5.6E-147	T	30-10-2018
+Chlamys_farreri_CFA|CF64101.2	0c51b84775b86a941605bff3a130a49a	524	PANTHER	PTHR10283:SF82		1	498	5.6E-147	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22771-0.27	c13fc6336c286da94a732216f36d11bd	344	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	265	281	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22771-0.27	c13fc6336c286da94a732216f36d11bd	344	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	21	319	8.0E-55	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22771-0.27	c13fc6336c286da94a732216f36d11bd	344	PANTHER	PTHR10283:SF82		20	334	1.8E-102	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22771-0.27	c13fc6336c286da94a732216f36d11bd	344	PANTHER	PTHR10283		20	334	1.8E-102	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17690-0.5	ce0d77987dc3b2d93166e1856b3f6a52	384	PANTHER	PTHR10283		6	371	3.4E-123	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17690-0.5	ce0d77987dc3b2d93166e1856b3f6a52	384	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	360	2.4E-64	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_17690-0.5	ce0d77987dc3b2d93166e1856b3f6a52	384	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	305	321	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_17690-0.5	ce0d77987dc3b2d93166e1856b3f6a52	384	PANTHER	PTHR10283:SF82		6	371	3.4E-123	T	30-10-2018
+Macrostomum_lignano_MLI|PAA77132.1	8d67df2e533311a3c33d9f98c7627787	642	PANTHER	PTHR10283:SF82		6	636	7.8E-177	T	30-10-2018
+Macrostomum_lignano_MLI|PAA77132.1	8d67df2e533311a3c33d9f98c7627787	642	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	12	621	1.5E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA77132.1	8d67df2e533311a3c33d9f98c7627787	642	PANTHER	PTHR10283		6	636	7.8E-177	T	30-10-2018
+Macrostomum_lignano_MLI|PAA77132.1	8d67df2e533311a3c33d9f98c7627787	642	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	567	583	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_14779-0.9	68cad5e6c39452882c3705f18df3394e	548	CDD	cd01115	SLC13_permease	2	525	6.66661E-57	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_14779-0.9	68cad5e6c39452882c3705f18df3394e	548	PANTHER	PTHR10283:SF82		2	540	2.7E-180	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_14779-0.9	68cad5e6c39452882c3705f18df3394e	548	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	530	1.1E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_14779-0.9	68cad5e6c39452882c3705f18df3394e	548	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	475	491	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_14779-0.9	68cad5e6c39452882c3705f18df3394e	548	PANTHER	PTHR10283		2	540	2.7E-180	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_43983-3.19	cd51b876a80b2dc74d9201124581064c	79	PANTHER	PTHR10283		1	79	4.1E-28	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_43983-3.19	cd51b876a80b2dc74d9201124581064c	79	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	77	2.1E-14	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_43983-3.19	cd51b876a80b2dc74d9201124581064c	79	PANTHER	PTHR10283:SF82		1	79	4.1E-28	T	30-10-2018
+Capitella_teleta_CTE|ELU09654.1	77b68ffdb5f6e6366758e5da7915fd89	158	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	146	9.8E-29	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU09654.1	77b68ffdb5f6e6366758e5da7915fd89	158	PANTHER	PTHR10283		8	146	3.8E-58	T	30-10-2018
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	PANTHER	PTHR10283:SF82		29	550	7.6E-180	T	30-10-2018
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	484	500	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	MobiDBLite	mobidb-lite	consensus disorder prediction	208	232	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	PANTHER	PTHR10283		29	550	7.6E-180	T	30-10-2018
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	32	190	5.2E-35	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	248	537	6.0E-59	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Notospermus_geniculatus_NGE|g14616.t1	2b031fe03805501188d0233734b853be	561	CDD	cd01115	SLC13_permease	61	534	2.03975E-62	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.19	83084692e749f93ea05110f01e9a4d75	616	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	23	574	4.0E-79	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.19	83084692e749f93ea05110f01e9a4d75	616	PANTHER	PTHR10283:SF82		18	599	7.1E-165	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.19	83084692e749f93ea05110f01e9a4d75	616	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	519	535	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.19	83084692e749f93ea05110f01e9a4d75	616	CDD	cd01115	SLC13_permease	48	569	1.76731E-48	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.19	83084692e749f93ea05110f01e9a4d75	616	PANTHER	PTHR10283		18	599	7.1E-165	T	30-10-2018
+Chlamys_farreri_CFA|CF38035.5.1	b723c67b5b29bd5c6c6db4c9253e793e	591	PANTHER	PTHR10283		6	582	1.2E-182	T	30-10-2018
+Chlamys_farreri_CFA|CF38035.5.1	b723c67b5b29bd5c6c6db4c9253e793e	591	MobiDBLite	mobidb-lite	consensus disorder prediction	201	220	-	T	30-10-2018
+Chlamys_farreri_CFA|CF38035.5.1	b723c67b5b29bd5c6c6db4c9253e793e	591	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF38035.5.1	b723c67b5b29bd5c6c6db4c9253e793e	591	PANTHER	PTHR10283:SF82		6	582	1.2E-182	T	30-10-2018
+Chlamys_farreri_CFA|CF38035.5.1	b723c67b5b29bd5c6c6db4c9253e793e	591	CDD	cd01115	SLC13_permease	38	558	3.95697E-65	T	30-10-2018
+Chlamys_farreri_CFA|CF38035.5.1	b723c67b5b29bd5c6c6db4c9253e793e	591	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	565	8.5E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_005113448.2	942d6d5f15744d6cad1976d3c42a93e8	198	PANTHER	PTHR10283		7	169	7.4E-56	T	30-10-2018
+Aplysia_californica_ACA|XP_005113448.2	942d6d5f15744d6cad1976d3c42a93e8	198	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	27	168	4.2E-29	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410628.1	5d61f02cf6a80ff14da4d17a27d83fb0	635	PANTHER	PTHR10283		14	602	3.7E-218	T	30-10-2018
+Lingula_anatina_LAN|XP_013410628.1	5d61f02cf6a80ff14da4d17a27d83fb0	635	CDD	cd01115	SLC13_permease	68	588	1.63691E-72	T	30-10-2018
+Lingula_anatina_LAN|XP_013410628.1	5d61f02cf6a80ff14da4d17a27d83fb0	635	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	56	591	2.7E-111	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410628.1	5d61f02cf6a80ff14da4d17a27d83fb0	635	PANTHER	PTHR10283:SF82		14	602	3.7E-218	T	30-10-2018
+Lingula_anatina_LAN|XP_013410628.1	5d61f02cf6a80ff14da4d17a27d83fb0	635	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	538	554	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.13	67875e1ea466c5941024b50cf905e425	609	PANTHER	PTHR10283:SF82		16	596	1.7E-178	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.13	67875e1ea466c5941024b50cf905e425	609	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	512	528	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.13	67875e1ea466c5941024b50cf905e425	609	MobiDBLite	mobidb-lite	consensus disorder prediction	195	215	-	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.13	67875e1ea466c5941024b50cf905e425	609	PANTHER	PTHR10283		16	596	1.7E-178	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.13	67875e1ea466c5941024b50cf905e425	609	CDD	cd01115	SLC13_permease	43	562	1.99815E-56	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.13	67875e1ea466c5941024b50cf905e425	609	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	567	5.5E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425741.1	d557355100cd1d345138c5c781cb3826	632	PANTHER	PTHR10283		19	605	9.0E-180	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425741.1	d557355100cd1d345138c5c781cb3826	632	CDD	cd01115	SLC13_permease	49	591	4.07705E-66	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425741.1	d557355100cd1d345138c5c781cb3826	632	MobiDBLite	mobidb-lite	consensus disorder prediction	205	240	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425741.1	d557355100cd1d345138c5c781cb3826	632	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	20	595	1.4E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425741.1	d557355100cd1d345138c5c781cb3826	632	PANTHER	PTHR10283:SF82		19	605	9.0E-180	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.01	3ba1ee96a1fb985b62f6d7010f088400	168	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	3	132	5.3E-21	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.000332.01	3ba1ee96a1fb985b62f6d7010f088400	168	MobiDBLite	mobidb-lite	consensus disorder prediction	137	168	-	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.01	3ba1ee96a1fb985b62f6d7010f088400	168	PANTHER	PTHR10283		2	157	3.1E-46	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.01	3ba1ee96a1fb985b62f6d7010f088400	168	PANTHER	PTHR10283:SF82		2	157	3.1E-46	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	PANTHER	PTHR10283:SF82		615	802	7.3E-162	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	SUPERFAMILY	SSF57716		426	471	8.13E-5	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	623	782	3.4E-28	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	384	1.2E-47	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	727	743	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	PANTHER	PTHR10283:SF82		14	418	7.3E-162	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	Pfam	PF05485	THAP domain	425	463	2.2E-5	T	30-10-2018	IPR006612	THAP-type zinc finger	GO:0003676	
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	PANTHER	PTHR10283		615	802	7.3E-162	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	PANTHER	PTHR10283		14	418	7.3E-162	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377597.1	2e17433af5383847e5012bd6d7af716e	824	Gene3D	G3DSA:3.30.40.180		424	470	4.6E-7	T	30-10-2018	IPR038441	THAP-type zinc finger superfamily		
+Crassostrea_gigas_CGI|XP_011425740.1	062a000f448baef158bba29f2fa6daed	632	CDD	cd01115	SLC13_permease	49	591	4.514E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425740.1	062a000f448baef158bba29f2fa6daed	632	PANTHER	PTHR10283:SF82		19	603	1.2E-178	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425740.1	062a000f448baef158bba29f2fa6daed	632	MobiDBLite	mobidb-lite	consensus disorder prediction	205	240	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425740.1	062a000f448baef158bba29f2fa6daed	632	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	20	595	2.4E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425740.1	062a000f448baef158bba29f2fa6daed	632	PANTHER	PTHR10283		19	603	1.2E-178	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029330-T1	f419f0198f0347eef789cef3c0f4a5b8	622	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	535	551	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029330-T1	f419f0198f0347eef789cef3c0f4a5b8	622	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	3	557	4.9E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029330-T1	f419f0198f0347eef789cef3c0f4a5b8	622	PANTHER	PTHR10283		3	563	3.9E-163	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029330-T1	f419f0198f0347eef789cef3c0f4a5b8	622	PANTHER	PTHR10283:SF82		3	563	3.9E-163	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029330-T1	f419f0198f0347eef789cef3c0f4a5b8	622	CDD	cd01115	SLC13_permease	22	563	7.25106E-55	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378263.1	79f5dcd62798c0fb7b823bc981e641e1	687	PANTHER	PTHR10283:SF82		70	672	1.2E-184	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378263.1	79f5dcd62798c0fb7b823bc981e641e1	687	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	69	650	6.1E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378263.1	79f5dcd62798c0fb7b823bc981e641e1	687	CDD	cd01115	SLC13_permease	98	647	1.1489E-59	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378263.1	79f5dcd62798c0fb7b823bc981e641e1	687	PANTHER	PTHR10283		70	672	1.2E-184	T	30-10-2018
+Phoronis_australis_PAU|g1338.t1	7d1c90c9e0816b01ad7c5d34eabe972c	244	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	4	241	3.7E-44	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Phoronis_australis_PAU|g1338.t1	7d1c90c9e0816b01ad7c5d34eabe972c	244	PANTHER	PTHR10283		4	242	2.2E-90	T	30-10-2018
+Phoronis_australis_PAU|g1338.t1	7d1c90c9e0816b01ad7c5d34eabe972c	244	PANTHER	PTHR10283:SF109		4	242	2.2E-90	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022023-T1	e3a4e10c2508cce798f143ff403a3617	123	PANTHER	PTHR10283		3	123	9.6E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022023-T1	e3a4e10c2508cce798f143ff403a3617	123	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	120	2.0E-21	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_022023-T1	e3a4e10c2508cce798f143ff403a3617	123	PANTHER	PTHR10283:SF82		3	123	9.6E-40	T	30-10-2018
+Aplysia_californica_ACA|XP_012942313.1	cdebe6e917d5c1f43b78b91547ddb442	619	MobiDBLite	mobidb-lite	consensus disorder prediction	172	260	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012942313.1	cdebe6e917d5c1f43b78b91547ddb442	619	CDD	cd01115	SLC13_permease	46	594	1.76013E-60	T	30-10-2018
+Aplysia_californica_ACA|XP_012942313.1	cdebe6e917d5c1f43b78b91547ddb442	619	PANTHER	PTHR10283		13	607	1.7E-178	T	30-10-2018
+Aplysia_californica_ACA|XP_012942313.1	cdebe6e917d5c1f43b78b91547ddb442	619	PANTHER	PTHR10283:SF82		13	607	1.7E-178	T	30-10-2018
+Aplysia_californica_ACA|XP_012942313.1	cdebe6e917d5c1f43b78b91547ddb442	619	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	593	6.5E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012942313.1	cdebe6e917d5c1f43b78b91547ddb442	619	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	544	560	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16689	38db22419b6fcfa0f6b5cadc6c936040	616	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	528	544	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16689	38db22419b6fcfa0f6b5cadc6c936040	616	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	19	579	2.1E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16689	38db22419b6fcfa0f6b5cadc6c936040	616	PANTHER	PTHR10283:SF82		15	595	3.3E-179	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16689	38db22419b6fcfa0f6b5cadc6c936040	616	CDD	cd01115	SLC13_permease	49	578	3.64091E-63	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16689	38db22419b6fcfa0f6b5cadc6c936040	616	PANTHER	PTHR10283		15	595	3.3E-179	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16689	38db22419b6fcfa0f6b5cadc6c936040	616	MobiDBLite	mobidb-lite	consensus disorder prediction	177	200	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377622.1	38db22419b6fcfa0f6b5cadc6c936040	616	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	528	544	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377622.1	38db22419b6fcfa0f6b5cadc6c936040	616	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	19	579	2.1E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377622.1	38db22419b6fcfa0f6b5cadc6c936040	616	PANTHER	PTHR10283:SF82		15	595	3.3E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377622.1	38db22419b6fcfa0f6b5cadc6c936040	616	CDD	cd01115	SLC13_permease	49	578	3.64091E-63	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377622.1	38db22419b6fcfa0f6b5cadc6c936040	616	PANTHER	PTHR10283		15	595	3.3E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377622.1	38db22419b6fcfa0f6b5cadc6c936040	616	MobiDBLite	mobidb-lite	consensus disorder prediction	177	200	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378261.1	82029e2337dc72443926d442c6215570	708	PANTHER	PTHR10283		90	693	9.9E-184	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378261.1	82029e2337dc72443926d442c6215570	708	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	89	671	6.2E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378261.1	82029e2337dc72443926d442c6215570	708	PANTHER	PTHR10283:SF82		90	693	9.9E-184	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378261.1	82029e2337dc72443926d442c6215570	708	CDD	cd01115	SLC13_permease	118	668	2.43627E-58	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377607.1	de083e3b89b65cf7fa9592ac906c894c	611	CDD	cd01115	SLC13_permease	43	564	3.71369E-58	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377607.1	de083e3b89b65cf7fa9592ac906c894c	611	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	569	1.4E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377607.1	de083e3b89b65cf7fa9592ac906c894c	611	PANTHER	PTHR10283		17	587	2.2E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377607.1	de083e3b89b65cf7fa9592ac906c894c	611	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	514	530	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377607.1	de083e3b89b65cf7fa9592ac906c894c	611	PANTHER	PTHR10283:SF82		17	587	2.2E-179	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T23693	de083e3b89b65cf7fa9592ac906c894c	611	CDD	cd01115	SLC13_permease	43	564	3.71369E-58	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T23693	de083e3b89b65cf7fa9592ac906c894c	611	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	569	1.4E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T23693	de083e3b89b65cf7fa9592ac906c894c	611	PANTHER	PTHR10283		17	587	2.2E-179	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T23693	de083e3b89b65cf7fa9592ac906c894c	611	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	514	530	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T23693	de083e3b89b65cf7fa9592ac906c894c	611	PANTHER	PTHR10283:SF82		17	587	2.2E-179	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425737.1	0b7d81206bb743d7fa875be62950d246	658	CDD	cd01115	SLC13_permease	43	570	2.31157E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425737.1	0b7d81206bb743d7fa875be62950d246	658	PANTHER	PTHR10283:SF82		19	602	5.3E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425737.1	0b7d81206bb743d7fa875be62950d246	658	PANTHER	PTHR10283		19	602	5.3E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425737.1	0b7d81206bb743d7fa875be62950d246	658	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	574	2.9E-94	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425737.1	0b7d81206bb743d7fa875be62950d246	658	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	520	536	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425737.1	0b7d81206bb743d7fa875be62950d246	658	MobiDBLite	mobidb-lite	consensus disorder prediction	170	222	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378259.1	ca886d35c30bb68174cbe1e09069f937	709	PANTHER	PTHR10283:SF82		90	694	9.0E-184	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378259.1	ca886d35c30bb68174cbe1e09069f937	709	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	89	672	7.7E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378259.1	ca886d35c30bb68174cbe1e09069f937	709	CDD	cd01115	SLC13_permease	118	669	4.11571E-58	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378259.1	ca886d35c30bb68174cbe1e09069f937	709	PANTHER	PTHR10283		90	694	9.0E-184	T	30-10-2018
+Phoronis_australis_PAU|g1087.t1	7d1a4a3faf47f6936b66c6c1d7c658fc	648	PANTHER	PTHR10283		16	623	6.5E-214	T	30-10-2018
+Phoronis_australis_PAU|g1087.t1	7d1a4a3faf47f6936b66c6c1d7c658fc	648	PANTHER	PTHR10283:SF82		16	623	6.5E-214	T	30-10-2018
+Phoronis_australis_PAU|g1087.t1	7d1a4a3faf47f6936b66c6c1d7c658fc	648	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	550	566	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Phoronis_australis_PAU|g1087.t1	7d1a4a3faf47f6936b66c6c1d7c658fc	648	CDD	cd01115	SLC13_permease	48	594	3.94525E-61	T	30-10-2018
+Phoronis_australis_PAU|g1087.t1	7d1a4a3faf47f6936b66c6c1d7c658fc	648	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	602	2.9E-106	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16289	52b5fdfe3a69a31a9f5da10d57a3a63f	217	PANTHER	PTHR10283		2	208	1.4E-67	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16289	52b5fdfe3a69a31a9f5da10d57a3a63f	217	PANTHER	PTHR10283:SF82		2	208	1.4E-67	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16289	52b5fdfe3a69a31a9f5da10d57a3a63f	217	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	141	157	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16289	52b5fdfe3a69a31a9f5da10d57a3a63f	217	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	190	2.3E-37	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF4511.1	5fded0d4ac72fb3d9e02ba8cbf636468	119	PANTHER	PTHR10283:SF66		1	64	1.6E-17	T	30-10-2018
+Chlamys_farreri_CFA|CF4511.1	5fded0d4ac72fb3d9e02ba8cbf636468	119	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	37	3.9E-6	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF4511.1	5fded0d4ac72fb3d9e02ba8cbf636468	119	PANTHER	PTHR10283		1	64	1.6E-17	T	30-10-2018
+Chlamys_farreri_CFA|CF4511.1	5fded0d4ac72fb3d9e02ba8cbf636468	119	MobiDBLite	mobidb-lite	consensus disorder prediction	98	119	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019925964.1	050198c3b554b3de74b695a5ca2f965a	620	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	582	1.3E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_019925964.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019925964.1	050198c3b554b3de74b695a5ca2f965a	620	CDD	cd01115	SLC13_permease	46	579	8.41747E-68	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019925964.1	050198c3b554b3de74b695a5ca2f965a	620	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	530	546	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_019925964.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283:SF82		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438101.1	050198c3b554b3de74b695a5ca2f965a	620	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	582	1.3E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438101.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438101.1	050198c3b554b3de74b695a5ca2f965a	620	CDD	cd01115	SLC13_permease	46	579	8.41747E-68	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438101.1	050198c3b554b3de74b695a5ca2f965a	620	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	530	546	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438101.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283:SF82		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438102.1	050198c3b554b3de74b695a5ca2f965a	620	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	582	1.3E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438102.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438102.1	050198c3b554b3de74b695a5ca2f965a	620	CDD	cd01115	SLC13_permease	46	579	8.41747E-68	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438102.1	050198c3b554b3de74b695a5ca2f965a	620	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	530	546	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438102.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283:SF82		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438100.1	050198c3b554b3de74b695a5ca2f965a	620	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	582	1.3E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438100.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438100.1	050198c3b554b3de74b695a5ca2f965a	620	CDD	cd01115	SLC13_permease	46	579	8.41747E-68	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438100.1	050198c3b554b3de74b695a5ca2f965a	620	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	530	546	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438100.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283:SF82		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438103.1	050198c3b554b3de74b695a5ca2f965a	620	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	582	1.3E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438103.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283		13	597	1.2E-181	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438103.1	050198c3b554b3de74b695a5ca2f965a	620	CDD	cd01115	SLC13_permease	46	579	8.41747E-68	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011438103.1	050198c3b554b3de74b695a5ca2f965a	620	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	530	546	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011438103.1	050198c3b554b3de74b695a5ca2f965a	620	PANTHER	PTHR10283:SF82		13	597	1.2E-181	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030756-T1	60e53ec1a604b85f9367f834002bbae6	258	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	48	213	2.0E-29	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_030756-T1	60e53ec1a604b85f9367f834002bbae6	258	PANTHER	PTHR10283		43	213	8.2E-55	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030756-T1	60e53ec1a604b85f9367f834002bbae6	258	PANTHER	PTHR10283:SF82		43	213	8.2E-55	T	30-10-2018
+Macrostomum_lignano_MLI|PAA59885.1	b666935891a6062eeeabb043f570c2c3	693	PANTHER	PTHR10283:SF82		6	664	5.4E-190	T	30-10-2018
+Macrostomum_lignano_MLI|PAA59885.1	b666935891a6062eeeabb043f570c2c3	693	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	596	612	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA59885.1	b666935891a6062eeeabb043f570c2c3	693	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	7	650	1.9E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA59885.1	b666935891a6062eeeabb043f570c2c3	693	CDD	cd01115	SLC13_permease	38	639	5.01289E-58	T	30-10-2018
+Macrostomum_lignano_MLI|PAA59885.1	b666935891a6062eeeabb043f570c2c3	693	PANTHER	PTHR10283		6	664	5.4E-190	T	30-10-2018
+Macrostomum_lignano_MLI|PAA59885.1	b666935891a6062eeeabb043f570c2c3	693	MobiDBLite	mobidb-lite	consensus disorder prediction	168	247	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790414.1	3f75160b30f45fdc8297740726d80796	582	CDD	cd01115	SLC13_permease	44	552	3.81488E-62	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790414.1	3f75160b30f45fdc8297740726d80796	582	PANTHER	PTHR10283:SF82		9	577	2.7E-183	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790414.1	3f75160b30f45fdc8297740726d80796	582	PANTHER	PTHR10283		9	577	2.7E-183	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790414.1	3f75160b30f45fdc8297740726d80796	582	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	10	556	3.0E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Octopus_bimaculoides_OBI|XP_014790415.1	3f75160b30f45fdc8297740726d80796	582	CDD	cd01115	SLC13_permease	44	552	3.81488E-62	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790415.1	3f75160b30f45fdc8297740726d80796	582	PANTHER	PTHR10283:SF82		9	577	2.7E-183	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790415.1	3f75160b30f45fdc8297740726d80796	582	PANTHER	PTHR10283		9	577	2.7E-183	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790415.1	3f75160b30f45fdc8297740726d80796	582	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	10	556	3.0E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012940967.1	f11762531ea5241f013cec2f867dfaea	318	PANTHER	PTHR10283		7	318	2.5E-83	T	30-10-2018
+Aplysia_californica_ACA|XP_012940967.1	f11762531ea5241f013cec2f867dfaea	318	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	316	7.1E-46	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012940967.1	f11762531ea5241f013cec2f867dfaea	318	PANTHER	PTHR10283:SF82		7	318	2.5E-83	T	30-10-2018
+Aplysia_californica_ACA|XP_012940967.1	f11762531ea5241f013cec2f867dfaea	318	MobiDBLite	mobidb-lite	consensus disorder prediction	172	198	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022296194.1	e01b080ee694932a6a82f43d2c1a64ba	640	PANTHER	PTHR10283:SF82		42	606	3.5E-174	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022296194.1	e01b080ee694932a6a82f43d2c1a64ba	640	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	50	587	2.6E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022296194.1	e01b080ee694932a6a82f43d2c1a64ba	640	PANTHER	PTHR10283		42	606	3.5E-174	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022296194.1	e01b080ee694932a6a82f43d2c1a64ba	640	CDD	cd01115	SLC13_permease	73	583	6.2427E-61	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022296194.1	e01b080ee694932a6a82f43d2c1a64ba	640	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	533	549	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	206	9.0E-34	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	209	471	2.0E-48	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	PANTHER	PTHR10283		1	205	1.2E-160	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	PANTHER	PTHR10283		208	486	1.2E-160	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	PANTHER	PTHR10283:SF82		1	205	1.2E-160	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	417	433	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	Coils	Coil		149	169	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	PANTHER	PTHR10283:SF82		208	486	1.2E-160	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.18	cd213390d6cabe89fef1f57dc42957e4	505	CDD	cd01115	SLC13_permease	1	456	7.20471E-71	T	30-10-2018
+Aplysia_californica_ACA|XP_005091706.1	f39b45c0b6cb32571c26caba296befbd	381	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	353	2.0E-43	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_005091706.1	f39b45c0b6cb32571c26caba296befbd	381	MobiDBLite	mobidb-lite	consensus disorder prediction	102	126	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005091706.1	f39b45c0b6cb32571c26caba296befbd	381	PANTHER	PTHR10283:SF82		1	355	1.7E-88	T	30-10-2018
+Aplysia_californica_ACA|XP_005091706.1	f39b45c0b6cb32571c26caba296befbd	381	PANTHER	PTHR10283		1	355	1.7E-88	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440237.1	dea465e7c1d1969a6b651b4db0ba8799	597	MobiDBLite	mobidb-lite	consensus disorder prediction	198	222	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440237.1	dea465e7c1d1969a6b651b4db0ba8799	597	PANTHER	PTHR10283:SF82		13	589	1.1E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440237.1	dea465e7c1d1969a6b651b4db0ba8799	597	CDD	cd01115	SLC13_permease	46	553	8.32073E-69	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440237.1	dea465e7c1d1969a6b651b4db0ba8799	597	PANTHER	PTHR10283		13	589	1.1E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440237.1	dea465e7c1d1969a6b651b4db0ba8799	597	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	510	526	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011440237.1	dea465e7c1d1969a6b651b4db0ba8799	597	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	564	1.8E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011440238.1	dea465e7c1d1969a6b651b4db0ba8799	597	MobiDBLite	mobidb-lite	consensus disorder prediction	198	222	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440238.1	dea465e7c1d1969a6b651b4db0ba8799	597	PANTHER	PTHR10283:SF82		13	589	1.1E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440238.1	dea465e7c1d1969a6b651b4db0ba8799	597	CDD	cd01115	SLC13_permease	46	553	8.32073E-69	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440238.1	dea465e7c1d1969a6b651b4db0ba8799	597	PANTHER	PTHR10283		13	589	1.1E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011440238.1	dea465e7c1d1969a6b651b4db0ba8799	597	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	510	526	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011440238.1	dea465e7c1d1969a6b651b4db0ba8799	597	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	564	1.8E-95	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_50134-0.2	bb3ba6fd420ee5f26203cf84fd85c385	172	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	34	172	9.0E-21	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_50134-0.2	bb3ba6fd420ee5f26203cf84fd85c385	172	PANTHER	PTHR10283:SF82		17	172	7.3E-44	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_50134-0.2	bb3ba6fd420ee5f26203cf84fd85c385	172	PANTHER	PTHR10283		17	172	7.3E-44	T	30-10-2018
+Phoronis_australis_PAU|g4611.t1	643fd2e3f1ec872a57ed65d65e7adba1	595	CDD	cd01115	SLC13_permease	41	561	5.05024E-75	T	30-10-2018
+Phoronis_australis_PAU|g4611.t1	643fd2e3f1ec872a57ed65d65e7adba1	595	PANTHER	PTHR10283		10	576	2.5E-208	T	30-10-2018
+Phoronis_australis_PAU|g4611.t1	643fd2e3f1ec872a57ed65d65e7adba1	595	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	17	571	9.9E-107	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Phoronis_australis_PAU|g4611.t1	643fd2e3f1ec872a57ed65d65e7adba1	595	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Phoronis_australis_PAU|g4611.t1	643fd2e3f1ec872a57ed65d65e7adba1	595	Coils	Coil		154	174	-	T	30-10-2018
+Phoronis_australis_PAU|g4611.t1	643fd2e3f1ec872a57ed65d65e7adba1	595	PANTHER	PTHR10283:SF109		10	576	2.5E-208	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	291	733	8.5E-67	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	129	290	3.8E-27	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	679	695	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	PANTHER	PTHR10283		292	746	8.6E-184	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	PANTHER	PTHR10283		124	281	8.6E-184	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	PANTHER	PTHR10283:SF82		292	746	8.6E-184	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	Coils	Coil		361	381	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	PANTHER	PTHR10283:SF82		124	281	8.6E-184	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091642.1	924c9bed758861afefef551772fb6a9e	758	CDD	cd01115	SLC13_permease	162	733	1.47248E-51	T	30-10-2018
+Capitella_teleta_CTE|ELU04339.1	6911abcbee6a74f155c0e20426e351ed	285	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	283	7.4E-41	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU04339.1	6911abcbee6a74f155c0e20426e351ed	285	PANTHER	PTHR10283:SF82		1	283	3.7E-83	T	30-10-2018
+Capitella_teleta_CTE|ELU04339.1	6911abcbee6a74f155c0e20426e351ed	285	PANTHER	PTHR10283		1	283	3.7E-83	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917076.1	424bcdb7b8ca77ffa484dee9aa4efffa	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	586	3.5E-112	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Exaiptasia_pallida_EPA|XP_020917076.1	424bcdb7b8ca77ffa484dee9aa4efffa	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	531	547	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Exaiptasia_pallida_EPA|XP_020917076.1	424bcdb7b8ca77ffa484dee9aa4efffa	614	PANTHER	PTHR10283:SF82		9	606	5.3E-224	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917076.1	424bcdb7b8ca77ffa484dee9aa4efffa	614	PANTHER	PTHR10283		9	606	5.3E-224	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020917076.1	424bcdb7b8ca77ffa484dee9aa4efffa	614	CDD	cd01115	SLC13_permease	43	581	2.8477E-69	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029325-T1	2a40ddd26c0b290bc44f7ae4365c5951	154	MobiDBLite	mobidb-lite	consensus disorder prediction	15	39	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029325-T1	2a40ddd26c0b290bc44f7ae4365c5951	154	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	63	150	1.7E-21	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029325-T1	2a40ddd26c0b290bc44f7ae4365c5951	154	PANTHER	PTHR10283		64	151	2.3E-37	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029325-T1	2a40ddd26c0b290bc44f7ae4365c5951	154	PANTHER	PTHR10283:SF62		64	151	2.3E-37	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	467	483	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	PANTHER	PTHR10283:SF82		567	601	2.7E-183	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	PANTHER	PTHR10283:SF82		1	494	2.7E-183	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	MobiDBLite	mobidb-lite	consensus disorder prediction	160	179	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	CDD	cd01115	SLC13_permease	1	494	2.93147E-56	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	495	3.6E-85	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	PANTHER	PTHR10283		567	601	2.7E-183	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010282-T1	9c4132d7dca330bebc8564e92bbc89c6	614	PANTHER	PTHR10283		1	494	2.7E-183	T	30-10-2018
+Capitella_teleta_CTE|ELU14804.1	2f374a3b00afb3e0ec22ea79744fb66c	149	PANTHER	PTHR10283:SF109		8	141	5.1E-46	T	30-10-2018
+Capitella_teleta_CTE|ELU14804.1	2f374a3b00afb3e0ec22ea79744fb66c	149	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	139	1.2E-22	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU14804.1	2f374a3b00afb3e0ec22ea79744fb66c	149	PANTHER	PTHR10283		8	141	5.1E-46	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	PANTHER	PTHR10283:SF82		460	703	1.9E-205	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	MobiDBLite	mobidb-lite	consensus disorder prediction	195	217	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	CDD	cd01115	SLC13_permease	38	679	1.1935E-48	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	636	652	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	PANTHER	PTHR10283		6	442	1.9E-205	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	PANTHER	PTHR10283:SF82		6	442	1.9E-205	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	PANTHER	PTHR10283		460	703	1.9E-205	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	442	1.9E-63	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021357872.1	11398dfaaf840bb1f581c971e2960b97	712	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	465	684	3.5E-39	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.003673.00	f06347390e926a195b622e3ffda41a2f	339	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	145	297	3.6E-18	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.003673.00	f06347390e926a195b622e3ffda41a2f	339	PANTHER	PTHR10283		91	321	2.7E-40	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003673.00	f06347390e926a195b622e3ffda41a2f	339	Coils	Coil		68	88	-	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003673.00	f06347390e926a195b622e3ffda41a2f	339	PANTHER	PTHR10283:SF82		91	321	2.7E-40	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003673.00	f06347390e926a195b622e3ffda41a2f	339	Coils	Coil		13	40	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378274.1	ba95b06da5d75947372e5cc8218250a0	604	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	45	553	4.1E-91	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378274.1	ba95b06da5d75947372e5cc8218250a0	604	CDD	cd01115	SLC13_permease	47	550	1.98824E-53	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378274.1	ba95b06da5d75947372e5cc8218250a0	604	PANTHER	PTHR10283		47	578	2.7E-163	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378274.1	ba95b06da5d75947372e5cc8218250a0	604	PANTHER	PTHR10283:SF82		47	578	2.7E-163	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364953.1	4b57de87c370fabca288fe10bde2f892	519	PANTHER	PTHR10283		1	500	2.9E-163	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364953.1	4b57de87c370fabca288fe10bde2f892	519	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	480	7.6E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021364953.1	4b57de87c370fabca288fe10bde2f892	519	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	425	441	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021364953.1	4b57de87c370fabca288fe10bde2f892	519	PANTHER	PTHR10283:SF82		1	500	2.9E-163	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364953.1	4b57de87c370fabca288fe10bde2f892	519	CDD	cd01115	SLC13_permease	1	475	1.36304E-59	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364953.1	4b57de87c370fabca288fe10bde2f892	519	MobiDBLite	mobidb-lite	consensus disorder prediction	78	105	-	T	30-10-2018
+Capitella_teleta_CTE|ELT97227.1	58c4f5cf23b5cf50673790ab20b365c4	540	PANTHER	PTHR10283		1	536	5.3E-211	T	30-10-2018
+Capitella_teleta_CTE|ELT97227.1	58c4f5cf23b5cf50673790ab20b365c4	540	PANTHER	PTHR10283:SF82		1	536	5.3E-211	T	30-10-2018
+Capitella_teleta_CTE|ELT97227.1	58c4f5cf23b5cf50673790ab20b365c4	540	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	469	485	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT97227.1	58c4f5cf23b5cf50673790ab20b365c4	540	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	521	7.6E-110	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT97227.1	58c4f5cf23b5cf50673790ab20b365c4	540	CDD	cd01115	SLC13_permease	23	519	5.66625E-69	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364952.1	1fc0d39e16124a275ecc75840c493a71	610	MobiDBLite	mobidb-lite	consensus disorder prediction	169	196	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364952.1	1fc0d39e16124a275ecc75840c493a71	610	PANTHER	PTHR10283:SF82		13	591	6.0E-190	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364952.1	1fc0d39e16124a275ecc75840c493a71	610	CDD	cd01115	SLC13_permease	43	566	6.90076E-72	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364952.1	1fc0d39e16124a275ecc75840c493a71	610	PANTHER	PTHR10283		13	591	6.0E-190	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021364952.1	1fc0d39e16124a275ecc75840c493a71	610	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	571	5.0E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021364952.1	1fc0d39e16124a275ecc75840c493a71	610	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	516	532	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16584	1fc0d39e16124a275ecc75840c493a71	610	MobiDBLite	mobidb-lite	consensus disorder prediction	169	196	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16584	1fc0d39e16124a275ecc75840c493a71	610	PANTHER	PTHR10283:SF82		13	591	6.0E-190	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16584	1fc0d39e16124a275ecc75840c493a71	610	CDD	cd01115	SLC13_permease	43	566	6.90076E-72	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16584	1fc0d39e16124a275ecc75840c493a71	610	PANTHER	PTHR10283		13	591	6.0E-190	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16584	1fc0d39e16124a275ecc75840c493a71	610	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	571	5.0E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16584	1fc0d39e16124a275ecc75840c493a71	610	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	516	532	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	PANTHER	PTHR10283:SF109		33	147	5.1E-147	T	30-10-2018
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	PANTHER	PTHR10283:SF109		156	240	5.1E-147	T	30-10-2018
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	PANTHER	PTHR10283:SF109		244	499	5.1E-147	T	30-10-2018
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	244	486	2.6E-47	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	40	147	4.3E-21	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	165	242	6.5E-8	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	PANTHER	PTHR10283		156	240	5.1E-147	T	30-10-2018
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	PANTHER	PTHR10283		244	499	5.1E-147	T	30-10-2018
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	PANTHER	PTHR10283		33	147	5.1E-147	T	30-10-2018
+Lottia_gigantea_LGI|XP_009057765.1	82d25bc156592a122794e689f6bd023b	523	CDD	cd01115	SLC13_permease	67	481	6.92736E-57	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019929179.1	812adc97646581ff2073dcca53280435	605	PANTHER	PTHR10283:SF82		10	601	3.2E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019929179.1	812adc97646581ff2073dcca53280435	605	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	582	1.8E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_019929179.1	812adc97646581ff2073dcca53280435	605	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	529	545	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_019929179.1	812adc97646581ff2073dcca53280435	605	PANTHER	PTHR10283		10	601	3.2E-197	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019929179.1	812adc97646581ff2073dcca53280435	605	CDD	cd01115	SLC13_permease	45	579	8.41027E-51	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019929179.1	812adc97646581ff2073dcca53280435	605	MobiDBLite	mobidb-lite	consensus disorder prediction	196	223	-	T	30-10-2018
+Diphania_pulex_DPU|EFX68331.1	bf03dee48bbd9bae71548e70636fc802	519	PANTHER	PTHR10283		1	506	4.9E-172	T	30-10-2018
+Diphania_pulex_DPU|EFX68331.1	bf03dee48bbd9bae71548e70636fc802	519	CDD	cd01115	SLC13_permease	1	482	2.23815E-61	T	30-10-2018
+Diphania_pulex_DPU|EFX68331.1	bf03dee48bbd9bae71548e70636fc802	519	PANTHER	PTHR10283:SF82		1	506	4.9E-172	T	30-10-2018
+Diphania_pulex_DPU|EFX68331.1	bf03dee48bbd9bae71548e70636fc802	519	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	493	1.8E-83	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001027200.2	c5e91cbdcc1543a97e5aff0a4d06bcb4	555	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	45	542	1.6E-65	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001027200.2	c5e91cbdcc1543a97e5aff0a4d06bcb4	555	PANTHER	PTHR10283		22	554	1.7E-146	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027200.2	c5e91cbdcc1543a97e5aff0a4d06bcb4	555	PANTHER	PTHR10283:SF82		22	554	1.7E-146	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027199.2	c5e91cbdcc1543a97e5aff0a4d06bcb4	555	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	45	542	1.6E-65	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_001027199.2	c5e91cbdcc1543a97e5aff0a4d06bcb4	555	PANTHER	PTHR10283		22	554	1.7E-146	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001027199.2	c5e91cbdcc1543a97e5aff0a4d06bcb4	555	PANTHER	PTHR10283:SF82		22	554	1.7E-146	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038514-T1	6d8720d3c15c02a8c48c8cac375f9882	435	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	434	5.3E-45	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_038514-T1	6d8720d3c15c02a8c48c8cac375f9882	435	PANTHER	PTHR10283		11	435	1.1E-92	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038514-T1	6d8720d3c15c02a8c48c8cac375f9882	435	MobiDBLite	mobidb-lite	consensus disorder prediction	268	298	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038514-T1	6d8720d3c15c02a8c48c8cac375f9882	435	MobiDBLite	mobidb-lite	consensus disorder prediction	167	238	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26575-0.2	8c3303406fb314c70d80a006b31d2f2c	188	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	4	164	4.5E-20	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26575-0.2	8c3303406fb314c70d80a006b31d2f2c	188	PANTHER	PTHR10283:SF82		1	187	1.3E-45	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_26575-0.2	8c3303406fb314c70d80a006b31d2f2c	188	PANTHER	PTHR10283		1	187	1.3E-45	T	30-10-2018
+Capitella_teleta_CTE|ELT87140.1	b7813e19c8999f3242788540c7b1fc4a	615	PANTHER	PTHR10283		31	598	5.5E-152	T	30-10-2018
+Capitella_teleta_CTE|ELT87140.1	b7813e19c8999f3242788540c7b1fc4a	615	CDD	cd01115	SLC13_permease	62	574	2.26689E-50	T	30-10-2018
+Capitella_teleta_CTE|ELT87140.1	b7813e19c8999f3242788540c7b1fc4a	615	PANTHER	PTHR10283:SF82		31	598	5.5E-152	T	30-10-2018
+Capitella_teleta_CTE|ELT87140.1	b7813e19c8999f3242788540c7b1fc4a	615	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	37	586	6.5E-82	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009023324.1	5ec864549728fecdcbca1fd5e37b9275	137	PANTHER	PTHR10283		2	124	1.7E-37	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023324.1	5ec864549728fecdcbca1fd5e37b9275	137	PANTHER	PTHR10283:SF82		2	124	1.7E-37	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023324.1	5ec864549728fecdcbca1fd5e37b9275	137	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	110	1.2E-13	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378264.1	25ade4d4531c6bae18c856e4c504c0a1	674	PANTHER	PTHR10283		41	654	3.9E-187	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378264.1	25ade4d4531c6bae18c856e4c504c0a1	674	CDD	cd01115	SLC13_permease	69	620	1.32472E-59	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378264.1	25ade4d4531c6bae18c856e4c504c0a1	674	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	41	623	2.4E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378264.1	25ade4d4531c6bae18c856e4c504c0a1	674	PANTHER	PTHR10283:SF82		41	654	3.9E-187	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_48213-0.2	e6d9dce6d2245681d16e5601bc24a614	385	PANTHER	PTHR10283:SF82		20	380	1.2E-129	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_48213-0.2	e6d9dce6d2245681d16e5601bc24a614	385	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	22	358	6.2E-63	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_48213-0.2	e6d9dce6d2245681d16e5601bc24a614	385	PANTHER	PTHR10283		20	380	1.2E-129	T	30-10-2018
+Macrostomum_lignano_MLI|PAA87078.1	0d47d3e6061b104d614406dd95511a4b	693	PANTHER	PTHR10283		6	664	1.3E-189	T	30-10-2018
+Macrostomum_lignano_MLI|PAA87078.1	0d47d3e6061b104d614406dd95511a4b	693	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	596	612	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA87078.1	0d47d3e6061b104d614406dd95511a4b	693	PANTHER	PTHR10283:SF82		6	664	1.3E-189	T	30-10-2018
+Macrostomum_lignano_MLI|PAA87078.1	0d47d3e6061b104d614406dd95511a4b	693	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	6	650	1.9E-103	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA87078.1	0d47d3e6061b104d614406dd95511a4b	693	CDD	cd01115	SLC13_permease	38	639	4.86571E-58	T	30-10-2018
+Macrostomum_lignano_MLI|PAA87078.1	0d47d3e6061b104d614406dd95511a4b	693	MobiDBLite	mobidb-lite	consensus disorder prediction	168	247	-	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000270.04	47d68d9fa18a2afef809e8262ee2a482	120	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	116	1.3E-24	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.000270.04	47d68d9fa18a2afef809e8262ee2a482	120	PANTHER	PTHR10283		1	117	1.8E-46	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000270.04	47d68d9fa18a2afef809e8262ee2a482	120	PANTHER	PTHR10283:SF82		1	117	1.8E-46	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_54491-0.11	10869f11131d82a57e0dce26232ccbd4	79	PANTHER	PTHR10283		1	79	2.2E-29	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_54491-0.11	10869f11131d82a57e0dce26232ccbd4	79	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	77	6.0E-15	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_54491-0.11	10869f11131d82a57e0dce26232ccbd4	79	PANTHER	PTHR10283:SF82		1	79	2.2E-29	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425739.1	2bd5c66a49dc302201977b2eb12c10e4	632	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	20	595	7.5E-97	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425739.1	2bd5c66a49dc302201977b2eb12c10e4	632	CDD	cd01115	SLC13_permease	49	591	4.60763E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425739.1	2bd5c66a49dc302201977b2eb12c10e4	632	PANTHER	PTHR10283		19	603	1.1E-178	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425739.1	2bd5c66a49dc302201977b2eb12c10e4	632	MobiDBLite	mobidb-lite	consensus disorder prediction	205	240	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425739.1	2bd5c66a49dc302201977b2eb12c10e4	632	PANTHER	PTHR10283:SF82		19	603	1.1E-178	T	30-10-2018
+Lingula_anatina_LAN|XP_023933335.1	1b16fe3810e65cc6953cfdad9f437963	628	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	512	528	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933335.1	1b16fe3810e65cc6953cfdad9f437963	628	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	567	8.1E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933335.1	1b16fe3810e65cc6953cfdad9f437963	628	PANTHER	PTHR10283:SF82		6	594	5.5E-195	T	30-10-2018
+Lingula_anatina_LAN|XP_023933335.1	1b16fe3810e65cc6953cfdad9f437963	628	CDD	cd01115	SLC13_permease	43	562	2.05105E-59	T	30-10-2018
+Lingula_anatina_LAN|XP_023933335.1	1b16fe3810e65cc6953cfdad9f437963	628	MobiDBLite	mobidb-lite	consensus disorder prediction	180	200	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023933335.1	1b16fe3810e65cc6953cfdad9f437963	628	PANTHER	PTHR10283		6	594	5.5E-195	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014785158.1	77c8bb970cc5b2c384e3f77ddebc4f93	451	PANTHER	PTHR10283		1	437	3.4E-106	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014785158.1	77c8bb970cc5b2c384e3f77ddebc4f93	451	PANTHER	PTHR10283:SF82		1	437	3.4E-106	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014785158.1	77c8bb970cc5b2c384e3f77ddebc4f93	451	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	312	5.0E-30	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Octopus_bimaculoides_OBI|XP_014785158.1	77c8bb970cc5b2c384e3f77ddebc4f93	451	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	330	442	6.5E-18	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Octopus_bimaculoides_OBI|XP_014785158.1	77c8bb970cc5b2c384e3f77ddebc4f93	451	MobiDBLite	mobidb-lite	consensus disorder prediction	116	140	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014785158.1	77c8bb970cc5b2c384e3f77ddebc4f93	451	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	404	420	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX76825.1	c08a436d166091ab20f31ba3268f7d0e	599	PANTHER	PTHR10283		14	582	1.2E-208	T	30-10-2018
+Diphania_pulex_DPU|EFX76825.1	c08a436d166091ab20f31ba3268f7d0e	599	CDD	cd01115	SLC13_permease	47	567	1.43058E-61	T	30-10-2018
+Diphania_pulex_DPU|EFX76825.1	c08a436d166091ab20f31ba3268f7d0e	599	PANTHER	PTHR10283:SF82		14	582	1.2E-208	T	30-10-2018
+Diphania_pulex_DPU|EFX76825.1	c08a436d166091ab20f31ba3268f7d0e	599	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	515	531	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX76825.1	c08a436d166091ab20f31ba3268f7d0e	599	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	22	569	5.2E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.12	b7c3fec68ff49b1355aba86f80ff84bc	554	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	462	478	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.12	b7c3fec68ff49b1355aba86f80ff84bc	554	CDD	cd01115	SLC13_permease	42	512	3.28341E-60	T	30-10-2018
+Chlamys_farreri_CFA|CF17615.12	b7c3fec68ff49b1355aba86f80ff84bc	554	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	516	1.6E-83	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF17615.12	b7c3fec68ff49b1355aba86f80ff84bc	554	PANTHER	PTHR10283		7	529	2.3E-161	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003444.04	eed7dc8b12761907fa6ae7a341acc8f6	377	PANTHER	PTHR10283:SF82		31	376	8.6E-98	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003444.04	eed7dc8b12761907fa6ae7a341acc8f6	377	PANTHER	PTHR10283		31	376	8.6E-98	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003444.04	eed7dc8b12761907fa6ae7a341acc8f6	377	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	37	132	7.7E-8	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.003444.04	eed7dc8b12761907fa6ae7a341acc8f6	377	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	134	367	5.9E-39	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410602.1	99b95bd20576e842a8ecc9b9604eb6c7	618	CDD	cd01115	SLC13_permease	49	575	1.93563E-63	T	30-10-2018
+Lingula_anatina_LAN|XP_013410602.1	99b95bd20576e842a8ecc9b9604eb6c7	618	PANTHER	PTHR10283:SF82		5	592	9.3E-205	T	30-10-2018
+Lingula_anatina_LAN|XP_013410602.1	99b95bd20576e842a8ecc9b9604eb6c7	618	PANTHER	PTHR10283		5	592	9.3E-205	T	30-10-2018
+Lingula_anatina_LAN|XP_013410602.1	99b95bd20576e842a8ecc9b9604eb6c7	618	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	525	541	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410602.1	99b95bd20576e842a8ecc9b9604eb6c7	618	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	579	1.1E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF64101.1	6aaf2617ef8549956bdc01cc0a329a26	399	PANTHER	PTHR10283:SF82		14	373	7.9E-128	T	30-10-2018
+Chlamys_farreri_CFA|CF64101.1	6aaf2617ef8549956bdc01cc0a329a26	399	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	348	4.9E-66	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF64101.1	6aaf2617ef8549956bdc01cc0a329a26	399	PANTHER	PTHR10283		14	373	7.9E-128	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425738.1	a9693386e66a1a19f7c2005822450cf0	656	PANTHER	PTHR10283		19	600	1.8E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425738.1	a9693386e66a1a19f7c2005822450cf0	656	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	518	534	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425738.1	a9693386e66a1a19f7c2005822450cf0	656	PANTHER	PTHR10283:SF82		19	600	1.8E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425738.1	a9693386e66a1a19f7c2005822450cf0	656	CDD	cd01115	SLC13_permease	43	568	1.91899E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425738.1	a9693386e66a1a19f7c2005822450cf0	656	MobiDBLite	mobidb-lite	consensus disorder prediction	170	222	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425738.1	a9693386e66a1a19f7c2005822450cf0	656	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	572	2.7E-94	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16109	6f64042faa26e15875264078e59487ee	568	CDD	cd01115	SLC13_permease	40	543	1.93913E-73	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16109	6f64042faa26e15875264078e59487ee	568	PANTHER	PTHR10283:SF82		8	560	6.4E-185	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16109	6f64042faa26e15875264078e59487ee	568	PANTHER	PTHR10283		8	560	6.4E-185	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16109	6f64042faa26e15875264078e59487ee	568	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	498	514	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16109	6f64042faa26e15875264078e59487ee	568	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	10	550	2.0E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021353972.1	6f64042faa26e15875264078e59487ee	568	CDD	cd01115	SLC13_permease	40	543	1.93913E-73	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353972.1	6f64042faa26e15875264078e59487ee	568	PANTHER	PTHR10283:SF82		8	560	6.4E-185	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353972.1	6f64042faa26e15875264078e59487ee	568	PANTHER	PTHR10283		8	560	6.4E-185	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353972.1	6f64042faa26e15875264078e59487ee	568	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	498	514	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021353972.1	6f64042faa26e15875264078e59487ee	568	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	10	550	2.0E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX74310.1	18ce135985c61880394fd73c6a5b05ba	564	PANTHER	PTHR10283		1	563	2.4E-203	T	30-10-2018
+Diphania_pulex_DPU|EFX74310.1	18ce135985c61880394fd73c6a5b05ba	564	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	533	6.3E-92	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX74310.1	18ce135985c61880394fd73c6a5b05ba	564	PANTHER	PTHR10283:SF82		1	563	2.4E-203	T	30-10-2018
+Diphania_pulex_DPU|EFX74310.1	18ce135985c61880394fd73c6a5b05ba	564	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	479	495	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX74310.1	18ce135985c61880394fd73c6a5b05ba	564	CDD	cd01115	SLC13_permease	1	524	3.6224E-62	T	30-10-2018
+Macrostomum_lignano_MLI|PAA79150.1	d6a401001baa87e29cbbb161a18d28fa	590	MobiDBLite	mobidb-lite	consensus disorder prediction	179	216	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA79150.1	d6a401001baa87e29cbbb161a18d28fa	590	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	23	566	3.9E-69	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA79150.1	d6a401001baa87e29cbbb161a18d28fa	590	PANTHER	PTHR10283		14	580	1.1E-144	T	30-10-2018
+Macrostomum_lignano_MLI|PAA79150.1	d6a401001baa87e29cbbb161a18d28fa	590	PANTHER	PTHR10283:SF82		14	580	1.1E-144	T	30-10-2018
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	MobiDBLite	mobidb-lite	consensus disorder prediction	424	446	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	91	729	1.8E-103	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	PANTHER	PTHR10283		90	751	1.8E-200	T	30-10-2018
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	MobiDBLite	mobidb-lite	consensus disorder prediction	252	328	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	677	693	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	PANTHER	PTHR10283:SF82		90	751	1.8E-200	T	30-10-2018
+Lingula_anatina_LAN|XP_013394172.1	265d4dbeb60aa0cf1b87154e57c95346	766	CDD	cd01115	SLC13_permease	128	727	6.24697E-62	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	PANTHER	PTHR10283:SF82		23	499	4.6E-176	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	PANTHER	PTHR10283:SF82		504	576	4.6E-176	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	PANTHER	PTHR10283:SF82		757	845	4.6E-176	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	CDD	cd01115	SLC13_permease	28	472	1.22385E-51	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	433	449	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	PANTHER	PTHR10283		23	499	4.6E-176	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	PANTHER	PTHR10283		504	576	4.6E-176	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	PANTHER	PTHR10283		757	845	4.6E-176	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	21	487	6.9E-81	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22588-0.10	ae44468ede2f1737ffb1989828b78081	848	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	824	840	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT93587.1	4bea0a7a2dcc26abd0b6d765b38c0cdd	600	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	517	533	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT93587.1	4bea0a7a2dcc26abd0b6d765b38c0cdd	600	PANTHER	PTHR10283		12	590	5.6E-185	T	30-10-2018
+Capitella_teleta_CTE|ELT93587.1	4bea0a7a2dcc26abd0b6d765b38c0cdd	600	CDD	cd01115	SLC13_permease	53	571	2.27935E-63	T	30-10-2018
+Capitella_teleta_CTE|ELT93587.1	4bea0a7a2dcc26abd0b6d765b38c0cdd	600	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	567	2.8E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT93587.1	4bea0a7a2dcc26abd0b6d765b38c0cdd	600	PANTHER	PTHR10283:SF82		12	590	5.6E-185	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377608.1	b6e7fb81952b97e9639c1e83b2ce04dd	605	CDD	cd01115	SLC13_permease	43	558	1.17763E-58	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377608.1	b6e7fb81952b97e9639c1e83b2ce04dd	605	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	508	524	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377608.1	b6e7fb81952b97e9639c1e83b2ce04dd	605	PANTHER	PTHR10283		17	581	2.9E-179	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377608.1	b6e7fb81952b97e9639c1e83b2ce04dd	605	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	563	2.0E-88	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377608.1	b6e7fb81952b97e9639c1e83b2ce04dd	605	PANTHER	PTHR10283:SF82		17	581	2.9E-179	T	30-10-2018
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	11	612	1.3E-105	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	PANTHER	PTHR10283:SF82		9	633	3.1E-203	T	30-10-2018
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	CDD	cd01115	SLC13_permease	47	610	2.18493E-65	T	30-10-2018
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	PANTHER	PTHR10283		9	633	3.1E-203	T	30-10-2018
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	560	576	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	MobiDBLite	mobidb-lite	consensus disorder prediction	343	365	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013394197.1	d59fa887bc44bd22dcddd63c5fce1ed8	649	MobiDBLite	mobidb-lite	consensus disorder prediction	171	247	-	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001163660.1	8aa29cdebb9eda40a83cd497839de851	556	PANTHER	PTHR10283:SF82		22	555	3.1E-149	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001163660.1	8aa29cdebb9eda40a83cd497839de851	556	PANTHER	PTHR10283		22	555	3.1E-149	T	30-10-2018
+Drosophila_melanogaster_DME|NP_001163660.1	8aa29cdebb9eda40a83cd497839de851	556	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	45	543	9.2E-68	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013088412.1	3e725c61329ea49c4dbb7096b271cfa0	537	PANTHER	PTHR10283:SF82		10	526	4.7E-131	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088412.1	3e725c61329ea49c4dbb7096b271cfa0	537	PANTHER	PTHR10283		10	526	4.7E-131	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088412.1	3e725c61329ea49c4dbb7096b271cfa0	537	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	524	3.0E-62	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013402086.1	8ba4f8bdb40b10edc0ec3e9a10b44414	153	PANTHER	PTHR10283		57	148	6.0E-46	T	30-10-2018
+Lingula_anatina_LAN|XP_013402086.1	8ba4f8bdb40b10edc0ec3e9a10b44414	153	PANTHER	PTHR10283		10	35	6.0E-46	T	30-10-2018
+Lingula_anatina_LAN|XP_013402086.1	8ba4f8bdb40b10edc0ec3e9a10b44414	153	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	56	149	1.3E-21	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013402086.1	8ba4f8bdb40b10edc0ec3e9a10b44414	153	PANTHER	PTHR10283:SF109		57	148	6.0E-46	T	30-10-2018
+Lingula_anatina_LAN|XP_013402086.1	8ba4f8bdb40b10edc0ec3e9a10b44414	153	PANTHER	PTHR10283:SF109		10	35	6.0E-46	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_21301-0.9	23c97d9d2b3cbb7b9d3ba10eeec6adfb	590	CDD	cd01115	SLC13_permease	38	556	5.20434E-62	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_21301-0.9	23c97d9d2b3cbb7b9d3ba10eeec6adfb	590	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	512	528	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_21301-0.9	23c97d9d2b3cbb7b9d3ba10eeec6adfb	590	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	11	565	3.9E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_21301-0.9	23c97d9d2b3cbb7b9d3ba10eeec6adfb	590	PANTHER	PTHR10283		8	578	5.7E-193	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_21301-0.9	23c97d9d2b3cbb7b9d3ba10eeec6adfb	590	PANTHER	PTHR10283:SF82		8	578	5.7E-193	T	30-10-2018
+Lingula_anatina_LAN|XP_023933336.1	299addb214354e436b89ece2a66b7e93	637	PANTHER	PTHR10283		8	614	1.7E-210	T	30-10-2018
+Lingula_anatina_LAN|XP_023933336.1	299addb214354e436b89ece2a66b7e93	637	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	536	552	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933336.1	299addb214354e436b89ece2a66b7e93	637	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	12	589	2.6E-104	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_023933336.1	299addb214354e436b89ece2a66b7e93	637	CDD	cd01115	SLC13_permease	44	586	1.99723E-66	T	30-10-2018
+Lingula_anatina_LAN|XP_023933336.1	299addb214354e436b89ece2a66b7e93	637	PANTHER	PTHR10283:SF82		8	614	1.7E-210	T	30-10-2018
+Aplysia_californica_ACA|XP_012944968.1	1a3b46900a3d2415c87e612a70e1125a	611	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	574	4.2E-92	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012944968.1	1a3b46900a3d2415c87e612a70e1125a	611	PANTHER	PTHR10283:SF82		11	580	2.2E-184	T	30-10-2018
+Aplysia_californica_ACA|XP_012944968.1	1a3b46900a3d2415c87e612a70e1125a	611	CDD	cd01115	SLC13_permease	44	570	6.71807E-62	T	30-10-2018
+Aplysia_californica_ACA|XP_012944968.1	1a3b46900a3d2415c87e612a70e1125a	611	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	521	537	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012944968.1	1a3b46900a3d2415c87e612a70e1125a	611	PANTHER	PTHR10283		11	580	2.2E-184	T	30-10-2018
+Capitella_teleta_CTE|ELT91674.1	b40c400e4c47b56863633f96573562be	533	PANTHER	PTHR10283:SF82		1	525	1.8E-134	T	30-10-2018
+Capitella_teleta_CTE|ELT91674.1	b40c400e4c47b56863633f96573562be	533	PANTHER	PTHR10283		1	525	1.8E-134	T	30-10-2018
+Capitella_teleta_CTE|ELT91674.1	b40c400e4c47b56863633f96573562be	533	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	518	3.1E-67	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA70218.1	d152a5d833d3c03cd13e070bc6c4b685	640	PANTHER	PTHR10283		6	635	7.0E-177	T	30-10-2018
+Macrostomum_lignano_MLI|PAA70218.1	d152a5d833d3c03cd13e070bc6c4b685	640	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	12	621	9.6E-90	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA70218.1	d152a5d833d3c03cd13e070bc6c4b685	640	PANTHER	PTHR10283:SF82		6	635	7.0E-177	T	30-10-2018
+Macrostomum_lignano_MLI|PAA70218.1	d152a5d833d3c03cd13e070bc6c4b685	640	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	567	583	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64176-1.6	e959a81a85173c87b2ef7f35083108c9	595	CDD	cd01115	SLC13_permease	45	572	4.63894E-65	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64176-1.6	e959a81a85173c87b2ef7f35083108c9	595	PANTHER	PTHR10283		27	587	4.1E-181	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64176-1.6	e959a81a85173c87b2ef7f35083108c9	595	PANTHER	PTHR10283:SF82		27	587	4.1E-181	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64176-1.6	e959a81a85173c87b2ef7f35083108c9	595	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	33	577	7.7E-93	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64176-1.6	e959a81a85173c87b2ef7f35083108c9	595	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	522	538	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009020273.1	7904676b911e75886148e955f74e32ab	547	PANTHER	PTHR10283:SF82		3	519	1.1E-197	T	30-10-2018
+Helobdella_robusta_HRO|XP_009020273.1	7904676b911e75886148e955f74e32ab	547	CDD	cd01115	SLC13_permease	32	502	4.10003E-65	T	30-10-2018
+Helobdella_robusta_HRO|XP_009020273.1	7904676b911e75886148e955f74e32ab	547	PANTHER	PTHR10283		3	519	1.1E-197	T	30-10-2018
+Helobdella_robusta_HRO|XP_009020273.1	7904676b911e75886148e955f74e32ab	547	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	452	468	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009020273.1	7904676b911e75886148e955f74e32ab	547	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	3	505	6.1E-106	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009020273.1	7904676b911e75886148e955f74e32ab	547	Coils	Coil		146	166	-	T	30-10-2018
+Drosophila_melanogaster_DME|NP_730363.2	f880412d852d6b4fe358be139bbf0d6b	590	CDD	cd01115	SLC13_permease	68	545	2.34614E-53	T	30-10-2018
+Drosophila_melanogaster_DME|NP_730363.2	f880412d852d6b4fe358be139bbf0d6b	590	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	44	566	1.3E-83	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_730363.2	f880412d852d6b4fe358be139bbf0d6b	590	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	513	529	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Drosophila_melanogaster_DME|NP_730363.2	f880412d852d6b4fe358be139bbf0d6b	590	PANTHER	PTHR10283:SF82		38	579	1.1E-174	T	30-10-2018
+Drosophila_melanogaster_DME|NP_730363.2	f880412d852d6b4fe358be139bbf0d6b	590	PANTHER	PTHR10283		38	579	1.1E-174	T	30-10-2018
+Macrostomum_lignano_MLI|PAA81833.1	3000ef14fb95c0549c46185fd3e3b46e	608	CDD	cd01115	SLC13_permease	45	587	1.57074E-61	T	30-10-2018
+Macrostomum_lignano_MLI|PAA81833.1	3000ef14fb95c0549c46185fd3e3b46e	608	PANTHER	PTHR10283:SF82		13	601	3.5E-185	T	30-10-2018
+Macrostomum_lignano_MLI|PAA81833.1	3000ef14fb95c0549c46185fd3e3b46e	608	PANTHER	PTHR10283		13	601	3.5E-185	T	30-10-2018
+Macrostomum_lignano_MLI|PAA81833.1	3000ef14fb95c0549c46185fd3e3b46e	608	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	591	1.8E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA81833.1	3000ef14fb95c0549c46185fd3e3b46e	608	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	537	553	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.20	11962a4d146aeffbe478af8f3956432d	269	MobiDBLite	mobidb-lite	consensus disorder prediction	38	60	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.20	11962a4d146aeffbe478af8f3956432d	269	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	4	249	8.4E-32	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.20	11962a4d146aeffbe478af8f3956432d	269	PANTHER	PTHR10283:SF82		1	258	7.2E-75	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62476-1.20	11962a4d146aeffbe478af8f3956432d	269	PANTHER	PTHR10283		1	258	7.2E-75	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69294.1	d68da13f3826d00a9a119cec4aaaf0e6	693	PANTHER	PTHR10283		6	664	1.5E-189	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69294.1	d68da13f3826d00a9a119cec4aaaf0e6	693	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	596	612	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA69294.1	d68da13f3826d00a9a119cec4aaaf0e6	693	CDD	cd01115	SLC13_permease	38	639	1.81857E-58	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69294.1	d68da13f3826d00a9a119cec4aaaf0e6	693	PANTHER	PTHR10283:SF82		6	664	1.5E-189	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69294.1	d68da13f3826d00a9a119cec4aaaf0e6	693	MobiDBLite	mobidb-lite	consensus disorder prediction	168	247	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69294.1	d68da13f3826d00a9a119cec4aaaf0e6	693	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	6	650	2.0E-103	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394171.1	6c7ba40b60e8d021a89e617e3e419820	613	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	11	575	4.7E-100	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394171.1	6c7ba40b60e8d021a89e617e3e419820	613	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	523	539	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013394171.1	6c7ba40b60e8d021a89e617e3e419820	613	CDD	cd01115	SLC13_permease	47	573	1.44598E-64	T	30-10-2018
+Lingula_anatina_LAN|XP_013394171.1	6c7ba40b60e8d021a89e617e3e419820	613	PANTHER	PTHR10283		10	602	7.7E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_013394171.1	6c7ba40b60e8d021a89e617e3e419820	613	PANTHER	PTHR10283:SF82		10	602	7.7E-198	T	30-10-2018
+Lingula_anatina_LAN|XP_013394171.1	6c7ba40b60e8d021a89e617e3e419820	613	MobiDBLite	mobidb-lite	consensus disorder prediction	176	217	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	PANTHER	PTHR10283		368	745	8.3E-166	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	PANTHER	PTHR10283		12	273	8.3E-166	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	MobiDBLite	mobidb-lite	consensus disorder prediction	169	194	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	682	698	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	PANTHER	PTHR10283:SF82		368	745	8.3E-166	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	PANTHER	PTHR10283:SF82		12	273	8.3E-166	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	MobiDBLite	mobidb-lite	consensus disorder prediction	221	254	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	371	736	1.6E-52	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009023519.1	0855878a548572dbb6a1ea3acc963185	774	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	173	5.7E-26	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029340-T1	11cba6df092696ea348ca1c42a767048	258	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	165	6.2E-30	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029340-T1	11cba6df092696ea348ca1c42a767048	258	Coils	Coil		175	212	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029340-T1	11cba6df092696ea348ca1c42a767048	258	PANTHER	PTHR10283:SF82		8	192	2.2E-60	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029340-T1	11cba6df092696ea348ca1c42a767048	258	PANTHER	PTHR10283		8	192	2.2E-60	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029340-T1	11cba6df092696ea348ca1c42a767048	258	MobiDBLite	mobidb-lite	consensus disorder prediction	159	258	-	T	30-10-2018
+Capitella_teleta_CTE|ELU01306.1	07a48d7d1873b619bf0b54aaffcd9c0c	626	PANTHER	PTHR10283		10	611	7.1E-146	T	30-10-2018
+Capitella_teleta_CTE|ELU01306.1	07a48d7d1873b619bf0b54aaffcd9c0c	626	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	604	1.5E-71	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU01306.1	07a48d7d1873b619bf0b54aaffcd9c0c	626	PANTHER	PTHR10283:SF82		10	611	7.1E-146	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029339-T1	040bdfbd7f5be100b1460dac4beff86b	477	PANTHER	PTHR10283		114	462	7.2E-97	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029339-T1	040bdfbd7f5be100b1460dac4beff86b	477	PANTHER	PTHR10283:SF82		114	462	7.2E-97	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029339-T1	040bdfbd7f5be100b1460dac4beff86b	477	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	230	456	1.1E-37	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT93607.1	cda9671bb3a654dbbb4d979253429bc4	583	CDD	cd01115	SLC13_permease	39	538	7.50915E-55	T	30-10-2018
+Capitella_teleta_CTE|ELT93607.1	cda9671bb3a654dbbb4d979253429bc4	583	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	537	1.5E-77	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELT93607.1	cda9671bb3a654dbbb4d979253429bc4	583	PANTHER	PTHR10283:SF82		7	538	2.1E-160	T	30-10-2018
+Capitella_teleta_CTE|ELT93607.1	cda9671bb3a654dbbb4d979253429bc4	583	PANTHER	PTHR10283		7	538	2.1E-160	T	30-10-2018
+Diphania_pulex_DPU|EFX74214.1	5832a5216fff6194167cf1abfa598b2e	592	PANTHER	PTHR10283:SF82		8	575	9.6E-216	T	30-10-2018
+Diphania_pulex_DPU|EFX74214.1	5832a5216fff6194167cf1abfa598b2e	592	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	553	1.1E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX74214.1	5832a5216fff6194167cf1abfa598b2e	592	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	499	515	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Diphania_pulex_DPU|EFX74214.1	5832a5216fff6194167cf1abfa598b2e	592	CDD	cd01115	SLC13_permease	43	544	1.84817E-69	T	30-10-2018
+Diphania_pulex_DPU|EFX74214.1	5832a5216fff6194167cf1abfa598b2e	592	PANTHER	PTHR10283		8	575	9.6E-216	T	30-10-2018
+Diphania_pulex_DPU|EFX74214.1	5832a5216fff6194167cf1abfa598b2e	592	MobiDBLite	mobidb-lite	consensus disorder prediction	193	216	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030755-T1	98f5c75a5a6adeedae0d5eccd4538d9b	140	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	130	5.4E-27	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_030755-T1	98f5c75a5a6adeedae0d5eccd4538d9b	140	PANTHER	PTHR10283:SF82		1	134	6.1E-47	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030755-T1	98f5c75a5a6adeedae0d5eccd4538d9b	140	PANTHER	PTHR10283		1	134	6.1E-47	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_70225-0.2	93813fc1432a9fe07b9d5821b183ebd2	243	PANTHER	PTHR10283:SF82		6	241	3.9E-73	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_70225-0.2	93813fc1432a9fe07b9d5821b183ebd2	243	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	241	5.0E-38	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_70225-0.2	93813fc1432a9fe07b9d5821b183ebd2	243	PANTHER	PTHR10283		6	241	3.9E-73	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.02	e4f8a50cb0fdc570bed41539ab41ca51	429	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	70	413	3.9E-47	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.000332.02	e4f8a50cb0fdc570bed41539ab41ca51	429	PANTHER	PTHR10283:SF82		66	424	5.8E-100	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.02	e4f8a50cb0fdc570bed41539ab41ca51	429	PANTHER	PTHR10283		66	424	5.8E-100	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377610.1	50ee94a227696bbea2c599584b6a78e3	576	PANTHER	PTHR10283		23	568	3.3E-168	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377610.1	50ee94a227696bbea2c599584b6a78e3	576	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	484	500	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377610.1	50ee94a227696bbea2c599584b6a78e3	576	PANTHER	PTHR10283:SF82		23	568	3.3E-168	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377610.1	50ee94a227696bbea2c599584b6a78e3	576	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	27	538	6.2E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377610.1	50ee94a227696bbea2c599584b6a78e3	576	CDD	cd01115	SLC13_permease	53	534	4.84137E-62	T	30-10-2018
+Lingula_anatina_LAN|XP_013410688.1	53ac05e2aeed13963eccb0f722b9fdf8	645	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	512	528	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410688.1	53ac05e2aeed13963eccb0f722b9fdf8	645	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	567	8.9E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013410688.1	53ac05e2aeed13963eccb0f722b9fdf8	645	PANTHER	PTHR10283		6	594	4.4E-194	T	30-10-2018
+Lingula_anatina_LAN|XP_013410688.1	53ac05e2aeed13963eccb0f722b9fdf8	645	CDD	cd01115	SLC13_permease	43	562	5.1046E-59	T	30-10-2018
+Lingula_anatina_LAN|XP_013410688.1	53ac05e2aeed13963eccb0f722b9fdf8	645	MobiDBLite	mobidb-lite	consensus disorder prediction	180	200	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013410688.1	53ac05e2aeed13963eccb0f722b9fdf8	645	PANTHER	PTHR10283:SF82		6	594	4.4E-194	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377611.1	447eeba4c0f583ded6e0cd8e888b7a74	574	CDD	cd01115	SLC13_permease	53	532	1.73441E-62	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377611.1	447eeba4c0f583ded6e0cd8e888b7a74	574	PANTHER	PTHR10283:SF82		23	566	1.9E-168	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377611.1	447eeba4c0f583ded6e0cd8e888b7a74	574	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	27	536	3.5E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021377611.1	447eeba4c0f583ded6e0cd8e888b7a74	574	PANTHER	PTHR10283		23	566	1.9E-168	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377611.1	447eeba4c0f583ded6e0cd8e888b7a74	574	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	482	498	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_004616-T1	4284f903e48b50fde7141169b822b129	559	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	536	7.4E-90	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_004616-T1	4284f903e48b50fde7141169b822b129	559	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	485	501	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_004616-T1	4284f903e48b50fde7141169b822b129	559	PANTHER	PTHR10283:SF82		1	546	8.0E-187	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004616-T1	4284f903e48b50fde7141169b822b129	559	MobiDBLite	mobidb-lite	consensus disorder prediction	159	199	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004616-T1	4284f903e48b50fde7141169b822b129	559	CDD	cd01115	SLC13_permease	1	534	2.50966E-54	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004616-T1	4284f903e48b50fde7141169b822b129	559	PANTHER	PTHR10283		1	546	8.0E-187	T	30-10-2018
+Diphania_pulex_DPU|EFX71177.1	c262504c63637e3d9380d3a7761575c2	564	PANTHER	PTHR10283		14	557	1.5E-189	T	30-10-2018
+Diphania_pulex_DPU|EFX71177.1	c262504c63637e3d9380d3a7761575c2	564	PANTHER	PTHR10283:SF82		14	557	1.5E-189	T	30-10-2018
+Diphania_pulex_DPU|EFX71177.1	c262504c63637e3d9380d3a7761575c2	564	CDD	cd01115	SLC13_permease	46	547	6.42723E-57	T	30-10-2018
+Diphania_pulex_DPU|EFX71177.1	c262504c63637e3d9380d3a7761575c2	564	MobiDBLite	mobidb-lite	consensus disorder prediction	171	197	-	T	30-10-2018
+Diphania_pulex_DPU|EFX71177.1	c262504c63637e3d9380d3a7761575c2	564	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	22	543	9.4E-87	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Phoronis_australis_PAU|g10626.t1	a47b1a28525ca8b39e103ff57c8f1e0e	547	PANTHER	PTHR10283:SF82		11	530	4.2E-186	T	30-10-2018
+Phoronis_australis_PAU|g10626.t1	a47b1a28525ca8b39e103ff57c8f1e0e	547	CDD	cd01115	SLC13_permease	17	517	1.41623E-59	T	30-10-2018
+Phoronis_australis_PAU|g10626.t1	a47b1a28525ca8b39e103ff57c8f1e0e	547	PANTHER	PTHR10283		11	530	4.2E-186	T	30-10-2018
+Phoronis_australis_PAU|g10626.t1	a47b1a28525ca8b39e103ff57c8f1e0e	547	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	11	522	3.2E-94	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013418475.1	dc1354de9c726c76048c7ec3bc1a1a3f	607	MobiDBLite	mobidb-lite	consensus disorder prediction	165	229	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013418475.1	dc1354de9c726c76048c7ec3bc1a1a3f	607	PANTHER	PTHR10283		8	592	9.9E-173	T	30-10-2018
+Lingula_anatina_LAN|XP_013418475.1	dc1354de9c726c76048c7ec3bc1a1a3f	607	CDD	cd01115	SLC13_permease	41	571	2.57297E-53	T	30-10-2018
+Lingula_anatina_LAN|XP_013418475.1	dc1354de9c726c76048c7ec3bc1a1a3f	607	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	10	581	4.0E-91	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013418475.1	dc1354de9c726c76048c7ec3bc1a1a3f	607	PANTHER	PTHR10283:SF82		8	592	9.9E-173	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	PANTHER	PTHR10283:SF82		5	305	3.2E-161	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	7	293	1.4E-57	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	304	430	1.8E-27	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	PANTHER	PTHR10283		304	441	3.2E-161	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	PANTHER	PTHR10283		5	305	3.2E-161	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	MobiDBLite	mobidb-lite	consensus disorder prediction	477	514	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12179	a1a6971366f5cba5f1a9ab3ec7887486	514	PANTHER	PTHR10283:SF82		304	441	3.2E-161	T	30-10-2018
+Macrostomum_lignano_MLI|PAA61491.1	9dd4028b5cd5289115a036c78fc57134	261	PANTHER	PTHR10283		17	257	3.9E-58	T	30-10-2018
+Macrostomum_lignano_MLI|PAA61491.1	9dd4028b5cd5289115a036c78fc57134	261	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	192	208	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Macrostomum_lignano_MLI|PAA61491.1	9dd4028b5cd5289115a036c78fc57134	261	PANTHER	PTHR10283:SF82		17	257	3.9E-58	T	30-10-2018
+Macrostomum_lignano_MLI|PAA61491.1	9dd4028b5cd5289115a036c78fc57134	261	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	18	243	1.2E-31	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022344489.1	5f8e9ea5b2fa7bd0124656b320ddc32e	595	PANTHER	PTHR10283		11	581	7.8E-193	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022344489.1	5f8e9ea5b2fa7bd0124656b320ddc32e	595	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	561	4.2E-106	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_virginica_CVI|XP_022344489.1	5f8e9ea5b2fa7bd0124656b320ddc32e	595	PANTHER	PTHR10283:SF82		11	581	7.8E-193	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022344489.1	5f8e9ea5b2fa7bd0124656b320ddc32e	595	CDD	cd01115	SLC13_permease	42	557	5.05343E-61	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37654-0.0	0f4043d3475503bcf77b037e90d06a7c	79	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	77	4.0E-17	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37654-0.0	0f4043d3475503bcf77b037e90d06a7c	79	PANTHER	PTHR10283		1	79	2.8E-30	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_24192-0.5	85ad465ae131b2193cc0964a9c906e59	364	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	330	4.6E-53	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_24192-0.5	85ad465ae131b2193cc0964a9c906e59	364	PANTHER	PTHR10283		2	354	4.0E-113	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_24192-0.5	85ad465ae131b2193cc0964a9c906e59	364	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	276	292	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Modiolus_philippinarum_MPH|Mph_scaf_24192-0.5	85ad465ae131b2193cc0964a9c906e59	364	PANTHER	PTHR10283:SF82		2	354	4.0E-113	T	30-10-2018
+Aplysia_californica_ACA|XP_012940973.1	10662877996cc0e34878b4e73513d08c	222	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	131	147	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012940973.1	10662877996cc0e34878b4e73513d08c	222	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	108	185	1.7E-13	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012940973.1	10662877996cc0e34878b4e73513d08c	222	PANTHER	PTHR10283		115	206	6.8E-50	T	30-10-2018
+Aplysia_californica_ACA|XP_012940973.1	10662877996cc0e34878b4e73513d08c	222	PANTHER	PTHR10283		3	116	6.8E-50	T	30-10-2018
+Aplysia_californica_ACA|XP_012940973.1	10662877996cc0e34878b4e73513d08c	222	PANTHER	PTHR10283:SF82		115	206	6.8E-50	T	30-10-2018
+Aplysia_californica_ACA|XP_012940973.1	10662877996cc0e34878b4e73513d08c	222	PANTHER	PTHR10283:SF82		3	116	6.8E-50	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088967.1	86b460a60b699cf19b6128b2374dc220	355	PANTHER	PTHR10283		6	354	7.5E-106	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088967.1	86b460a60b699cf19b6128b2374dc220	355	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	12	354	3.8E-52	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013088967.1	86b460a60b699cf19b6128b2374dc220	355	MobiDBLite	mobidb-lite	consensus disorder prediction	187	237	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T23694	04be4f54c10c5bf4de76638e1a8e7d84	565	CDD	cd01115	SLC13_permease	42	523	4.40065E-62	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T23694	04be4f54c10c5bf4de76638e1a8e7d84	565	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	473	489	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T23694	04be4f54c10c5bf4de76638e1a8e7d84	565	PANTHER	PTHR10283		13	557	1.9E-168	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T23694	04be4f54c10c5bf4de76638e1a8e7d84	565	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	527	5.8E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T23694	04be4f54c10c5bf4de76638e1a8e7d84	565	PANTHER	PTHR10283:SF82		13	557	1.9E-168	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	255	271	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	PANTHER	PTHR10283		1	95	1.6E-88	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	5	92	4.7E-11	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	95	309	4.0E-27	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	PANTHER	PTHR10283		95	327	1.6E-88	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	PANTHER	PTHR10283:SF82		1	95	1.6E-88	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_64138-0.13	254763f123d39f01fd3c57cd4cf797f9	341	PANTHER	PTHR10283:SF82		95	327	1.6E-88	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013068298.1	70ec87bd689b1c04521f7030da128967	315	PANTHER	PTHR10283:SF82		89	311	1.1E-76	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013068298.1	70ec87bd689b1c04521f7030da128967	315	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	95	311	4.8E-38	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013068298.1	70ec87bd689b1c04521f7030da128967	315	PANTHER	PTHR10283		89	311	1.1E-76	T	30-10-2018
+Lingula_anatina_LAN|XP_013393777.1	ded2b9c5e735b36be086e96b669a9582	278	PANTHER	PTHR10283:SF82		1	252	1.0E-96	T	30-10-2018
+Lingula_anatina_LAN|XP_013393777.1	ded2b9c5e735b36be086e96b669a9582	278	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	185	201	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013393777.1	ded2b9c5e735b36be086e96b669a9582	278	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	239	9.6E-43	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lingula_anatina_LAN|XP_013393777.1	ded2b9c5e735b36be086e96b669a9582	278	PANTHER	PTHR10283		1	252	1.0E-96	T	30-10-2018
+Phoronis_australis_PAU|g14699.t1	d589604a63d0da376761dbfb74f2d801	641	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	584	600	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Phoronis_australis_PAU|g14699.t1	d589604a63d0da376761dbfb74f2d801	641	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	50	609	3.2E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Phoronis_australis_PAU|g14699.t1	d589604a63d0da376761dbfb74f2d801	641	MobiDBLite	mobidb-lite	consensus disorder prediction	209	234	-	T	30-10-2018
+Phoronis_australis_PAU|g14699.t1	d589604a63d0da376761dbfb74f2d801	641	PANTHER	PTHR10283:SF82		50	606	3.0E-191	T	30-10-2018
+Phoronis_australis_PAU|g14699.t1	d589604a63d0da376761dbfb74f2d801	641	CDD	cd01115	SLC13_permease	88	606	2.8555E-59	T	30-10-2018
+Phoronis_australis_PAU|g14699.t1	d589604a63d0da376761dbfb74f2d801	641	PANTHER	PTHR10283		50	606	3.0E-191	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47993.1	17159502ac9b852d0cca9ea2e22b7520	590	PANTHER	PTHR10283:SF82		14	580	6.1E-144	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47993.1	17159502ac9b852d0cca9ea2e22b7520	590	PANTHER	PTHR10283		14	580	6.1E-144	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47993.1	17159502ac9b852d0cca9ea2e22b7520	590	MobiDBLite	mobidb-lite	consensus disorder prediction	182	215	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA47993.1	17159502ac9b852d0cca9ea2e22b7520	590	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	23	568	2.6E-69	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF64857.23	7e7af07935af7615ddd2f2cd23332746	588	PANTHER	PTHR10283:SF82		15	557	1.5E-182	T	30-10-2018
+Chlamys_farreri_CFA|CF64857.23	7e7af07935af7615ddd2f2cd23332746	588	PANTHER	PTHR10283		15	557	1.5E-182	T	30-10-2018
+Chlamys_farreri_CFA|CF64857.23	7e7af07935af7615ddd2f2cd23332746	588	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	17	549	2.6E-98	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Chlamys_farreri_CFA|CF64857.23	7e7af07935af7615ddd2f2cd23332746	588	CDD	cd01115	SLC13_permease	43	544	2.64758E-63	T	30-10-2018
+Chlamys_farreri_CFA|CF64857.23	7e7af07935af7615ddd2f2cd23332746	588	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	494	510	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029338-T1	44a69ba3321adf8ac3deb3b6204ff618	69	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	29	67	9.9E-9	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029338-T1	44a69ba3321adf8ac3deb3b6204ff618	69	PANTHER	PTHR10283:SF66		23	67	4.8E-15	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029338-T1	44a69ba3321adf8ac3deb3b6204ff618	69	PANTHER	PTHR10283		23	67	4.8E-15	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016792-T1	550e8a8c37400659e4cf309278e94f90	650	PANTHER	PTHR10283		6	443	2.8E-130	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016792-T1	550e8a8c37400659e4cf309278e94f90	650	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	5	434	5.4E-67	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_016792-T1	550e8a8c37400659e4cf309278e94f90	650	PANTHER	PTHR10283:SF82		6	443	2.8E-130	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016792-T1	550e8a8c37400659e4cf309278e94f90	650	CDD	cd01115	SLC13_permease	101	424	2.58297E-53	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016792-T1	550e8a8c37400659e4cf309278e94f90	650	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	381	397	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16290	9ec1aa1424f7196ade38ab78cc5edf00	410	MobiDBLite	mobidb-lite	consensus disorder prediction	195	217	-	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16290	9ec1aa1424f7196ade38ab78cc5edf00	410	PANTHER	PTHR10283:SF82		6	372	4.0E-106	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T16290	9ec1aa1424f7196ade38ab78cc5edf00	410	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	8	360	1.7E-54	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T16290	9ec1aa1424f7196ade38ab78cc5edf00	410	PANTHER	PTHR10283		6	372	4.0E-106	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922314.1	c3dd6a468f49e26c07f0411aa453c3c7	632	CDD	cd01115	SLC13_permease	49	591	5.15836E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922314.1	c3dd6a468f49e26c07f0411aa453c3c7	632	PANTHER	PTHR10283:SF82		19	603	1.3E-178	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922314.1	c3dd6a468f49e26c07f0411aa453c3c7	632	MobiDBLite	mobidb-lite	consensus disorder prediction	205	240	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922314.1	c3dd6a468f49e26c07f0411aa453c3c7	632	PANTHER	PTHR10283		19	603	1.3E-178	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019922314.1	c3dd6a468f49e26c07f0411aa453c3c7	632	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	20	595	2.5E-96	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009029686.1	e54a772afeea0a1956251480ed9134c7	472	PANTHER	PTHR10283:SF82		1	469	3.9E-167	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029686.1	e54a772afeea0a1956251480ed9134c7	472	CDD	cd01115	SLC13_permease	1	471	1.75943E-61	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029686.1	e54a772afeea0a1956251480ed9134c7	472	PANTHER	PTHR10283		1	469	3.9E-167	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029686.1	e54a772afeea0a1956251480ed9134c7	472	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	469	5.7E-85	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009023347.1	f089e0662dd1ecfdaca726aa994dfd6c	548	PANTHER	PTHR10283		3	539	1.8E-172	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023347.1	f089e0662dd1ecfdaca726aa994dfd6c	548	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	2	531	1.2E-85	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009023347.1	f089e0662dd1ecfdaca726aa994dfd6c	548	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	476	492	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009023347.1	f089e0662dd1ecfdaca726aa994dfd6c	548	CDD	cd01115	SLC13_permease	10	526	1.54173E-56	T	30-10-2018
+Helobdella_robusta_HRO|XP_009023347.1	f089e0662dd1ecfdaca726aa994dfd6c	548	PANTHER	PTHR10283:SF82		3	539	1.8E-172	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12180	5134fde8a34b0003af75dcbec331f66d	356	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	68	354	9.3E-40	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Patinopecten_yessoensis_PYE|PY_T12180	5134fde8a34b0003af75dcbec331f66d	356	PANTHER	PTHR10283		60	355	6.2E-76	T	30-10-2018
+Patinopecten_yessoensis_PYE|PY_T12180	5134fde8a34b0003af75dcbec331f66d	356	PANTHER	PTHR10283:SF66		60	355	6.2E-76	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063859.1	b50f8d4127601cf3e9182bc5de2ccccc	580	CDD	cd01115	SLC13_permease	41	552	4.60665E-53	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063859.1	b50f8d4127601cf3e9182bc5de2ccccc	580	PANTHER	PTHR10283:SF82		6	569	2.5E-162	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013063859.1	b50f8d4127601cf3e9182bc5de2ccccc	580	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	502	518	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013063859.1	b50f8d4127601cf3e9182bc5de2ccccc	580	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	13	554	1.2E-89	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Biomphalaria_glabrata_BGL|XP_013063859.1	b50f8d4127601cf3e9182bc5de2ccccc	580	PANTHER	PTHR10283		6	569	2.5E-162	T	30-10-2018
+Schistosoma_mansoni_SMA|XP_018654673.1	3e5fe20de3ce3d282fc687f8c34e09a4	1864	CDD	cd01115	SLC13_permease	11	516	1.72378E-73	T	30-10-2018
+Schistosoma_mansoni_SMA|XP_018654673.1	3e5fe20de3ce3d282fc687f8c34e09a4	1864	PANTHER	PTHR10283:SF82		6	588	5.2E-278	T	30-10-2018
+Schistosoma_mansoni_SMA|XP_018654673.1	3e5fe20de3ce3d282fc687f8c34e09a4	1864	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	11	525	5.0E-68	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schistosoma_mansoni_SMA|XP_018654673.1	3e5fe20de3ce3d282fc687f8c34e09a4	1864	PANTHER	PTHR10283		6	588	5.2E-278	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425736.1	25dd2755feccc545418cabc392ed57d5	658	CDD	cd01115	SLC13_permease	43	570	4.22544E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425736.1	25dd2755feccc545418cabc392ed57d5	658	PANTHER	PTHR10283:SF82		19	602	7.7E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425736.1	25dd2755feccc545418cabc392ed57d5	658	PANTHER	PTHR10283		19	602	7.7E-185	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011425736.1	25dd2755feccc545418cabc392ed57d5	658	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	16	574	4.0E-94	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425736.1	25dd2755feccc545418cabc392ed57d5	658	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	520	536	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Crassostrea_gigas_CGI|XP_011425736.1	25dd2755feccc545418cabc392ed57d5	658	MobiDBLite	mobidb-lite	consensus disorder prediction	170	222	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g11214.t1	7292a796a74748bc90687ffaebc22eaa	669	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	74	642	7.5E-109	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Notospermus_geniculatus_NGE|g11214.t1	7292a796a74748bc90687ffaebc22eaa	669	CDD	cd01115	SLC13_permease	99	638	6.62145E-64	T	30-10-2018
+Notospermus_geniculatus_NGE|g11214.t1	7292a796a74748bc90687ffaebc22eaa	669	PANTHER	PTHR10283		68	655	6.7E-215	T	30-10-2018
+Notospermus_geniculatus_NGE|g11214.t1	7292a796a74748bc90687ffaebc22eaa	669	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	588	604	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Notospermus_geniculatus_NGE|g11214.t1	7292a796a74748bc90687ffaebc22eaa	669	PANTHER	PTHR10283:SF82		68	655	6.7E-215	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	15	5.0	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	123	318	3.7E-31	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	PANTHER	PTHR10283		26	53	3.0E-71	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	PANTHER	PTHR10283		119	317	3.0E-71	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	PANTHER	PTHR10283		352	386	3.0E-71	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	MobiDBLite	mobidb-lite	consensus disorder prediction	49	114	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	PANTHER	PTHR10283:SF82		26	53	3.0E-71	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	PANTHER	PTHR10283:SF82		119	317	3.0E-71	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006540-T1	cd98b749e16cfd2fd3b6c9fa1231caf8	400	PANTHER	PTHR10283:SF82		352	386	3.0E-71	T	30-10-2018
+Aplysia_californica_ACA|XP_005105402.1	91716918bbd6cb77ec08ecb05cdad347	611	CDD	cd01115	SLC13_permease	40	579	6.39049E-52	T	30-10-2018
+Aplysia_californica_ACA|XP_005105402.1	91716918bbd6cb77ec08ecb05cdad347	611	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	9	579	8.9E-85	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_005105402.1	91716918bbd6cb77ec08ecb05cdad347	611	PANTHER	PTHR10283		6	594	2.8E-153	T	30-10-2018
+Aplysia_californica_ACA|XP_005105402.1	91716918bbd6cb77ec08ecb05cdad347	611	PANTHER	PTHR10283:SF82		6	594	2.8E-153	T	30-10-2018
+Lottia_gigantea_LGI|XP_009066041.1	a2ef71a343a6c85c7cff89a307eff002	565	CDD	cd01115	SLC13_permease	41	528	6.34084E-60	T	30-10-2018
+Lottia_gigantea_LGI|XP_009066041.1	a2ef71a343a6c85c7cff89a307eff002	565	PANTHER	PTHR10283		5	549	1.6E-177	T	30-10-2018
+Lottia_gigantea_LGI|XP_009066041.1	a2ef71a343a6c85c7cff89a307eff002	565	PANTHER	PTHR10283:SF82		5	549	1.6E-177	T	30-10-2018
+Lottia_gigantea_LGI|XP_009066041.1	a2ef71a343a6c85c7cff89a307eff002	565	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	7	543	1.3E-91	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_030754-T1	70d26dd5f416a7c1d9bed398e880e8c9	443	PANTHER	PTHR10283		14	375	7.8E-73	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030754-T1	70d26dd5f416a7c1d9bed398e880e8c9	443	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	375	1.3E-37	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_030754-T1	70d26dd5f416a7c1d9bed398e880e8c9	443	MobiDBLite	mobidb-lite	consensus disorder prediction	398	443	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030754-T1	70d26dd5f416a7c1d9bed398e880e8c9	443	PANTHER	PTHR10283:SF82		14	375	7.8E-73	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378260.1	72e11746c1d41c727cf18614315d2964	709	CDD	cd01115	SLC13_permease	98	655	2.46006E-58	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378260.1	72e11746c1d41c727cf18614315d2964	709	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	69	658	8.3E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Mizuhopecten_yessoensis_MYE|XP_021378260.1	72e11746c1d41c727cf18614315d2964	709	PANTHER	PTHR10283		70	680	2.0E-181	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378260.1	72e11746c1d41c727cf18614315d2964	709	PANTHER	PTHR10283:SF82		70	680	2.0E-181	T	30-10-2018
+Capitella_teleta_CTE|ELU15107.1	c4990eb871fad08bbc0cfe3847efe2c6	547	PANTHER	PTHR10283		21	99	3.9E-117	T	30-10-2018
+Capitella_teleta_CTE|ELU15107.1	c4990eb871fad08bbc0cfe3847efe2c6	547	PANTHER	PTHR10283		162	524	3.9E-117	T	30-10-2018
+Capitella_teleta_CTE|ELU15107.1	c4990eb871fad08bbc0cfe3847efe2c6	547	PANTHER	PTHR10283:SF82		21	99	3.9E-117	T	30-10-2018
+Capitella_teleta_CTE|ELU15107.1	c4990eb871fad08bbc0cfe3847efe2c6	547	PANTHER	PTHR10283:SF82		162	524	3.9E-117	T	30-10-2018
+Capitella_teleta_CTE|ELU15107.1	c4990eb871fad08bbc0cfe3847efe2c6	547	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	176	517	2.9E-41	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Capitella_teleta_CTE|ELU15107.1	c4990eb871fad08bbc0cfe3847efe2c6	547	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	17	99	1.5E-11	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029322-T1	d8f98846484fa7db97d3e2ad131ba39d	164	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	26	157	8.0E-30	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029322-T1	d8f98846484fa7db97d3e2ad131ba39d	164	PANTHER	PTHR10283		1	158	1.5E-53	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029322-T1	d8f98846484fa7db97d3e2ad131ba39d	164	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	129	145	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_029322-T1	d8f98846484fa7db97d3e2ad131ba39d	164	PANTHER	PTHR10283:SF82		1	158	1.5E-53	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006537-T1	5dca9ac83de7bed04eaada20e8e548c0	235	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	143	234	2.8E-17	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Lamellibrachia_luymsi_proteins_LLU|FUN_006537-T1	5dca9ac83de7bed04eaada20e8e548c0	235	PANTHER	PTHR10283		105	234	6.1E-30	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029687.1	b1571c09e006902f93160603a2162660	641	CDD	cd01115	SLC13_permease	50	601	2.46643E-65	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029687.1	b1571c09e006902f93160603a2162660	641	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	25	605	1.5E-99	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Helobdella_robusta_HRO|XP_009029687.1	b1571c09e006902f93160603a2162660	641	PANTHER	PTHR10283:SF82		18	627	4.6E-192	T	30-10-2018
+Helobdella_robusta_HRO|XP_009029687.1	b1571c09e006902f93160603a2162660	641	PANTHER	PTHR10283		18	627	4.6E-192	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003444.03	c851ddb83d9055f4183551ca819167c8	192	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	22	163	1.5E-23	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.003444.03	c851ddb83d9055f4183551ca819167c8	192	PANTHER	PTHR10283		17	172	3.2E-48	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.003444.03	c851ddb83d9055f4183551ca819167c8	192	PANTHER	PTHR10283:SF82		17	172	3.2E-48	T	30-10-2018
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	PANTHER	PTHR10283:SF82		110	325	1.5E-92	T	30-10-2018
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	PANTHER	PTHR10283:SF82		39	105	1.5E-92	T	30-10-2018
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	PANTHER	PTHR10283		110	325	1.5E-92	T	30-10-2018
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	PANTHER	PTHR10283		39	105	1.5E-92	T	30-10-2018
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	106	325	3.0E-39	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	57	102	1.7E-4	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	308	324	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Aplysia_californica_ACA|XP_012945926.1	66aba76738acf81487b1c90b2a2ba954	325	MobiDBLite	mobidb-lite	consensus disorder prediction	1	59	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11693-0.0	c4d11a9fa7c49086c7af600ed519cdf3	79	PANTHER	PTHR10283		1	78	3.5E-29	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11693-0.0	c4d11a9fa7c49086c7af600ed519cdf3	79	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	3	77	7.1E-17	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Schmidtea_mediterranea_SME|mk4.000332.07	642d4735c7b5ea53b68812cbcd2b4bf7	284	PANTHER	PTHR10283:SF82		13	284	3.9E-73	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.07	642d4735c7b5ea53b68812cbcd2b4bf7	284	PANTHER	PTHR10283		13	284	3.9E-73	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.000332.07	642d4735c7b5ea53b68812cbcd2b4bf7	284	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	15	284	5.6E-38	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Phoronis_australis_PAU|g1339.t1	11ae228750806444d81b092d353f5eca	458	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	429	7.7E-78	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Phoronis_australis_PAU|g1339.t1	11ae228750806444d81b092d353f5eca	458	PANTHER	PTHR10283		1	436	3.2E-143	T	30-10-2018
+Phoronis_australis_PAU|g1339.t1	11ae228750806444d81b092d353f5eca	458	ProSitePatterns	PS01271	Sodium:sulfate symporter family signature.	375	391	-	T	30-10-2018	IPR031312	Sodium/sulphate symporter, conserved site		Reactome: R-HSA-433137
+Phoronis_australis_PAU|g1339.t1	11ae228750806444d81b092d353f5eca	458	MobiDBLite	mobidb-lite	consensus disorder prediction	14	37	-	T	30-10-2018
+Phoronis_australis_PAU|g1339.t1	11ae228750806444d81b092d353f5eca	458	PANTHER	PTHR10283:SF109		1	436	3.2E-143	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038520-T1	6ad2db704a13cd86ccc1a2dc98f5ee5c	139	PANTHER	PTHR10283		2	128	2.6E-40	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038520-T1	6ad2db704a13cd86ccc1a2dc98f5ee5c	139	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	1	125	1.0E-23	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_54119-1.13	aea35b5d3bba87cbf3738a23f92d3895	579	CDD	cd01115	SLC13_permease	41	546	1.43861E-69	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_54119-1.13	aea35b5d3bba87cbf3738a23f92d3895	579	PANTHER	PTHR10283		8	570	2.4E-197	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_54119-1.13	aea35b5d3bba87cbf3738a23f92d3895	579	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	14	550	3.6E-100	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137
+Bathymodiolus_platifrons_BPL|Bpl_scaf_54119-1.13	aea35b5d3bba87cbf3738a23f92d3895	579	PANTHER	PTHR10283:SF82		8	570	2.4E-197	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378262.1	43de43ed12cd71aa69eb19859c6539d6	687	PANTHER	PTHR10283:SF82		70	672	2.4E-185	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378262.1	43de43ed12cd71aa69eb19859c6539d6	687	PANTHER	PTHR10283		70	672	2.4E-185	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378262.1	43de43ed12cd71aa69eb19859c6539d6	687	CDD	cd01115	SLC13_permease	98	647	3.0317E-60	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021378262.1	43de43ed12cd71aa69eb19859c6539d6	687	Pfam	PF00939	Sodium:sulfate symporter transmembrane region	69	650	1.6E-102	T	30-10-2018	IPR001898	Solute carrier family 13	GO:0005215|GO:0006814|GO:0016020|GO:0055085	Reactome: R-HSA-433137

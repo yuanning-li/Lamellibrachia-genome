@@ -1,0 +1,19 @@
+Chlamys_farreri_CFA|CF31777.81	1dbee919bfeb0ff7876c410b025c0b68	599	ProSiteProfiles	PS50006	Forkhead-associated (FHA) domain profile.	389	451	7.766	T	31-10-2018	IPR000253	Forkhead-associated (FHA) domain	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_034345-T1	d1c7f385d6a3ee10e09e1cdcd2bec6b4	569	Coils	Coil		52	72	-	T	31-10-2018
+Chlamys_farreri_CFA|CF59891.7	c6042c0dfde73d0c983dd418943380a2	665	MobiDBLite	mobidb-lite	consensus disorder prediction	1	50	-	T	31-10-2018
+Chlamys_farreri_CFA|CF59891.7	c6042c0dfde73d0c983dd418943380a2	665	MobiDBLite	mobidb-lite	consensus disorder prediction	126	153	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040445-T1	e4751c0b1e49c46f093104de54cab9ca	319	Pfam	PF01826	Trypsin Inhibitor like cysteine rich domain	30	81	1.1E-6	T	31-10-2018	IPR002919	Trypsin Inhibitor-like, cysteine rich domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040445-T1	e4751c0b1e49c46f093104de54cab9ca	319	SUPERFAMILY	SSF57567		29	81	3.43E-8	T	31-10-2018	IPR036084	Serine protease inhibitor-like superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040445-T1	e4751c0b1e49c46f093104de54cab9ca	319	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040445-T1	e4751c0b1e49c46f093104de54cab9ca	319	PANTHER	PTHR23259		27	82	1.0E-11	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040445-T1	e4751c0b1e49c46f093104de54cab9ca	319	Gene3D	G3DSA:2.10.25.10		27	82	1.1E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011459-T1	0ff30950275218229c2c3da6071ab19b	128	MobiDBLite	mobidb-lite	consensus disorder prediction	89	108	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011459-T1	0ff30950275218229c2c3da6071ab19b	128	Coils	Coil		71	123	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017562-T1	f7453ccae8a2c714f1d350ea899e9017	207	Coils	Coil		34	86	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017976-T1	5b32bf24690bcbed00b3a33295195268	99	Coils	Coil		41	86	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019923824.1	6e38e13bd5cf020091050897a180ed83	567	MobiDBLite	mobidb-lite	consensus disorder prediction	41	65	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019923824.1	6e38e13bd5cf020091050897a180ed83	567	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003614-T1	4e035a66b245180b177feb4327d172bf	198	Gene3D	G3DSA:2.60.60.20		76	178	6.4E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003614-T1	4e035a66b245180b177feb4327d172bf	198	SUPERFAMILY	SSF49723		77	158	8.63E-10	T	31-10-2018	IPR036392	PLAT/LH2 domain superfamily	GO:0005515	
+Lamellibrachia_luymsi_proteins_LLU|FUN_011456-T1	994a23357e2826d9f5a4fc5a7a92af51	112	Coils	Coil		50	102	-	T	31-10-2018
+Chlamys_farreri_CFA|CF28647.12	3722c5735979379c4bc6a5824c145827	593	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	31-10-2018

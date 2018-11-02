@@ -1,0 +1,1178 @@
+Crassostrea_gigas_CGI|XP_011435236.1	2654c7241216e5ec434e44edbce61ce3	557	PANTHER	PTHR28576		18	529	9.6E-106	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435236.1	2654c7241216e5ec434e44edbce61ce3	557	Pfam	PF13843	Transposase IS4	89	448	6.6E-80	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011435236.1	2654c7241216e5ec434e44edbce61ce3	557	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	515	544	9.4E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Crassostrea_gigas_CGI|XP_011435236.1	2654c7241216e5ec434e44edbce61ce3	557	MobiDBLite	mobidb-lite	consensus disorder prediction	1	53	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005107251.1	9d186236e5a171f8c32d15a4a692d216	211	Pfam	PF13843	Transposase IS4	1	75	9.2E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005107251.1	9d186236e5a171f8c32d15a4a692d216	211	PANTHER	PTHR28576:SF4		1	192	6.7E-21	T	30-10-2018
+Aplysia_californica_ACA|XP_005107251.1	9d186236e5a171f8c32d15a4a692d216	211	PANTHER	PTHR28576		1	192	6.7E-21	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305970.1	c46b9475fae9dfa942ff204bb64aac84	192	PANTHER	PTHR28576:SF13		13	190	4.6E-57	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305970.1	c46b9475fae9dfa942ff204bb64aac84	192	PANTHER	PTHR28576		13	190	4.6E-57	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305970.1	c46b9475fae9dfa942ff204bb64aac84	192	Pfam	PF13843	Transposase IS4	21	192	1.9E-47	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013088333.1	5253e0034e3b5f68d414206729d4e72e	224	PANTHER	PTHR28576:SF3		1	222	4.1E-71	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088333.1	5253e0034e3b5f68d414206729d4e72e	224	Pfam	PF13843	Transposase IS4	2	140	7.0E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013088333.1	5253e0034e3b5f68d414206729d4e72e	224	PANTHER	PTHR28576		1	222	4.1E-71	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020893552.1	4c623e596927699d59ed0d103fe7ac6d	385	Pfam	PF13843	Transposase IS4	180	368	1.7E-29	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020893552.1	4c623e596927699d59ed0d103fe7ac6d	385	PANTHER	PTHR28576		167	347	3.7E-34	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065470.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	PANTHER	PTHR28576		120	547	2.8E-74	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065470.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	MobiDBLite	mobidb-lite	consensus disorder prediction	13	57	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065470.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	PANTHER	PTHR28576:SF1		120	547	2.8E-74	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065470.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	Pfam	PF13843	Transposase IS4	170	528	1.3E-51	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013065469.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	PANTHER	PTHR28576		120	547	2.8E-74	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065469.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	MobiDBLite	mobidb-lite	consensus disorder prediction	13	57	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065469.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	PANTHER	PTHR28576:SF1		120	547	2.8E-74	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065469.1	d71ddd25b75c1d3f71c03ea7c8f58691	570	Pfam	PF13843	Transposase IS4	170	528	1.3E-51	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	PANTHER	PTHR23145:SF2		875	1250	1.3E-58	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	PANTHER	PTHR23145:SF2		694	815	1.3E-58	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	PANTHER	PTHR23145		875	1250	1.3E-58	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	PANTHER	PTHR23145		694	815	1.3E-58	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	Pfam	PF13843	Transposase IS4	38	338	6.8E-51	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	MobiDBLite	mobidb-lite	consensus disorder prediction	636	686	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_59079-0.3	8f5f88456ee6c843a5b8c51f66cf8c91	1255	MobiDBLite	mobidb-lite	consensus disorder prediction	482	519	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA64585.1	91b4fb35d2c145a44cb39b2590aba146	558	Pfam	PF13843	Transposase IS4	87	457	3.3E-64	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA64585.1	91b4fb35d2c145a44cb39b2590aba146	558	PANTHER	PTHR28576:SF4		81	526	2.6E-64	T	30-10-2018
+Macrostomum_lignano_MLI|PAA64585.1	91b4fb35d2c145a44cb39b2590aba146	558	PANTHER	PTHR28576		81	526	2.6E-64	T	30-10-2018
+Macrostomum_lignano_MLI|PAA64585.1	91b4fb35d2c145a44cb39b2590aba146	558	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011441751.1	7cb43bb066ddb676f74ed3144a31471e	457	PANTHER	PTHR28576:SF4		1	347	5.4E-94	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011441751.1	7cb43bb066ddb676f74ed3144a31471e	457	PANTHER	PTHR28576		1	347	5.4E-94	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011441751.1	7cb43bb066ddb676f74ed3144a31471e	457	Pfam	PF13843	Transposase IS4	1	317	6.5E-76	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005093017.1	f6a94e1db81a298a100f8cc51b447299	352	PANTHER	PTHR28576		101	163	6.5E-58	T	30-10-2018
+Aplysia_californica_ACA|XP_005093017.1	f6a94e1db81a298a100f8cc51b447299	352	PANTHER	PTHR28576		169	345	6.5E-58	T	30-10-2018
+Aplysia_californica_ACA|XP_005093017.1	f6a94e1db81a298a100f8cc51b447299	352	PANTHER	PTHR28576:SF13		169	345	6.5E-58	T	30-10-2018
+Aplysia_californica_ACA|XP_005093017.1	f6a94e1db81a298a100f8cc51b447299	352	Pfam	PF13843	Transposase IS4	166	334	6.1E-30	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005093017.1	f6a94e1db81a298a100f8cc51b447299	352	Pfam	PF13843	Transposase IS4	96	163	2.4E-12	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005093017.1	f6a94e1db81a298a100f8cc51b447299	352	PANTHER	PTHR28576:SF13		101	163	6.5E-58	T	30-10-2018
+Aplysia_californica_ACA|XP_005110932.1	f023ca5902c2869b830013fdb04b370c	324	PANTHER	PTHR28576		129	305	2.5E-46	T	30-10-2018
+Aplysia_californica_ACA|XP_005110932.1	f023ca5902c2869b830013fdb04b370c	324	MobiDBLite	mobidb-lite	consensus disorder prediction	1	56	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005110932.1	f023ca5902c2869b830013fdb04b370c	324	Pfam	PF13843	Transposase IS4	128	313	5.1E-44	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040857-T1	a1b2ef5ec710a7ef644e0948b7544c43	594	PANTHER	PTHR28576:SF1		55	528	1.7E-107	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040857-T1	a1b2ef5ec710a7ef644e0948b7544c43	594	MobiDBLite	mobidb-lite	consensus disorder prediction	1	88	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040857-T1	a1b2ef5ec710a7ef644e0948b7544c43	594	Pfam	PF13843	Transposase IS4	111	471	4.2E-63	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040857-T1	a1b2ef5ec710a7ef644e0948b7544c43	594	PANTHER	PTHR28576		55	528	1.7E-107	T	30-10-2018
+Notospermus_geniculatus_NGE|g41275.t1	f8aca00bd289716173507bc2ab88f27b	410	MobiDBLite	mobidb-lite	consensus disorder prediction	388	410	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g41275.t1	f8aca00bd289716173507bc2ab88f27b	410	PANTHER	PTHR28576:SF4		1	312	9.9E-76	T	30-10-2018
+Notospermus_geniculatus_NGE|g41275.t1	f8aca00bd289716173507bc2ab88f27b	410	PANTHER	PTHR28576		1	312	9.9E-76	T	30-10-2018
+Notospermus_geniculatus_NGE|g41275.t1	f8aca00bd289716173507bc2ab88f27b	410	Pfam	PF13843	Transposase IS4	1	278	6.1E-69	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005091357.1	1e11760476dfa7d3a75829943d960732	629	MobiDBLite	mobidb-lite	consensus disorder prediction	1	127	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005091357.1	1e11760476dfa7d3a75829943d960732	629	Pfam	PF13843	Transposase IS4	156	515	5.5E-60	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005091357.1	1e11760476dfa7d3a75829943d960732	629	PANTHER	PTHR28576		69	602	6.3E-82	T	30-10-2018
+Aplysia_californica_ACA|XP_005091357.1	1e11760476dfa7d3a75829943d960732	629	MobiDBLite	mobidb-lite	consensus disorder prediction	548	574	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA63784.1	4247cbd116b9779a625655808407d44d	266	PANTHER	PTHR28576		2	256	1.3E-49	T	30-10-2018
+Macrostomum_lignano_MLI|PAA63784.1	4247cbd116b9779a625655808407d44d	266	Pfam	PF13843	Transposase IS4	2	240	4.1E-40	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g37108.t1	bd13dc61fa1be75ff08ba46436e81f1d	368	PANTHER	PTHR28576:SF4		1	266	5.2E-51	T	30-10-2018
+Notospermus_geniculatus_NGE|g37108.t1	bd13dc61fa1be75ff08ba46436e81f1d	368	PANTHER	PTHR28576		1	266	5.2E-51	T	30-10-2018
+Notospermus_geniculatus_NGE|g37108.t1	bd13dc61fa1be75ff08ba46436e81f1d	368	Pfam	PF13843	Transposase IS4	2	247	9.0E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA53757.1	ac120a12227edba6343062f0538aca89	567	PANTHER	PTHR28576		125	547	3.5E-71	T	30-10-2018
+Macrostomum_lignano_MLI|PAA53757.1	ac120a12227edba6343062f0538aca89	567	Coils	Coil		28	48	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA53757.1	ac120a12227edba6343062f0538aca89	567	Pfam	PF13843	Transposase IS4	125	470	1.8E-73	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA53757.1	ac120a12227edba6343062f0538aca89	567	MobiDBLite	mobidb-lite	consensus disorder prediction	48	78	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA53757.1	ac120a12227edba6343062f0538aca89	567	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g30977.t1	2ba064e553ea55682712eb751a44af9a	505	Pfam	PF13843	Transposase IS4	6	386	3.4E-83	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g30977.t1	2ba064e553ea55682712eb751a44af9a	505	PANTHER	PTHR28576		6	414	1.2E-93	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	Gene3D	G3DSA:2.60.40.10		250	346	2.0E-9	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	Pfam	PF07679	Immunoglobulin I-set domain	172	221	2.4E-8	T	30-10-2018	IPR013098	Immunoglobulin I-set		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	Pfam	PF07679	Immunoglobulin I-set domain	258	338	4.9E-8	T	30-10-2018	IPR013098	Immunoglobulin I-set		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	ProSiteProfiles	PS50835	Ig-like domain profile.	254	340	11.134	T	30-10-2018	IPR007110	Immunoglobulin-like domain		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	SUPERFAMILY	SSF48726		171	222	3.84E-10	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	CDD	cd00096	Ig	170	218	3.6159E-7	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	SMART	SM00409		263	347	0.018	T	30-10-2018	IPR003599	Immunoglobulin subtype		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	SMART	SM00409		130	220	11.0	T	30-10-2018	IPR003599	Immunoglobulin subtype		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	Pfam	PF13843	Transposase IS4	7	59	6.5E-11	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	CDD	cd00096	Ig	275	337	3.65934E-5	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	SUPERFAMILY	SSF48726		258	342	3.08E-13	T	30-10-2018	IPR036179	Immunoglobulin-like domain superfamily		
+Schmidtea_mediterranea_SME|mk4.020649.00	f9639c266f368b6938ca5fe4cb587190	402	Gene3D	G3DSA:2.60.40.10		156	222	2.0E-10	T	30-10-2018	IPR013783	Immunoglobulin-like fold		
+Octopus_bimaculoides_OBI|XP_014778316.1	ab63be0d9bab7800ae1cf37d44dd2ce5	167	Pfam	PF13843	Transposase IS4	3	151	4.9E-20	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014778316.1	ab63be0d9bab7800ae1cf37d44dd2ce5	167	MobiDBLite	mobidb-lite	consensus disorder prediction	144	167	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014778316.1	ab63be0d9bab7800ae1cf37d44dd2ce5	167	PANTHER	PTHR28576		3	154	5.1E-19	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014778316.1	ab63be0d9bab7800ae1cf37d44dd2ce5	167	PANTHER	PTHR28576:SF13		3	154	5.1E-19	T	30-10-2018
+Phoronis_australis_PAU|g15594.t1	1f85fb17b81993031fec3fcdfca3260c	612	MobiDBLite	mobidb-lite	consensus disorder prediction	21	55	-	T	30-10-2018
+Phoronis_australis_PAU|g15594.t1	1f85fb17b81993031fec3fcdfca3260c	612	Pfam	PF13843	Transposase IS4	123	497	3.4E-89	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g15594.t1	1f85fb17b81993031fec3fcdfca3260c	612	PANTHER	PTHR28576:SF13		118	591	3.3E-138	T	30-10-2018
+Phoronis_australis_PAU|g15594.t1	1f85fb17b81993031fec3fcdfca3260c	612	PANTHER	PTHR28576		118	591	3.3E-138	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013066255.1	f99840cf96d49a84eb3182f77d24ed69	296	Pfam	PF13843	Transposase IS4	19	295	3.3E-71	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013066255.1	f99840cf96d49a84eb3182f77d24ed69	296	PANTHER	PTHR28576		15	296	2.0E-78	T	30-10-2018
+Lingula_anatina_LAN|XP_013407355.1	a6370a489c903b2e1b1dcd3eb8730afe	565	PANTHER	PTHR28576:SF13		68	561	6.7E-117	T	30-10-2018
+Lingula_anatina_LAN|XP_013407355.1	a6370a489c903b2e1b1dcd3eb8730afe	565	Pfam	PF13843	Transposase IS4	96	453	6.6E-99	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013407355.1	a6370a489c903b2e1b1dcd3eb8730afe	565	MobiDBLite	mobidb-lite	consensus disorder prediction	38	61	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013407355.1	a6370a489c903b2e1b1dcd3eb8730afe	565	PANTHER	PTHR28576		68	561	6.7E-117	T	30-10-2018
+Aplysia_californica_ACA|XP_005096839.1	cf3b5cf4c7d866d04f4508d33f7b4537	602	Pfam	PF13843	Transposase IS4	122	487	3.0E-62	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005096839.1	cf3b5cf4c7d866d04f4508d33f7b4537	602	PANTHER	PTHR28576:SF13		107	588	3.5E-101	T	30-10-2018
+Aplysia_californica_ACA|XP_005096839.1	cf3b5cf4c7d866d04f4508d33f7b4537	602	PANTHER	PTHR28576		107	588	3.5E-101	T	30-10-2018
+Aplysia_californica_ACA|XP_005096839.1	cf3b5cf4c7d866d04f4508d33f7b4537	602	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	554	583	1.3E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Aplysia_californica_ACA|XP_005096839.1	cf3b5cf4c7d866d04f4508d33f7b4537	602	MobiDBLite	mobidb-lite	consensus disorder prediction	27	79	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25147-0.3	d88a4804c11aef9da7e7876e2de6b56c	532	PANTHER	PTHR28576		297	472	6.6E-33	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25147-0.3	d88a4804c11aef9da7e7876e2de6b56c	532	SUPERFAMILY	SSF56349		12	193	6.47E-12	T	30-10-2018	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Modiolus_philippinarum_MPH|Mph_scaf_25147-0.3	d88a4804c11aef9da7e7876e2de6b56c	532	Gene3D	G3DSA:1.10.443.10		8	191	6.9E-13	T	30-10-2018	IPR013762	Integrase-like, catalytic domain superfamily	GO:0003677|GO:0006310|GO:0015074	
+Modiolus_philippinarum_MPH|Mph_scaf_25147-0.3	d88a4804c11aef9da7e7876e2de6b56c	532	MobiDBLite	mobidb-lite	consensus disorder prediction	221	244	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_25147-0.3	d88a4804c11aef9da7e7876e2de6b56c	532	Pfam	PF00589	Phage integrase family	16	182	7.0E-7	T	30-10-2018	IPR002104	Integrase, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Modiolus_philippinarum_MPH|Mph_scaf_25147-0.3	d88a4804c11aef9da7e7876e2de6b56c	532	Pfam	PF13843	Transposase IS4	292	432	2.3E-22	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	Pfam	PF13843	Transposase IS4	61	125	5.3E-10	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	Pfam	PF13843	Transposase IS4	2	55	1.7E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	PANTHER	PTHR28576		53	164	3.7E-31	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	PANTHER	PTHR28576		11	56	3.7E-31	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	PANTHER	PTHR28576:SF13		53	164	3.7E-31	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	PANTHER	PTHR28576:SF13		11	56	3.7E-31	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020910812.1	a90082f6be409e2b2bdcaf0553db32e5	190	MobiDBLite	mobidb-lite	consensus disorder prediction	161	190	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011441217.1	87787a86d714fcf7456b25924483b49d	493	MobiDBLite	mobidb-lite	consensus disorder prediction	47	71	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011441217.1	87787a86d714fcf7456b25924483b49d	493	PANTHER	PTHR28576		80	492	6.4E-122	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011441217.1	87787a86d714fcf7456b25924483b49d	493	Pfam	PF13843	Transposase IS4	110	468	8.4E-81	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011441217.1	87787a86d714fcf7456b25924483b49d	493	PANTHER	PTHR28576:SF13		80	492	6.4E-122	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290940.1	e5f23cb24abe96abe1bd71e16fe3338d	586	Pfam	PF13843	Transposase IS4	81	447	3.5E-87	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022290940.1	e5f23cb24abe96abe1bd71e16fe3338d	586	PANTHER	PTHR28576		54	480	2.5E-110	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305969.1	fb8a141512f3b2308ca4cf838a7f9d7f	213	PANTHER	PTHR28576		13	186	8.3E-56	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305969.1	fb8a141512f3b2308ca4cf838a7f9d7f	213	PANTHER	PTHR28576:SF13		13	186	8.3E-56	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305969.1	fb8a141512f3b2308ca4cf838a7f9d7f	213	Pfam	PF13843	Transposase IS4	21	186	6.0E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022305968.1	fb8a141512f3b2308ca4cf838a7f9d7f	213	PANTHER	PTHR28576		13	186	8.3E-56	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305968.1	fb8a141512f3b2308ca4cf838a7f9d7f	213	PANTHER	PTHR28576:SF13		13	186	8.3E-56	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305968.1	fb8a141512f3b2308ca4cf838a7f9d7f	213	Pfam	PF13843	Transposase IS4	21	186	6.0E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013090507.1	697a2d6ff3751ead2a8f904aae1428ac	223	PANTHER	PTHR28576		2	219	1.8E-42	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013090507.1	697a2d6ff3751ead2a8f904aae1428ac	223	PANTHER	PTHR28576:SF4		2	219	1.8E-42	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013090507.1	697a2d6ff3751ead2a8f904aae1428ac	223	Pfam	PF13843	Transposase IS4	2	213	3.9E-37	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	Pfam	PF13843	Transposase IS4	291	347	1.1E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	SUPERFAMILY	SSF47986		113	204	1.46E-19	T	30-10-2018	IPR011029	Death-like domain superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	ProSiteProfiles	PS50209	CARD caspase recruitment domain profile.	107	197	15.332	T	30-10-2018	IPR001315	CARD domain	GO:0042981	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	MobiDBLite	mobidb-lite	consensus disorder prediction	221	246	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	PANTHER	PTHR34920		114	227	6.3E-21	T	30-10-2018	IPR033238	B-cell lymphoma/leukemia 10/E10	GO:0006915|GO:0051092	Reactome: R-HSA-1169091|Reactome: R-HSA-202424|Reactome: R-HSA-2871837|Reactome: R-HSA-5607764|Reactome: R-HSA-8866654
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	Pfam	PF00619	Caspase recruitment domain	115	195	1.6E-15	T	30-10-2018	IPR001315	CARD domain	GO:0042981	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10277-12.2	741809264c7577f78f3cccb041aaef28	442	Gene3D	G3DSA:1.10.533.10		98	209	2.0E-27	T	30-10-2018
+Lingula_anatina_LAN|XP_013411025.1	00cf33a8c24b74a07c1c6d5b9c6086b4	625	PANTHER	PTHR28576:SF4		171	586	3.7E-71	T	30-10-2018
+Lingula_anatina_LAN|XP_013411025.1	00cf33a8c24b74a07c1c6d5b9c6086b4	625	Pfam	PF13843	Transposase IS4	171	524	2.2E-69	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013411025.1	00cf33a8c24b74a07c1c6d5b9c6086b4	625	Coils	Coil		189	209	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013411025.1	00cf33a8c24b74a07c1c6d5b9c6086b4	625	MobiDBLite	mobidb-lite	consensus disorder prediction	19	148	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013411025.1	00cf33a8c24b74a07c1c6d5b9c6086b4	625	PANTHER	PTHR28576		171	586	3.7E-71	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011430957.1	da847f48472f7cc2cba969ce8bdc58a2	564	MobiDBLite	mobidb-lite	consensus disorder prediction	1	63	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011430957.1	da847f48472f7cc2cba969ce8bdc58a2	564	PANTHER	PTHR28576		25	544	6.6E-107	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011430957.1	da847f48472f7cc2cba969ce8bdc58a2	564	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	521	551	1.4E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Crassostrea_gigas_CGI|XP_011430957.1	da847f48472f7cc2cba969ce8bdc58a2	564	Pfam	PF13843	Transposase IS4	97	456	6.9E-84	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g18888.t1	b5c9cdbb3d4e5ccf97f06c13de445a80	294	Pfam	PF13843	Transposase IS4	46	290	9.1E-56	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g18888.t1	b5c9cdbb3d4e5ccf97f06c13de445a80	294	PANTHER	PTHR28576		34	293	3.5E-65	T	30-10-2018
+Aplysia_californica_ACA|XP_012941584.1	7749937e2610811967d34b0e3e832314	192	PANTHER	PTHR28576		27	91	4.0E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_012941584.1	7749937e2610811967d34b0e3e832314	192	PANTHER	PTHR28576		91	153	4.0E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_012941584.1	7749937e2610811967d34b0e3e832314	192	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012941584.1	7749937e2610811967d34b0e3e832314	192	PANTHER	PTHR28576:SF13		27	91	4.0E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_012941584.1	7749937e2610811967d34b0e3e832314	192	PANTHER	PTHR28576:SF13		91	153	4.0E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_012941584.1	7749937e2610811967d34b0e3e832314	192	Pfam	PF13843	Transposase IS4	91	190	1.3E-12	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021377708.1	625582ddc09aab5c6eb83b537e32941d	585	PANTHER	PTHR28576		86	571	2.9E-116	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377708.1	625582ddc09aab5c6eb83b537e32941d	585	PANTHER	PTHR28576:SF13		86	571	2.9E-116	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377708.1	625582ddc09aab5c6eb83b537e32941d	585	Coils	Coil		42	62	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377708.1	625582ddc09aab5c6eb83b537e32941d	585	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	535	565	6.4E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Mizuhopecten_yessoensis_MYE|XP_021377708.1	625582ddc09aab5c6eb83b537e32941d	585	Pfam	PF13843	Transposase IS4	93	464	5.7E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021377708.1	625582ddc09aab5c6eb83b537e32941d	585	MobiDBLite	mobidb-lite	consensus disorder prediction	506	528	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351253.1	625582ddc09aab5c6eb83b537e32941d	585	PANTHER	PTHR28576		86	571	2.9E-116	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351253.1	625582ddc09aab5c6eb83b537e32941d	585	PANTHER	PTHR28576:SF13		86	571	2.9E-116	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351253.1	625582ddc09aab5c6eb83b537e32941d	585	Coils	Coil		42	62	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021351253.1	625582ddc09aab5c6eb83b537e32941d	585	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	535	565	6.4E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Mizuhopecten_yessoensis_MYE|XP_021351253.1	625582ddc09aab5c6eb83b537e32941d	585	Pfam	PF13843	Transposase IS4	93	464	5.7E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021351253.1	625582ddc09aab5c6eb83b537e32941d	585	MobiDBLite	mobidb-lite	consensus disorder prediction	506	528	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021370908.1	625582ddc09aab5c6eb83b537e32941d	585	PANTHER	PTHR28576		86	571	2.9E-116	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021370908.1	625582ddc09aab5c6eb83b537e32941d	585	PANTHER	PTHR28576:SF13		86	571	2.9E-116	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021370908.1	625582ddc09aab5c6eb83b537e32941d	585	Coils	Coil		42	62	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021370908.1	625582ddc09aab5c6eb83b537e32941d	585	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	535	565	6.4E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Mizuhopecten_yessoensis_MYE|XP_021370908.1	625582ddc09aab5c6eb83b537e32941d	585	Pfam	PF13843	Transposase IS4	93	464	5.7E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021370908.1	625582ddc09aab5c6eb83b537e32941d	585	MobiDBLite	mobidb-lite	consensus disorder prediction	506	528	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005101437.1	fa64cee618d168f334138ba6f52ab077	566	PANTHER	PTHR28576:SF4		99	556	9.5E-92	T	30-10-2018
+Aplysia_californica_ACA|XP_005101437.1	fa64cee618d168f334138ba6f52ab077	566	PANTHER	PTHR28576		99	556	9.5E-92	T	30-10-2018
+Aplysia_californica_ACA|XP_005101437.1	fa64cee618d168f334138ba6f52ab077	566	Pfam	PF13843	Transposase IS4	99	443	2.3E-75	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005090905.1	1e2b03cb1cd9de3f79399d7fe5a95ca3	605	PANTHER	PTHR28576		64	512	1.4E-106	T	30-10-2018
+Aplysia_californica_ACA|XP_005090905.1	1e2b03cb1cd9de3f79399d7fe5a95ca3	605	Coils	Coil		190	210	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005090905.1	1e2b03cb1cd9de3f79399d7fe5a95ca3	605	Pfam	PF13843	Transposase IS4	89	464	1.9E-82	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040950-T1	55dc18092f6119e25d0b4034d07b2085	244	Pfam	PF13843	Transposase IS4	5	116	8.7E-14	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040950-T1	55dc18092f6119e25d0b4034d07b2085	244	PANTHER	PTHR28576:SF13		5	237	2.9E-30	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040950-T1	55dc18092f6119e25d0b4034d07b2085	244	PANTHER	PTHR28576		5	237	2.9E-30	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040897-T1	55dc18092f6119e25d0b4034d07b2085	244	Pfam	PF13843	Transposase IS4	5	116	8.7E-14	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040897-T1	55dc18092f6119e25d0b4034d07b2085	244	PANTHER	PTHR28576:SF13		5	237	2.9E-30	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040897-T1	55dc18092f6119e25d0b4034d07b2085	244	PANTHER	PTHR28576		5	237	2.9E-30	T	30-10-2018
+Aplysia_californica_ACA|XP_005091401.1	e889fec6099b99cfef4d535dd4682561	577	Pfam	PF13843	Transposase IS4	99	457	1.7E-87	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005091401.1	e889fec6099b99cfef4d535dd4682561	577	MobiDBLite	mobidb-lite	consensus disorder prediction	493	513	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005091401.1	e889fec6099b99cfef4d535dd4682561	577	MobiDBLite	mobidb-lite	consensus disorder prediction	1	75	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005091401.1	e889fec6099b99cfef4d535dd4682561	577	PANTHER	PTHR28576		30	537	6.6E-121	T	30-10-2018
+Aplysia_californica_ACA|XP_005094825.1	5fc07472986defc26a801ec0e7c0e2ca	433	Pfam	PF13843	Transposase IS4	189	309	7.4E-18	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005094825.1	5fc07472986defc26a801ec0e7c0e2ca	433	MobiDBLite	mobidb-lite	consensus disorder prediction	11	103	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005094825.1	5fc07472986defc26a801ec0e7c0e2ca	433	PANTHER	PTHR28576		192	424	6.6E-37	T	30-10-2018
+Aplysia_californica_ACA|XP_005094825.1	5fc07472986defc26a801ec0e7c0e2ca	433	PANTHER	PTHR28576		101	170	6.6E-37	T	30-10-2018
+Aplysia_californica_ACA|XP_005094825.1	5fc07472986defc26a801ec0e7c0e2ca	433	PANTHER	PTHR28576:SF4		101	170	6.6E-37	T	30-10-2018
+Aplysia_californica_ACA|XP_005094825.1	5fc07472986defc26a801ec0e7c0e2ca	433	PANTHER	PTHR28576:SF4		192	424	6.6E-37	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013080796.1	1bc0cd55e602c6c16c1c357a3c555559	153	PANTHER	PTHR28576		13	143	3.8E-26	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013080796.1	1bc0cd55e602c6c16c1c357a3c555559	153	PANTHER	PTHR28576:SF1		13	143	3.8E-26	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013080796.1	1bc0cd55e602c6c16c1c357a3c555559	153	Pfam	PF13843	Transposase IS4	13	145	1.8E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014784407.1	acee7fbcbfdeaedab777a761e09b0bd3	268	PANTHER	PTHR28576		85	264	1.6E-48	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784407.1	acee7fbcbfdeaedab777a761e09b0bd3	268	PANTHER	PTHR28576:SF13		85	264	1.6E-48	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784407.1	acee7fbcbfdeaedab777a761e09b0bd3	268	Pfam	PF13843	Transposase IS4	83	258	8.5E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g33081.t1	28d2bb15188528befbff84e7018c7f81	676	Pfam	PF13843	Transposase IS4	184	558	6.2E-80	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g33081.t1	28d2bb15188528befbff84e7018c7f81	676	MobiDBLite	mobidb-lite	consensus disorder prediction	13	173	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g33081.t1	28d2bb15188528befbff84e7018c7f81	676	PANTHER	PTHR28576:SF13		154	674	3.3E-162	T	30-10-2018
+Notospermus_geniculatus_NGE|g33081.t1	28d2bb15188528befbff84e7018c7f81	676	ProSitePatterns	PS00498	Tyrosinase and hemocyanins CuB-binding region signature.	645	656	-	T	30-10-2018	IPR002227	Tyrosinase copper-binding domain	GO:0008152|GO:0016491	Reactome: R-HSA-5662702
+Notospermus_geniculatus_NGE|g33081.t1	28d2bb15188528befbff84e7018c7f81	676	PANTHER	PTHR28576		154	674	3.3E-162	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020909061.1	e1db50c1e09ba7c0b3517e46fd0a70c5	286	Pfam	PF13843	Transposase IS4	1	167	8.7E-33	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020909061.1	e1db50c1e09ba7c0b3517e46fd0a70c5	286	PANTHER	PTHR28576		2	234	8.8E-55	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362256.1	42ec4417d9bba0d90bb82b48a7fa2bed	568	Pfam	PF13843	Transposase IS4	103	457	1.0E-79	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021362256.1	42ec4417d9bba0d90bb82b48a7fa2bed	568	PANTHER	PTHR28576		86	539	1.1E-118	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362256.1	42ec4417d9bba0d90bb82b48a7fa2bed	568	PANTHER	PTHR28576:SF13		86	539	1.1E-118	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362256.1	42ec4417d9bba0d90bb82b48a7fa2bed	568	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021362256.1	42ec4417d9bba0d90bb82b48a7fa2bed	568	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	525	553	0.0016	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Biomphalaria_glabrata_BGL|XP_013061345.1	df72a25bff552335e3cbdb904e447e5e	152	Pfam	PF13843	Transposase IS4	26	131	2.5E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013061345.1	df72a25bff552335e3cbdb904e447e5e	152	PANTHER	PTHR28576		25	131	9.3E-16	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013061345.1	df72a25bff552335e3cbdb904e447e5e	152	PANTHER	PTHR28576:SF13		25	131	9.3E-16	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013061345.1	df72a25bff552335e3cbdb904e447e5e	152	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324494.1	ea47f446036899e3dc1f761e88f5dd06	266	PANTHER	PTHR28576		23	259	6.7E-52	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324494.1	ea47f446036899e3dc1f761e88f5dd06	266	MobiDBLite	mobidb-lite	consensus disorder prediction	1	62	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324494.1	ea47f446036899e3dc1f761e88f5dd06	266	Pfam	PF13843	Transposase IS4	102	255	3.5E-40	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022324493.1	ea47f446036899e3dc1f761e88f5dd06	266	PANTHER	PTHR28576		23	259	6.7E-52	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324493.1	ea47f446036899e3dc1f761e88f5dd06	266	MobiDBLite	mobidb-lite	consensus disorder prediction	1	62	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324493.1	ea47f446036899e3dc1f761e88f5dd06	266	Pfam	PF13843	Transposase IS4	102	255	3.5E-40	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g16551.t1	e6a6aa5bec7ce38013173feaa0815897	618	Pfam	PF13843	Transposase IS4	127	500	3.9E-91	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g16551.t1	e6a6aa5bec7ce38013173feaa0815897	618	PANTHER	PTHR28576		117	615	3.8E-138	T	30-10-2018
+Phoronis_australis_PAU|g16551.t1	e6a6aa5bec7ce38013173feaa0815897	618	PANTHER	PTHR28576:SF13		117	615	3.8E-138	T	30-10-2018
+Notospermus_geniculatus_NGE|g25225.t1	fbd5c282eba126fa7a7087db1a4213c6	598	PANTHER	PTHR28576		22	522	9.7E-75	T	30-10-2018
+Notospermus_geniculatus_NGE|g25225.t1	fbd5c282eba126fa7a7087db1a4213c6	598	MobiDBLite	mobidb-lite	consensus disorder prediction	19	106	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g25225.t1	fbd5c282eba126fa7a7087db1a4213c6	598	Pfam	PF13843	Transposase IS4	124	479	2.3E-75	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g2332.t1	362def75c1ce74f303afbf0c8fad4637	536	PANTHER	PTHR28576		249	526	1.9E-66	T	30-10-2018
+Notospermus_geniculatus_NGE|g2332.t1	362def75c1ce74f303afbf0c8fad4637	536	MobiDBLite	mobidb-lite	consensus disorder prediction	1	225	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g2332.t1	362def75c1ce74f303afbf0c8fad4637	536	Pfam	PF13843	Transposase IS4	258	520	2.2E-61	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g2332.t1	362def75c1ce74f303afbf0c8fad4637	536	PANTHER	PTHR28576:SF13		249	526	1.9E-66	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305947.1	f948e9240cab3ca53456826c98e7860e	455	PANTHER	PTHR28576		1	431	5.0E-112	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305947.1	f948e9240cab3ca53456826c98e7860e	455	Pfam	PF13843	Transposase IS4	1	315	3.4E-88	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022305947.1	f948e9240cab3ca53456826c98e7860e	455	PANTHER	PTHR28576:SF4		1	431	5.0E-112	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896597.1	f774898cdfe487ef7e071a8e3cd2833c	439	PANTHER	PTHR28576:SF13		54	430	3.7E-42	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896597.1	f774898cdfe487ef7e071a8e3cd2833c	439	PANTHER	PTHR28576		54	430	3.7E-42	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896597.1	f774898cdfe487ef7e071a8e3cd2833c	439	MobiDBLite	mobidb-lite	consensus disorder prediction	1	40	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896597.1	f774898cdfe487ef7e071a8e3cd2833c	439	Pfam	PF13843	Transposase IS4	55	427	1.2E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g40331.t1	348a052a83f6a26744f76595cbf8f706	528	MobiDBLite	mobidb-lite	consensus disorder prediction	1	105	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g40331.t1	348a052a83f6a26744f76595cbf8f706	528	PANTHER	PTHR28576		22	271	2.9E-22	T	30-10-2018
+Notospermus_geniculatus_NGE|g40331.t1	348a052a83f6a26744f76595cbf8f706	528	Pfam	PF13843	Transposase IS4	124	276	9.5E-25	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Capitella_teleta_CTE|ELT88145.1	727f288b36461dac088d706e2bf9acd3	91	Pfam	PF13843	Transposase IS4	1	90	3.6E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Capitella_teleta_CTE|ELT88145.1	727f288b36461dac088d706e2bf9acd3	91	PANTHER	PTHR28576:SF4		1	90	2.0E-18	T	30-10-2018
+Capitella_teleta_CTE|ELT88145.1	727f288b36461dac088d706e2bf9acd3	91	PANTHER	PTHR28576		1	90	2.0E-18	T	30-10-2018
+Aplysia_californica_ACA|XP_005104947.1	99d7e39295366635ce1cbe0efdd76898	125	PANTHER	PTHR28576		8	118	5.8E-23	T	30-10-2018
+Aplysia_californica_ACA|XP_005104947.1	99d7e39295366635ce1cbe0efdd76898	125	Pfam	PF13843	Transposase IS4	8	101	6.7E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_34127-0.7	b6bd80e6ed78928141fc572cfbf14f55	119	PANTHER	PTHR28576		1	114	1.6E-27	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_34127-0.7	b6bd80e6ed78928141fc572cfbf14f55	119	PANTHER	PTHR28576:SF4		1	114	1.6E-27	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_34127-0.7	b6bd80e6ed78928141fc572cfbf14f55	119	Pfam	PF13843	Transposase IS4	4	116	6.0E-23	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g20341.t1	af7ee2155f9281ab606f48c111676520	141	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_69721-0.0	af33921cd3b329a0f787d644826f1c7c	210	PANTHER	PTHR28576		120	209	1.8E-17	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_69721-0.0	af33921cd3b329a0f787d644826f1c7c	210	PANTHER	PTHR28576		31	108	1.8E-17	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_69721-0.0	af33921cd3b329a0f787d644826f1c7c	210	Pfam	PF13843	Transposase IS4	119	209	4.5E-12	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	MobiDBLite	mobidb-lite	consensus disorder prediction	21	248	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	Pfam	PF13843	Transposase IS4	253	614	1.9E-89	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	MobiDBLite	mobidb-lite	consensus disorder prediction	911	1059	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	MobiDBLite	mobidb-lite	consensus disorder prediction	1075	1103	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	Coils	Coil		1176	1196	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	PANTHER	PTHR28576		250	702	1.1E-111	T	30-10-2018
+Notospermus_geniculatus_NGE|g28636.t1	fcac7da78ec1b9e6c0b94fe46475a000	1235	MobiDBLite	mobidb-lite	consensus disorder prediction	642	671	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_37373-6.1	b90f8a3a84f3bb29e1e5336dc9bee6b6	190	Pfam	PF13843	Transposase IS4	47	100	6.3E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g28922.t1	79aa4160ba8b8e545bcee33803e5d80e	617	PANTHER	PTHR28576:SF4		129	609	5.8E-83	T	30-10-2018
+Notospermus_geniculatus_NGE|g28922.t1	79aa4160ba8b8e545bcee33803e5d80e	617	PANTHER	PTHR28576		129	609	5.8E-83	T	30-10-2018
+Notospermus_geniculatus_NGE|g28922.t1	79aa4160ba8b8e545bcee33803e5d80e	617	Pfam	PF13843	Transposase IS4	141	493	3.4E-79	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g28922.t1	79aa4160ba8b8e545bcee33803e5d80e	617	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	572	609	0.0015	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Notospermus_geniculatus_NGE|g28922.t1	79aa4160ba8b8e545bcee33803e5d80e	617	MobiDBLite	mobidb-lite	consensus disorder prediction	1	107	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022338902.1	0ebb8e6d2682cb83a810e160c73f5000	330	PANTHER	PTHR28576		3	278	9.9E-60	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022338902.1	0ebb8e6d2682cb83a810e160c73f5000	330	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	304	330	9.6E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Crassostrea_virginica_CVI|XP_022338902.1	0ebb8e6d2682cb83a810e160c73f5000	330	Pfam	PF13843	Transposase IS4	4	239	3.1E-44	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019925099.1	8f36bb85afb899b4cd0c8dea5d9972cc	563	Pfam	PF13843	Transposase IS4	89	454	1.3E-77	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019925099.1	8f36bb85afb899b4cd0c8dea5d9972cc	563	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	521	550	9.5E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Crassostrea_gigas_CGI|XP_019925099.1	8f36bb85afb899b4cd0c8dea5d9972cc	563	PANTHER	PTHR28576		18	535	7.0E-103	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019925099.1	8f36bb85afb899b4cd0c8dea5d9972cc	563	MobiDBLite	mobidb-lite	consensus disorder prediction	1	53	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014777174.1	15f5caf94581efa3430f8519d907d3c0	136	PANTHER	PTHR28576:SF3		1	118	6.0E-25	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014777174.1	15f5caf94581efa3430f8519d907d3c0	136	PANTHER	PTHR28576		1	118	6.0E-25	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014777174.1	15f5caf94581efa3430f8519d907d3c0	136	Pfam	PF13843	Transposase IS4	7	112	2.0E-19	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_27272-0.0	8efdab0967ba1877f95010d080b15b67	198	Pfam	PF13843	Transposase IS4	24	103	5.0E-8	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_27272-0.0	8efdab0967ba1877f95010d080b15b67	198	PANTHER	PTHR28576		18	180	2.3E-15	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_27272-0.0	8efdab0967ba1877f95010d080b15b67	198	PANTHER	PTHR28576:SF4		18	180	2.3E-15	T	30-10-2018
+Phoronis_australis_PAU|g4494.t1	cece4327f7fce75e3977c5e406fdb7b8	254	PANTHER	PTHR28576:SF13		2	241	2.8E-69	T	30-10-2018
+Phoronis_australis_PAU|g4494.t1	cece4327f7fce75e3977c5e406fdb7b8	254	Pfam	PF13843	Transposase IS4	1	243	4.6E-62	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g4494.t1	cece4327f7fce75e3977c5e406fdb7b8	254	PANTHER	PTHR28576		2	241	2.8E-69	T	30-10-2018
+Aplysia_californica_ACA|XP_005093019.1	de5f7ff6b236e42bf4e3e0495f6a1c67	338	PANTHER	PTHR28576:SF4		1	330	4.3E-65	T	30-10-2018
+Aplysia_californica_ACA|XP_005093019.1	de5f7ff6b236e42bf4e3e0495f6a1c67	338	Pfam	PF13843	Transposase IS4	2	304	1.3E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005093019.1	de5f7ff6b236e42bf4e3e0495f6a1c67	338	PANTHER	PTHR28576		1	330	4.3E-65	T	30-10-2018
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	Gene3D	G3DSA:3.40.910.10		638	705	2.2E-15	T	30-10-2018	IPR036982	Deoxyhypusine synthase superfamily	GO:0008612	Reactome: R-HSA-204626
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	MobiDBLite	mobidb-lite	consensus disorder prediction	1	228	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	PANTHER	PTHR28576:SF13		203	643	6.4E-165	T	30-10-2018
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	Pfam	PF13843	Transposase IS4	233	606	2.5E-89	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	SUPERFAMILY	SSF52467		652	695	7.52E-14	T	30-10-2018	IPR029035	DHS-like NAD/FAD-binding domain superfamily		
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	Pfam	PF01916	Deoxyhypusine synthase	652	695	9.7E-15	T	30-10-2018	IPR002773	Deoxyhypusine synthase	GO:0008612	Reactome: R-HSA-204626
+Notospermus_geniculatus_NGE|g14451.t1	ceb3d16b32d340959ee897d52dbb3fae	794	PANTHER	PTHR28576		203	643	6.4E-165	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_26678-0.0	b0780a8f74fa9b5a7c1fbe8a2f0b25eb	157	PANTHER	PTHR28576:SF13		10	144	8.4E-31	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_26678-0.0	b0780a8f74fa9b5a7c1fbe8a2f0b25eb	157	PANTHER	PTHR28576		10	144	8.4E-31	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_26678-0.0	b0780a8f74fa9b5a7c1fbe8a2f0b25eb	157	Pfam	PF13843	Transposase IS4	11	145	6.5E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022294852.1	a941baff87f93f14a300eaec57feef12	345	PANTHER	PTHR28576:SF4		1	279	6.0E-58	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294852.1	a941baff87f93f14a300eaec57feef12	345	PANTHER	PTHR28576		1	279	6.0E-58	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294852.1	a941baff87f93f14a300eaec57feef12	345	Pfam	PF13843	Transposase IS4	1	272	3.8E-54	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_47350-0.5	4abb48f683cfa94df6013f54cbb46a44	440	MobiDBLite	mobidb-lite	consensus disorder prediction	40	62	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_47350-0.5	4abb48f683cfa94df6013f54cbb46a44	440	PANTHER	PTHR28576:SF13		77	412	1.8E-88	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_47350-0.5	4abb48f683cfa94df6013f54cbb46a44	440	PANTHER	PTHR28576		77	412	1.8E-88	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_47350-0.5	4abb48f683cfa94df6013f54cbb46a44	440	Pfam	PF13843	Transposase IS4	77	365	3.2E-65	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011430177.2	f1b5964b0f0ae72925cd08ad61dda647	307	MobiDBLite	mobidb-lite	consensus disorder prediction	280	307	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011430177.2	f1b5964b0f0ae72925cd08ad61dda647	307	Pfam	PF13843	Transposase IS4	4	239	1.2E-62	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011430177.2	f1b5964b0f0ae72925cd08ad61dda647	307	PANTHER	PTHR28576:SF13		3	288	2.6E-78	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011430177.2	f1b5964b0f0ae72925cd08ad61dda647	307	PANTHER	PTHR28576		3	288	2.6E-78	T	30-10-2018
+Phoronis_australis_PAU|g16881.t1	19ce67dc51dbae55b838a85cf06860d0	135	PANTHER	PTHR24401		39	131	5.4E-20	T	30-10-2018
+Phoronis_australis_PAU|g16881.t1	19ce67dc51dbae55b838a85cf06860d0	135	PANTHER	PTHR24401:SF33		39	131	5.4E-20	T	30-10-2018
+Notospermus_geniculatus_NGE|g39811.t1	0d5a3cf16edcee3bcd3ec46189926b18	745	PANTHER	PTHR28576		225	741	9.6E-173	T	30-10-2018
+Notospermus_geniculatus_NGE|g39811.t1	0d5a3cf16edcee3bcd3ec46189926b18	745	MobiDBLite	mobidb-lite	consensus disorder prediction	29	250	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g39811.t1	0d5a3cf16edcee3bcd3ec46189926b18	745	Pfam	PF13843	Transposase IS4	255	626	7.4E-85	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g39811.t1	0d5a3cf16edcee3bcd3ec46189926b18	745	PANTHER	PTHR28576:SF13		225	741	9.6E-173	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011428792.1	296f23241a3d6518a0aa6dc27b28ea2a	290	Pfam	PF13843	Transposase IS4	1	256	4.9E-51	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011428792.1	296f23241a3d6518a0aa6dc27b28ea2a	290	PANTHER	PTHR28576		1	252	2.1E-59	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014789421.1	c3f0d9527346a07b3668796d65a48974	123	Pfam	PF13843	Transposase IS4	1	122	3.8E-27	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014789421.1	c3f0d9527346a07b3668796d65a48974	123	PANTHER	PTHR28576:SF13		1	122	1.6E-32	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014789421.1	c3f0d9527346a07b3668796d65a48974	123	PANTHER	PTHR28576		1	122	1.6E-32	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11619-0.3	f706badfa3cc13a124d47c77cd36e51b	180	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11619-0.3	f706badfa3cc13a124d47c77cd36e51b	180	Pfam	PF13843	Transposase IS4	11	73	6.8E-10	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11619-0.3	f706badfa3cc13a124d47c77cd36e51b	180	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	140	170	1.6E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11619-0.3	f706badfa3cc13a124d47c77cd36e51b	180	PANTHER	PTHR28576:SF13		6	170	9.4E-26	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_11619-0.3	f706badfa3cc13a124d47c77cd36e51b	180	PANTHER	PTHR28576		6	170	9.4E-26	T	30-10-2018
+Notospermus_geniculatus_NGE|g2957.t1	d47757ec038c306f84943830361aac5a	548	PANTHER	PTHR28576		17	458	7.3E-99	T	30-10-2018
+Notospermus_geniculatus_NGE|g2957.t1	d47757ec038c306f84943830361aac5a	548	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g2957.t1	d47757ec038c306f84943830361aac5a	548	Pfam	PF13843	Transposase IS4	54	432	1.9E-82	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005112528.1	5946f722874abec13f882aac83c07212	436	Pfam	PF13843	Transposase IS4	1	321	2.3E-69	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005112528.1	5946f722874abec13f882aac83c07212	436	PANTHER	PTHR28576		1	411	1.6E-106	T	30-10-2018
+Aplysia_californica_ACA|XP_005112528.1	5946f722874abec13f882aac83c07212	436	PANTHER	PTHR28576:SF13		1	411	1.6E-106	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_48773-0.3	4c162b131ec66ad0416e4228ffeedc36	235	PANTHER	PTHR28576		1	235	9.1E-45	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_48773-0.3	4c162b131ec66ad0416e4228ffeedc36	235	Pfam	PF13843	Transposase IS4	1	231	1.4E-44	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_17703-2.0	4499a531c2d41b7a96a4a58ba93140b4	341	Pfam	PF13843	Transposase IS4	35	197	2.1E-26	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_17703-2.0	4499a531c2d41b7a96a4a58ba93140b4	341	PANTHER	PTHR28576		256	317	2.5E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17703-2.0	4499a531c2d41b7a96a4a58ba93140b4	341	PANTHER	PTHR28576		18	195	2.5E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17703-2.0	4499a531c2d41b7a96a4a58ba93140b4	341	PANTHER	PTHR28576		195	253	2.5E-35	T	30-10-2018
+Macrostomum_lignano_MLI|PAA73384.1	c06939ba640ce402f521577a38f343f0	558	PANTHER	PTHR28576		81	526	3.9E-65	T	30-10-2018
+Macrostomum_lignano_MLI|PAA73384.1	c06939ba640ce402f521577a38f343f0	558	PANTHER	PTHR28576:SF4		81	526	3.9E-65	T	30-10-2018
+Macrostomum_lignano_MLI|PAA73384.1	c06939ba640ce402f521577a38f343f0	558	Pfam	PF13843	Transposase IS4	87	457	1.5E-64	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA73384.1	c06939ba640ce402f521577a38f343f0	558	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013077882.1	68cfc5d9546bfc70f6130ff5712bee1a	465	MobiDBLite	mobidb-lite	consensus disorder prediction	445	465	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013077882.1	68cfc5d9546bfc70f6130ff5712bee1a	465	MobiDBLite	mobidb-lite	consensus disorder prediction	357	387	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013077882.1	68cfc5d9546bfc70f6130ff5712bee1a	465	Pfam	PF13843	Transposase IS4	3	320	1.1E-58	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013077882.1	68cfc5d9546bfc70f6130ff5712bee1a	465	PANTHER	PTHR28576		2	430	3.5E-91	T	30-10-2018
+Capitella_teleta_CTE|ELU11915.1	4e1cf35e4b838b93b14906b81ceb4d29	451	PANTHER	PTHR33395:SF4		204	439	1.3E-34	T	30-10-2018
+Capitella_teleta_CTE|ELU11915.1	4e1cf35e4b838b93b14906b81ceb4d29	451	PANTHER	PTHR33395		204	439	1.3E-34	T	30-10-2018
+Capitella_teleta_CTE|ELU11915.1	4e1cf35e4b838b93b14906b81ceb4d29	451	SUPERFAMILY	SSF56219		190	326	8.64E-11	T	30-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Capitella_teleta_CTE|ELU11915.1	4e1cf35e4b838b93b14906b81ceb4d29	451	Pfam	PF14529	Endonuclease-reverse transcriptase	209	321	4.3E-16	T	30-10-2018	IPR005135	Endonuclease/exonuclease/phosphatase		
+Capitella_teleta_CTE|ELU11915.1	4e1cf35e4b838b93b14906b81ceb4d29	451	Pfam	PF13843	Transposase IS4	14	94	1.9E-15	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Capitella_teleta_CTE|ELU11915.1	4e1cf35e4b838b93b14906b81ceb4d29	451	Gene3D	G3DSA:3.60.10.10		160	329	5.3E-13	T	30-10-2018	IPR036691	Endonuclease/exonuclease/phosphatase superfamily		
+Exaiptasia_pallida_EPA|XP_020911244.1	c22febdcffa47d5d8da8ee3a40ec8166	630	Pfam	PF13843	Transposase IS4	145	511	3.8E-90	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020911244.1	c22febdcffa47d5d8da8ee3a40ec8166	630	PANTHER	PTHR28576		122	609	2.1E-120	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020911244.1	c22febdcffa47d5d8da8ee3a40ec8166	630	PANTHER	PTHR28576:SF13		122	609	2.1E-120	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374992.1	0691971fbe2d0afedc9dc889337462b2	688	MobiDBLite	mobidb-lite	consensus disorder prediction	1	94	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374992.1	0691971fbe2d0afedc9dc889337462b2	688	MobiDBLite	mobidb-lite	consensus disorder prediction	141	191	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374992.1	0691971fbe2d0afedc9dc889337462b2	688	PANTHER	PTHR28576:SF13		237	679	1.8E-84	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374992.1	0691971fbe2d0afedc9dc889337462b2	688	MobiDBLite	mobidb-lite	consensus disorder prediction	211	235	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374992.1	0691971fbe2d0afedc9dc889337462b2	688	PANTHER	PTHR28576		237	679	1.8E-84	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374992.1	0691971fbe2d0afedc9dc889337462b2	688	Pfam	PF13843	Transposase IS4	267	659	8.6E-72	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55988-0.0	fd7614641e45a8b0ea61fe90276937b1	198	PANTHER	PTHR28576		18	193	1.2E-13	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55988-0.0	fd7614641e45a8b0ea61fe90276937b1	198	PANTHER	PTHR28576:SF4		18	193	1.2E-13	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_55988-0.0	fd7614641e45a8b0ea61fe90276937b1	198	Pfam	PF13843	Transposase IS4	23	102	4.3E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g35796.t1	7c3f22b004863cb5f62881277f39bced	228	PANTHER	PTHR28576:SF13		9	208	4.1E-34	T	30-10-2018
+Notospermus_geniculatus_NGE|g35796.t1	7c3f22b004863cb5f62881277f39bced	228	PANTHER	PTHR28576		9	208	4.1E-34	T	30-10-2018
+Notospermus_geniculatus_NGE|g35796.t1	7c3f22b004863cb5f62881277f39bced	228	Pfam	PF13843	Transposase IS4	21	99	1.2E-9	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g35796.t1	7c3f22b004863cb5f62881277f39bced	228	MobiDBLite	mobidb-lite	consensus disorder prediction	139	168	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_005358-T1	66a09a673c88b1af29c9f7966330e7a1	187	MobiDBLite	mobidb-lite	consensus disorder prediction	1	98	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091106.1	bf2eb660e835863d4fd8a8953a0b370a	165	PANTHER	PTHR28576		11	158	1.1E-29	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013091106.1	bf2eb660e835863d4fd8a8953a0b370a	165	Pfam	PF13843	Transposase IS4	13	159	9.4E-27	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013091106.1	bf2eb660e835863d4fd8a8953a0b370a	165	PANTHER	PTHR28576:SF4		11	158	1.1E-29	T	30-10-2018
+Capitella_teleta_CTE|ELU01303.1	f3309611626204f901c06aae46e7b175	434	Pfam	PF13843	Transposase IS4	198	312	5.5E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Capitella_teleta_CTE|ELU01303.1	f3309611626204f901c06aae46e7b175	434	Gene3D	G3DSA:3.40.50.300		20	199	4.2E-6	T	30-10-2018
+Capitella_teleta_CTE|ELU01303.1	f3309611626204f901c06aae46e7b175	434	MobiDBLite	mobidb-lite	consensus disorder prediction	339	387	-	T	30-10-2018
+Capitella_teleta_CTE|ELU01303.1	f3309611626204f901c06aae46e7b175	434	PANTHER	PTHR28576		198	318	1.3E-29	T	30-10-2018
+Capitella_teleta_CTE|ELU01303.1	f3309611626204f901c06aae46e7b175	434	PANTHER	PTHR28576:SF13		198	318	1.3E-29	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013092018.1	ecd60d9634e8abb4e2e2ad50f401108d	223	PANTHER	PTHR28576		3	149	5.4E-29	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013092018.1	ecd60d9634e8abb4e2e2ad50f401108d	223	Pfam	PF13843	Transposase IS4	1	131	1.9E-18	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013092018.1	ecd60d9634e8abb4e2e2ad50f401108d	223	PANTHER	PTHR28576:SF13		3	149	5.4E-29	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308193.1	a2d84f0a3f8068d80eb32267b279fc7e	558	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308193.1	a2d84f0a3f8068d80eb32267b279fc7e	558	PANTHER	PTHR28576:SF13		88	495	1.9E-119	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308193.1	a2d84f0a3f8068d80eb32267b279fc7e	558	PANTHER	PTHR28576		88	495	1.9E-119	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308193.1	a2d84f0a3f8068d80eb32267b279fc7e	558	Pfam	PF13843	Transposase IS4	96	453	3.9E-95	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020896634.1	6c7f9991472e2e84e4b5ca41ef758f55	379	PANTHER	PTHR28576		13	377	3.0E-91	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896634.1	6c7f9991472e2e84e4b5ca41ef758f55	379	Pfam	PF13843	Transposase IS4	12	375	1.5E-77	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014784749.1	b9a5fc5a3e6b1a42e1f1432e0a12c898	374	PANTHER	PTHR28576:SF3		5	371	1.3E-90	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784749.1	b9a5fc5a3e6b1a42e1f1432e0a12c898	374	PANTHER	PTHR28576		5	371	1.3E-90	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784749.1	b9a5fc5a3e6b1a42e1f1432e0a12c898	374	Pfam	PF13843	Transposase IS4	7	267	7.0E-49	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014784750.1	b9a5fc5a3e6b1a42e1f1432e0a12c898	374	PANTHER	PTHR28576:SF3		5	371	1.3E-90	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784750.1	b9a5fc5a3e6b1a42e1f1432e0a12c898	374	PANTHER	PTHR28576		5	371	1.3E-90	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784750.1	b9a5fc5a3e6b1a42e1f1432e0a12c898	374	Pfam	PF13843	Transposase IS4	7	267	7.0E-49	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Helobdella_robusta_HRO|XP_009015525.1	5c1e15fb986cdade50395dea6aeff0a6	158	PANTHER	PTHR28576:SF1		7	53	7.7E-19	T	30-10-2018
+Helobdella_robusta_HRO|XP_009015525.1	5c1e15fb986cdade50395dea6aeff0a6	158	PANTHER	PTHR28576		7	53	7.7E-19	T	30-10-2018
+Helobdella_robusta_HRO|XP_009015525.1	5c1e15fb986cdade50395dea6aeff0a6	158	PANTHER	PTHR28576:SF1		54	140	7.7E-19	T	30-10-2018
+Helobdella_robusta_HRO|XP_009015525.1	5c1e15fb986cdade50395dea6aeff0a6	158	MobiDBLite	mobidb-lite	consensus disorder prediction	112	133	-	T	30-10-2018
+Helobdella_robusta_HRO|XP_009015525.1	5c1e15fb986cdade50395dea6aeff0a6	158	PANTHER	PTHR28576		54	140	7.7E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_012940104.1	2ee80f401ac2dc1dfef8216e835caad7	277	MobiDBLite	mobidb-lite	consensus disorder prediction	74	107	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012940104.1	2ee80f401ac2dc1dfef8216e835caad7	277	PANTHER	PTHR28576		1	248	1.5E-14	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_44397-0.9	ab669f524cf73a605494ac733897a474	99	Pfam	PF13843	Transposase IS4	2	94	1.9E-6	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_44397-0.9	ab669f524cf73a605494ac733897a474	99	PANTHER	PTHR28576		2	94	9.7E-12	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_44397-0.9	ab669f524cf73a605494ac733897a474	99	PANTHER	PTHR28576:SF4		2	94	9.7E-12	T	30-10-2018
+Notospermus_geniculatus_NGE|g17236.t1	d6ebcb9dcd8d721fc4a5be1f21875c99	797	Pfam	PF13843	Transposase IS4	325	691	2.2E-75	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g17236.t1	d6ebcb9dcd8d721fc4a5be1f21875c99	797	PANTHER	PTHR28576		315	757	3.0E-92	T	30-10-2018
+Notospermus_geniculatus_NGE|g17236.t1	d6ebcb9dcd8d721fc4a5be1f21875c99	797	SUPERFAMILY	SSF160472		369	420	2.22E-5	T	30-10-2018	IPR023138	NMB0513-like superfamily		
+Notospermus_geniculatus_NGE|g17236.t1	d6ebcb9dcd8d721fc4a5be1f21875c99	797	Coils	Coil		37	64	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g31048.t1	69a07e8145d165ef954d884708e240c4	559	Pfam	PF13843	Transposase IS4	128	488	3.8E-82	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g31048.t1	69a07e8145d165ef954d884708e240c4	559	MobiDBLite	mobidb-lite	consensus disorder prediction	18	95	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g31048.t1	69a07e8145d165ef954d884708e240c4	559	PANTHER	PTHR28576		58	520	6.8E-118	T	30-10-2018
+Notospermus_geniculatus_NGE|g31048.t1	69a07e8145d165ef954d884708e240c4	559	MobiDBLite	mobidb-lite	consensus disorder prediction	520	547	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015819-T1	0f4640f9b8f52f62dcf6ad2709d11748	272	PANTHER	PTHR28576		1	85	6.0E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015819-T1	0f4640f9b8f52f62dcf6ad2709d11748	272	MobiDBLite	mobidb-lite	consensus disorder prediction	232	272	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015819-T1	0f4640f9b8f52f62dcf6ad2709d11748	272	PANTHER	PTHR28576:SF13		1	85	6.0E-13	T	30-10-2018
+Aplysia_californica_ACA|XP_012944391.1	36f86bf0f8d2fab29389dbb40385c988	120	Pfam	PF13843	Transposase IS4	9	116	2.8E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012944391.1	36f86bf0f8d2fab29389dbb40385c988	120	PANTHER	PTHR28576		10	120	4.7E-21	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014769447.1	fa59921050a47eb97d497af671041a81	195	PANTHER	PTHR28576		1	189	1.6E-34	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014769447.1	fa59921050a47eb97d497af671041a81	195	PANTHER	PTHR28576:SF3		1	189	1.6E-34	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014769447.1	fa59921050a47eb97d497af671041a81	195	Pfam	PF13843	Transposase IS4	2	189	5.6E-21	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005098137.1	66b4554346e9ffced5f53a4a5d056d73	213	PANTHER	PTHR28576		8	197	1.4E-20	T	30-10-2018
+Aplysia_californica_ACA|XP_005098137.1	66b4554346e9ffced5f53a4a5d056d73	213	Pfam	PF13843	Transposase IS4	10	108	7.0E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005098137.1	66b4554346e9ffced5f53a4a5d056d73	213	MobiDBLite	mobidb-lite	consensus disorder prediction	188	213	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290440.1	7454d3e6fb88422f0e81fa615f0a714d	327	Pfam	PF13843	Transposase IS4	72	308	9.6E-61	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022290440.1	7454d3e6fb88422f0e81fa615f0a714d	327	PANTHER	PTHR28576		28	309	1.1E-68	T	30-10-2018
+Lingula_anatina_LAN|XP_023930459.1	ba353d2908b9f78983c3a291a5b53503	578	PANTHER	PTHR28576		81	565	2.4E-127	T	30-10-2018
+Lingula_anatina_LAN|XP_023930459.1	ba353d2908b9f78983c3a291a5b53503	578	Pfam	PF13843	Transposase IS4	89	475	7.5E-78	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_023930459.1	ba353d2908b9f78983c3a291a5b53503	578	MobiDBLite	mobidb-lite	consensus disorder prediction	1	51	-	T	30-10-2018
+Lingula_anatina_LAN|XP_023930459.1	ba353d2908b9f78983c3a291a5b53503	578	PANTHER	PTHR28576:SF13		81	565	2.4E-127	T	30-10-2018
+Aplysia_californica_ACA|XP_005109035.1	b67851510de79e30c0fb76795062b3c8	605	PANTHER	PTHR28576		98	581	4.1E-103	T	30-10-2018
+Aplysia_californica_ACA|XP_005109035.1	b67851510de79e30c0fb76795062b3c8	605	Pfam	PF13843	Transposase IS4	139	499	3.6E-83	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005109035.1	b67851510de79e30c0fb76795062b3c8	605	MobiDBLite	mobidb-lite	consensus disorder prediction	19	109	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064228.1	948cca6424653d448cf0ddbe98668a2d	619	PANTHER	PTHR28576		60	578	8.5E-99	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064228.1	948cca6424653d448cf0ddbe98668a2d	619	MobiDBLite	mobidb-lite	consensus disorder prediction	73	105	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064228.1	948cca6424653d448cf0ddbe98668a2d	619	Pfam	PF13843	Transposase IS4	147	505	8.6E-72	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005110938.1	4f6d91c227e3b062e1fccf29d5f29517	368	PANTHER	PTHR28576:SF4		65	343	3.8E-42	T	30-10-2018
+Aplysia_californica_ACA|XP_005110938.1	4f6d91c227e3b062e1fccf29d5f29517	368	PANTHER	PTHR28576		65	343	3.8E-42	T	30-10-2018
+Aplysia_californica_ACA|XP_005110938.1	4f6d91c227e3b062e1fccf29d5f29517	368	Pfam	PF13843	Transposase IS4	65	343	6.1E-35	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013404495.2	6e2713de2b3a4263ade37842bb98a2cd	581	PANTHER	PTHR28576		90	577	3.2E-130	T	30-10-2018
+Lingula_anatina_LAN|XP_013404495.2	6e2713de2b3a4263ade37842bb98a2cd	581	Pfam	PF13843	Transposase IS4	100	460	3.8E-94	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013404495.2	6e2713de2b3a4263ade37842bb98a2cd	581	MobiDBLite	mobidb-lite	consensus disorder prediction	1	70	-	T	30-10-2018
+Lingula_anatina_LAN|XP_013404495.2	6e2713de2b3a4263ade37842bb98a2cd	581	PANTHER	PTHR28576:SF13		90	577	3.2E-130	T	30-10-2018
+Aplysia_californica_ACA|XP_005097783.1	d13f92706b498e7dd892cf8dd24e9ba0	442	Pfam	PF13843	Transposase IS4	7	311	2.0E-61	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005097783.1	d13f92706b498e7dd892cf8dd24e9ba0	442	PANTHER	PTHR28576		7	346	2.0E-75	T	30-10-2018
+Notospermus_geniculatus_NGE|g29172.t1	527ad0c703cf1472a48e44566f752e5b	727	PANTHER	PTHR28576:SF13		207	723	1.7E-174	T	30-10-2018
+Notospermus_geniculatus_NGE|g29172.t1	527ad0c703cf1472a48e44566f752e5b	727	Pfam	PF13843	Transposase IS4	237	608	1.6E-80	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g29172.t1	527ad0c703cf1472a48e44566f752e5b	727	MobiDBLite	mobidb-lite	consensus disorder prediction	25	232	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g29172.t1	527ad0c703cf1472a48e44566f752e5b	727	PANTHER	PTHR28576		207	723	1.7E-174	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	283	315	12.235	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	CDD	cd00204	ANK	184	304	1.55901E-33	T	30-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	PANTHER	PTHR45401		176	413	3.1E-95	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SUPERFAMILY	SSF48403		182	414	1.33E-67	T	30-10-2018	IPR036770	Ankyrin repeat-containing domain superfamily		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	Gene3D	G3DSA:1.25.40.20		162	422	7.4E-78	T	30-10-2018	IPR036770	Ankyrin repeat-containing domain superfamily		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	PRINTS	PR01415	Ankyrin repeat signature	251	266	1.1E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	PRINTS	PR01415	Ankyrin repeat signature	299	313	1.1E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	316	348	8.977	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	217	249	9.271	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	184	216	12.422	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	Pfam	PF13843	Transposase IS4	40	183	3.6E-23	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	349	381	12.129	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	250	282	12.502	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	Pfam	PF12796	Ankyrin repeats (3 copies)	189	279	4.1E-15	T	30-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	Pfam	PF12796	Ankyrin repeats (3 copies)	321	413	1.8E-17	T	30-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	CDD	cd00204	ANK	278	403	2.86641E-33	T	30-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50297	Ankyrin repeat region circular profile.	184	414	71.467	T	30-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	ProSiteProfiles	PS50088	Ankyrin repeat profile.	382	414	12.876	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	Pfam	PF00023	Ankyrin repeat	283	313	4.4E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		382	411	2.7E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		250	279	2.5E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		184	213	0.0023	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		217	246	0.2	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		349	378	3.6E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		283	312	4.2E-5	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Schmidtea_mediterranea_SME|mk4.001552.02	730a8b743e56a9c0e337684995f48214	457	SMART	SM00248		316	345	18.0	T	30-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Aplysia_californica_ACA|XP_005096959.1	4f7375abda1bbf24661a3bacd2fc938b	181	PANTHER	PTHR28576		10	173	1.1E-18	T	30-10-2018
+Aplysia_californica_ACA|XP_005096959.1	4f7375abda1bbf24661a3bacd2fc938b	181	Pfam	PF13843	Transposase IS4	11	60	3.3E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005096959.1	4f7375abda1bbf24661a3bacd2fc938b	181	PANTHER	PTHR28576:SF4		10	173	1.1E-18	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336097.1	118770336d46f33c14fd992e3fd0462b	474	Pfam	PF13843	Transposase IS4	92	451	7.4E-87	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022336097.1	118770336d46f33c14fd992e3fd0462b	474	MobiDBLite	mobidb-lite	consensus disorder prediction	1	54	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022336097.1	118770336d46f33c14fd992e3fd0462b	474	PANTHER	PTHR28576		22	469	2.2E-109	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_014535-T1	953716add9a638d959db6936521eaa09	105	Pfam	PF13843	Transposase IS4	11	48	3.9E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62970-0.1	03664b819026774eb632e6b883f088ee	236	PANTHER	PTHR28576:SF13		35	201	4.0E-31	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62970-0.1	03664b819026774eb632e6b883f088ee	236	Pfam	PF13843	Transposase IS4	39	201	9.5E-29	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62970-0.1	03664b819026774eb632e6b883f088ee	236	PANTHER	PTHR28576		35	201	4.0E-31	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011447405.1	e94c20f7f0e3fc4e873b28b62e18ecc8	332	PANTHER	PTHR28576		55	276	5.9E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011447405.1	e94c20f7f0e3fc4e873b28b62e18ecc8	332	PANTHER	PTHR28576:SF13		55	276	5.9E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011447405.1	e94c20f7f0e3fc4e873b28b62e18ecc8	332	PANTHER	PTHR28576		271	323	5.9E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011447405.1	e94c20f7f0e3fc4e873b28b62e18ecc8	332	PANTHER	PTHR28576:SF13		271	323	5.9E-65	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011447405.1	e94c20f7f0e3fc4e873b28b62e18ecc8	332	Pfam	PF13843	Transposase IS4	271	320	3.8E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011447405.1	e94c20f7f0e3fc4e873b28b62e18ecc8	332	Pfam	PF13843	Transposase IS4	70	263	1.3E-36	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA54314.1	3a711b71800a7f18519ed86e40711a85	336	PANTHER	PTHR28576:SF4		33	291	6.3E-42	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54314.1	3a711b71800a7f18519ed86e40711a85	336	PANTHER	PTHR28576		33	291	6.3E-42	T	30-10-2018
+Macrostomum_lignano_MLI|PAA54314.1	3a711b71800a7f18519ed86e40711a85	336	Pfam	PF13843	Transposase IS4	33	267	4.0E-38	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022323003.1	c5de03698286a0a5e45fb0254da6f8b2	370	PANTHER	PTHR28576		1	233	2.5E-69	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022323003.1	c5de03698286a0a5e45fb0254da6f8b2	370	CDD	cd10442	GIY-YIG_PLEs	273	359	8.68819E-19	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022323003.1	c5de03698286a0a5e45fb0254da6f8b2	370	Pfam	PF01541	GIY-YIG catalytic domain	273	357	1.1E-6	T	30-10-2018	IPR000305	GIY-YIG endonuclease		
+Crassostrea_virginica_CVI|XP_022323003.1	c5de03698286a0a5e45fb0254da6f8b2	370	Pfam	PF13843	Transposase IS4	1	218	4.1E-48	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022323003.1	c5de03698286a0a5e45fb0254da6f8b2	370	Gene3D	G3DSA:3.40.1440.10		270	364	5.0E-7	T	30-10-2018	IPR035901	GIY-YIG endonuclease superfamily		Reactome: R-HSA-5693568|Reactome: R-HSA-6783310
+Crassostrea_virginica_CVI|XP_022323003.1	c5de03698286a0a5e45fb0254da6f8b2	370	PANTHER	PTHR28576:SF13		1	233	2.5E-69	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014789159.1	fa579aab93b5d9baf7306724ff1e5649	287	Pfam	PF13843	Transposase IS4	2	214	3.5E-38	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014789159.1	fa579aab93b5d9baf7306724ff1e5649	287	PANTHER	PTHR28576:SF3		2	258	7.9E-72	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014789159.1	fa579aab93b5d9baf7306724ff1e5649	287	PANTHER	PTHR28576		2	258	7.9E-72	T	30-10-2018
+Notospermus_geniculatus_NGE|g30435.t1	c44e67c5a879cd21d97a3a35e95b638a	538	PANTHER	PTHR28576:SF13		57	526	5.7E-113	T	30-10-2018
+Notospermus_geniculatus_NGE|g30435.t1	c44e67c5a879cd21d97a3a35e95b638a	538	PANTHER	PTHR28576		57	526	5.7E-113	T	30-10-2018
+Notospermus_geniculatus_NGE|g30435.t1	c44e67c5a879cd21d97a3a35e95b638a	538	Pfam	PF13843	Transposase IS4	58	424	6.1E-88	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g14425.t1	e2c899854446509156025934d713d66f	257	MobiDBLite	mobidb-lite	consensus disorder prediction	19	43	-	T	30-10-2018
+Phoronis_australis_PAU|g14425.t1	e2c899854446509156025934d713d66f	257	Pfam	PF13843	Transposase IS4	79	188	1.5E-22	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g14425.t1	e2c899854446509156025934d713d66f	257	PANTHER	PTHR28576		31	191	3.4E-27	T	30-10-2018
+Aplysia_californica_ACA|XP_005113519.1	bd8b5da0e834e6cebd4c42ad0187f434	613	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005113519.1	bd8b5da0e834e6cebd4c42ad0187f434	613	MobiDBLite	mobidb-lite	consensus disorder prediction	30	81	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005113519.1	bd8b5da0e834e6cebd4c42ad0187f434	613	PANTHER	PTHR28576		123	583	2.4E-81	T	30-10-2018
+Aplysia_californica_ACA|XP_005113519.1	bd8b5da0e834e6cebd4c42ad0187f434	613	MobiDBLite	mobidb-lite	consensus disorder prediction	541	560	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005113519.1	bd8b5da0e834e6cebd4c42ad0187f434	613	Pfam	PF13843	Transposase IS4	142	504	4.3E-63	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013088701.1	78329c62eed57ed6936ac0e5bac3b1c1	598	MobiDBLite	mobidb-lite	consensus disorder prediction	61	80	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088701.1	78329c62eed57ed6936ac0e5bac3b1c1	598	PANTHER	PTHR28576		111	570	7.2E-111	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088701.1	78329c62eed57ed6936ac0e5bac3b1c1	598	PANTHER	PTHR28576:SF13		111	570	7.2E-111	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088701.1	78329c62eed57ed6936ac0e5bac3b1c1	598	Pfam	PF13843	Transposase IS4	113	471	4.7E-91	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022297422.1	c2ec2c7ae1842a1e0ac23b15fa11d980	507	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022297422.1	c2ec2c7ae1842a1e0ac23b15fa11d980	507	Pfam	PF13843	Transposase IS4	71	396	2.7E-79	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022297422.1	c2ec2c7ae1842a1e0ac23b15fa11d980	507	PANTHER	PTHR28576		70	501	1.8E-87	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022297422.1	c2ec2c7ae1842a1e0ac23b15fa11d980	507	PANTHER	PTHR28576:SF13		70	501	1.8E-87	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013066545.1	a44c46569435b0f1efaca5c731d984f0	310	PANTHER	PTHR28576:SF4		3	249	3.4E-43	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013066545.1	a44c46569435b0f1efaca5c731d984f0	310	PANTHER	PTHR28576		3	249	3.4E-43	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013066545.1	a44c46569435b0f1efaca5c731d984f0	310	Pfam	PF13843	Transposase IS4	2	219	2.1E-31	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022321466.1	e111317fa754efc91973141fbb508deb	282	PANTHER	PTHR28576		3	277	2.6E-46	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022321466.1	e111317fa754efc91973141fbb508deb	282	PANTHER	PTHR28576:SF4		3	277	2.6E-46	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022321466.1	e111317fa754efc91973141fbb508deb	282	Pfam	PF13843	Transposase IS4	2	200	5.5E-35	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_9015-3.1	0e2e62ed7ce49e91fe68d99de9fa9281	210	PANTHER	PTHR28576		44	207	2.0E-32	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_9015-3.1	0e2e62ed7ce49e91fe68d99de9fa9281	210	Pfam	PF13843	Transposase IS4	89	207	3.4E-21	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005099763.1	41667a26491a479779457e089b15712d	278	PANTHER	PTHR28576		1	241	1.5E-52	T	30-10-2018
+Aplysia_californica_ACA|XP_005099763.1	41667a26491a479779457e089b15712d	278	PANTHER	PTHR28576:SF13		1	241	1.5E-52	T	30-10-2018
+Aplysia_californica_ACA|XP_005099763.1	41667a26491a479779457e089b15712d	278	Pfam	PF13843	Transposase IS4	1	241	5.8E-41	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Schmidtea_mediterranea_SME|mk4.004797.02	865662b07de038b71d9c57696fe66c0e	230	PANTHER	PTHR11817		153	228	5.3E-19	T	30-10-2018	IPR001697	Pyruvate kinase	GO:0000287|GO:0004743|GO:0006096|GO:0030955	KEGG: 00010+2.7.1.40|KEGG: 00230+2.7.1.40|KEGG: 00620+2.7.1.40|MetaCyc: PWY-1042|MetaCyc: PWY-2221|MetaCyc: PWY-5484|MetaCyc: PWY-5723|MetaCyc: PWY-6142|MetaCyc: PWY-6886|MetaCyc: PWY-6901|MetaCyc: PWY-7003|MetaCyc: PWY-7218|MetaCyc: PWY-7383|Reactome: R-HSA-70171
+Schmidtea_mediterranea_SME|mk4.004797.02	865662b07de038b71d9c57696fe66c0e	230	Pfam	PF00224	Pyruvate kinase, barrel domain	152	180	5.3E-5	T	30-10-2018	IPR015793	Pyruvate kinase, barrel	GO:0000287|GO:0004743|GO:0006096|GO:0030955	KEGG: 00010+2.7.1.40|KEGG: 00230+2.7.1.40|KEGG: 00620+2.7.1.40|MetaCyc: PWY-1042|MetaCyc: PWY-2221|MetaCyc: PWY-5484|MetaCyc: PWY-5723|MetaCyc: PWY-6142|MetaCyc: PWY-6886|MetaCyc: PWY-6901|MetaCyc: PWY-7003|MetaCyc: PWY-7218|MetaCyc: PWY-7383|Reactome: R-HSA-70171
+Schmidtea_mediterranea_SME|mk4.004797.02	865662b07de038b71d9c57696fe66c0e	230	Pfam	PF13843	Transposase IS4	4	81	2.1E-10	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Schmidtea_mediterranea_SME|mk4.004797.02	865662b07de038b71d9c57696fe66c0e	230	Gene3D	G3DSA:3.40.1380.20		151	229	3.7E-15	T	30-10-2018	IPR036918	Pyruvate kinase, C-terminal domain superfamily		KEGG: 00010+2.7.1.40|KEGG: 00230+2.7.1.40|KEGG: 00620+2.7.1.40|MetaCyc: PWY-1042|MetaCyc: PWY-2221|MetaCyc: PWY-5484|MetaCyc: PWY-5723|MetaCyc: PWY-6142|MetaCyc: PWY-6886|MetaCyc: PWY-6901|MetaCyc: PWY-7003|MetaCyc: PWY-7218|MetaCyc: PWY-7383|Reactome: R-HSA-70171
+Schmidtea_mediterranea_SME|mk4.004797.02	865662b07de038b71d9c57696fe66c0e	230	PANTHER	PTHR11817:SF3		153	228	5.3E-19	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.004797.02	865662b07de038b71d9c57696fe66c0e	230	SUPERFAMILY	SSF52935		163	228	1.28E-7	T	30-10-2018	IPR036918	Pyruvate kinase, C-terminal domain superfamily		KEGG: 00010+2.7.1.40|KEGG: 00230+2.7.1.40|KEGG: 00620+2.7.1.40|MetaCyc: PWY-1042|MetaCyc: PWY-2221|MetaCyc: PWY-5484|MetaCyc: PWY-5723|MetaCyc: PWY-6142|MetaCyc: PWY-6886|MetaCyc: PWY-6901|MetaCyc: PWY-7003|MetaCyc: PWY-7218|MetaCyc: PWY-7383|Reactome: R-HSA-70171
+Phoronis_australis_PAU|g17090.t1	cf276b7da0fc1e3b28dc8f8828efd0d7	565	PANTHER	PTHR28576		79	556	2.7E-107	T	30-10-2018
+Phoronis_australis_PAU|g17090.t1	cf276b7da0fc1e3b28dc8f8828efd0d7	565	MobiDBLite	mobidb-lite	consensus disorder prediction	1	61	-	T	30-10-2018
+Phoronis_australis_PAU|g17090.t1	cf276b7da0fc1e3b28dc8f8828efd0d7	565	PANTHER	PTHR28576:SF4		79	556	2.7E-107	T	30-10-2018
+Phoronis_australis_PAU|g17090.t1	cf276b7da0fc1e3b28dc8f8828efd0d7	565	Pfam	PF13843	Transposase IS4	99	448	1.6E-83	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011421674.1	0b2861e83cd4d0a16e2e9a198ed642de	139	Pfam	PF13843	Transposase IS4	2	139	2.4E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011421674.1	0b2861e83cd4d0a16e2e9a198ed642de	139	PANTHER	PTHR28576		6	139	3.0E-35	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011421674.1	0b2861e83cd4d0a16e2e9a198ed642de	139	PANTHER	PTHR28576:SF13		6	139	3.0E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_16348-1.9	f00381dd32b5310b832c720cf1aaf97d	295	MobiDBLite	mobidb-lite	consensus disorder prediction	1	66	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_16348-1.9	f00381dd32b5310b832c720cf1aaf97d	295	PANTHER	PTHR28576		73	292	3.0E-62	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_16348-1.9	f00381dd32b5310b832c720cf1aaf97d	295	Pfam	PF13843	Transposase IS4	101	292	4.4E-49	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013088560.1	0fc0f1e28d0ee0faf1c585ad0c08b5ba	693	Pfam	PF13843	Transposase IS4	229	586	6.3E-60	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013088560.1	0fc0f1e28d0ee0faf1c585ad0c08b5ba	693	MobiDBLite	mobidb-lite	consensus disorder prediction	107	177	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088560.1	0fc0f1e28d0ee0faf1c585ad0c08b5ba	693	PANTHER	PTHR28576		147	675	6.1E-67	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088560.1	0fc0f1e28d0ee0faf1c585ad0c08b5ba	693	MobiDBLite	mobidb-lite	consensus disorder prediction	26	54	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	PANTHER	PTHR28576		315	477	1.9E-95	T	30-10-2018
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	Pfam	PF13843	Transposase IS4	133	304	1.4E-39	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	Pfam	PF13843	Transposase IS4	316	478	2.3E-26	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	MobiDBLite	mobidb-lite	consensus disorder prediction	1	93	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	PANTHER	PTHR28576:SF13		315	477	1.9E-95	T	30-10-2018
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	PANTHER	PTHR28576:SF13		127	304	1.9E-95	T	30-10-2018
+Aplysia_californica_ACA|XP_005099146.1	846ce8f56afc47f915227ca25dc3cf35	487	PANTHER	PTHR28576		127	304	1.9E-95	T	30-10-2018
+Notospermus_geniculatus_NGE|g32468.t1	4f6708011966fac70db3b1e237c120d0	621	Pfam	PF13843	Transposase IS4	141	507	2.2E-75	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g32468.t1	4f6708011966fac70db3b1e237c120d0	621	PANTHER	PTHR28576		56	588	1.3E-105	T	30-10-2018
+Notospermus_geniculatus_NGE|g32468.t1	4f6708011966fac70db3b1e237c120d0	621	MobiDBLite	mobidb-lite	consensus disorder prediction	1	106	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020909553.1	c932ee39c7a16a7bece60d81febe59e1	542	Pfam	PF13843	Transposase IS4	74	441	1.0E-63	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020909553.1	c932ee39c7a16a7bece60d81febe59e1	542	PANTHER	PTHR28576		16	498	1.1E-84	T	30-10-2018
+Phoronis_australis_PAU|g15732.t1	f4277186fa9ba20a9fbc944255a66ff8	453	Pfam	PF13843	Transposase IS4	125	433	7.4E-79	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g15732.t1	f4277186fa9ba20a9fbc944255a66ff8	453	PANTHER	PTHR28576:SF13		125	452	2.9E-106	T	30-10-2018
+Phoronis_australis_PAU|g15732.t1	f4277186fa9ba20a9fbc944255a66ff8	453	PANTHER	PTHR28576		125	452	2.9E-106	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011439799.1	1962b27b5fc7916b39c9e69df299184a	603	PANTHER	PTHR28576		88	519	5.8E-111	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011439799.1	1962b27b5fc7916b39c9e69df299184a	603	Pfam	PF13843	Transposase IS4	93	470	4.0E-90	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011439799.1	1962b27b5fc7916b39c9e69df299184a	603	MobiDBLite	mobidb-lite	consensus disorder prediction	499	523	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065468.1	d42bbf720bf1c29000ddc473080f5b12	521	PANTHER	PTHR28576		15	499	7.1E-65	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065468.1	d42bbf720bf1c29000ddc473080f5b12	521	MobiDBLite	mobidb-lite	consensus disorder prediction	12	53	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065468.1	d42bbf720bf1c29000ddc473080f5b12	521	PANTHER	PTHR28576:SF1		15	499	7.1E-65	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013065468.1	d42bbf720bf1c29000ddc473080f5b12	521	Pfam	PF13843	Transposase IS4	105	479	9.7E-51	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021365888.1	afb011b83bcf1806e2121491e93e7672	228	Pfam	PF13843	Transposase IS4	79	130	3.3E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021365888.1	afb011b83bcf1806e2121491e93e7672	228	PANTHER	PTHR28576		2	21	7.5E-23	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021365888.1	afb011b83bcf1806e2121491e93e7672	228	PANTHER	PTHR28576		40	171	7.5E-23	T	30-10-2018
+Aplysia_californica_ACA|XP_005096437.1	22aef5930df0fbc5c8b0438b629b1e15	318	MobiDBLite	mobidb-lite	consensus disorder prediction	1	111	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005096437.1	22aef5930df0fbc5c8b0438b629b1e15	318	Pfam	PF13843	Transposase IS4	116	314	6.1E-34	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005096437.1	22aef5930df0fbc5c8b0438b629b1e15	318	PANTHER	PTHR28576		41	296	9.9E-41	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014776663.1	3a9ea53f255bcf7dc30d90e0e51d1d48	290	PANTHER	PTHR28576:SF13		44	288	1.7E-30	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014776663.1	3a9ea53f255bcf7dc30d90e0e51d1d48	290	PANTHER	PTHR28576		44	288	1.7E-30	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014776663.1	3a9ea53f255bcf7dc30d90e0e51d1d48	290	MobiDBLite	mobidb-lite	consensus disorder prediction	1	39	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014776663.1	3a9ea53f255bcf7dc30d90e0e51d1d48	290	Pfam	PF13843	Transposase IS4	44	288	1.1E-34	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g3721.t1	5fc849f5c1d461fa95720752ce7ffe0a	248	Pfam	PF13843	Transposase IS4	1	153	2.0E-28	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g3721.t1	5fc849f5c1d461fa95720752ce7ffe0a	248	PANTHER	PTHR28576:SF13		1	239	5.6E-55	T	30-10-2018
+Phoronis_australis_PAU|g3721.t1	5fc849f5c1d461fa95720752ce7ffe0a	248	PANTHER	PTHR28576		1	239	5.6E-55	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022331869.1	4a19606ed89f8e355e9b3d29fdf35fe8	241	PANTHER	PTHR28576:SF4		1	184	1.6E-41	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022331869.1	4a19606ed89f8e355e9b3d29fdf35fe8	241	PANTHER	PTHR28576		1	184	1.6E-41	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022331869.1	4a19606ed89f8e355e9b3d29fdf35fe8	241	Pfam	PF13843	Transposase IS4	1	118	7.8E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022331869.1	4a19606ed89f8e355e9b3d29fdf35fe8	241	MobiDBLite	mobidb-lite	consensus disorder prediction	110	130	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315491.1	3956b2a3de9d9976fbca3385cba94cea	188	Pfam	PF13843	Transposase IS4	1	174	3.3E-47	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022315491.1	3956b2a3de9d9976fbca3385cba94cea	188	PANTHER	PTHR28576:SF13		1	168	3.4E-56	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022315491.1	3956b2a3de9d9976fbca3385cba94cea	188	PANTHER	PTHR28576		1	168	3.4E-56	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17786-0.0	82fda4bf22af2e10fc4951c2f68b8a6f	170	PANTHER	PTHR28576:SF4		18	111	1.0E-13	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17786-0.0	82fda4bf22af2e10fc4951c2f68b8a6f	170	PANTHER	PTHR28576		18	111	1.0E-13	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17786-0.0	82fda4bf22af2e10fc4951c2f68b8a6f	170	Pfam	PF13843	Transposase IS4	23	102	3.0E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g5400.t1	bd62d25993bbb2cdaf740f486d0b95ea	144	Pfam	PF13843	Transposase IS4	1	115	1.3E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g5400.t1	bd62d25993bbb2cdaf740f486d0b95ea	144	PANTHER	PTHR28576:SF13		2	115	5.8E-19	T	30-10-2018
+Phoronis_australis_PAU|g5400.t1	bd62d25993bbb2cdaf740f486d0b95ea	144	PANTHER	PTHR28576		2	115	5.8E-19	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_66222-0.2	1b0ac2b00aa69bce0911f78a3950e8cc	377	Pfam	PF13843	Transposase IS4	75	362	1.3E-60	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_66222-0.2	1b0ac2b00aa69bce0911f78a3950e8cc	377	MobiDBLite	mobidb-lite	consensus disorder prediction	1	35	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_66222-0.2	1b0ac2b00aa69bce0911f78a3950e8cc	377	PANTHER	PTHR28576		63	358	1.2E-57	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_66222-0.2	1b0ac2b00aa69bce0911f78a3950e8cc	377	PANTHER	PTHR28576:SF13		63	358	1.2E-57	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17637-0.15	4926b861482d4274bd0809197c67478a	375	PANTHER	PTHR28576:SF13		1	348	8.9E-91	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17637-0.15	4926b861482d4274bd0809197c67478a	375	Pfam	PF13843	Transposase IS4	1	307	7.1E-71	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_17637-0.15	4926b861482d4274bd0809197c67478a	375	PANTHER	PTHR28576		1	348	8.9E-91	T	30-10-2018
+Aplysia_californica_ACA|XP_012935791.1	b2005721b20b794e911df424cc087ed7	660	Pfam	PF13843	Transposase IS4	172	527	1.8E-83	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012935791.1	b2005721b20b794e911df424cc087ed7	660	MobiDBLite	mobidb-lite	consensus disorder prediction	1	127	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012935791.1	b2005721b20b794e911df424cc087ed7	660	PANTHER	PTHR28576		151	646	5.5E-99	T	30-10-2018
+Aplysia_californica_ACA|XP_012935791.1	b2005721b20b794e911df424cc087ed7	660	PANTHER	PTHR28576:SF4		151	646	5.5E-99	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_3238-0.0	dc4a1def768e150f83973119e3b1de83	181	Pfam	PF13843	Transposase IS4	31	86	2.1E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_3238-0.0	dc4a1def768e150f83973119e3b1de83	181	PANTHER	PTHR28576		4	97	1.2E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_017436-T1	7bae674f39c8fcc3c9d88faa9110cf7a	407	ProSiteProfiles	PS50966	Zinc finger SWIM-type profile.	348	380	8.395	T	30-10-2018	IPR007527	Zinc finger, SWIM-type	GO:0008270	
+Lamellibrachia_luymsi_proteins_LLU|FUN_017436-T1	7bae674f39c8fcc3c9d88faa9110cf7a	407	MobiDBLite	mobidb-lite	consensus disorder prediction	24	121	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768564.1	aab8b1779dcb159dba61b3211bed4e46	155	PANTHER	PTHR28576		12	155	8.5E-28	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768564.1	aab8b1779dcb159dba61b3211bed4e46	155	PANTHER	PTHR28576:SF4		12	155	8.5E-28	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768564.1	aab8b1779dcb159dba61b3211bed4e46	155	Pfam	PF13843	Transposase IS4	3	155	7.5E-28	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	SUPERFAMILY	SSF103657		252	314	5.23E-9	T	30-10-2018	IPR027267	AH/BAR domain superfamily		
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	PANTHER	PTHR28576		67	228	1.5E-41	T	30-10-2018
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	Coils	Coil		1	21	-	T	30-10-2018
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	Pfam	PF13843	Transposase IS4	67	228	3.2E-34	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	Pfam	PF03114	BAR domain	253	317	1.6E-9	T	30-10-2018	IPR004148	BAR domain	GO:0005515|GO:0005737	
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	Gene3D	G3DSA:1.20.1270.60		237	318	3.8E-12	T	30-10-2018	IPR027267	AH/BAR domain superfamily		
+Phoronis_australis_PAU|g5444.t1	85efc2409d590fe1526cf8113af72854	318	PANTHER	PTHR28576:SF13		67	228	1.5E-41	T	30-10-2018
+Aplysia_californica_ACA|XP_012937104.1	6abaf3f5dedc9a0342fc7f4b4dcb8c2a	262	MobiDBLite	mobidb-lite	consensus disorder prediction	1	79	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012937104.1	6abaf3f5dedc9a0342fc7f4b4dcb8c2a	262	Pfam	PF13843	Transposase IS4	123	261	2.1E-26	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012937104.1	6abaf3f5dedc9a0342fc7f4b4dcb8c2a	262	PANTHER	PTHR28576		46	261	1.3E-32	T	30-10-2018
+Aplysia_californica_ACA|XP_005090528.1	aa3f27728cbcc65d90151ea8f6b5cf20	160	Pfam	PF13843	Transposase IS4	9	153	5.1E-30	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005090528.1	aa3f27728cbcc65d90151ea8f6b5cf20	160	PANTHER	PTHR28576:SF13		10	152	2.0E-31	T	30-10-2018
+Aplysia_californica_ACA|XP_005090528.1	aa3f27728cbcc65d90151ea8f6b5cf20	160	PANTHER	PTHR28576		10	152	2.0E-31	T	30-10-2018
+Aplysia_californica_ACA|XP_005096131.1	792d0ae524018a504a5c935835727c7c	589	MobiDBLite	mobidb-lite	consensus disorder prediction	53	104	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005096131.1	792d0ae524018a504a5c935835727c7c	589	Pfam	PF13843	Transposase IS4	109	472	2.2E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005096131.1	792d0ae524018a504a5c935835727c7c	589	PANTHER	PTHR28576		61	515	1.6E-111	T	30-10-2018
+Aplysia_californica_ACA|XP_005096909.1	5f1555b20ae6b6d912ecce8d3a873c28	208	Pfam	PF13843	Transposase IS4	9	107	5.9E-8	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005096909.1	5f1555b20ae6b6d912ecce8d3a873c28	208	PANTHER	PTHR28576		8	147	5.8E-23	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004595-T1	4421bd4ff1ac5f9f857142e37be0e800	208	MobiDBLite	mobidb-lite	consensus disorder prediction	32	59	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004595-T1	4421bd4ff1ac5f9f857142e37be0e800	208	PANTHER	PTHR28576		68	186	1.3E-19	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004595-T1	4421bd4ff1ac5f9f857142e37be0e800	208	Pfam	PF13843	Transposase IS4	94	182	1.4E-14	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_004595-T1	4421bd4ff1ac5f9f857142e37be0e800	208	PANTHER	PTHR28576:SF4		68	186	1.3E-19	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020903451.1	8f4b1a578e0446e0398b0b01ad1e025d	660	Coils	Coil		40	60	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020903451.1	8f4b1a578e0446e0398b0b01ad1e025d	660	Pfam	PF13843	Transposase IS4	175	543	1.1E-83	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020903451.1	8f4b1a578e0446e0398b0b01ad1e025d	660	PANTHER	PTHR28576		147	633	6.1E-113	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040934-T1	d805bce4cb534922fea5476af5a996d3	566	MobiDBLite	mobidb-lite	consensus disorder prediction	30	52	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040934-T1	d805bce4cb534922fea5476af5a996d3	566	PANTHER	PTHR28576		36	500	8.5E-107	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040934-T1	d805bce4cb534922fea5476af5a996d3	566	PANTHER	PTHR28576:SF1		36	500	8.5E-107	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040934-T1	d805bce4cb534922fea5476af5a996d3	566	Pfam	PF13843	Transposase IS4	83	443	3.6E-63	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021377035.1	123c419cf3eef83d36b3c604c79969ea	272	PANTHER	PTHR28576		4	257	9.5E-51	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377035.1	123c419cf3eef83d36b3c604c79969ea	272	PANTHER	PTHR28576:SF4		4	257	9.5E-51	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021377035.1	123c419cf3eef83d36b3c604c79969ea	272	Pfam	PF13843	Transposase IS4	1	180	2.4E-40	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019921239.1	c825a69e1cd01a52e959543f7c49946c	214	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921239.1	c825a69e1cd01a52e959543f7c49946c	214	PANTHER	PTHR28576:SF13		53	213	5.3E-30	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921239.1	c825a69e1cd01a52e959543f7c49946c	214	PANTHER	PTHR28576		53	213	5.3E-30	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019921239.1	c825a69e1cd01a52e959543f7c49946c	214	Pfam	PF13843	Transposase IS4	67	214	1.2E-30	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012941113.1	a4a8e8728f5f2902f43ef722559d2d1d	374	PANTHER	PTHR28576		43	373	6.6E-76	T	30-10-2018
+Aplysia_californica_ACA|XP_012941113.1	a4a8e8728f5f2902f43ef722559d2d1d	374	Pfam	PF13843	Transposase IS4	81	343	1.2E-69	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012941113.1	a4a8e8728f5f2902f43ef722559d2d1d	374	MobiDBLite	mobidb-lite	consensus disorder prediction	1	53	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009047204.1	47ebe04075fcc5c147b90ce7aa08ce2c	397	MobiDBLite	mobidb-lite	consensus disorder prediction	112	131	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009047204.1	47ebe04075fcc5c147b90ce7aa08ce2c	397	MobiDBLite	mobidb-lite	consensus disorder prediction	24	65	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009047204.1	47ebe04075fcc5c147b90ce7aa08ce2c	397	MobiDBLite	mobidb-lite	consensus disorder prediction	148	173	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009047204.1	47ebe04075fcc5c147b90ce7aa08ce2c	397	MobiDBLite	mobidb-lite	consensus disorder prediction	305	359	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012938598.1	6dec32df53c79f298baada5d1ad4fcb2	177	PANTHER	PTHR28576		7	169	4.8E-18	T	30-10-2018
+Aplysia_californica_ACA|XP_012938598.1	6dec32df53c79f298baada5d1ad4fcb2	177	PANTHER	PTHR28576:SF13		7	169	4.8E-18	T	30-10-2018
+Aplysia_californica_ACA|XP_012938598.1	6dec32df53c79f298baada5d1ad4fcb2	177	Pfam	PF13843	Transposase IS4	14	64	1.1E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014770740.1	0dc4f01e8ba7b9455c1fe5a32427e59a	295	PANTHER	PTHR28576		75	282	4.6E-51	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014770740.1	0dc4f01e8ba7b9455c1fe5a32427e59a	295	Coils	Coil		30	50	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014770740.1	0dc4f01e8ba7b9455c1fe5a32427e59a	295	Pfam	PF13843	Transposase IS4	99	285	1.9E-39	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014770740.1	0dc4f01e8ba7b9455c1fe5a32427e59a	295	PANTHER	PTHR28576:SF13		75	282	4.6E-51	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000907-T1	628fc643cce839948552c1eede1b3da4	68	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000907-T1	628fc643cce839948552c1eede1b3da4	68	Pfam	PF13843	Transposase IS4	12	65	8.2E-6	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005099007.1	a13df60066d9a22d9a6358675f9b24c5	586	Pfam	PF13843	Transposase IS4	104	471	1.4E-57	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005099007.1	a13df60066d9a22d9a6358675f9b24c5	586	PANTHER	PTHR28576		36	515	8.4E-77	T	30-10-2018
+Aplysia_californica_ACA|XP_005099007.1	a13df60066d9a22d9a6358675f9b24c5	586	MobiDBLite	mobidb-lite	consensus disorder prediction	21	84	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	MobiDBLite	mobidb-lite	consensus disorder prediction	23	190	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	PANTHER	PTHR28576		495	630	8.2E-78	T	30-10-2018
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	595	620	1.5E-5	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	PANTHER	PTHR28576:SF4		231	486	8.2E-78	T	30-10-2018
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	PANTHER	PTHR28576		231	486	8.2E-78	T	30-10-2018
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	PANTHER	PTHR28576:SF4		495	630	8.2E-78	T	30-10-2018
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	Pfam	PF13843	Transposase IS4	235	485	9.8E-71	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g7278.t1	665bd31596585ee718efe17a0a68fc90	636	MobiDBLite	mobidb-lite	consensus disorder prediction	541	576	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g34872.t1	a12fc77129e7cca2ff0a3d263ffa846d	609	PANTHER	PTHR28576		123	601	3.5E-137	T	30-10-2018
+Notospermus_geniculatus_NGE|g34872.t1	a12fc77129e7cca2ff0a3d263ffa846d	609	Pfam	PF13843	Transposase IS4	124	499	5.2E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g34872.t1	a12fc77129e7cca2ff0a3d263ffa846d	609	PANTHER	PTHR28576:SF13		123	601	3.5E-137	T	30-10-2018
+Notospermus_geniculatus_NGE|g34872.t1	a12fc77129e7cca2ff0a3d263ffa846d	609	MobiDBLite	mobidb-lite	consensus disorder prediction	18	89	-	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020902860.1	3c8c147b41a076b471aacabb8f7323f0	363	Pfam	PF13843	Transposase IS4	119	259	4.8E-19	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020902860.1	3c8c147b41a076b471aacabb8f7323f0	363	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	326	356	3.5E-5	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Exaiptasia_pallida_EPA|XP_020902860.1	3c8c147b41a076b471aacabb8f7323f0	363	PANTHER	PTHR28576		118	362	4.3E-41	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020902860.1	3c8c147b41a076b471aacabb8f7323f0	363	PANTHER	PTHR28576:SF13		118	362	4.3E-41	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011433737.1	59a907bf328dcea37755f6c25f0c21f3	570	Pfam	PF13843	Transposase IS4	101	461	2.4E-85	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011433737.1	59a907bf328dcea37755f6c25f0c21f3	570	PANTHER	PTHR28576:SF13		85	558	5.6E-123	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011433737.1	59a907bf328dcea37755f6c25f0c21f3	570	MobiDBLite	mobidb-lite	consensus disorder prediction	38	66	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011433737.1	59a907bf328dcea37755f6c25f0c21f3	570	PANTHER	PTHR28576		85	558	5.6E-123	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374821.1	31a930b8aad634378c40341f4089569f	382	Pfam	PF13843	Transposase IS4	35	206	1.4E-28	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021374821.1	31a930b8aad634378c40341f4089569f	382	Pfam	PF13843	Transposase IS4	256	306	9.8E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021374821.1	31a930b8aad634378c40341f4089569f	382	PANTHER	PTHR28576		221	347	1.2E-53	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021374821.1	31a930b8aad634378c40341f4089569f	382	PANTHER	PTHR28576		21	203	1.2E-53	T	30-10-2018
+Aplysia_californica_ACA|XP_005102686.2	8bdaa53189f9cab9db088cbbadb3948a	626	Coils	Coil		4	24	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005102686.2	8bdaa53189f9cab9db088cbbadb3948a	626	Pfam	PF13843	Transposase IS4	158	517	7.3E-71	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005102686.2	8bdaa53189f9cab9db088cbbadb3948a	626	PANTHER	PTHR28576:SF4		158	608	3.0E-76	T	30-10-2018
+Aplysia_californica_ACA|XP_005102686.2	8bdaa53189f9cab9db088cbbadb3948a	626	PANTHER	PTHR28576		158	608	3.0E-76	T	30-10-2018
+Aplysia_californica_ACA|XP_005102686.2	8bdaa53189f9cab9db088cbbadb3948a	626	Coils	Coil		81	108	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005102686.2	8bdaa53189f9cab9db088cbbadb3948a	626	Coils	Coil		47	74	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA49836.1	4cb6897506f6bb42ad0a7c81014f2a86	558	Pfam	PF13843	Transposase IS4	87	457	1.1E-65	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA49836.1	4cb6897506f6bb42ad0a7c81014f2a86	558	PANTHER	PTHR28576:SF4		81	526	2.2E-67	T	30-10-2018
+Macrostomum_lignano_MLI|PAA49836.1	4cb6897506f6bb42ad0a7c81014f2a86	558	PANTHER	PTHR28576		81	526	2.2E-67	T	30-10-2018
+Macrostomum_lignano_MLI|PAA49836.1	4cb6897506f6bb42ad0a7c81014f2a86	558	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52983-1.9	7f8107133e3f58ed0f0cf134fd633d85	166	Pfam	PF13843	Transposase IS4	4	57	5.8E-9	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_52983-1.9	7f8107133e3f58ed0f0cf134fd633d85	166	PANTHER	PTHR28576		4	137	1.1E-22	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014774695.1	5377d5aff92d55aba92ade4f52e1e898	200	PANTHER	PTHR28576:SF13		3	164	9.6E-36	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014774695.1	5377d5aff92d55aba92ade4f52e1e898	200	PANTHER	PTHR28576		3	164	9.6E-36	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014774695.1	5377d5aff92d55aba92ade4f52e1e898	200	Pfam	PF13843	Transposase IS4	3	164	1.4E-33	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_62715-0.6	19e85dc3e8e60b9c3a12a2a56b14f1d2	88	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019926838.1	cef230001f40eb45f3c77f368fb62523	226	Pfam	PF13843	Transposase IS4	1	210	9.2E-56	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019926838.1	cef230001f40eb45f3c77f368fb62523	226	PANTHER	PTHR28576		1	210	7.0E-59	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021354858.1	7dc4790c434288a647c1b56fb5645c62	265	MobiDBLite	mobidb-lite	consensus disorder prediction	243	265	-	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021354858.1	7dc4790c434288a647c1b56fb5645c62	265	Pfam	PF13843	Transposase IS4	1	247	8.2E-57	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021354858.1	7dc4790c434288a647c1b56fb5645c62	265	PANTHER	PTHR28576:SF13		1	265	7.3E-84	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021354858.1	7dc4790c434288a647c1b56fb5645c62	265	PANTHER	PTHR28576		1	265	7.3E-84	T	30-10-2018
+Phoronis_australis_PAU|g795.t1	3c3d953727aa13d06c4ac61dfa9bafea	613	Pfam	PF13843	Transposase IS4	125	497	3.1E-92	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g795.t1	3c3d953727aa13d06c4ac61dfa9bafea	613	MobiDBLite	mobidb-lite	consensus disorder prediction	20	61	-	T	30-10-2018
+Phoronis_australis_PAU|g795.t1	3c3d953727aa13d06c4ac61dfa9bafea	613	PANTHER	PTHR28576:SF13		125	611	4.8E-142	T	30-10-2018
+Phoronis_australis_PAU|g795.t1	3c3d953727aa13d06c4ac61dfa9bafea	613	PANTHER	PTHR28576		125	611	4.8E-142	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018217-T1	5863d494fc44ba0c105f069e01fc5223	129	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018217-T1	5863d494fc44ba0c105f069e01fc5223	129	PANTHER	PTHR28576		34	125	6.4E-12	T	30-10-2018
+Phoronis_australis_PAU|g14177.t1	b90b1ad124d0b2be7653c1eb48f00512	444	PANTHER	PTHR28576:SF13		1	437	4.4E-88	T	30-10-2018
+Phoronis_australis_PAU|g14177.t1	b90b1ad124d0b2be7653c1eb48f00512	444	Pfam	PF13843	Transposase IS4	1	310	9.1E-65	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g14177.t1	b90b1ad124d0b2be7653c1eb48f00512	444	PANTHER	PTHR28576		1	437	4.4E-88	T	30-10-2018
+Notospermus_geniculatus_NGE|g42904.t1	b6319beeeee1f51194d8bf21295fffc4	359	Pfam	PF13843	Transposase IS4	1	287	3.0E-61	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g42904.t1	b6319beeeee1f51194d8bf21295fffc4	359	PANTHER	PTHR28576		1	325	1.7E-79	T	30-10-2018
+Aplysia_californica_ACA|XP_012937609.1	1be933081fc40ed883518dc2adc695c4	185	Pfam	PF13843	Transposase IS4	15	164	2.2E-42	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012937609.1	1be933081fc40ed883518dc2adc695c4	185	PANTHER	PTHR28576		14	165	6.7E-41	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022321465.1	6b466bee176aef8bf5c63e32dc428c30	328	PANTHER	PTHR28576		6	323	8.7E-58	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022321465.1	6b466bee176aef8bf5c63e32dc428c30	328	PANTHER	PTHR28576:SF4		6	323	8.7E-58	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022321465.1	6b466bee176aef8bf5c63e32dc428c30	328	Pfam	PF13843	Transposase IS4	9	246	1.6E-47	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA86818.1	ce46141b65387ead824b65050833d8cb	576	MobiDBLite	mobidb-lite	consensus disorder prediction	29	48	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA86818.1	ce46141b65387ead824b65050833d8cb	576	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA86818.1	ce46141b65387ead824b65050833d8cb	576	Coils	Coil		20	48	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA86818.1	ce46141b65387ead824b65050833d8cb	576	PANTHER	PTHR28576		76	496	3.9E-80	T	30-10-2018
+Macrostomum_lignano_MLI|PAA86818.1	ce46141b65387ead824b65050833d8cb	576	Pfam	PF13843	Transposase IS4	92	464	3.6E-68	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6384-5.8	753d102157f585be5017fb08d11bfee0	851	PANTHER	PTHR28576		28	440	4.6E-81	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6384-5.8	753d102157f585be5017fb08d11bfee0	851	Coils	Coil		845	851	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6384-5.8	753d102157f585be5017fb08d11bfee0	851	Pfam	PF13843	Transposase IS4	38	403	3.6E-72	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_49114-0.0	19c0aa4ebad8d71bb3a9a4b007006c82	198	Pfam	PF13843	Transposase IS4	23	102	1.9E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013084392.1	bc026a77b4db552cbd52123a95ef900b	725	PANTHER	PTHR28576		146	540	2.3E-109	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013084392.1	bc026a77b4db552cbd52123a95ef900b	725	Pfam	PF13843	Transposase IS4	148	506	7.9E-91	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013084392.1	bc026a77b4db552cbd52123a95ef900b	725	MobiDBLite	mobidb-lite	consensus disorder prediction	96	115	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013084392.1	bc026a77b4db552cbd52123a95ef900b	725	MobiDBLite	mobidb-lite	consensus disorder prediction	683	725	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013084392.1	bc026a77b4db552cbd52123a95ef900b	725	PANTHER	PTHR28576:SF13		146	540	2.3E-109	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372498.1	34ff9fa7969f09f4f43d604d0e3d004f	316	Pfam	PF13843	Transposase IS4	1	187	2.5E-33	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021372498.1	34ff9fa7969f09f4f43d604d0e3d004f	316	PANTHER	PTHR28576:SF4		1	264	4.1E-47	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021372498.1	34ff9fa7969f09f4f43d604d0e3d004f	316	PANTHER	PTHR28576		1	264	4.1E-47	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088561.1	3b56b8dc6fc0a48a5f6259c8a07ca1c0	690	MobiDBLite	mobidb-lite	consensus disorder prediction	26	48	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088561.1	3b56b8dc6fc0a48a5f6259c8a07ca1c0	690	Pfam	PF13843	Transposase IS4	226	583	6.3E-60	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013088561.1	3b56b8dc6fc0a48a5f6259c8a07ca1c0	690	PANTHER	PTHR28576		144	672	6.3E-67	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013088561.1	3b56b8dc6fc0a48a5f6259c8a07ca1c0	690	MobiDBLite	mobidb-lite	consensus disorder prediction	104	174	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012936444.1	3f58483e15f64d77eecc72d8c81dd52e	170	Pfam	PF13843	Transposase IS4	7	63	3.0E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012936444.1	3f58483e15f64d77eecc72d8c81dd52e	170	PANTHER	PTHR28576:SF4		19	88	3.7E-12	T	30-10-2018
+Aplysia_californica_ACA|XP_012936444.1	3f58483e15f64d77eecc72d8c81dd52e	170	PANTHER	PTHR28576		19	88	3.7E-12	T	30-10-2018
+Notospermus_geniculatus_NGE|g8733.t1	0c4a856906451d234cdad9f5fd7f479a	229	Pfam	PF13843	Transposase IS4	1	194	1.4E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g8733.t1	0c4a856906451d234cdad9f5fd7f479a	229	PANTHER	PTHR28576:SF13		1	191	1.9E-55	T	30-10-2018
+Notospermus_geniculatus_NGE|g8733.t1	0c4a856906451d234cdad9f5fd7f479a	229	PANTHER	PTHR28576		1	191	1.9E-55	T	30-10-2018
+Notospermus_geniculatus_NGE|g17125.t1	c67f5fdb830b30c12c76c6085fc28458	819	MobiDBLite	mobidb-lite	consensus disorder prediction	196	215	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g17125.t1	c67f5fdb830b30c12c76c6085fc28458	819	PANTHER	PTHR28576		252	802	2.9E-92	T	30-10-2018
+Notospermus_geniculatus_NGE|g17125.t1	c67f5fdb830b30c12c76c6085fc28458	819	MobiDBLite	mobidb-lite	consensus disorder prediction	44	138	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g17125.t1	c67f5fdb830b30c12c76c6085fc28458	819	Pfam	PF13843	Transposase IS4	339	701	3.7E-62	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g17125.t1	c67f5fdb830b30c12c76c6085fc28458	819	MobiDBLite	mobidb-lite	consensus disorder prediction	239	304	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022334860.1	87ca5120eb390cce16aa030bdb85669b	250	Pfam	PF13843	Transposase IS4	2	244	5.3E-70	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022334860.1	87ca5120eb390cce16aa030bdb85669b	250	PANTHER	PTHR28576:SF13		3	239	2.0E-77	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022334860.1	87ca5120eb390cce16aa030bdb85669b	250	PANTHER	PTHR28576		3	239	2.0E-77	T	30-10-2018
+Notospermus_geniculatus_NGE|g20902.t1	8820e88a191e8ee8c08b6dbb30d23e6b	586	Pfam	PF13843	Transposase IS4	99	449	4.9E-92	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g20902.t1	8820e88a191e8ee8c08b6dbb30d23e6b	586	MobiDBLite	mobidb-lite	consensus disorder prediction	1	96	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g20902.t1	8820e88a191e8ee8c08b6dbb30d23e6b	586	PANTHER	PTHR28576		52	449	7.6E-96	T	30-10-2018
+Aplysia_californica_ACA|XP_012946103.1	3fb5cb3ff40955ddef742198187770e1	616	PANTHER	PTHR28576		96	566	1.1E-104	T	30-10-2018
+Aplysia_californica_ACA|XP_012946103.1	3fb5cb3ff40955ddef742198187770e1	616	Pfam	PF13843	Transposase IS4	120	494	2.8E-82	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Capitella_teleta_CTE|ELU09695.1	c6b69bff592e4f659c9d398a684c30a9	190	MobiDBLite	mobidb-lite	consensus disorder prediction	165	190	-	T	30-10-2018
+Capitella_teleta_CTE|ELU09695.1	c6b69bff592e4f659c9d398a684c30a9	190	Gene3D	G3DSA:1.10.533.10		1	63	1.4E-6	T	30-10-2018
+Aplysia_californica_ACA|XP_005095435.1	d07008fdbbaf511cd8cd6afd6378f658	359	PANTHER	PTHR28576		29	340	2.1E-66	T	30-10-2018
+Aplysia_californica_ACA|XP_005095435.1	d07008fdbbaf511cd8cd6afd6378f658	359	MobiDBLite	mobidb-lite	consensus disorder prediction	18	76	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005095435.1	d07008fdbbaf511cd8cd6afd6378f658	359	Pfam	PF13843	Transposase IS4	83	356	1.5E-60	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Helobdella_robusta_HRO|XP_009009381.1	48fa9ae70f7edd2d0f3aeb42149959e0	127	PANTHER	PTHR28576:SF3		82	126	6.6E-19	T	30-10-2018
+Helobdella_robusta_HRO|XP_009009381.1	48fa9ae70f7edd2d0f3aeb42149959e0	127	PANTHER	PTHR28576		82	126	6.6E-19	T	30-10-2018
+Helobdella_robusta_HRO|XP_009009381.1	48fa9ae70f7edd2d0f3aeb42149959e0	127	PANTHER	PTHR28576		1	71	6.6E-19	T	30-10-2018
+Helobdella_robusta_HRO|XP_009009381.1	48fa9ae70f7edd2d0f3aeb42149959e0	127	PANTHER	PTHR28576:SF3		1	71	6.6E-19	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020912142.1	5b3ea2f4c229b466fdfcb87911ce42ce	332	PANTHER	PTHR28576:SF13		3	320	1.7E-87	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020912142.1	5b3ea2f4c229b466fdfcb87911ce42ce	332	Pfam	PF13843	Transposase IS4	8	246	2.0E-47	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020912142.1	5b3ea2f4c229b466fdfcb87911ce42ce	332	PANTHER	PTHR28576		3	320	1.7E-87	T	30-10-2018
+Phoronis_australis_PAU|g15598.t1	6db802940a2f4626bd5690aa79fc1b5c	127	MobiDBLite	mobidb-lite	consensus disorder prediction	23	65	-	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17986-3.14	9264e8c4967bff4719a0d224bcaa520f	303	PANTHER	PTHR28576		154	253	6.5E-25	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17986-3.14	9264e8c4967bff4719a0d224bcaa520f	303	PANTHER	PTHR28576		91	155	6.5E-25	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17986-3.14	9264e8c4967bff4719a0d224bcaa520f	303	PANTHER	PTHR28576:SF13		91	155	6.5E-25	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17986-3.14	9264e8c4967bff4719a0d224bcaa520f	303	PANTHER	PTHR28576:SF13		154	253	6.5E-25	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17986-3.14	9264e8c4967bff4719a0d224bcaa520f	303	Pfam	PF13843	Transposase IS4	158	253	6.0E-10	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014784704.1	9b96d5bfd405f2325819270e81b8c99e	209	PANTHER	PTHR28576		1	173	1.2E-45	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784704.1	9b96d5bfd405f2325819270e81b8c99e	209	PANTHER	PTHR28576:SF13		1	173	1.2E-45	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784704.1	9b96d5bfd405f2325819270e81b8c99e	209	Pfam	PF13843	Transposase IS4	1	170	1.5E-39	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005094394.1	5618bb8e76e3c54b020235463b4b75ff	141	PANTHER	PTHR28576		2	138	5.2E-22	T	30-10-2018
+Aplysia_californica_ACA|XP_005094394.1	5618bb8e76e3c54b020235463b4b75ff	141	Pfam	PF13843	Transposase IS4	2	135	8.7E-19	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012941155.1	2bdb95e7f7c41b81592a5d2b8c1b4da9	430	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012941155.1	2bdb95e7f7c41b81592a5d2b8c1b4da9	430	Pfam	PF13843	Transposase IS4	51	260	5.9E-38	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012941155.1	2bdb95e7f7c41b81592a5d2b8c1b4da9	430	PANTHER	PTHR28576:SF13		251	390	1.4E-68	T	30-10-2018
+Aplysia_californica_ACA|XP_012941155.1	2bdb95e7f7c41b81592a5d2b8c1b4da9	430	PANTHER	PTHR28576:SF13		51	254	1.4E-68	T	30-10-2018
+Aplysia_californica_ACA|XP_012941155.1	2bdb95e7f7c41b81592a5d2b8c1b4da9	430	PANTHER	PTHR28576		251	390	1.4E-68	T	30-10-2018
+Aplysia_californica_ACA|XP_012941155.1	2bdb95e7f7c41b81592a5d2b8c1b4da9	430	PANTHER	PTHR28576		51	254	1.4E-68	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014791012.1	077f3d82d05d088865604f0532f3ba9e	102	PANTHER	PTHR28576:SF4		3	94	1.3E-20	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014791012.1	077f3d82d05d088865604f0532f3ba9e	102	Pfam	PF13843	Transposase IS4	1	85	5.3E-15	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014791012.1	077f3d82d05d088865604f0532f3ba9e	102	PANTHER	PTHR28576		3	94	1.3E-20	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435626.1	f009563c97972f26d0a8f0ee78770c3d	192	PANTHER	PTHR28576		1	191	5.4E-38	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435626.1	f009563c97972f26d0a8f0ee78770c3d	192	PANTHER	PTHR28576:SF13		1	191	5.4E-38	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435626.1	f009563c97972f26d0a8f0ee78770c3d	192	Pfam	PF13843	Transposase IS4	1	190	1.9E-21	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021352922.1	0815cc51cf4a3510908ff53f2bca7bf5	598	PANTHER	PTHR28576:SF4		84	572	4.5E-115	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352922.1	0815cc51cf4a3510908ff53f2bca7bf5	598	PANTHER	PTHR28576		84	572	4.5E-115	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021352922.1	0815cc51cf4a3510908ff53f2bca7bf5	598	Pfam	PF13843	Transposase IS4	91	455	1.1E-94	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022341151.1	9b2b66d16e36f8c8c39bb0ee5edf4643	426	PANTHER	PTHR28576		26	391	3.8E-73	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022341151.1	9b2b66d16e36f8c8c39bb0ee5edf4643	426	Pfam	PF13843	Transposase IS4	17	346	7.4E-68	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005110942.1	eab2df117f5aa3d09c4067c4a68ae5eb	702	Pfam	PF13843	Transposase IS4	214	571	3.2E-75	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005110942.1	eab2df117f5aa3d09c4067c4a68ae5eb	702	MobiDBLite	mobidb-lite	consensus disorder prediction	19	100	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005110942.1	eab2df117f5aa3d09c4067c4a68ae5eb	702	PANTHER	PTHR28576		145	618	5.4E-85	T	30-10-2018
+Aplysia_californica_ACA|XP_005110942.1	eab2df117f5aa3d09c4067c4a68ae5eb	702	MobiDBLite	mobidb-lite	consensus disorder prediction	117	145	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005110942.1	eab2df117f5aa3d09c4067c4a68ae5eb	702	MobiDBLite	mobidb-lite	consensus disorder prediction	161	207	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064271.1	b3a80da0380c23fa20969baa9b378157	197	PANTHER	PTHR28576		1	192	4.1E-18	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064271.1	b3a80da0380c23fa20969baa9b378157	197	Pfam	PF13843	Transposase IS4	1	191	3.0E-18	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013064271.1	b3a80da0380c23fa20969baa9b378157	197	PANTHER	PTHR28576:SF13		1	192	4.1E-18	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	Gene3D	G3DSA:1.10.20.10		137	204	6.8E-13	T	30-10-2018	IPR009072	Histone-fold	GO:0046982	
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	PANTHER	PTHR23430		139	181	4.0E-14	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	PRINTS	PR00620	Histone H2A signature	165	177	1.2E-5	T	30-10-2018	IPR002119	Histone H2A	GO:0000786|GO:0003677|GO:0005634	Reactome: R-HSA-3214858
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	PRINTS	PR00620	Histone H2A signature	137	150	1.2E-5	T	30-10-2018	IPR002119	Histone H2A	GO:0000786|GO:0003677|GO:0005634	Reactome: R-HSA-3214858
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	SUPERFAMILY	SSF47113		139	178	6.28E-9	T	30-10-2018	IPR009072	Histone-fold	GO:0046982	
+Schmidtea_mediterranea_SME|mk4.025746.01	393ecedb12a731d47568e5f062d7ed76	229	PANTHER	PTHR23430:SF203		139	181	4.0E-14	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013071841.1	f87d5e85b356877beef5802d13b16990	365	MobiDBLite	mobidb-lite	consensus disorder prediction	1	52	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013071841.1	f87d5e85b356877beef5802d13b16990	365	PANTHER	PTHR28576		80	355	6.0E-57	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013071841.1	f87d5e85b356877beef5802d13b16990	365	Pfam	PF13843	Transposase IS4	95	358	1.4E-56	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA58012.1	161d06f8c63d904f61feb44dca8db4ca	298	Pfam	PF13843	Transposase IS4	78	279	1.6E-43	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA58012.1	161d06f8c63d904f61feb44dca8db4ca	298	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA58012.1	161d06f8c63d904f61feb44dca8db4ca	298	PANTHER	PTHR28576		17	276	4.0E-47	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901657.1	43da12c275b857003be23038df5cf111	585	PANTHER	PTHR28576:SF13		79	580	1.7E-91	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901657.1	43da12c275b857003be23038df5cf111	585	PANTHER	PTHR28576		79	580	1.7E-91	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020901657.1	43da12c275b857003be23038df5cf111	585	Pfam	PF13843	Transposase IS4	91	454	4.6E-78	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	MobiDBLite	mobidb-lite	consensus disorder prediction	85	111	-	T	30-10-2018
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	PANTHER	PTHR28576		142	359	2.2E-18	T	30-10-2018
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	PANTHER	PTHR28576		432	498	2.2E-18	T	30-10-2018
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	548	582	7.6E-6	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	MobiDBLite	mobidb-lite	consensus disorder prediction	15	52	-	T	30-10-2018
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	Pfam	PF13843	Transposase IS4	286	400	1.0E-4	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Drosophila_melanogaster_DME|NP_610793.1	fdbc7fb2a4806e7a1e3d99eff156627c	604	Pfam	PF13843	Transposase IS4	147	284	1.0E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014768230.1	d7212bfe54250316d31a4d1acfb37a8f	128	Pfam	PF13843	Transposase IS4	1	127	1.4E-27	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014768230.1	d7212bfe54250316d31a4d1acfb37a8f	128	PANTHER	PTHR28576		1	108	4.3E-32	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768230.1	d7212bfe54250316d31a4d1acfb37a8f	128	PANTHER	PTHR28576:SF13		1	108	4.3E-32	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013094454.1	f0ffada73e6ef3336a8d88be2f27d330	209	PANTHER	PTHR28576:SF1		176	208	7.5E-27	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013094454.1	f0ffada73e6ef3336a8d88be2f27d330	209	PANTHER	PTHR28576:SF1		68	175	7.5E-27	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013094454.1	f0ffada73e6ef3336a8d88be2f27d330	209	PANTHER	PTHR28576		68	175	7.5E-27	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013094454.1	f0ffada73e6ef3336a8d88be2f27d330	209	PANTHER	PTHR28576		176	208	7.5E-27	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013094454.1	f0ffada73e6ef3336a8d88be2f27d330	209	Pfam	PF13843	Transposase IS4	75	209	8.9E-22	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022314098.1	36d3342fa5f21fbe6cb09dff5a712b29	112	Pfam	PF13843	Transposase IS4	4	108	1.1E-15	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022314098.1	36d3342fa5f21fbe6cb09dff5a712b29	112	PANTHER	PTHR28576		3	103	5.8E-19	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022314098.1	36d3342fa5f21fbe6cb09dff5a712b29	112	PANTHER	PTHR28576:SF4		3	103	5.8E-19	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039970-T1	64cf1d0c4f45cb5ad0304836204639d7	163	PANTHER	PTHR28576:SF13		1	88	7.3E-14	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039970-T1	64cf1d0c4f45cb5ad0304836204639d7	163	MobiDBLite	mobidb-lite	consensus disorder prediction	141	163	-	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039970-T1	64cf1d0c4f45cb5ad0304836204639d7	163	Pfam	PF13843	Transposase IS4	1	40	1.7E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_039970-T1	64cf1d0c4f45cb5ad0304836204639d7	163	PANTHER	PTHR28576		1	88	7.3E-14	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014767697.1	d95740839f7165fc5e7600325d673225	234	Pfam	PF13843	Transposase IS4	1	232	1.7E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014767697.1	d95740839f7165fc5e7600325d673225	234	PANTHER	PTHR28576:SF4		1	234	8.4E-50	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014767697.1	d95740839f7165fc5e7600325d673225	234	PANTHER	PTHR28576		1	234	8.4E-50	T	30-10-2018
+Macrostomum_lignano_MLI|PAA46175.1	4a1b648e06f0fa2156fcc4c27836c1fc	558	PANTHER	PTHR28576:SF4		81	526	3.4E-67	T	30-10-2018
+Macrostomum_lignano_MLI|PAA46175.1	4a1b648e06f0fa2156fcc4c27836c1fc	558	PANTHER	PTHR28576		81	526	3.4E-67	T	30-10-2018
+Macrostomum_lignano_MLI|PAA46175.1	4a1b648e06f0fa2156fcc4c27836c1fc	558	Pfam	PF13843	Transposase IS4	87	457	5.9E-66	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA46175.1	4a1b648e06f0fa2156fcc4c27836c1fc	558	MobiDBLite	mobidb-lite	consensus disorder prediction	1	32	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g18408.t1	46b2c5aea8067b6fa2f292b559e6fb31	766	PANTHER	PTHR28576		222	712	8.1E-102	T	30-10-2018
+Notospermus_geniculatus_NGE|g18408.t1	46b2c5aea8067b6fa2f292b559e6fb31	766	MobiDBLite	mobidb-lite	consensus disorder prediction	667	697	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g18408.t1	46b2c5aea8067b6fa2f292b559e6fb31	766	Pfam	PF13843	Transposase IS4	264	633	4.8E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g18408.t1	46b2c5aea8067b6fa2f292b559e6fb31	766	MobiDBLite	mobidb-lite	consensus disorder prediction	1	229	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768138.1	d7f9c507da5073fea94aaafddd4f62ee	180	Pfam	PF13843	Transposase IS4	1	125	2.3E-10	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022339837.1	40d3adb95958be00ebfeae6143057f5a	357	PANTHER	PTHR28576:SF4		1	331	9.8E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022339837.1	40d3adb95958be00ebfeae6143057f5a	357	Pfam	PF13843	Transposase IS4	1	218	6.9E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022339837.1	40d3adb95958be00ebfeae6143057f5a	357	PANTHER	PTHR28576		1	331	9.8E-68	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290105.1	997d018edc31b6c5b627058b457bf4f4	216	PANTHER	PTHR28576		12	196	3.6E-60	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022290105.1	997d018edc31b6c5b627058b457bf4f4	216	Pfam	PF13843	Transposase IS4	21	202	3.1E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022290105.1	997d018edc31b6c5b627058b457bf4f4	216	PANTHER	PTHR28576:SF13		12	196	3.6E-60	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308174.1	e36e9e01f89876f07fb1c6f12f0e69ff	158	PANTHER	PTHR28576		1	147	7.2E-31	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308174.1	e36e9e01f89876f07fb1c6f12f0e69ff	158	Pfam	PF13843	Transposase IS4	1	155	3.8E-29	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_70237-0.1	d0b3f98dd44ca14d7e2623e9fec815ef	379	Pfam	PF13843	Transposase IS4	125	280	1.6E-32	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_70237-0.1	d0b3f98dd44ca14d7e2623e9fec815ef	379	PANTHER	PTHR28576		128	343	1.3E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_70237-0.1	d0b3f98dd44ca14d7e2623e9fec815ef	379	PANTHER	PTHR28576		94	127	1.3E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_70237-0.1	d0b3f98dd44ca14d7e2623e9fec815ef	379	PANTHER	PTHR28576:SF4		128	343	1.3E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_70237-0.1	d0b3f98dd44ca14d7e2623e9fec815ef	379	PANTHER	PTHR28576:SF4		94	127	1.3E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_37507-0.3	3ed53af67219bd6aeee75c34d4ef1b50	361	Pfam	PF13843	Transposase IS4	205	311	1.8E-17	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_37507-0.3	3ed53af67219bd6aeee75c34d4ef1b50	361	Pfam	PF13843	Transposase IS4	95	189	2.3E-19	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_37507-0.3	3ed53af67219bd6aeee75c34d4ef1b50	361	PANTHER	PTHR28576		37	189	7.5E-55	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_37507-0.3	3ed53af67219bd6aeee75c34d4ef1b50	361	PANTHER	PTHR28576		206	356	7.5E-55	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768027.1	61007984fb8f762be7609035f8bbc2cf	207	PANTHER	PTHR28576:SF3		9	35	4.3E-36	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768027.1	61007984fb8f762be7609035f8bbc2cf	207	PANTHER	PTHR28576:SF3		37	205	4.3E-36	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768027.1	61007984fb8f762be7609035f8bbc2cf	207	Pfam	PF13843	Transposase IS4	36	188	7.9E-22	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014768027.1	61007984fb8f762be7609035f8bbc2cf	207	PANTHER	PTHR28576		9	35	4.3E-36	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768027.1	61007984fb8f762be7609035f8bbc2cf	207	PANTHER	PTHR28576		37	205	4.3E-36	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021344408.1	09468558b347755839cf9f36c6b64824	614	PANTHER	PTHR28576:SF13		93	593	1.2E-101	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021344408.1	09468558b347755839cf9f36c6b64824	614	PANTHER	PTHR28576		93	593	1.2E-101	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021344408.1	09468558b347755839cf9f36c6b64824	614	Pfam	PF13843	Transposase IS4	95	476	2.9E-87	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021341429.1	8732bfda48b2c6f0000dcd0298da62ba	264	Pfam	PF13843	Transposase IS4	1	151	1.0E-31	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021341429.1	8732bfda48b2c6f0000dcd0298da62ba	264	PANTHER	PTHR28576:SF13		1	253	5.9E-47	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021341429.1	8732bfda48b2c6f0000dcd0298da62ba	264	PANTHER	PTHR28576		1	253	5.9E-47	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28544-0.1	b0e3432d1f673bc9e90c038e4824464a	168	PANTHER	PTHR28576		3	131	3.6E-14	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28544-0.1	b0e3432d1f673bc9e90c038e4824464a	168	Pfam	PF13843	Transposase IS4	3	91	3.7E-6	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_28544-0.1	b0e3432d1f673bc9e90c038e4824464a	168	PANTHER	PTHR28576:SF13		3	131	3.6E-14	T	30-10-2018
+Notospermus_geniculatus_NGE|g3754.t1	ac25ba5dd1e1f28df6323f0848528cdc	230	Pfam	PF13843	Transposase IS4	2	205	2.5E-32	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g3754.t1	ac25ba5dd1e1f28df6323f0848528cdc	230	PANTHER	PTHR28576		3	213	7.7E-38	T	30-10-2018
+Notospermus_geniculatus_NGE|g3754.t1	ac25ba5dd1e1f28df6323f0848528cdc	230	PANTHER	PTHR28576:SF4		3	213	7.7E-38	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022333746.1	655c77449c4008fc6ae32b8269b977af	216	PANTHER	PTHR28576:SF13		12	196	1.4E-59	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022333746.1	655c77449c4008fc6ae32b8269b977af	216	Pfam	PF13843	Transposase IS4	21	202	3.3E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022333746.1	655c77449c4008fc6ae32b8269b977af	216	PANTHER	PTHR28576		12	196	1.4E-59	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022333747.1	655c77449c4008fc6ae32b8269b977af	216	PANTHER	PTHR28576:SF13		12	196	1.4E-59	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022333747.1	655c77449c4008fc6ae32b8269b977af	216	Pfam	PF13843	Transposase IS4	21	202	3.3E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022333747.1	655c77449c4008fc6ae32b8269b977af	216	PANTHER	PTHR28576		12	196	1.4E-59	T	30-10-2018
+Notospermus_geniculatus_NGE|g28679.t1	3e31b2e581c8c853b9359791e2bba3ed	712	PANTHER	PTHR28576:SF13		190	705	2.5E-168	T	30-10-2018
+Notospermus_geniculatus_NGE|g28679.t1	3e31b2e581c8c853b9359791e2bba3ed	712	PANTHER	PTHR28576		190	705	2.5E-168	T	30-10-2018
+Notospermus_geniculatus_NGE|g28679.t1	3e31b2e581c8c853b9359791e2bba3ed	712	MobiDBLite	mobidb-lite	consensus disorder prediction	1	216	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g28679.t1	3e31b2e581c8c853b9359791e2bba3ed	712	Pfam	PF13843	Transposase IS4	220	593	1.7E-89	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g37712.t1	776d9c41466aa25198da0a270f4577fa	569	PANTHER	PTHR28576:SF13		95	554	1.0E-116	T	30-10-2018
+Notospermus_geniculatus_NGE|g37712.t1	776d9c41466aa25198da0a270f4577fa	569	Pfam	PF13843	Transposase IS4	108	471	2.0E-85	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g37712.t1	776d9c41466aa25198da0a270f4577fa	569	PANTHER	PTHR28576		95	554	1.0E-116	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022288058.1	790d384d2c9c050443421771cfa79ea8	303	PANTHER	PTHR28576		3	294	1.1E-45	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022288058.1	790d384d2c9c050443421771cfa79ea8	303	PANTHER	PTHR28576:SF4		3	294	1.1E-45	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022288058.1	790d384d2c9c050443421771cfa79ea8	303	Pfam	PF13843	Transposase IS4	2	200	7.8E-35	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g14222.t1	06c0cb68ac3718e216717d40d674355e	608	PANTHER	PTHR28576		36	542	2.1E-79	T	30-10-2018
+Notospermus_geniculatus_NGE|g14222.t1	06c0cb68ac3718e216717d40d674355e	608	Pfam	PF13843	Transposase IS4	136	494	9.4E-75	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005093018.1	a70ffcfe17fc69f9185b98292594e242	338	Pfam	PF13843	Transposase IS4	2	304	1.5E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005093018.1	a70ffcfe17fc69f9185b98292594e242	338	PANTHER	PTHR28576:SF4		1	330	3.1E-64	T	30-10-2018
+Aplysia_californica_ACA|XP_005093018.1	a70ffcfe17fc69f9185b98292594e242	338	PANTHER	PTHR28576		1	330	3.1E-64	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011450971.1	884ede6c42767981bc576042d25d277a	560	MobiDBLite	mobidb-lite	consensus disorder prediction	20	84	-	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011450971.1	884ede6c42767981bc576042d25d277a	560	Pfam	PF13843	Transposase IS4	90	459	2.4E-84	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011450971.1	884ede6c42767981bc576042d25d277a	560	PANTHER	PTHR28576		35	547	6.0E-101	T	30-10-2018
+Schmidtea_mediterranea_SME|mk4.001136.14	76931ec8e6afb2f8b82c22e1c55b6f2f	152	Pfam	PF13843	Transposase IS4	21	109	4.5E-11	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011435079.1	f131e5c7c065b375f224496d382b1c30	330	PANTHER	PTHR28576		48	325	2.9E-50	T	30-10-2018
+Crassostrea_gigas_CGI|XP_011435079.1	f131e5c7c065b375f224496d382b1c30	330	Pfam	PF13843	Transposase IS4	115	330	4.6E-46	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_011435079.1	f131e5c7c065b375f224496d382b1c30	330	MobiDBLite	mobidb-lite	consensus disorder prediction	26	65	-	T	30-10-2018
+Phoronis_australis_PAU|g1407.t1	fe26f2c0904dfb971bbf658cbcd60cf7	120	MobiDBLite	mobidb-lite	consensus disorder prediction	23	44	-	T	30-10-2018
+Phoronis_australis_PAU|g11230.t1	977fbf4c3d94ad3b179acabb6638ad4d	322	Pfam	PF13843	Transposase IS4	1	233	4.5E-37	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g11230.t1	977fbf4c3d94ad3b179acabb6638ad4d	322	PANTHER	PTHR28576		2	278	2.4E-56	T	30-10-2018
+Phoronis_australis_PAU|g11230.t1	977fbf4c3d94ad3b179acabb6638ad4d	322	PANTHER	PTHR28576:SF13		2	278	2.4E-56	T	30-10-2018
+Notospermus_geniculatus_NGE|g25418.t1	71c642b9b8431bb04b0bb8ab728ffe93	729	PANTHER	PTHR28576		209	725	3.5E-175	T	30-10-2018
+Notospermus_geniculatus_NGE|g25418.t1	71c642b9b8431bb04b0bb8ab728ffe93	729	MobiDBLite	mobidb-lite	consensus disorder prediction	28	234	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g25418.t1	71c642b9b8431bb04b0bb8ab728ffe93	729	Pfam	PF13843	Transposase IS4	239	610	9.2E-83	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g25418.t1	71c642b9b8431bb04b0bb8ab728ffe93	729	PANTHER	PTHR28576:SF13		209	725	3.5E-175	T	30-10-2018
+Aplysia_californica_ACA|XP_005111558.1	e5abaa489503679d7f7de4b0c9596801	360	PANTHER	PTHR28576		175	337	7.1E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_005111558.1	e5abaa489503679d7f7de4b0c9596801	360	Pfam	PF13843	Transposase IS4	179	359	1.7E-17	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	PANTHER	PTHR28576:SF13		80	102	6.8E-34	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	PANTHER	PTHR28576:SF13		99	292	6.8E-34	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	Pfam	PF13843	Transposase IS4	104	194	1.8E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	261	292	1.7E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	MobiDBLite	mobidb-lite	consensus disorder prediction	1	56	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	PANTHER	PTHR28576		99	292	6.8E-34	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_30291-7.4	85a3b728d4c84c44dcb8bbe8f0414803	302	PANTHER	PTHR28576		80	102	6.8E-34	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	PANTHER	PTHR28576:SF4		98	155	3.4E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	PANTHER	PTHR28576:SF4		66	106	3.4E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	PANTHER	PTHR28576		98	155	3.4E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	PANTHER	PTHR28576		5	41	3.4E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	PANTHER	PTHR28576:SF4		5	41	3.4E-13	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	Pfam	PF13843	Transposase IS4	3	48	9.1E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_039873-T1	544d53ebde3fe5f47cf026ce32544800	261	PANTHER	PTHR28576		66	106	3.4E-13	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021361535.1	e1bbd243e091260edfc30b65c062d431	534	PANTHER	PTHR28576		57	509	1.0E-108	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021361535.1	e1bbd243e091260edfc30b65c062d431	534	Pfam	PF13843	Transposase IS4	96	469	3.8E-86	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020909060.1	8a7d0b9cd284eddc5df876c7e861208b	155	Pfam	PF13843	Transposase IS4	1	149	7.9E-28	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020909060.1	8a7d0b9cd284eddc5df876c7e861208b	155	PANTHER	PTHR28576:SF13		1	146	6.6E-43	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020909060.1	8a7d0b9cd284eddc5df876c7e861208b	155	PANTHER	PTHR28576		1	146	6.6E-43	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_49764-0.9	c17914b52e8611b2e8f7c3e829631221	136	PANTHER	PTHR28576		1	131	5.2E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_49764-0.9	c17914b52e8611b2e8f7c3e829631221	136	PANTHER	PTHR28576:SF13		1	131	5.2E-26	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_49764-0.9	c17914b52e8611b2e8f7c3e829631221	136	Pfam	PF13843	Transposase IS4	1	116	3.9E-20	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014790488.1	d10172f27f5cd54aa13cc97aa518938d	270	Pfam	PF13843	Transposase IS4	48	260	3.0E-39	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014790488.1	d10172f27f5cd54aa13cc97aa518938d	270	PANTHER	PTHR28576		48	260	2.2E-32	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014790488.1	d10172f27f5cd54aa13cc97aa518938d	270	PANTHER	PTHR28576:SF4		48	260	2.2E-32	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027097-T1	f59f7ba710e584409f58b5cd6385308d	166	Pfam	PF13843	Transposase IS4	85	147	2.9E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022325711.1	5de45f791c3e499352fa933358af18a9	264	Pfam	PF13843	Transposase IS4	1	248	1.2E-51	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022325711.1	5de45f791c3e499352fa933358af18a9	264	PANTHER	PTHR28576:SF4		1	253	3.6E-50	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022325711.1	5de45f791c3e499352fa933358af18a9	264	PANTHER	PTHR28576		1	253	3.6E-50	T	30-10-2018
+Aplysia_californica_ACA|XP_005100434.1	75390caaaa82f2cb34218e8e64cc3e4c	195	PANTHER	PTHR28576:SF13		1	183	7.0E-52	T	30-10-2018
+Aplysia_californica_ACA|XP_005100434.1	75390caaaa82f2cb34218e8e64cc3e4c	195	PANTHER	PTHR28576		1	183	7.0E-52	T	30-10-2018
+Aplysia_californica_ACA|XP_005100434.1	75390caaaa82f2cb34218e8e64cc3e4c	195	Pfam	PF13843	Transposase IS4	1	182	1.2E-36	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018673-T1	a308dda9efcc3a21aba50b8a499eaf98	103	PANTHER	PTHR28576		3	81	2.1E-16	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018673-T1	a308dda9efcc3a21aba50b8a499eaf98	103	PANTHER	PTHR28576:SF4		3	81	2.1E-16	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018673-T1	a308dda9efcc3a21aba50b8a499eaf98	103	Pfam	PF13843	Transposase IS4	2	77	3.5E-12	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013391703.1	b6dad37f2ba3ce47c5d33624a65954d9	149	PANTHER	PTHR28576:SF13		1	146	6.1E-22	T	30-10-2018
+Lingula_anatina_LAN|XP_013391703.1	b6dad37f2ba3ce47c5d33624a65954d9	149	PANTHER	PTHR28576		1	146	6.1E-22	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013084559.1	e03c5fb41184bfb12f53cf1178458d27	296	Pfam	PF13843	Transposase IS4	2	293	2.6E-62	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013084559.1	e03c5fb41184bfb12f53cf1178458d27	296	PANTHER	PTHR28576		2	294	2.5E-68	T	30-10-2018
+Capitella_teleta_CTE|ELT96077.1	f3d57e23a8b734216a4bde9fa06c558d	168	PANTHER	PTHR28576		9	107	2.0E-19	T	30-10-2018
+Capitella_teleta_CTE|ELT96077.1	f3d57e23a8b734216a4bde9fa06c558d	168	PANTHER	PTHR28576:SF4		9	107	2.0E-19	T	30-10-2018
+Capitella_teleta_CTE|ELT96077.1	f3d57e23a8b734216a4bde9fa06c558d	168	Pfam	PF13843	Transposase IS4	13	105	3.4E-19	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014783424.1	6d03d314ced5a29f97ef4f5a96de543f	277	PANTHER	PTHR28576:SF4		23	272	1.1E-46	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014783424.1	6d03d314ced5a29f97ef4f5a96de543f	277	Pfam	PF13843	Transposase IS4	31	272	2.2E-49	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014783424.1	6d03d314ced5a29f97ef4f5a96de543f	277	PANTHER	PTHR28576		23	272	1.1E-46	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_2505-3.6	df6da8e46148e3c578588c8fdb4d6af1	464	Pfam	PF13843	Transposase IS4	217	355	2.2E-22	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_2505-3.6	df6da8e46148e3c578588c8fdb4d6af1	464	Pfam	PF13843	Transposase IS4	96	216	7.6E-20	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_2505-3.6	df6da8e46148e3c578588c8fdb4d6af1	464	PANTHER	PTHR28576		212	457	3.2E-67	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_2505-3.6	df6da8e46148e3c578588c8fdb4d6af1	464	PANTHER	PTHR28576		91	201	3.2E-67	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_2505-3.6	df6da8e46148e3c578588c8fdb4d6af1	464	PANTHER	PTHR28576:SF13		212	457	3.2E-67	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_2505-3.6	df6da8e46148e3c578588c8fdb4d6af1	464	PANTHER	PTHR28576:SF13		91	201	3.2E-67	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52001-0.2	9007eb0feca8c15b896770a06d97c520	177	Pfam	PF13843	Transposase IS4	6	172	9.0E-40	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_52001-0.2	9007eb0feca8c15b896770a06d97c520	177	PANTHER	PTHR28576:SF13		5	171	1.4E-46	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_52001-0.2	9007eb0feca8c15b896770a06d97c520	177	PANTHER	PTHR28576		5	171	1.4E-46	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013079858.1	53d15bb59d329afe2d771e78c971f127	180	PANTHER	PTHR28576		4	145	5.4E-22	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013079858.1	53d15bb59d329afe2d771e78c971f127	180	Pfam	PF13843	Transposase IS4	5	65	2.8E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005111750.1	95d45563d369b23655a254caed8a37ef	627	MobiDBLite	mobidb-lite	consensus disorder prediction	35	128	-	T	30-10-2018
+Aplysia_californica_ACA|XP_005111750.1	95d45563d369b23655a254caed8a37ef	627	Pfam	PF13842	DDE_Tnp_1-like zinc-ribbon	573	601	3.0E-4	T	30-10-2018	IPR032718	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon		
+Aplysia_californica_ACA|XP_005111750.1	95d45563d369b23655a254caed8a37ef	627	PANTHER	PTHR28576		62	599	5.0E-116	T	30-10-2018
+Aplysia_californica_ACA|XP_005111750.1	95d45563d369b23655a254caed8a37ef	627	Pfam	PF13843	Transposase IS4	131	496	3.9E-89	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_23337-0.3	54eebc277d934074e6f7ac64d48fa31f	210	PANTHER	PTHR28576		3	204	1.3E-29	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23337-0.3	54eebc277d934074e6f7ac64d48fa31f	210	Pfam	PF13843	Transposase IS4	3	101	2.0E-14	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_23337-0.3	54eebc277d934074e6f7ac64d48fa31f	210	PANTHER	PTHR28576:SF13		3	204	1.3E-29	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021340946.1	da486a65ac49e818b41c426f28b70e13	210	Pfam	PF13843	Transposase IS4	4	209	1.8E-38	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Mizuhopecten_yessoensis_MYE|XP_021340946.1	da486a65ac49e818b41c426f28b70e13	210	PANTHER	PTHR28576		4	210	1.7E-49	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021340946.1	da486a65ac49e818b41c426f28b70e13	210	PANTHER	PTHR28576:SF4		4	210	1.7E-49	T	30-10-2018
+Macrostomum_lignano_MLI|PAA67049.1	ba6ff572675985dbf3ede7b1d3412393	95	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	30-10-2018
+Phoronis_australis_PAU|g15206.t1	cd3b8f118cd37f68a2771ef64624f0dc	126	PANTHER	PTHR28576		35	124	7.3E-16	T	30-10-2018
+Phoronis_australis_PAU|g15206.t1	cd3b8f118cd37f68a2771ef64624f0dc	126	Pfam	PF13843	Transposase IS4	14	121	9.7E-12	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Macrostomum_lignano_MLI|PAA77926.1	f19060b6cfa96439deda66b4fd3869b7	148	PANTHER	PTHR28576		4	112	3.8E-25	T	30-10-2018
+Macrostomum_lignano_MLI|PAA77926.1	f19060b6cfa96439deda66b4fd3869b7	148	Pfam	PF13843	Transposase IS4	3	112	1.9E-21	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013064223.1	be03c5d485fb86bd5e04f77ceb0c9f04	526	Pfam	PF13843	Transposase IS4	91	456	3.3E-89	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013064223.1	be03c5d485fb86bd5e04f77ceb0c9f04	526	MobiDBLite	mobidb-lite	consensus disorder prediction	1	70	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013064223.1	be03c5d485fb86bd5e04f77ceb0c9f04	526	PANTHER	PTHR28576		16	513	1.0E-117	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019918811.1	f7f975bbd8dafdbcf38de268dc955b4f	584	PANTHER	PTHR28576		47	577	2.5E-118	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019918811.1	f7f975bbd8dafdbcf38de268dc955b4f	584	Pfam	PF13843	Transposase IS4	119	481	2.2E-91	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019918811.1	f7f975bbd8dafdbcf38de268dc955b4f	584	MobiDBLite	mobidb-lite	consensus disorder prediction	40	90	-	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060709.1	ac7a5caa89a063b95c93530599bf544f	280	Pfam	PF13843	Transposase IS4	66	160	3.7E-8	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lottia_gigantea_LGI|XP_009060709.1	ac7a5caa89a063b95c93530599bf544f	280	PANTHER	PTHR28576		63	202	2.3E-22	T	30-10-2018
+Lottia_gigantea_LGI|XP_009060709.1	ac7a5caa89a063b95c93530599bf544f	280	MobiDBLite	mobidb-lite	consensus disorder prediction	1	58	-	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19429-0.0	1fca4e52604b0c6ec3d4ae5f14f11c4f	198	PANTHER	PTHR28576:SF4		18	194	1.5E-14	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19429-0.0	1fca4e52604b0c6ec3d4ae5f14f11c4f	198	Pfam	PF13843	Transposase IS4	17	102	1.3E-8	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_19429-0.0	1fca4e52604b0c6ec3d4ae5f14f11c4f	198	PANTHER	PTHR28576		18	194	1.5E-14	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019919928.1	6608c8ff38ce6338ed797cceb28da438	137	Pfam	PF13843	Transposase IS4	1	126	1.7E-24	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019919928.1	6608c8ff38ce6338ed797cceb28da438	137	PANTHER	PTHR28576		1	126	1.7E-26	T	30-10-2018
+Aplysia_californica_ACA|XP_012939283.1	d906c74b808300566fea79bc7035d14c	424	Pfam	PF13843	Transposase IS4	1	310	1.7E-59	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012939283.1	d906c74b808300566fea79bc7035d14c	424	PANTHER	PTHR28576		1	411	3.2E-103	T	30-10-2018
+Aplysia_californica_ACA|XP_012939283.1	d906c74b808300566fea79bc7035d14c	424	PANTHER	PTHR28576:SF13		1	411	3.2E-103	T	30-10-2018
+Aplysia_californica_ACA|XP_005096908.1	68c2c52cbf2730b211356d9b8c4bf565	147	PANTHER	PTHR28576		7	134	2.4E-14	T	30-10-2018
+Aplysia_californica_ACA|XP_005096908.1	68c2c52cbf2730b211356d9b8c4bf565	147	PANTHER	PTHR28576:SF13		7	134	2.4E-14	T	30-10-2018
+Phoronis_australis_PAU|g10593.t1	f8648566614302fae375598dccafec37	207	MobiDBLite	mobidb-lite	consensus disorder prediction	16	82	-	T	30-10-2018
+Phoronis_australis_PAU|g14970.t1	545cfc416d02213c046221aca89b9852	121	PANTHER	PTHR28576		2	110	8.5E-15	T	30-10-2018
+Phoronis_australis_PAU|g14970.t1	545cfc416d02213c046221aca89b9852	121	PANTHER	PTHR28576:SF13		2	110	8.5E-15	T	30-10-2018
+Phoronis_australis_PAU|g14970.t1	545cfc416d02213c046221aca89b9852	121	Pfam	PF13843	Transposase IS4	1	111	1.3E-12	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014778464.1	f6b40e8be6b74b5a47a3d61a0edb89f0	150	PANTHER	PTHR28576		1	150	2.3E-33	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014778464.1	f6b40e8be6b74b5a47a3d61a0edb89f0	150	PANTHER	PTHR28576:SF13		1	150	2.3E-33	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014778464.1	f6b40e8be6b74b5a47a3d61a0edb89f0	150	Pfam	PF13843	Transposase IS4	2	150	1.3E-27	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_020906-T1	e95ad0f746e7519204ace38235ccb5d7	225	Pfam	PF13843	Transposase IS4	12	114	6.1E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_020906-T1	e95ad0f746e7519204ace38235ccb5d7	225	PANTHER	PTHR28576		12	108	5.9E-17	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020906-T1	e95ad0f746e7519204ace38235ccb5d7	225	PANTHER	PTHR28576:SF4		12	108	5.9E-17	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294579.1	1ead09e3e0ee54850211d763b85d13d3	397	PANTHER	PTHR28576:SF4		1	392	3.7E-69	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022294579.1	1ead09e3e0ee54850211d763b85d13d3	397	Pfam	PF13843	Transposase IS4	1	300	2.6E-61	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022294579.1	1ead09e3e0ee54850211d763b85d13d3	397	PANTHER	PTHR28576		1	392	3.7E-69	T	30-10-2018
+Lingula_anatina_LAN|XP_013391250.1	f24cc534e67d23d1b5c77ecf55522fe8	590	Pfam	PF13843	Transposase IS4	116	488	1.9E-88	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013391250.1	f24cc534e67d23d1b5c77ecf55522fe8	590	PANTHER	PTHR28576:SF13		108	584	6.0E-135	T	30-10-2018
+Lingula_anatina_LAN|XP_013391250.1	f24cc534e67d23d1b5c77ecf55522fe8	590	PANTHER	PTHR28576		108	584	6.0E-135	T	30-10-2018
+Aplysia_californica_ACA|XP_005107278.1	4d4055ef9fa5501492dcd5a74c6d34e0	250	Pfam	PF13843	Transposase IS4	4	210	3.7E-37	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005107278.1	4d4055ef9fa5501492dcd5a74c6d34e0	250	PANTHER	PTHR28576:SF4		4	209	2.4E-45	T	30-10-2018
+Aplysia_californica_ACA|XP_005107278.1	4d4055ef9fa5501492dcd5a74c6d34e0	250	PANTHER	PTHR28576		4	209	2.4E-45	T	30-10-2018
+Aplysia_californica_ACA|XP_012938892.1	c404785c52b4403c19999fd380a084d7	259	Pfam	PF13843	Transposase IS4	15	228	1.7E-54	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012938892.1	c404785c52b4403c19999fd380a084d7	259	PANTHER	PTHR28576		14	258	1.0E-55	T	30-10-2018
+Capitella_teleta_CTE|ELU05023.1	6db7481b50f65a6e8ed619794f5354c1	91	Pfam	PF13843	Transposase IS4	1	90	4.3E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Capitella_teleta_CTE|ELU05023.1	6db7481b50f65a6e8ed619794f5354c1	91	PANTHER	PTHR28576		1	90	3.6E-18	T	30-10-2018
+Capitella_teleta_CTE|ELU05023.1	6db7481b50f65a6e8ed619794f5354c1	91	PANTHER	PTHR28576:SF4		1	90	3.6E-18	T	30-10-2018
+Lingula_anatina_LAN|XP_013420996.1	7e8c5e540e7e0e81c3fc0a5b777e373f	379	Pfam	PF13843	Transposase IS4	61	300	1.9E-49	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lingula_anatina_LAN|XP_013420996.1	7e8c5e540e7e0e81c3fc0a5b777e373f	379	PANTHER	PTHR28576:SF4		62	364	6.1E-68	T	30-10-2018
+Lingula_anatina_LAN|XP_013420996.1	7e8c5e540e7e0e81c3fc0a5b777e373f	379	PANTHER	PTHR28576		62	364	6.1E-68	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23019-0.6	9973a9ebaa4b0a75443e101e847f9264	220	PANTHER	PTHR28576		4	152	1.8E-29	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_23019-0.6	9973a9ebaa4b0a75443e101e847f9264	220	Pfam	PF13843	Transposase IS4	3	111	4.0E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003012-T1	a65d2b920ac16c079df53135ca8281a8	170	PANTHER	PTHR28576:SF13		2	134	1.8E-23	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003012-T1	a65d2b920ac16c079df53135ca8281a8	170	PANTHER	PTHR28576		2	134	1.8E-23	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003012-T1	a65d2b920ac16c079df53135ca8281a8	170	Pfam	PF13843	Transposase IS4	1	40	7.8E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003012-T1	a65d2b920ac16c079df53135ca8281a8	170	Pfam	PF13843	Transposase IS4	41	152	1.9E-11	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g12721.t1	81c632f74a82f81a01409dd1d46f0777	199	MobiDBLite	mobidb-lite	consensus disorder prediction	177	199	-	T	30-10-2018
+Notospermus_geniculatus_NGE|g12721.t1	81c632f74a82f81a01409dd1d46f0777	199	Pfam	PF13843	Transposase IS4	6	67	2.9E-9	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g12721.t1	81c632f74a82f81a01409dd1d46f0777	199	PANTHER	PTHR28576		8	105	8.3E-19	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021342234.1	8ed2f6e01427642f1548f2af36eea611	493	PANTHER	PTHR28576		59	488	2.1E-108	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021342234.1	8ed2f6e01427642f1548f2af36eea611	493	PANTHER	PTHR28576:SF4		59	488	2.1E-108	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021342234.1	8ed2f6e01427642f1548f2af36eea611	493	Pfam	PF13843	Transposase IS4	87	460	1.8E-90	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005091478.1	1ba565bbb6eee87963d08032b677ddbf	259	Pfam	PF13843	Transposase IS4	19	246	8.1E-50	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005091478.1	1ba565bbb6eee87963d08032b677ddbf	259	PANTHER	PTHR28576		12	243	5.1E-51	T	30-10-2018
+Phoronis_australis_PAU|g4993.t1	7fb1be44387d77da783588172055202e	411	PANTHER	PTHR28576		1	361	6.2E-94	T	30-10-2018
+Phoronis_australis_PAU|g4993.t1	7fb1be44387d77da783588172055202e	411	Pfam	PF13843	Transposase IS4	2	352	9.6E-68	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012937703.1	f05d75cb27078b6a8f962d04a897bfb8	227	PANTHER	PTHR28576		15	226	7.5E-27	T	30-10-2018
+Aplysia_californica_ACA|XP_012937703.1	f05d75cb27078b6a8f962d04a897bfb8	227	MobiDBLite	mobidb-lite	consensus disorder prediction	1	73	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012937703.1	f05d75cb27078b6a8f962d04a897bfb8	227	Pfam	PF13843	Transposase IS4	96	226	1.8E-21	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012937703.1	f05d75cb27078b6a8f962d04a897bfb8	227	PANTHER	PTHR28576:SF1		15	226	7.5E-27	T	30-10-2018
+Aplysia_californica_ACA|XP_012936290.1	a047b924b623b12d15c717e8d645101b	504	Pfam	PF13843	Transposase IS4	2	354	1.2E-67	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012936290.1	a047b924b623b12d15c717e8d645101b	504	PANTHER	PTHR28576		2	404	2.7E-85	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013066712.1	3bb59382cd1aa282f89fe0c3b88555d5	594	Pfam	PF13843	Transposase IS4	128	478	1.2E-54	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013066712.1	3bb59382cd1aa282f89fe0c3b88555d5	594	PANTHER	PTHR28576		104	562	2.2E-72	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22882-1.8	94ac779780af2e07041f9645d27ecc0b	494	PANTHER	PTHR28576		28	475	7.2E-83	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_22882-1.8	94ac779780af2e07041f9645d27ecc0b	494	Pfam	PF13843	Transposase IS4	38	403	1.4E-72	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020896666.1	05f273ce74969276c0803f0ab8dec3bc	338	Pfam	PF13843	Transposase IS4	89	160	5.8E-14	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020896666.1	05f273ce74969276c0803f0ab8dec3bc	338	Pfam	PF13843	Transposase IS4	164	328	2.6E-39	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020896666.1	05f273ce74969276c0803f0ab8dec3bc	338	PANTHER	PTHR28576:SF13		82	326	3.9E-66	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896666.1	05f273ce74969276c0803f0ab8dec3bc	338	PANTHER	PTHR28576		82	326	3.9E-66	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020896666.1	05f273ce74969276c0803f0ab8dec3bc	338	MobiDBLite	mobidb-lite	consensus disorder prediction	19	66	-	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69559.1	80d94f75a51d86f136abbef013d767a4	181	PANTHER	PTHR28576		25	148	5.2E-27	T	30-10-2018
+Macrostomum_lignano_MLI|PAA69559.1	80d94f75a51d86f136abbef013d767a4	181	Pfam	PF13843	Transposase IS4	3	169	3.7E-30	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_28717-0.2	70ddcfe3790bd52d09f4e21ac7194d93	244	Pfam	PF13843	Transposase IS4	1	223	1.9E-36	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_28717-0.2	70ddcfe3790bd52d09f4e21ac7194d93	244	PANTHER	PTHR28576:SF4		2	223	1.5E-35	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_28717-0.2	70ddcfe3790bd52d09f4e21ac7194d93	244	PANTHER	PTHR28576		2	223	1.5E-35	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_006703-T1	d065efdd0079aa7d2ea3d43a4bdbd6e0	126	MobiDBLite	mobidb-lite	consensus disorder prediction	1	23	-	T	30-10-2018
+Aplysia_californica_ACA|XP_012935112.1	36be8c8e8c2833613c12fb382b911565	238	PANTHER	PTHR28576		2	184	4.9E-30	T	30-10-2018
+Aplysia_californica_ACA|XP_012935112.1	36be8c8e8c2833613c12fb382b911565	238	Pfam	PF13843	Transposase IS4	2	111	7.0E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019925779.1	4877ad12a040fa7de7f497499901919d	247	PANTHER	PTHR28576		26	237	8.1E-46	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019925779.1	4877ad12a040fa7de7f497499901919d	247	Pfam	PF13843	Transposase IS4	90	237	8.9E-34	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_gigas_CGI|XP_019925779.1	4877ad12a040fa7de7f497499901919d	247	MobiDBLite	mobidb-lite	consensus disorder prediction	26	56	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022287539.1	b7086a7e3e184285bf9e2b9d8756b0c7	326	Pfam	PF13843	Transposase IS4	1	215	4.6E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022287539.1	b7086a7e3e184285bf9e2b9d8756b0c7	326	PANTHER	PTHR28576		1	294	1.0E-54	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305403.1	671b768a428301a7ca988fcea518666d	234	Pfam	PF13843	Transposase IS4	1	127	2.3E-25	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022305403.1	671b768a428301a7ca988fcea518666d	234	PANTHER	PTHR28576		1	114	1.9E-30	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022305403.1	671b768a428301a7ca988fcea518666d	234	PANTHER	PTHR28576		120	202	1.9E-30	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020903304.1	ac6abeb1c801c71a5db40e1c560189b4	297	Pfam	PF13843	Transposase IS4	3	291	1.6E-66	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020903304.1	ac6abeb1c801c71a5db40e1c560189b4	297	PANTHER	PTHR28576		1	294	1.2E-76	T	30-10-2018
+Aplysia_californica_ACA|XP_012938512.1	2a6ea4624e014da1931a4dfaebc068a0	249	Pfam	PF13843	Transposase IS4	1	248	5.7E-56	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012938512.1	2a6ea4624e014da1931a4dfaebc068a0	249	PANTHER	PTHR28576:SF4		1	248	1.5E-62	T	30-10-2018
+Aplysia_californica_ACA|XP_012938512.1	2a6ea4624e014da1931a4dfaebc068a0	249	PANTHER	PTHR28576		1	248	1.5E-62	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022322856.1	90dc860c667238b3f9c6a93284cb5256	326	Pfam	PF13843	Transposase IS4	1	215	4.6E-45	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022322856.1	90dc860c667238b3f9c6a93284cb5256	326	PANTHER	PTHR28576		1	294	4.2E-55	T	30-10-2018
+Macrostomum_lignano_MLI|PAA57331.1	d7cd11f391852be71296c87aa8c71a5f	159	PANTHER	PTHR28576		4	131	9.1E-12	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019926128.1	6f8ca9909ec529c9b3e0c688757cbe75	421	PANTHER	PTHR28576		1	345	9.1E-89	T	30-10-2018
+Crassostrea_gigas_CGI|XP_019926128.1	6f8ca9909ec529c9b3e0c688757cbe75	421	Pfam	PF13843	Transposase IS4	1	307	5.6E-60	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_58794-0.9	1e2b58088c959bde4538f7a77b682fff	253	Pfam	PF13843	Transposase IS4	95	252	2.4E-36	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_58794-0.9	1e2b58088c959bde4538f7a77b682fff	253	PANTHER	PTHR28576:SF4		95	250	1.0E-34	T	30-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_58794-0.9	1e2b58088c959bde4538f7a77b682fff	253	PANTHER	PTHR28576		95	250	1.0E-34	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014772823.1	fa364e6ce20eb0223c60c1fd681d970c	187	Pfam	PF13843	Transposase IS4	26	174	1.2E-16	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014772823.1	fa364e6ce20eb0223c60c1fd681d970c	187	PANTHER	PTHR28576		33	182	3.1E-22	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014772823.1	fa364e6ce20eb0223c60c1fd681d970c	187	PANTHER	PTHR28576:SF4		33	182	3.1E-22	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308080.1	d16fa41b6a0e9a7f919f06c46bed1d85	151	Pfam	PF13843	Transposase IS4	1	151	3.7E-19	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022308080.1	d16fa41b6a0e9a7f919f06c46bed1d85	151	PANTHER	PTHR28576		1	151	7.4E-22	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022308080.1	d16fa41b6a0e9a7f919f06c46bed1d85	151	PANTHER	PTHR28576:SF4		1	151	7.4E-22	T	30-10-2018
+Aplysia_californica_ACA|XP_005103253.1	40e9bcac3e62d879ec1032a442d221c5	170	PANTHER	PTHR28576:SF13		7	166	3.5E-28	T	30-10-2018
+Aplysia_californica_ACA|XP_005103253.1	40e9bcac3e62d879ec1032a442d221c5	170	PANTHER	PTHR28576		7	166	3.5E-28	T	30-10-2018
+Aplysia_californica_ACA|XP_005103253.1	40e9bcac3e62d879ec1032a442d221c5	170	Pfam	PF13843	Transposase IS4	7	167	2.2E-28	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020910753.1	c8e218c77e6988ea985a78c37f6057b0	489	Pfam	PF13843	Transposase IS4	74	446	4.6E-66	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020910753.1	c8e218c77e6988ea985a78c37f6057b0	489	PANTHER	PTHR28576		16	481	2.4E-82	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020910753.1	c8e218c77e6988ea985a78c37f6057b0	489	MobiDBLite	mobidb-lite	consensus disorder prediction	1	40	-	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014775604.1	6b3e3cfb0c757ad2b1bc524882a2a688	262	Pfam	PF13843	Transposase IS4	82	260	2.3E-33	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014775604.1	6b3e3cfb0c757ad2b1bc524882a2a688	262	PANTHER	PTHR28576		90	257	8.7E-30	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014775604.1	6b3e3cfb0c757ad2b1bc524882a2a688	262	PANTHER	PTHR28576:SF4		90	257	8.7E-30	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_23677-2.0	5aa0c55bbaaa96a397d3da87938b903a	336	PANTHER	PTHR28576:SF13		59	274	3.0E-44	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_23677-2.0	5aa0c55bbaaa96a397d3da87938b903a	336	PANTHER	PTHR28576		59	274	3.0E-44	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_23677-2.0	5aa0c55bbaaa96a397d3da87938b903a	336	Pfam	PF13843	Transposase IS4	56	226	1.6E-31	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005090085.1	2581d0ceff0fdf62248d42c9bd31a14e	234	Pfam	PF13843	Transposase IS4	13	232	2.3E-29	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_005090085.1	2581d0ceff0fdf62248d42c9bd31a14e	234	PANTHER	PTHR28576		9	232	2.9E-29	T	30-10-2018
+Exaiptasia_pallida_EPA|XP_020903303.1	defe0806c777c8298fafcebc93a45aaa	326	Pfam	PF13843	Transposase IS4	3	302	3.2E-69	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Exaiptasia_pallida_EPA|XP_020903303.1	defe0806c777c8298fafcebc93a45aaa	326	PANTHER	PTHR28576		1	303	1.2E-79	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784254.1	9d010be0fa14a4b5c9c0730fc004b8e6	129	PANTHER	PTHR28576:SF4		8	127	5.2E-12	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014784254.1	9d010be0fa14a4b5c9c0730fc004b8e6	129	Pfam	PF13843	Transposase IS4	7	128	3.7E-13	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Octopus_bimaculoides_OBI|XP_014784254.1	9d010be0fa14a4b5c9c0730fc004b8e6	129	PANTHER	PTHR28576		8	127	5.2E-12	T	30-10-2018
+Notospermus_geniculatus_NGE|g27008.t1	1a7aa98752ced2797e254d2bab924ba8	564	Pfam	PF13843	Transposase IS4	73	442	8.2E-85	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g27008.t1	1a7aa98752ced2797e254d2bab924ba8	564	PANTHER	PTHR28576:SF13		61	542	3.0E-136	T	30-10-2018
+Notospermus_geniculatus_NGE|g27008.t1	1a7aa98752ced2797e254d2bab924ba8	564	PANTHER	PTHR28576		61	542	3.0E-136	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_18994-0.10	f06c78dc2c5c81b29586a8e3f7fe71f5	215	PANTHER	PTHR28576		22	131	5.4E-14	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_18994-0.10	f06c78dc2c5c81b29586a8e3f7fe71f5	215	Pfam	PF13843	Transposase IS4	41	119	3.1E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040869-T1	2f819fec1c004d33f1d6603a82467450	437	Pfam	PF13843	Transposase IS4	2	360	7.9E-84	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_040869-T1	2f819fec1c004d33f1d6603a82467450	437	PANTHER	PTHR28576		1	425	1.4E-101	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022311122.1	e27e2e5a1353a266e40ded8ab621e49d	278	PANTHER	PTHR28576:SF4		1	275	1.6E-56	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022311122.1	e27e2e5a1353a266e40ded8ab621e49d	278	Pfam	PF13843	Transposase IS4	2	275	2.0E-56	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022311122.1	e27e2e5a1353a266e40ded8ab621e49d	278	PANTHER	PTHR28576		1	275	1.6E-56	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_029741-T1	e1e2b12c6db611d714ff6f434babc6d3	120	PANTHER	PTHR28576		1	117	4.8E-17	T	30-10-2018
+Aplysia_californica_ACA|XP_005099145.1	f29fff8535b16d7dcbe5a13bdd25e4e9	115	PANTHER	PTHR28576		5	99	1.2E-13	T	30-10-2018
+Aplysia_californica_ACA|XP_005099145.1	f29fff8535b16d7dcbe5a13bdd25e4e9	115	Pfam	PF13843	Transposase IS4	9	98	1.8E-10	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_022669-T1	960e96e4a2bf0a0f3b0195bfb5fa24b0	106	SUPERFAMILY	SSF57889		45	100	1.94E-5	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033430-T1	83b1f445f8c15d646d51800151f6b7ec	110	Pfam	PF13843	Transposase IS4	7	62	4.6E-9	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Modiolus_philippinarum_MPH|Mph_scaf_54761-1.9	c3710193184aedba5d73b1b907d949b3	198	MobiDBLite	mobidb-lite	consensus disorder prediction	1	65	-	T	30-10-2018
+Biomphalaria_glabrata_BGL|XP_013080024.1	ed5dc245e0a642b899c00d524ffb0686	422	Pfam	PF13843	Transposase IS4	78	329	2.3E-56	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Biomphalaria_glabrata_BGL|XP_013080024.1	ed5dc245e0a642b899c00d524ffb0686	422	PANTHER	PTHR28576		30	326	3.9E-60	T	30-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003037-T1	a6fa8c2094c6f738724f68297f70d3e9	173	Pfam	PF13843	Transposase IS4	41	160	4.6E-7	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003037-T1	a6fa8c2094c6f738724f68297f70d3e9	173	MobiDBLite	mobidb-lite	consensus disorder prediction	28	63	-	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324438.1	b0b267bfcd8d9a0322158b9fc613f565	454	Pfam	PF13843	Transposase IS4	1	353	2.5E-78	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Crassostrea_virginica_CVI|XP_022324438.1	b0b267bfcd8d9a0322158b9fc613f565	454	PANTHER	PTHR28576:SF4		1	453	7.6E-92	T	30-10-2018
+Crassostrea_virginica_CVI|XP_022324438.1	b0b267bfcd8d9a0322158b9fc613f565	454	PANTHER	PTHR28576		1	453	7.6E-92	T	30-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021340938.1	430e874373feddfd11424274fe020559	164	PANTHER	PTHR28576		2	74	9.0E-14	T	30-10-2018
+Phoronis_australis_PAU|g11953.t1	9e06774b10038f3b092162abd668a4c0	97	Pfam	PF13843	Transposase IS4	2	96	1.1E-5	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Phoronis_australis_PAU|g11953.t1	9e06774b10038f3b092162abd668a4c0	97	PANTHER	PTHR28576:SF4		2	96	7.9E-19	T	30-10-2018
+Phoronis_australis_PAU|g11953.t1	9e06774b10038f3b092162abd668a4c0	97	PANTHER	PTHR28576		2	96	7.9E-19	T	30-10-2018
+Aplysia_californica_ACA|XP_012935902.1	1e3dbcd5588b0a97a472a7f485b231fc	526	PANTHER	PTHR28576:SF4		7	516	2.8E-101	T	30-10-2018
+Aplysia_californica_ACA|XP_012935902.1	1e3dbcd5588b0a97a472a7f485b231fc	526	Pfam	PF13843	Transposase IS4	33	390	8.1E-81	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Aplysia_californica_ACA|XP_012935902.1	1e3dbcd5588b0a97a472a7f485b231fc	526	PANTHER	PTHR28576		7	516	2.8E-101	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768611.1	6d56f190ebc0c36789cf9180a1bec43a	137	PANTHER	PTHR28576		3	131	5.6E-28	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768611.1	6d56f190ebc0c36789cf9180a1bec43a	137	PANTHER	PTHR28576:SF4		3	131	5.6E-28	T	30-10-2018
+Octopus_bimaculoides_OBI|XP_014768611.1	6d56f190ebc0c36789cf9180a1bec43a	137	Pfam	PF13843	Transposase IS4	2	135	1.1E-32	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g28674.t1	ad10247134f31b9eed683a9efad4900e	435	PANTHER	PTHR28576		1	433	1.0E-146	T	30-10-2018
+Notospermus_geniculatus_NGE|g28674.t1	ad10247134f31b9eed683a9efad4900e	435	Pfam	PF13843	Transposase IS4	8	317	9.6E-70	T	30-10-2018	IPR029526	PiggyBac transposable element-derived protein		
+Notospermus_geniculatus_NGE|g28674.t1	ad10247134f31b9eed683a9efad4900e	435	PANTHER	PTHR28576:SF13		1	433	1.0E-146	T	30-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_41549-2.26	ac5688cd5cccf9b687913470874e35fb	59	MobiDBLite	mobidb-lite	consensus disorder prediction	14	59	-	T	30-10-2018

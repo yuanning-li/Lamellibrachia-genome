@@ -1,0 +1,502 @@
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	Pfam	PF01607	Chitin binding Peritrophin-A domain	200	248	7.5E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	268	324	7.685	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	125	182	8.89	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	SMART	SM00494		198	256	3.0	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	SMART	SM00494		126	185	1.7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	SMART	SM00494		55	109	4.5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	SMART	SM00494		269	327	24.0	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	SUPERFAMILY	SSF57625		195	255	1.86E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	54	109	8.205	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU08717.1	bba50fdff97efcfcd654510d9342c6cb	327	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	197	253	9.702	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	PANTHER	PTHR22906:SF11		235	471	5.9E-19	T	31-10-2018
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	PANTHER	PTHR22906:SF11		48	154	5.9E-19	T	31-10-2018
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	ProSiteProfiles	PS50092	Thrombospondin type-1 (TSP1) repeat profile.	407	461	11.136	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	Pfam	PF00090	Thrombospondin type 1 domain	411	460	9.5E-8	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	MobiDBLite	mobidb-lite	consensus disorder prediction	174	287	-	T	31-10-2018
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	Gene3D	G3DSA:2.20.100.10		405	461	1.5E-11	T	31-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	SUPERFAMILY	SSF82895		406	460	3.4E-11	T	31-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	SMART	SM00209		410	461	2.3E-8	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	PANTHER	PTHR22906		235	471	5.9E-19	T	31-10-2018
+Capitella_teleta_CTE|ELU14114.1	0cc14b8439e774c4cbe4bb967743ce7a	537	PANTHER	PTHR22906		48	154	5.9E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	2	67	6.2	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	PANTHER	PTHR19325:SF472		4	375	2.0E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Gene3D	G3DSA:2.10.70.10		256	317	1.7E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	137	195	7.049	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	256	315	8.966	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	PANTHER	PTHR19325		4	375	2.0E-24	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Gene3D	G3DSA:2.10.70.10		140	201	5.8E-8	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	18	74	8.941	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Gene3D	G3DSA:2.10.70.10		318	377	1.4E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SUPERFAMILY	SSF57625		18	72	1.39E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SUPERFAMILY	SSF57535		257	324	1.75E-10	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	316	377	8.51	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Pfam	PF01607	Chitin binding Peritrophin-A domain	21	70	2.5E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SUPERFAMILY	SSF57535		317	377	1.24E-8	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	196	255	6.594	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SUPERFAMILY	SSF57535		198	265	7.23E-7	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Pfam	PF00084	Sushi repeat (SCR repeat)	323	375	2.1E-5	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Pfam	PF00084	Sushi repeat (SCR repeat)	153	190	8.2E-5	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	Pfam	PF00084	Sushi repeat (SCR repeat)	258	313	1.8E-7	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	CDD	cd00033	CCP	258	314	5.86167E-5	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SMART	SM00032		258	313	8.3E-6	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SMART	SM00032		198	253	0.018	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SMART	SM00032		140	193	2.3	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SMART	SM00032		318	375	0.031	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	SUPERFAMILY	SSF57535		151	198	3.24E-7	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018616-T1	5deb1c4e2879943cbf96ca3a4c112de8	402	CDD	cd00033	CCP	319	376	1.50868E-4	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_020924-T1	bae852c3900783002f45d5eb40409db0	110	Pfam	PF01607	Chitin binding Peritrophin-A domain	35	77	2.3E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020924-T1	bae852c3900783002f45d5eb40409db0	110	Gene3D	G3DSA:3.20.20.80		3	85	2.4E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020924-T1	bae852c3900783002f45d5eb40409db0	110	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	SUPERFAMILY	SSF57625		25	83	7.06E-14	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	PANTHER	PTHR23301:SF0		26	84	5.9E-12	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	25	84	13.266	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	SMART	SM00494		26	84	1.8E-13	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	Pfam	PF01607	Chitin binding Peritrophin-A domain	28	79	2.7E-15	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	Gene3D	G3DSA:3.20.20.80		14	87	4.2E-14	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020908919.1	6a95fb3e58f0df98761e7fa71657e688	119	PANTHER	PTHR23301		26	84	5.9E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022328322.1	3864b45a2bca8ae65c925dc499f70f22	174	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	121	174	8.547	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022328322.1	3864b45a2bca8ae65c925dc499f70f22	174	Pfam	PF01607	Chitin binding Peritrophin-A domain	124	170	2.9E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022328322.1	3864b45a2bca8ae65c925dc499f70f22	174	Gene3D	G3DSA:2.10.70.10		36	100	5.5E-5	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022328322.1	3864b45a2bca8ae65c925dc499f70f22	174	SUPERFAMILY	SSF57625		120	169	1.07E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022328322.1	3864b45a2bca8ae65c925dc499f70f22	174	SMART	SM00494		122	174	0.0092	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031942-T1	85b14c6458fbf64693fa6f262d2c49b0	322	Pfam	PF01607	Chitin binding Peritrophin-A domain	269	319	1.0E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031942-T1	85b14c6458fbf64693fa6f262d2c49b0	322	Gene3D	G3DSA:3.20.20.80		243	322	2.8E-8	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031942-T1	85b14c6458fbf64693fa6f262d2c49b0	322	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	266	322	10.095	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031942-T1	85b14c6458fbf64693fa6f262d2c49b0	322	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031942-T1	85b14c6458fbf64693fa6f262d2c49b0	322	SUPERFAMILY	SSF57625		268	318	2.88E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012941365.1	bb205969e4763caadc7f24f8d91c5639	104	Pfam	PF01607	Chitin binding Peritrophin-A domain	28	76	3.7E-10	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012941365.1	bb205969e4763caadc7f24f8d91c5639	104	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	25	80	9.448	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012941365.1	bb205969e4763caadc7f24f8d91c5639	104	SMART	SM00494		26	80	1.2E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012941365.1	bb205969e4763caadc7f24f8d91c5639	104	SUPERFAMILY	SSF57625		28	76	5.49E-10	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012941365.1	bb205969e4763caadc7f24f8d91c5639	104	Gene3D	G3DSA:2.170.140.10		20	81	4.5E-8	T	31-10-2018
+Aplysia_californica_ACA|XP_012941365.1	bb205969e4763caadc7f24f8d91c5639	104	MobiDBLite	mobidb-lite	consensus disorder prediction	78	104	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920576.1	54b7799246d4967aa1b0d3f4bfe6e181	307	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920576.1	54b7799246d4967aa1b0d3f4bfe6e181	307	MobiDBLite	mobidb-lite	consensus disorder prediction	113	139	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	179	231	8.826	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	Pfam	PF00084	Sushi repeat (SCR repeat)	26	84	0.005	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	SUPERFAMILY	SSF57625		180	226	2.62E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	Gene3D	G3DSA:2.10.70.10		20	85	7.4E-5	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	Gene3D	G3DSA:2.10.70.10		89	154	1.8E-7	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	Pfam	PF01607	Chitin binding Peritrophin-A domain	182	227	1.6E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	91	155	7.35	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	CDD	cd00033	CCP	93	153	0.00845835	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	SMART	SM00032		26	84	0.52	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	SMART	SM00032		93	153	1.2	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	24	86	7.049	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_8433-0.4	be00412542d21f7fe2d2318ec143e85e	231	SUPERFAMILY	SSF57535		90	154	1.01E-5	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	Gene3D	G3DSA:2.10.25.10		5	51	1.7E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	CDD	cd00054	EGF_CA	13	48	0.00141954	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	SMART	SM00181		16	49	0.0064	T	31-10-2018	IPR000742	EGF-like domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	MobiDBLite	mobidb-lite	consensus disorder prediction	265	288	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	ProSitePatterns	PS00022	EGF-like domain signature 1.	37	48	-	T	31-10-2018	IPR013032	EGF-like, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	SUPERFAMILY	SSF57196		12	50	1.61E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	ProSitePatterns	PS01186	EGF-like domain signature 2.	37	48	-	T	31-10-2018	IPR013032	EGF-like, conserved site		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	203	259	9.067	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	Pfam	PF00008	EGF-like domain	17	45	1.6E-5	T	31-10-2018	IPR000742	EGF-like domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	MobiDBLite	mobidb-lite	consensus disorder prediction	55	92	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018780-T1	58e01d4dc492608fab6902ec64494e55	326	ProSiteProfiles	PS50026	EGF-like domain profile.	13	49	17.452	T	31-10-2018	IPR000742	EGF-like domain		
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	SMART	SM00494		646	696	7.9E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	207	617	9.0E-7	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	MobiDBLite	mobidb-lite	consensus disorder prediction	35	59	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	PANTHER	PTHR18976:SF11		222	431	2.6E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	PANTHER	PTHR18976		430	617	2.6E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	PANTHER	PTHR18976:SF11		430	617	2.6E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	Coils	Coil		486	506	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	Gene3D	G3DSA:1.20.120.20		484	628	2.1E-5	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319293.1	ab7e01d707156671b0fd2c2aadfa2d06	703	PANTHER	PTHR18976		222	431	2.6E-12	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301:SF45		192	275	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	Gene3D	G3DSA:2.170.140.10		278	340	1.1E-6	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	39	95	10.488	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301:SF45		42	96	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301:SF45		108	171	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301:SF45		286	503	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SUPERFAMILY	SSF57625		40	96	6.8E-9	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	467	527	6.645	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	105	162	10.907	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	281	338	9.917	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SUPERFAMILY	SSF57625		101	164	3.66E-9	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SMART	SM00494		102	162	0.0048	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SMART	SM00494		282	338	0.026	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SMART	SM00494		40	95	9.0E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SMART	SM00494		389	446	0.49	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SMART	SM00494		198	255	0.0051	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	197	255	10.653	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	388	446	9.549	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301		42	96	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301		108	171	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SUPERFAMILY	SSF57625		283	339	4.71E-9	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SUPERFAMILY	SSF57625		196	260	3.92E-10	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	SUPERFAMILY	SSF57625		386	450	7.06E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	MobiDBLite	mobidb-lite	consensus disorder prediction	346	381	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301		192	275	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	PANTHER	PTHR23301		286	503	2.4E-21	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	Pfam	PF01607	Chitin binding Peritrophin-A domain	108	160	4.7E-8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	Pfam	PF01607	Chitin binding Peritrophin-A domain	200	253	4.3E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	Pfam	PF01607	Chitin binding Peritrophin-A domain	290	336	1.3E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058647.1	0a878125f6951b472feae37e4c6a1eaa	530	Pfam	PF01607	Chitin binding Peritrophin-A domain	42	93	3.3E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SUPERFAMILY	SSF57625		13	74	4.97E-9	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	85	143	10.057	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	253	310	7.228	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	174	232	10.754	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SMART	SM00494		175	232	3.5E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SMART	SM00494		254	310	2.7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SMART	SM00494		86	143	0.027	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SMART	SM00494		15	71	0.011	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	14	71	10.158	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	PANTHER	PTHR23301		12	232	1.1E-18	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	PANTHER	PTHR23301		258	309	1.1E-18	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SUPERFAMILY	SSF57625		172	234	3.4E-11	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	Gene3D	G3DSA:3.20.20.80		139	239	2.2E-7	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	Pfam	PF01607	Chitin binding Peritrophin-A domain	91	141	4.2E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	Pfam	PF01607	Chitin binding Peritrophin-A domain	256	307	3.2E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	Pfam	PF01607	Chitin binding Peritrophin-A domain	177	230	3.8E-9	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	PANTHER	PTHR23301:SF58		12	232	1.1E-18	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	PANTHER	PTHR23301:SF58		258	309	1.1E-18	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058646.1	0111b571ba60b7e43b35ca9bba51e514	311	SUPERFAMILY	SSF57625		82	149	2.48E-10	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	Pfam	PF02709	N-terminal domain of galactosyltransferase	8	58	5.8E-13	T	31-10-2018	IPR027791	Galactosyltransferase, C-terminal		Reactome: R-HSA-2022854|Reactome: R-HSA-975577
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	221	277	10.158	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	MobiDBLite	mobidb-lite	consensus disorder prediction	289	325	-	T	31-10-2018
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	PANTHER	PTHR19300		297	307	5.9E-14	T	31-10-2018	IPR003859	Beta-1,4-galactosyltransferase	GO:0005975|GO:0016757	Reactome: R-HSA-2022854|Reactome: R-HSA-975577
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	PANTHER	PTHR19300		4	135	5.9E-14	T	31-10-2018	IPR003859	Beta-1,4-galactosyltransferase	GO:0005975|GO:0016757	Reactome: R-HSA-2022854|Reactome: R-HSA-975577
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	PRINTS	PR02050	Beta-1,4-galactosyltransferase family signature	18	39	6.9E-7	T	31-10-2018	IPR003859	Beta-1,4-galactosyltransferase	GO:0005975|GO:0016757	Reactome: R-HSA-2022854|Reactome: R-HSA-975577
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	PRINTS	PR02050	Beta-1,4-galactosyltransferase family signature	40	58	6.9E-7	T	31-10-2018	IPR003859	Beta-1,4-galactosyltransferase	GO:0005975|GO:0016757	Reactome: R-HSA-2022854|Reactome: R-HSA-975577
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	SUPERFAMILY	SSF57625		221	280	2.07E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	Pfam	PF01607	Chitin binding Peritrophin-A domain	229	272	7.3E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	SUPERFAMILY	SSF53448		19	118	7.59E-8	T	31-10-2018	IPR029044	Nucleotide-diphospho-sugar transferases		
+Capitella_teleta_CTE|ELT87292.1	3b89904fdb9ee8352ef4d39f948325e6	437	Gene3D	G3DSA:3.90.550.10		1	139	4.8E-20	T	31-10-2018	IPR029044	Nucleotide-diphospho-sugar transferases		
+Capitella_teleta_CTE|ELT90262.1	afa786b681470677036e45358aa3fd70	389	SUPERFAMILY	SSF57625		44	98	3.92E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELT90262.1	afa786b681470677036e45358aa3fd70	389	MobiDBLite	mobidb-lite	consensus disorder prediction	232	254	-	T	31-10-2018
+Capitella_teleta_CTE|ELT90262.1	afa786b681470677036e45358aa3fd70	389	Gene3D	G3DSA:3.20.20.80		29	104	4.2E-5	T	31-10-2018
+Capitella_teleta_CTE|ELT90262.1	afa786b681470677036e45358aa3fd70	389	Pfam	PF01607	Chitin binding Peritrophin-A domain	45	93	2.8E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELT90262.1	afa786b681470677036e45358aa3fd70	389	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	42	97	9.144	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_011420263.1	559aa8799a43240f3d4b986c245d3a59	318	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420263.1	559aa8799a43240f3d4b986c245d3a59	318	MobiDBLite	mobidb-lite	consensus disorder prediction	113	140	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420263.1	559aa8799a43240f3d4b986c245d3a59	318	MobiDBLite	mobidb-lite	consensus disorder prediction	221	240	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	SUPERFAMILY	SSF49464		145	222	4.32E-9	T	31-10-2018	IPR008969	Carboxypeptidase-like, regulatory domain superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	SUPERFAMILY	SSF57625		37	95	5.49E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	Pfam	PF13620	Carboxypeptidase regulatory-like domain	146	224	3.3E-8	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	PANTHER	PTHR15031:SF5		82	261	4.5E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	36	90	8.966	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	Pfam	PF01607	Chitin binding Peritrophin-A domain	39	90	5.9E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	Gene3D	G3DSA:2.60.40.1120		146	226	1.5E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	PANTHER	PTHR15031		82	261	4.5E-17	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	Gene3D	G3DSA:3.20.20.80		13	98	6.5E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004448-T1	54b9d4bf1292f725117004358537fd05	261	ProSiteProfiles	PS50835	Ig-like domain profile.	227	261	7.522	T	31-10-2018	IPR007110	Immunoglobulin-like domain		
+Crassostrea_virginica_CVI|XP_022318069.1	4ca457f8496a1e263b15a93b5fb5fdfa	511	MobiDBLite	mobidb-lite	consensus disorder prediction	70	95	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022318069.1	4ca457f8496a1e263b15a93b5fb5fdfa	511	MobiDBLite	mobidb-lite	consensus disorder prediction	1	54	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022318077.1	99d53cef123350656997f6dc4dd6d7d1	491	MobiDBLite	mobidb-lite	consensus disorder prediction	70	95	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022318077.1	99d53cef123350656997f6dc4dd6d7d1	491	MobiDBLite	mobidb-lite	consensus disorder prediction	30	54	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001660-T1	044033ee7f27502b2c73635071f5eb08	277	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	53	108	9.334	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_001660-T1	044033ee7f27502b2c73635071f5eb08	277	Pfam	PF01607	Chitin binding Peritrophin-A domain	56	105	8.9E-8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_001660-T1	044033ee7f27502b2c73635071f5eb08	277	Gene3D	G3DSA:3.20.20.80		16	117	1.5E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_001660-T1	044033ee7f27502b2c73635071f5eb08	277	SUPERFAMILY	SSF57625		55	104	8.89E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	PANTHER	PTHR22803		154	324	5.3E-20	T	31-10-2018
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	PANTHER	PTHR22803:SF100		48	186	5.3E-20	T	31-10-2018
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	CDD	cd00037	CLECT	40	144	5.96048E-8	T	31-10-2018
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	Pfam	PF00059	Lectin C-type domain	170	262	1.2E-10	T	31-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	Pfam	PF00059	Lectin C-type domain	48	144	1.1E-7	T	31-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	SUPERFAMILY	SSF56436		155	263	1.92E-20	T	31-10-2018	IPR016187	C-type lectin fold		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	Gene3D	G3DSA:3.10.100.10		34	145	1.6E-9	T	31-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	SUPERFAMILY	SSF56436		39	144	2.1E-12	T	31-10-2018	IPR016187	C-type lectin fold		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	SMART	SM00034		30	143	4.6E-7	T	31-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	SMART	SM00034		149	261	3.5E-14	T	31-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	ProSiteProfiles	PS50041	C-type lectin domain profile.	36	143	14.093	T	31-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	ProSiteProfiles	PS50041	C-type lectin domain profile.	158	261	15.616	T	31-10-2018	IPR001304	C-type lectin-like		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	Gene3D	G3DSA:3.10.100.10		146	263	6.4E-18	T	31-10-2018	IPR016186	C-type lectin-like/link domain superfamily		
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	PANTHER	PTHR22803		48	186	5.3E-20	T	31-10-2018
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	CDD	cd00037	CLECT	162	262	4.187E-13	T	31-10-2018
+Capitella_teleta_CTE|ELU17639.1	0fbfc4c604a7222be429d6b56f9aec01	404	PANTHER	PTHR22803:SF100		154	324	5.3E-20	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	SUPERFAMILY	SSF57625		127	173	3.92E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	CDD	cd00033	CCP	38	99	0.00774393	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	Gene3D	G3DSA:2.10.70.10		34	99	7.0E-8	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	Pfam	PF01607	Chitin binding Peritrophin-A domain	129	174	2.4E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	36	100	7.339	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	126	178	9.017	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.13	297a0b800b09cc983a39e91fbcbfb2b2	178	SUPERFAMILY	SSF57535		35	99	6.16E-6	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Patinopecten_yessoensis_PYE|PY_T22323	6ef59d39d8a1b1467d2913b86ca4b30c	183	Pfam	PF01607	Chitin binding Peritrophin-A domain	133	180	5.9E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Patinopecten_yessoensis_PYE|PY_T22323	6ef59d39d8a1b1467d2913b86ca4b30c	183	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	130	183	9.613	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Patinopecten_yessoensis_PYE|PY_T22323	6ef59d39d8a1b1467d2913b86ca4b30c	183	SUPERFAMILY	SSF57625		128	177	1.49E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Patinopecten_yessoensis_PYE|PY_T22323	6ef59d39d8a1b1467d2913b86ca4b30c	183	Gene3D	G3DSA:2.170.140.10		123	183	5.0E-7	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021367444.1	6ef59d39d8a1b1467d2913b86ca4b30c	183	Pfam	PF01607	Chitin binding Peritrophin-A domain	133	180	5.9E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Mizuhopecten_yessoensis_MYE|XP_021367444.1	6ef59d39d8a1b1467d2913b86ca4b30c	183	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	130	183	9.613	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Mizuhopecten_yessoensis_MYE|XP_021367444.1	6ef59d39d8a1b1467d2913b86ca4b30c	183	SUPERFAMILY	SSF57625		128	177	1.49E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Mizuhopecten_yessoensis_MYE|XP_021367444.1	6ef59d39d8a1b1467d2913b86ca4b30c	183	Gene3D	G3DSA:2.170.140.10		123	183	5.0E-7	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920581.1	c78c7d518d7bda92f832bc25c872b2b9	542	MobiDBLite	mobidb-lite	consensus disorder prediction	15	38	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920581.1	c78c7d518d7bda92f832bc25c872b2b9	542	SUPERFAMILY	SSF58113		291	453	7.59E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920581.1	c78c7d518d7bda92f832bc25c872b2b9	542	MobiDBLite	mobidb-lite	consensus disorder prediction	84	110	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920581.1	c78c7d518d7bda92f832bc25c872b2b9	542	MobiDBLite	mobidb-lite	consensus disorder prediction	141	186	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920581.1	c78c7d518d7bda92f832bc25c872b2b9	542	Coils	Coil		327	354	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	PANTHER	PTHR18976:SF11		167	376	2.1E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	PANTHER	PTHR18976:SF11		376	562	2.1E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	Gene3D	G3DSA:1.20.120.20		429	573	1.9E-5	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	SMART	SM00494		591	641	7.9E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	PANTHER	PTHR18976		167	376	2.1E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	PANTHER	PTHR18976		376	562	2.1E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	152	562	1.0E-5	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319310.1	f5177cfed6d1aad1bf2825d4ada04bdb	648	Coils	Coil		431	451	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027217-T1	b612c3d693a6a56af3861bfbdef07d34	91	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	31	88	9.105	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_027217-T1	b612c3d693a6a56af3861bfbdef07d34	91	Gene3D	G3DSA:3.20.20.80		16	90	9.3E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_027217-T1	b612c3d693a6a56af3861bfbdef07d34	91	Pfam	PF01607	Chitin binding Peritrophin-A domain	34	85	2.3E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_027217-T1	b612c3d693a6a56af3861bfbdef07d34	91	SUPERFAMILY	SSF57625		34	84	8.37E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	SUPERFAMILY	SSF57625		38	87	7.85E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	MobiDBLite	mobidb-lite	consensus disorder prediction	228	257	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	36	91	8.738	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	278	332	7.596	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	SMART	SM00494		37	91	2.8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	SMART	SM00494		275	332	4.7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	PRINTS	PR01217	Proline rich extensin signature	139	151	1.2E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	PRINTS	PR01217	Proline rich extensin signature	188	200	1.2E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	PRINTS	PR01217	Proline rich extensin signature	210	231	1.2E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	PRINTS	PR01217	Proline rich extensin signature	159	175	1.2E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	PRINTS	PR01217	Proline rich extensin signature	232	248	1.2E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031900-T1	ddc7e56d8525f272c4f465739220445f	333	Pfam	PF01607	Chitin binding Peritrophin-A domain	39	87	1.8E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022316881.1	c9cdbbf5958c0c0219f713ffa63ed00b	370	Pfam	PF01607	Chitin binding Peritrophin-A domain	317	361	1.1E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022316881.1	c9cdbbf5958c0c0219f713ffa63ed00b	370	SMART	SM00494		314	364	7.0E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022316881.1	c9cdbbf5958c0c0219f713ffa63ed00b	370	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	SUPERFAMILY	SSF57625		171	217	1.75E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	SUPERFAMILY	SSF57535		81	145	1.68E-5	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	Pfam	PF01607	Chitin binding Peritrophin-A domain	173	218	1.5E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	SMART	SM00032		17	75	2.3	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	SMART	SM00032		84	144	1.3	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	170	222	9.055	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	82	146	7.288	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	Gene3D	G3DSA:2.10.70.10		79	145	2.8E-7	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_6563-0.12	bfd2ea92a9f4e76666361bb00a0e51b6	222	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	15	77	6.925	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Crassostrea_virginica_CVI|XP_022316890.1	864031f06ec83f6aeecc17cf469376f9	369	SMART	SM00494		313	363	7.0E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022316890.1	864031f06ec83f6aeecc17cf469376f9	369	MobiDBLite	mobidb-lite	consensus disorder prediction	1	22	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022316890.1	864031f06ec83f6aeecc17cf469376f9	369	Pfam	PF01607	Chitin binding Peritrophin-A domain	316	360	1.1E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_011420217.1	ed206e752be0ed1bf53f6b05d7d9752a	332	MobiDBLite	mobidb-lite	consensus disorder prediction	19	43	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011453907.1	4463f1f8d8b47a73e03dc3671f7272e5	176	SUPERFAMILY	SSF57625		122	171	1.86E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_011453907.1	4463f1f8d8b47a73e03dc3671f7272e5	176	Pfam	PF01607	Chitin binding Peritrophin-A domain	126	172	4.4E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_011453907.1	4463f1f8d8b47a73e03dc3671f7272e5	176	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	123	176	8.42	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_011453907.1	4463f1f8d8b47a73e03dc3671f7272e5	176	SMART	SM00494		124	176	0.0041	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	246	507	1.0E-4	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	PANTHER	PTHR24343		131	380	1.2E-16	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	PANTHER	PTHR24343		378	542	1.2E-16	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	MobiDBLite	mobidb-lite	consensus disorder prediction	142	170	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	Coils	Coil		442	469	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	SMART	SM00494		610	660	0.0032	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	Coils	Coil		370	390	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	PANTHER	PTHR24343:SF307		131	380	1.2E-16	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022317354.1	1fc88baa859b8faeefd5810fc7d7cd60	667	PANTHER	PTHR24343:SF307		378	542	1.2E-16	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	Pfam	PF01607	Chitin binding Peritrophin-A domain	230	282	1.1E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	MobiDBLite	mobidb-lite	consensus disorder prediction	80	108	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	Gene3D	G3DSA:3.20.20.80		192	289	1.3E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	227	284	9.27	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	SUPERFAMILY	SSF57625		230	282	1.8E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	29	87	7.254	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037632-T1	952704dee643ba85087c28204d28de63	298	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	139	200	7.672	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022321049.1	c8e38251d0207f6a6e0c28f7423f359e	174	SUPERFAMILY	SSF57625		120	169	1.1E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022321049.1	c8e38251d0207f6a6e0c28f7423f359e	174	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	121	174	8.547	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022321049.1	c8e38251d0207f6a6e0c28f7423f359e	174	Pfam	PF01607	Chitin binding Peritrophin-A domain	124	170	3.4E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022321049.1	c8e38251d0207f6a6e0c28f7423f359e	174	SMART	SM00494		122	174	0.0092	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037630-T1	91c8a1f963700c5ea17ef15fc4e26e0f	139	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	81	136	8.535	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037630-T1	91c8a1f963700c5ea17ef15fc4e26e0f	139	Pfam	PF01607	Chitin binding Peritrophin-A domain	84	132	5.6E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037630-T1	91c8a1f963700c5ea17ef15fc4e26e0f	139	Gene3D	G3DSA:3.20.20.80		71	139	4.0E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037630-T1	91c8a1f963700c5ea17ef15fc4e26e0f	139	SUPERFAMILY	SSF57625		84	132	4.45E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	PANTHER	PTHR36148:SF1		289	439	1.6E-15	T	31-10-2018
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	PANTHER	PTHR36148:SF1		430	588	1.6E-15	T	31-10-2018
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	PANTHER	PTHR36148		88	296	1.6E-15	T	31-10-2018
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	PANTHER	PTHR36148		289	439	1.6E-15	T	31-10-2018
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	SUPERFAMILY	SSF57625		28	83	1.18E-8	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	PANTHER	PTHR36148:SF1		88	296	1.6E-15	T	31-10-2018
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	26	82	9.79	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	Gene3D	G3DSA:2.170.140.10		22	84	2.5E-5	T	31-10-2018
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	Pfam	PF01607	Chitin binding Peritrophin-A domain	29	79	1.1E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Biomphalaria_glabrata_BGL|XP_013073419.1	2f6c10fee2e623ffb5108197e3ba8f26	609	PANTHER	PTHR36148		430	588	1.6E-15	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62453-5.2	3124092435d3fed25f30f9f70bff52ce	150	SUPERFAMILY	SSF57625		91	138	1.54E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62453-5.2	3124092435d3fed25f30f9f70bff52ce	150	SMART	SM00494		89	143	1.8E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62453-5.2	3124092435d3fed25f30f9f70bff52ce	150	Pfam	PF01607	Chitin binding Peritrophin-A domain	91	138	1.6E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62453-5.2	3124092435d3fed25f30f9f70bff52ce	150	MobiDBLite	mobidb-lite	consensus disorder prediction	45	83	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62453-5.2	3124092435d3fed25f30f9f70bff52ce	150	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	88	143	9.385	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Bathymodiolus_platifrons_BPL|Bpl_scaf_62453-5.2	3124092435d3fed25f30f9f70bff52ce	150	Gene3D	G3DSA:3.20.20.80		33	149	8.9E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008879-T1	7eda2dcb51aa3cb9ea6820a32473c309	309	SUPERFAMILY	SSF57625		3	59	6.28E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_008879-T1	7eda2dcb51aa3cb9ea6820a32473c309	309	Pfam	PF01607	Chitin binding Peritrophin-A domain	2	52	2.8E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	PANTHER	PTHR23301		127	197	2.7E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	PANTHER	PTHR23301		64	133	2.7E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	73	130	9.511	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	PANTHER	PTHR23301:SF0		64	133	2.7E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	SUPERFAMILY	SSF57625		144	195	2.88E-8	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	SMART	SM00494		74	130	0.64	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	SMART	SM00494		146	202	0.64	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	SUPERFAMILY	SSF57625		72	126	5.23E-8	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	PANTHER	PTHR23301:SF0		127	197	2.7E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	145	202	9.511	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	Pfam	PF01607	Chitin binding Peritrophin-A domain	148	197	1.1E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020405-T1	5bfe313b740b524c76ee9d065ad84b7f	204	Pfam	PF01607	Chitin binding Peritrophin-A domain	76	126	9.8E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022315584.1	0efcbc9a55080d99022df04b07640909	370	Pfam	PF01607	Chitin binding Peritrophin-A domain	317	361	1.1E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022315584.1	0efcbc9a55080d99022df04b07640909	370	SMART	SM00494		314	364	7.0E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022315584.1	0efcbc9a55080d99022df04b07640909	370	MobiDBLite	mobidb-lite	consensus disorder prediction	1	23	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	129	183	9.752	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	SMART	SM00494		130	183	15.0	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	SMART	SM00494		71	127	0.0048	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	SUPERFAMILY	SSF57625		131	184	1.2E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	Gene3D	G3DSA:2.170.140.10		66	134	3.3E-8	T	31-10-2018
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	70	127	8.738	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	SUPERFAMILY	SSF82895		4	53	7.98E-5	T	31-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	SUPERFAMILY	SSF57625		71	130	1.26E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	ProSiteProfiles	PS50092	Thrombospondin type-1 (TSP1) repeat profile.	4	65	8.613	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	Pfam	PF01607	Chitin binding Peritrophin-A domain	73	125	1.3E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_005103491.2	fc12b92b5e72b49d19dac9983ba1c69b	209	Pfam	PF01607	Chitin binding Peritrophin-A domain	132	179	1.3E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF60489.34	9495921f7711e1af612296fee2480758	58	Pfam	PF01607	Chitin binding Peritrophin-A domain	2	54	1.0E-12	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF60489.34	9495921f7711e1af612296fee2480758	58	SMART	SM00494		1	56	4.2E-8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF60489.34	9495921f7711e1af612296fee2480758	58	SUPERFAMILY	SSF57625		1	55	2.51E-12	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF60489.34	9495921f7711e1af612296fee2480758	58	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	1	56	11.985	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF60489.34	9495921f7711e1af612296fee2480758	58	Gene3D	G3DSA:3.20.20.80		1	58	1.3E-9	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039945-T1	c3a98ecac514aa260ada63ac85d683ff	141	Pfam	PF01607	Chitin binding Peritrophin-A domain	83	131	5.4E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_039945-T1	c3a98ecac514aa260ada63ac85d683ff	141	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	12	69	7.824	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_039945-T1	c3a98ecac514aa260ada63ac85d683ff	141	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	80	137	8.332	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022289657.1	1bae4b1cb7db4a90755b4a158bdb7bda	247	Pfam	PF01607	Chitin binding Peritrophin-A domain	190	237	1.4E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_019920583.1	0214869bff71eaad4c7b0f5ef1d579ea	534	SUPERFAMILY	SSF58113		283	445	7.32E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920583.1	0214869bff71eaad4c7b0f5ef1d579ea	534	MobiDBLite	mobidb-lite	consensus disorder prediction	1	38	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920583.1	0214869bff71eaad4c7b0f5ef1d579ea	534	MobiDBLite	mobidb-lite	consensus disorder prediction	159	178	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019920583.1	0214869bff71eaad4c7b0f5ef1d579ea	534	Coils	Coil		319	346	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420271.1	ad1da6a5014001489ea52954edb2624c	312	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420271.1	ad1da6a5014001489ea52954edb2624c	312	MobiDBLite	mobidb-lite	consensus disorder prediction	215	234	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011447540.2	607627912d8ea1601de264dbb120875c	411	Gene3D	G3DSA:1.10.340.70		1	40	4.2E-11	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011447540.2	607627912d8ea1601de264dbb120875c	411	PANTHER	PTHR24559		1	60	1.2E-19	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011447540.2	607627912d8ea1601de264dbb120875c	411	PANTHER	PTHR24559:SF250		1	60	1.2E-19	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011447540.2	607627912d8ea1601de264dbb120875c	411	MobiDBLite	mobidb-lite	consensus disorder prediction	54	82	-	T	31-10-2018
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	MobiDBLite	mobidb-lite	consensus disorder prediction	1	185	-	T	31-10-2018
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	Pfam	PF00090	Thrombospondin type 1 domain	311	360	1.8E-7	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	SUPERFAMILY	SSF82895		306	360	1.06E-12	T	31-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	PANTHER	PTHR22906:SF11		99	378	3.1E-20	T	31-10-2018
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	PANTHER	PTHR22906		99	378	3.1E-20	T	31-10-2018
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	ProSiteProfiles	PS50092	Thrombospondin type-1 (TSP1) repeat profile.	307	361	12.553	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	SMART	SM00209		310	361	3.1E-11	T	31-10-2018	IPR000884	Thrombospondin type-1 (TSP1) repeat		
+Capitella_teleta_CTE|ELU14943.1	8e8d163b703c25d4f02903cce3080721	446	Gene3D	G3DSA:2.20.100.10		305	360	5.1E-12	T	31-10-2018	IPR036383	Thrombospondin type-1 (TSP1) repeat superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_028628-T1	4d218a427b908c118fc91d5e33329d93	402	Pfam	PF01607	Chitin binding Peritrophin-A domain	351	399	2.1E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_028628-T1	4d218a427b908c118fc91d5e33329d93	402	Gene3D	G3DSA:2.170.140.10		345	402	4.6E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028628-T1	4d218a427b908c118fc91d5e33329d93	402	SUPERFAMILY	SSF57625		351	399	6.28E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_028628-T1	4d218a427b908c118fc91d5e33329d93	402	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	348	402	9.144	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	Pfam	PF01607	Chitin binding Peritrophin-A domain	57	106	3.1E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	198	254	9.727	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	SUPERFAMILY	SSF57625		57	116	3.66E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	SMART	SM00494		55	110	2.3	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	SMART	SM00494		127	186	0.46	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	SMART	SM00494		270	328	8.1	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	SMART	SM00494		199	257	0.14	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	269	325	7.533	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	126	183	9.676	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	54	110	9.004	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU16624.1	2ba854389b04d7a92592f63d061ee990	330	SUPERFAMILY	SSF57625		196	249	4.18E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_025362-T1	548b5ff7a63aef86afb3ae77ad1131d4	359	Gene3D	G3DSA:3.20.20.80		49	172	3.4E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025362-T1	548b5ff7a63aef86afb3ae77ad1131d4	359	Pfam	PF01607	Chitin binding Peritrophin-A domain	112	166	6.4E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_025362-T1	548b5ff7a63aef86afb3ae77ad1131d4	359	SUPERFAMILY	SSF57625		111	167	9.68E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_025362-T1	548b5ff7a63aef86afb3ae77ad1131d4	359	MobiDBLite	mobidb-lite	consensus disorder prediction	62	87	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_025362-T1	548b5ff7a63aef86afb3ae77ad1131d4	359	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	109	165	8.776	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	Coils	Coil		485	505	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	PANTHER	PTHR18976		221	430	2.6E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	206	616	8.0E-7	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	PANTHER	PTHR18976:SF11		430	616	2.6E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	SMART	SM00494		645	695	7.9E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	PANTHER	PTHR18976		430	616	2.6E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	Gene3D	G3DSA:1.20.120.20		483	627	2.0E-5	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022319302.1	43f873916ff2d7943af2bd4fbeb7ee1f	702	PANTHER	PTHR18976:SF11		221	430	2.6E-12	T	31-10-2018
+Chlamys_farreri_CFA|CF45303.22	d72cf77fed61dd941301035624e276fe	183	Pfam	PF01607	Chitin binding Peritrophin-A domain	133	181	3.1E-8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF45303.22	d72cf77fed61dd941301035624e276fe	183	SUPERFAMILY	SSF57625		128	180	7.32E-8	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Chlamys_farreri_CFA|CF45303.22	d72cf77fed61dd941301035624e276fe	183	Gene3D	G3DSA:2.170.140.10		123	183	2.2E-7	T	31-10-2018
+Chlamys_farreri_CFA|CF45303.22	d72cf77fed61dd941301035624e276fe	183	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	130	183	9.651	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022293489.1	f2daf0730a2d10b97f24f0ba211ee6ab	252	MobiDBLite	mobidb-lite	consensus disorder prediction	31	106	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	Pfam	PF01607	Chitin binding Peritrophin-A domain	106	155	4.7E-9	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	Pfam	PF01607	Chitin binding Peritrophin-A domain	44	96	8.4E-8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	SUPERFAMILY	SSF57625		100	155	5.75E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	103	159	9.778	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	41	98	9.22	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	Gene3D	G3DSA:3.20.20.80		92	160	6.7E-6	T	31-10-2018
+Lottia_gigantea_LGI|XP_009047329.1	7cbf1557a3c1d71644a15914e0b7adb9	160	SUPERFAMILY	SSF57625		42	101	4.97E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_011420283.1	d2a588ed14ed428bccd8e1484405cc73	557	MobiDBLite	mobidb-lite	consensus disorder prediction	182	201	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420283.1	d2a588ed14ed428bccd8e1484405cc73	557	Coils	Coil		342	369	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420283.1	d2a588ed14ed428bccd8e1484405cc73	557	SUPERFAMILY	SSF58113		306	468	7.85E-6	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420283.1	d2a588ed14ed428bccd8e1484405cc73	557	MobiDBLite	mobidb-lite	consensus disorder prediction	17	38	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420283.1	d2a588ed14ed428bccd8e1484405cc73	557	MobiDBLite	mobidb-lite	consensus disorder prediction	84	110	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031679-T1	9c3866fdd9d63ae753688d4e15a8352c	155	Gene3D	G3DSA:3.20.20.80		78	152	2.0E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031679-T1	9c3866fdd9d63ae753688d4e15a8352c	155	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	93	147	9.524	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031679-T1	9c3866fdd9d63ae753688d4e15a8352c	155	SUPERFAMILY	SSF57625		89	148	2.33E-10	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031679-T1	9c3866fdd9d63ae753688d4e15a8352c	155	Pfam	PF01607	Chitin binding Peritrophin-A domain	98	144	4.0E-8	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037629-T1	e2c29435b43957d603a51dec698f5b77	139	Pfam	PF01607	Chitin binding Peritrophin-A domain	83	131	2.5E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_037629-T1	e2c29435b43957d603a51dec698f5b77	139	Gene3D	G3DSA:3.20.20.80		74	139	2.7E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_037629-T1	e2c29435b43957d603a51dec698f5b77	139	SUPERFAMILY	SSF57625		83	131	2.62E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	Pfam	PF01607	Chitin binding Peritrophin-A domain	17	69	3.7E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	Pfam	PF01607	Chitin binding Peritrophin-A domain	155	203	7.0E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	14	71	8.979	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	MobiDBLite	mobidb-lite	consensus disorder prediction	103	140	-	T	31-10-2018
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	SUPERFAMILY	SSF57625		154	202	1.18E-6	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	152	207	8.674	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Aplysia_californica_ACA|XP_012940870.1	643876182617d2c4ded5f379d1a9db3b	207	SUPERFAMILY	SSF57625		16	77	1.28E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022294344.1	9ee7c7366a1e9dcb06cca1a891b63aad	458	MobiDBLite	mobidb-lite	consensus disorder prediction	88	130	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022294344.1	9ee7c7366a1e9dcb06cca1a891b63aad	458	MobiDBLite	mobidb-lite	consensus disorder prediction	1	43	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_031899-T1	fb51a5e7a0096b23bffe963dea270429	253	MobiDBLite	mobidb-lite	consensus disorder prediction	99	137	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	SUPERFAMILY	SSF57625		162	210	2.2E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	SUPERFAMILY	SSF57625		28	88	2.88E-14	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	26	82	12.213	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	Gene3D	G3DSA:2.170.140.10		21	88	2.3E-11	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	161	216	9.638	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	Pfam	PF01607	Chitin binding Peritrophin-A domain	29	80	5.1E-12	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	Pfam	PF01607	Chitin binding Peritrophin-A domain	164	212	4.7E-6	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	PANTHER	PTHR23301		20	211	2.7E-15	T	31-10-2018
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	SMART	SM00494		162	213	4.4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lottia_gigantea_LGI|XP_009058650.1	470c3d9d53092c1a7c093489d901bdf9	216	SMART	SM00494		27	82	2.8E-10	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_019920585.1	400be568f84ed733e2a9bed3c6582475	102	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	31	86	9.042	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_019920585.1	400be568f84ed733e2a9bed3c6582475	102	SUPERFAMILY	SSF57625		32	84	6.8E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_gigas_CGI|XP_019920585.1	400be568f84ed733e2a9bed3c6582475	102	Pfam	PF01607	Chitin binding Peritrophin-A domain	34	78	4.4E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_022880-T1	feab381a41f199e7846dbe0b3c01b1e2	267	Gene3D	G3DSA:3.20.20.80		6	93	3.0E-7	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022880-T1	feab381a41f199e7846dbe0b3c01b1e2	267	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	29	85	9.22	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_022880-T1	feab381a41f199e7846dbe0b3c01b1e2	267	Pfam	PF01607	Chitin binding Peritrophin-A domain	32	82	5.0E-7	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_022880-T1	feab381a41f199e7846dbe0b3c01b1e2	267	SUPERFAMILY	SSF57625		32	81	2.17E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022318061.1	cfb4caea614ee7e16c2cb1b803065adf	512	MobiDBLite	mobidb-lite	consensus disorder prediction	70	95	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022318061.1	cfb4caea614ee7e16c2cb1b803065adf	512	MobiDBLite	mobidb-lite	consensus disorder prediction	30	54	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011434793.1	093b6a324f3e1be26f7dedce4a32fbd3	472	MobiDBLite	mobidb-lite	consensus disorder prediction	1	49	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011434793.1	093b6a324f3e1be26f7dedce4a32fbd3	472	MobiDBLite	mobidb-lite	consensus disorder prediction	63	135	-	T	31-10-2018
+Capitella_teleta_CTE|ELU11756.1	8939825c8d4e2a3d0bdd885f97505172	140	Pfam	PF01607	Chitin binding Peritrophin-A domain	30	76	3.1E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU11756.1	8939825c8d4e2a3d0bdd885f97505172	140	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	27	84	9.118	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Capitella_teleta_CTE|ELU11756.1	8939825c8d4e2a3d0bdd885f97505172	140	SUPERFAMILY	SSF57625		26	77	2.59E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022313855.1	25f5d01e2d4fc6dd1d0ac3995e47b7fa	609	SMART	SM00494		552	602	0.0054	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022313855.1	25f5d01e2d4fc6dd1d0ac3995e47b7fa	609	Coils	Coil		357	377	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022293480.1	74f923183a5fbc43aa0d856b9491bc21	273	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022293480.1	74f923183a5fbc43aa0d856b9491bc21	273	MobiDBLite	mobidb-lite	consensus disorder prediction	50	127	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016794-T1	80b8a4e441997ce7d71479e4ebf7a68a	156	Pfam	PF01607	Chitin binding Peritrophin-A domain	99	148	1.3E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_016794-T1	80b8a4e441997ce7d71479e4ebf7a68a	156	SUPERFAMILY	SSF57625		41	88	2.25E-5	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_016794-T1	80b8a4e441997ce7d71479e4ebf7a68a	156	SMART	SM00494		97	153	3.0	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_016794-T1	80b8a4e441997ce7d71479e4ebf7a68a	156	SMART	SM00494		39	93	0.13	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_016794-T1	80b8a4e441997ce7d71479e4ebf7a68a	156	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	38	93	8.509	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_016794-T1	80b8a4e441997ce7d71479e4ebf7a68a	156	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	96	153	7.862	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_029698-T1	b0c463426795b49b1ead1d46dbd53835	84	Pfam	PF01607	Chitin binding Peritrophin-A domain	29	81	1.2E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_029697-T1	b0c463426795b49b1ead1d46dbd53835	84	Pfam	PF01607	Chitin binding Peritrophin-A domain	29	81	1.2E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022304097.1	548cfb5d24b9f5b48720442013862b36	315	MobiDBLite	mobidb-lite	consensus disorder prediction	1	105	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922020.1	05820022c088e6ba490bf5ea2cfd41ed	118	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922020.1	05820022c088e6ba490bf5ea2cfd41ed	118	MobiDBLite	mobidb-lite	consensus disorder prediction	68	93	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022315593.1	f3adc8498f1cc95f0662c991815e3fc2	369	SMART	SM00494		313	363	7.0E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022315593.1	f3adc8498f1cc95f0662c991815e3fc2	369	MobiDBLite	mobidb-lite	consensus disorder prediction	1	23	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022315593.1	f3adc8498f1cc95f0662c991815e3fc2	369	Pfam	PF01607	Chitin binding Peritrophin-A domain	316	360	1.1E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	ProDom	PD936484	POLYPROTEIN GLYCOPROTEIN M G2 TRANSMEMBRANE NONSTRUCTURAL MEMBRANE CONTAINS: PRECURSOR SIGNAL	271	546	9.0E-4	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	MobiDBLite	mobidb-lite	consensus disorder prediction	35	65	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	Pfam	PF01607	Chitin binding Peritrophin-A domain	583	627	1.3E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	SMART	SM00494		580	630	6.7E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	Coils	Coil		530	550	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	Coils	Coil		234	254	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022288139.1	68450f8620b9400a5d9b9778ad73d2d5	637	MobiDBLite	mobidb-lite	consensus disorder prediction	139	163	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028453-T1	ad295487863d71a2ddfdd6db9e0cd105	135	Gene3D	G3DSA:3.20.20.80		61	131	1.8E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028453-T1	ad295487863d71a2ddfdd6db9e0cd105	135	SUPERFAMILY	SSF57625		77	133	7.59E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_028453-T1	ad295487863d71a2ddfdd6db9e0cd105	135	Pfam	PF01607	Chitin binding Peritrophin-A domain	77	127	1.1E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022294337.1	1c76783927fd438930b39b818489c7a8	459	MobiDBLite	mobidb-lite	consensus disorder prediction	86	131	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022294337.1	1c76783927fd438930b39b818489c7a8	459	MobiDBLite	mobidb-lite	consensus disorder prediction	1	43	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420234.1	e17a99d76fa6507c1bd2702dcb207e56	140	MobiDBLite	mobidb-lite	consensus disorder prediction	37	79	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022304104.1	ab6098e773f4b5407d86d4e60e846a63	300	MobiDBLite	mobidb-lite	consensus disorder prediction	1	92	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019926994.1	7ab8c43a4d5cf65b78c31cb5841e1501	270	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019926994.1	7ab8c43a4d5cf65b78c31cb5841e1501	270	MobiDBLite	mobidb-lite	consensus disorder prediction	62	102	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019926994.1	7ab8c43a4d5cf65b78c31cb5841e1501	270	MobiDBLite	mobidb-lite	consensus disorder prediction	145	177	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020112-T1	e72a3211187dd708a8c5aa856806c1ea	252	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	58	115	9.981	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020112-T1	e72a3211187dd708a8c5aa856806c1ea	252	SUPERFAMILY	SSF57625		57	116	1.02E-7	T	31-10-2018	IPR036508	Chitin binding domain superfamily	GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_020112-T1	e72a3211187dd708a8c5aa856806c1ea	252	Gene3D	G3DSA:3.20.20.80		7	119	2.3E-6	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_020112-T1	e72a3211187dd708a8c5aa856806c1ea	252	Pfam	PF01607	Chitin binding Peritrophin-A domain	61	113	9.3E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_031895-T1	32854dbea1a338f06c77669180a37697	140	MobiDBLite	mobidb-lite	consensus disorder prediction	26	85	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420275.1	0f303aea2995136263ca4f9f67fd1ee7	287	MobiDBLite	mobidb-lite	consensus disorder prediction	189	209	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420275.1	0f303aea2995136263ca4f9f67fd1ee7	287	MobiDBLite	mobidb-lite	consensus disorder prediction	82	109	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011420275.1	0f303aea2995136263ca4f9f67fd1ee7	287	MobiDBLite	mobidb-lite	consensus disorder prediction	1	43	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_039946-T1	b0ff7db923583d28faaab7e7bf35f65a	191	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	136	184	7.583	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_039946-T1	b0ff7db923583d28faaab7e7bf35f65a	191	Pfam	PF01607	Chitin binding Peritrophin-A domain	139	185	3.0E-5	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Lamellibrachia_luymsi_proteins_LLU|FUN_039946-T1	b0ff7db923583d28faaab7e7bf35f65a	191	ProSiteProfiles	PS50940	Chitin-binding type-2 domain profile.	65	122	7.507	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085
+Crassostrea_virginica_CVI|XP_022304111.1	09b2964eef25fe2a55db82c88be3ae40	118	MobiDBLite	mobidb-lite	consensus disorder prediction	1	118	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022289547.1	4c2eb7d33085af425a98c08624694327	279	MobiDBLite	mobidb-lite	consensus disorder prediction	22	49	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022289547.1	4c2eb7d33085af425a98c08624694327	279	Pfam	PF01607	Chitin binding Peritrophin-A domain	216	271	1.3E-4	T	31-10-2018	IPR002557	Chitin binding domain	GO:0005576|GO:0006030|GO:0008061	Reactome: R-HSA-189085

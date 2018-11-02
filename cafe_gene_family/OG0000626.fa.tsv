@@ -1,0 +1,141 @@
+Patinopecten_yessoensis_PYE|PY_T02864	f15a0797e03227ab6106a7a7f69679f6	130	Coils	Coil		118	130	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T02864	f15a0797e03227ab6106a7a7f69679f6	130	MobiDBLite	mobidb-lite	consensus disorder prediction	1	23	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008743-T1	ccff21cee53bf015ecf9be876fce2d6e	150	Coils	Coil		26	46	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008743-T1	ccff21cee53bf015ecf9be876fce2d6e	150	MobiDBLite	mobidb-lite	consensus disorder prediction	85	150	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008743-T1	ccff21cee53bf015ecf9be876fce2d6e	150	Coils	Coil		73	93	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_4413-0.14	8770067b62f09bfed5fde10032568545	198	Coils	Coil		127	147	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_4413-0.14	8770067b62f09bfed5fde10032568545	198	Coils	Coil		27	47	-	T	31-10-2018
+Chlamys_farreri_CFA|CF38447.17	43cd8d15596eac0a64323db1954e0f4d	135	Coils	Coil		31	51	-	T	31-10-2018
+Chlamys_farreri_CFA|CF38447.17	43cd8d15596eac0a64323db1954e0f4d	135	MobiDBLite	mobidb-lite	consensus disorder prediction	92	135	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040668-T1	4d2b645f6107794a971bbe33e7d64825	156	Coils	Coil		25	45	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.0	a34f147aac6edc9707df31648268690e	197	Coils	Coil		173	193	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.0	a34f147aac6edc9707df31648268690e	197	Coils	Coil		74	94	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.0	a34f147aac6edc9707df31648268690e	197	Coils	Coil		126	146	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.0	a34f147aac6edc9707df31648268690e	197	Coils	Coil		27	47	-	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Gene3D	G3DSA:2.10.70.10		131	195	2.0E-6	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	249	309	8.116	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Pfam	PF00084	Sushi repeat (SCR repeat)	137	190	9.2E-6	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Pfam	PF00084	Sushi repeat (SCR repeat)	251	303	8.5E-7	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Pfam	PF00084	Sushi repeat (SCR repeat)	194	247	7.3E-5	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SUPERFAMILY	SSF49723		311	415	6.78E-21	T	31-10-2018	IPR036392	PLAT/LH2 domain superfamily	GO:0005515	
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	ProSiteProfiles	PS50923	Sushi/CCP/SCR domain profile.	135	192	8.147	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SUPERFAMILY	SSF57535		137	198	1.39E-7	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	PANTHER	PTHR19325:SF476		78	310	2.0E-19	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SUPERFAMILY	SSF57414		78	121	3.57E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Gene3D	G3DSA:2.10.70.10		196	247	1.4E-5	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SMART	SM00032		137	190	0.18	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SMART	SM00032		251	307	1.8E-9	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SMART	SM00032		194	247	0.57	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Gene3D	G3DSA:2.60.60.20		309	415	6.8E-22	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Pfam	PF01477	PLAT/LH2 domain	313	414	1.5E-8	T	31-10-2018	IPR001024	PLAT/LH2 domain	GO:0005515	
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	CDD	cd00033	CCP	251	300	9.53359E-6	T	31-10-2018	IPR000436	Sushi/SCR/CCP domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SUPERFAMILY	SSF57535		250	303	3.47E-10	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	PANTHER	PTHR19325		78	310	2.0E-19	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	SUPERFAMILY	SSF57535		193	248	1.28E-6	T	31-10-2018	IPR035976	Sushi/SCR/CCP superfamily		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	ProSiteProfiles	PS50095	PLAT domain profile.	311	424	20.635	T	31-10-2018	IPR001024	PLAT/LH2 domain	GO:0005515	
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	ProSiteProfiles	PS50948	PAN/Apple domain profile.	47	137	7.691	T	31-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Pfam	PF00024	PAN domain	83	124	1.3E-4	T	31-10-2018	IPR003609	PAN/Apple domain		
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Coils	Coil		518	545	-	T	31-10-2018
+Chlamys_farreri_CFA|CF5983.3	bbd80936290c017fa82c212059e05fa2	596	Gene3D	G3DSA:2.10.70.10		248	308	7.0E-10	T	31-10-2018
+Lottia_gigantea_LGI|XP_009056791.1	4531cfef678460d11e2dd80840762bfe	126	Coils	Coil		24	44	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009056791.1	4531cfef678460d11e2dd80840762bfe	126	Coils	Coil		99	126	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009056791.1	4531cfef678460d11e2dd80840762bfe	126	MobiDBLite	mobidb-lite	consensus disorder prediction	107	126	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-4.23	6ca61b29d656f88d5a6d12075e724e0c	210	Coils	Coil		30	50	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53238-4.23	6ca61b29d656f88d5a6d12075e724e0c	210	Coils	Coil		124	151	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71548-0.3	0d25376ed2b745766850fc5a252c3773	98	Coils	Coil		30	50	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16602	dcb08349eddb732f46c01eab40fffdb9	129	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16602	dcb08349eddb732f46c01eab40fffdb9	129	Coils	Coil		43	63	-	T	31-10-2018
+Aplysia_californica_ACA|XP_005102652.1	d4e7d7143df1cfe739127153bbc326c6	99	Coils	Coil		8	49	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_18595-0.6	20555d52bae1718970a1d5b6a96c1ef9	155	Coils	Coil		131	151	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_18595-0.6	20555d52bae1718970a1d5b6a96c1ef9	155	Coils	Coil		74	94	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_18595-0.6	20555d52bae1718970a1d5b6a96c1ef9	155	Coils	Coil		27	47	-	T	31-10-2018
+Phoronis_australis_PAU|g15439.t1	35bd62bae99ec5f4319d95548b860438	170	MobiDBLite	mobidb-lite	consensus disorder prediction	78	170	-	T	31-10-2018
+Phoronis_australis_PAU|g15439.t1	35bd62bae99ec5f4319d95548b860438	170	Coils	Coil		5	39	-	T	31-10-2018
+Phoronis_australis_PAU|g15439.t1	35bd62bae99ec5f4319d95548b860438	170	Coils	Coil		80	100	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16485	b30ee05f62ba3ea8b8671c0b4e8555da	122	MobiDBLite	mobidb-lite	consensus disorder prediction	98	122	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16485	b30ee05f62ba3ea8b8671c0b4e8555da	122	Coils	Coil		31	51	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030504-T1	157abc202b9c7e65f33361aa56e3c659	95	MobiDBLite	mobidb-lite	consensus disorder prediction	76	95	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030504-T1	157abc202b9c7e65f33361aa56e3c659	95	Coils	Coil		25	45	-	T	31-10-2018
+Chlamys_farreri_CFA|CF702271.1	924abc96c9bd432661bf537c36112048	136	MobiDBLite	mobidb-lite	consensus disorder prediction	117	136	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_030506-T1	e3bc4aa0a0afdce15c4492990806aa9f	102	Coils	Coil		22	42	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16600	b8d3d4d54abb3c404010401be3fdb802	129	MobiDBLite	mobidb-lite	consensus disorder prediction	1	25	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16600	b8d3d4d54abb3c404010401be3fdb802	129	Coils	Coil		43	63	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034371-T1	e735b21daccbb5abd54bc23c5e0ee65c	119	MobiDBLite	mobidb-lite	consensus disorder prediction	97	119	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456954.1	1f03e5044c86ebbc68e4e4cc5764f8f1	150	MobiDBLite	mobidb-lite	consensus disorder prediction	97	150	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011456954.1	1f03e5044c86ebbc68e4e4cc5764f8f1	150	Coils	Coil		27	54	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000207-T1	437c36939f308f0d9781c3c0843feeea	119	MobiDBLite	mobidb-lite	consensus disorder prediction	95	119	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_15380-0.3	0a4c57e91c71f9fa0919334073c1ffeb	156	Coils	Coil		46	66	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g18837.t1	56ce6ddaa6eae350dd1b747b8c5b3600	133	MobiDBLite	mobidb-lite	consensus disorder prediction	97	133	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g18837.t1	56ce6ddaa6eae350dd1b747b8c5b3600	133	Coils	Coil		31	51	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_16210-0.1	caf28fb7a75eb696c28046e1db807ea7	178	Coils	Coil		134	154	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_16210-0.1	caf28fb7a75eb696c28046e1db807ea7	178	MobiDBLite	mobidb-lite	consensus disorder prediction	113	178	-	T	31-10-2018
+Macrostomum_lignano_MLI|PAA50825.1	9e95ef02fed6873d5d2d41ea0ec471cb	197	MobiDBLite	mobidb-lite	consensus disorder prediction	1	73	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g40480.t1	0627963963f613bdef69b39cfaedced0	106	Coils	Coil		14	41	-	T	31-10-2018
+Capitella_teleta_CTE|ELT88147.1	934132fca9657b08801c58a1fec09113	963	MobiDBLite	mobidb-lite	consensus disorder prediction	707	731	-	T	31-10-2018
+Capitella_teleta_CTE|ELT88147.1	934132fca9657b08801c58a1fec09113	963	MobiDBLite	mobidb-lite	consensus disorder prediction	902	948	-	T	31-10-2018
+Capitella_teleta_CTE|ELT88147.1	934132fca9657b08801c58a1fec09113	963	MobiDBLite	mobidb-lite	consensus disorder prediction	131	152	-	T	31-10-2018
+Capitella_teleta_CTE|ELT88147.1	934132fca9657b08801c58a1fec09113	963	MobiDBLite	mobidb-lite	consensus disorder prediction	354	431	-	T	31-10-2018
+Capitella_teleta_CTE|ELT88147.1	934132fca9657b08801c58a1fec09113	963	MobiDBLite	mobidb-lite	consensus disorder prediction	604	625	-	T	31-10-2018
+Capitella_teleta_CTE|ELT88147.1	934132fca9657b08801c58a1fec09113	963	PANTHER	PTHR14918		43	824	1.9E-23	T	31-10-2018	IPR033228	Protein SZT2	GO:0005777	
+Bathymodiolus_platifrons_BPL|Bpl_scaf_53568-7.30	bcc193e012e392bdb40ebef8b43265f7	117	Coils	Coil		32	52	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31501-13.2	356330ccbf3c53de8003d07cffedaf00	101	Coils	Coil		27	47	-	T	31-10-2018
+Chlamys_farreri_CFA|CF41713.13	82a8f453b7e089274d187a94b580b6ff	130	Coils	Coil		128	130	-	T	31-10-2018
+Chlamys_farreri_CFA|CF41713.13	82a8f453b7e089274d187a94b580b6ff	130	MobiDBLite	mobidb-lite	consensus disorder prediction	1	28	-	T	31-10-2018
+Chlamys_farreri_CFA|CF41713.13	82a8f453b7e089274d187a94b580b6ff	130	Coils	Coil		43	63	-	T	31-10-2018
+Macrostomum_lignano_MLI|PAA76357.1	1705a3c7a274a88a1feae9e50ed2f372	195	MobiDBLite	mobidb-lite	consensus disorder prediction	1	39	-	T	31-10-2018
+Macrostomum_lignano_MLI|PAA76703.1	1705a3c7a274a88a1feae9e50ed2f372	195	MobiDBLite	mobidb-lite	consensus disorder prediction	1	39	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T17249	988929cdca5a90accc024f1708dd358f	136	MobiDBLite	mobidb-lite	consensus disorder prediction	117	136	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_026169-T1	d51942848f3d0d1ba74da8c3de31b4de	102	Coils	Coil		18	38	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000208-T1	434ef7e74576e4bd8f66bfd085ed94e2	119	MobiDBLite	mobidb-lite	consensus disorder prediction	95	119	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_71548-0.4	902661169eac638c449c6f759e19ac91	109	Coils	Coil		30	50	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.9	1a802eed9e14c25cab986d3dfd13ddf3	98	Coils	Coil		74	94	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.9	1a802eed9e14c25cab986d3dfd13ddf3	98	Coils	Coil		27	47	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g28701.t1	5176bc2554e4bfeec594807fcaa7b639	130	MobiDBLite	mobidb-lite	consensus disorder prediction	92	130	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_41600-1.6	7d5b1871a8a0a0370758848e53e24957	138	MobiDBLite	mobidb-lite	consensus disorder prediction	115	138	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31501-13.5	bf967c07c52b21cb19fb5d8727798265	101	Coils	Coil		27	47	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_6373-4.7	bdecc9bbf119186c318827979d0fb68e	237	SUPERFAMILY	SSF49313		171	221	1.73E-6	T	31-10-2018	IPR015919	Cadherin-like	GO:0005509|GO:0016020	
+Lottia_gigantea_LGI|XP_009059603.1	85857da6ee885f1ee0ad452fcd156605	134	Coils	Coil		39	66	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_5827-0.1	bd9847665360d9287c4b9286a480d1db	196	Coils	Coil		30	50	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_5827-0.1	bd9847665360d9287c4b9286a480d1db	196	Coils	Coil		128	148	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g1898.t1	e5f27cdb323fe4d24f58466e12ea7647	112	MobiDBLite	mobidb-lite	consensus disorder prediction	91	112	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g1898.t1	e5f27cdb323fe4d24f58466e12ea7647	112	Coils	Coil		72	92	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g1898.t1	e5f27cdb323fe4d24f58466e12ea7647	112	Coils	Coil		25	45	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040662-T1	6d84112024168badbc5b395ae76cd752	107	MobiDBLite	mobidb-lite	consensus disorder prediction	87	107	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040662-T1	6d84112024168badbc5b395ae76cd752	107	Coils	Coil		25	45	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028088-T1	ee3e8085c9592a78aa3681f553b5c23d	90	Coils	Coil		25	45	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T04058	176d5728e9c40d20b7ec37b6de07d3d3	135	Coils	Coil		31	51	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T04058	176d5728e9c40d20b7ec37b6de07d3d3	135	MobiDBLite	mobidb-lite	consensus disorder prediction	92	135	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028089-T1	8d73fbe2db508d84f2d96c927ccd5011	103	Coils	Coil		25	45	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_30449-0.2	4cd05b1be11d81a70ba0ea9ee9382e6a	208	MobiDBLite	mobidb-lite	consensus disorder prediction	1	44	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007848-T1	fa68910f2c2cadc9e2a2d2537214233b	119	MobiDBLite	mobidb-lite	consensus disorder prediction	97	119	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.1	504e01b13c11e66bb105c469482ed2fa	155	Coils	Coil		131	151	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_17534-0.1	504e01b13c11e66bb105c469482ed2fa	155	Coils	Coil		74	94	-	T	31-10-2018
+Chlamys_farreri_CFA|CF21081.68	86a33fda0dc6a1c01c0f459534795983	121	Coils	Coil		37	57	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040665-T1	e1a6420559135550775bd447147dc1e5	105	Coils	Coil		25	45	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31501-13.40	ea6a4adada57ec550ffc5ef101d5d20f	239	Coils	Coil		165	185	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31501-13.40	ea6a4adada57ec550ffc5ef101d5d20f	239	Coils	Coil		27	47	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_10588-2.4	6caeb3c1785d68c0d59d0c1d68c8f6ba	129	Coils	Coil		28	69	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g19052.t1	2d32438d9e946e754e1a5c0976b4dd98	102	Coils	Coil		16	57	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_45502-0.2	b77f13efb775a9619030d5404ca634b1	103	Coils	Coil		30	50	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31501-13.4	ba693b537c3b9611a6dfb575b2e28702	101	Coils	Coil		27	47	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g38650.t1	d1342be328f611e678615fa468c9a2fb	106	Coils	Coil		14	41	-	T	31-10-2018
+Chlamys_farreri_CFA|CF39551.23	25cdae6aa5e5d09a897fe00f46f3935b	136	MobiDBLite	mobidb-lite	consensus disorder prediction	117	136	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9187-2.14	b38db9927094cae52c8fbc42d2541c4a	94	Coils	Coil		15	35	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_24306-0.0	1d69c5da97759d35017e2970b466cd44	94	Coils	Coil		30	50	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T08638	856d94085369acae5e61a2fd3c4bb3f1	101	Coils	Coil		92	101	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_24306-0.14	08ad5a0e1a8c5b0393d269c4516204d2	101	Coils	Coil		30	50	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16599	189739f16c7c9255f720c9a8f6b2b1a2	129	Coils	Coil		43	63	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16599	189739f16c7c9255f720c9a8f6b2b1a2	129	MobiDBLite	mobidb-lite	consensus disorder prediction	1	26	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_42183-6.2	8cd3fa2e56d6da03109a79bf7672e024	106	Coils	Coil		24	44	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040664-T1	c0cd3a27a34ae8abda09e625ca2506d0	105	Coils	Coil		25	45	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16572	d434488033844e9238660ed94621f9ce	140	Coils	Coil		54	74	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16572	d434488033844e9238660ed94621f9ce	140	MobiDBLite	mobidb-lite	consensus disorder prediction	1	37	-	T	31-10-2018
+Chlamys_farreri_CFA|CF33565.108	a912c16cf32990f0dabbc4b97e3c354f	122	MobiDBLite	mobidb-lite	consensus disorder prediction	97	122	-	T	31-10-2018
+Chlamys_farreri_CFA|CF33565.108	a912c16cf32990f0dabbc4b97e3c354f	122	Coils	Coil		31	51	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_034368-T1	4567688d58164dfb6293b1b423ffcaf6	119	MobiDBLite	mobidb-lite	consensus disorder prediction	97	119	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_47359-0.1	fc925dbc718064c10cffb1dc077fce6e	107	Coils	Coil		24	44	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T04673	1f351acd60c3caa85dcc4ee8a3bbb8b5	69	Coils	Coil		23	43	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T16601	8027be59882a36e7661a7a6e2a2bc868	129	Coils	Coil		43	63	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_31501-13.1	7a19c64a62b2d3ade2fa5208a1051a15	101	Coils	Coil		27	47	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_040663-T1	1b4671a99acd9971a3173670c420c6c1	105	Coils	Coil		25	45	-	T	31-10-2018
+Patinopecten_yessoensis_PYE|PY_T19037	f7e9f148322d5f4fabc969b7b9e779ac	86	Coils	Coil		23	43	-	T	31-10-2018

@@ -1,0 +1,213 @@
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	PANTHER	PTHR12419:SF11		112	358	5.1E-42	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	PANTHER	PTHR12419		112	358	5.1E-42	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	SUPERFAMILY	SSF54001		230	357	3.92E-13	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	MobiDBLite	mobidb-lite	consensus disorder prediction	361	405	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	MobiDBLite	mobidb-lite	consensus disorder prediction	53	76	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	ProSiteProfiles	PS50802	OTU domain profile.	227	361	13.446	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	Gene3D	G3DSA:3.90.70.80		208	364	2.6E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	Pfam	PF02338	OTU-like cysteine protease	233	334	5.1E-14	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	Coils	Coil		200	220	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39560.t1	5ca06ce8fb99239a6f64d9d728c2481c	536	MobiDBLite	mobidb-lite	consensus disorder prediction	149	173	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	Gene3D	G3DSA:3.90.70.80		580	649	5.7E-6	T	31-10-2018
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	SUPERFAMILY	SSF54160		429	533	8.61E-5	T	31-10-2018	IPR016197	Chromo-like domain superfamily		
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	Pfam	PF00665	Integrase core domain	187	296	3.9E-14	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	Coils	Coil		565	585	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	MobiDBLite	mobidb-lite	consensus disorder prediction	360	385	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	PANTHER	PTHR24559		145	560	1.8E-29	T	31-10-2018
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	172	345	22.77	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	MobiDBLite	mobidb-lite	consensus disorder prediction	507	542	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	Gene3D	G3DSA:3.30.420.10		172	372	3.6E-30	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g24450.t1	af55818fb036e631783abe7e62265621	672	SUPERFAMILY	SSF53098		186	347	1.67E-29	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	Gene3D	G3DSA:3.30.420.10		36	230	1.5E-50	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	Pfam	PF00665	Integrase core domain	46	152	5.1E-23	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	PANTHER	PTHR24559		3	354	1.1E-71	T	31-10-2018
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	SUPERFAMILY	SSF53098		46	200	1.39E-38	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	MobiDBLite	mobidb-lite	consensus disorder prediction	329	349	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	43	195	24.616	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g17787.t1	ec6c29fe4589c81d4dc2370c39a3da63	400	Gene3D	G3DSA:1.10.340.70		2	30	8.6E-6	T	31-10-2018
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	Gene3D	G3DSA:3.30.420.10		141	329	9.0E-35	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	MobiDBLite	mobidb-lite	consensus disorder prediction	614	849	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	ProSiteProfiles	PS50802	OTU domain profile.	474	588	8.762	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	PANTHER	PTHR24559		77	700	1.9E-37	T	31-10-2018
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	PANTHER	PTHR24559		724	841	1.9E-37	T	31-10-2018
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	SUPERFAMILY	SSF53098		151	307	1.19E-30	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	Pfam	PF00665	Integrase core domain	151	262	6.3E-22	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	SUPERFAMILY	SSF54001		478	605	2.94E-6	T	31-10-2018
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	140	309	24.856	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	Gene3D	G3DSA:3.90.70.80		463	607	1.6E-15	T	31-10-2018
+Notospermus_geniculatus_NGE|g31118.t1	185b558964b3224216fbbaf39114a3f1	982	Pfam	PF02338	OTU-like cysteine protease	481	577	5.7E-5	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	PANTHER	PTHR24559		1	475	1.8E-31	T	31-10-2018
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	MobiDBLite	mobidb-lite	consensus disorder prediction	344	526	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	160	21.856	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	Pfam	PF00665	Integrase core domain	2	113	1.4E-19	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	Coils	Coil		568	569	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	SUPERFAMILY	SSF53098		2	159	2.28E-28	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g31117.t1	ce62fd6417a664927591897f1dedae3f	569	Gene3D	G3DSA:3.30.420.10		1	184	1.4E-31	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	148	322	19.609	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	MobiDBLite	mobidb-lite	consensus disorder prediction	302	361	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	Pfam	PF00665	Integrase core domain	166	272	7.6E-16	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	PANTHER	PTHR24559		146	438	4.5E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	Gene3D	G3DSA:3.30.420.10		149	331	3.7E-27	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	SUPERFAMILY	SSF53098		160	307	2.78E-25	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g41669.t1	f170140cb27336499c79d2f60fc02b80	638	Gene3D	G3DSA:3.90.70.80		486	579	1.1E-10	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	Gene3D	G3DSA:2.30.30.140		403	512	1.1E-5	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	Gene3D	G3DSA:3.30.420.10		162	364	3.9E-33	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	PANTHER	PTHR12419:SF11		497	699	4.8E-36	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	Gene3D	G3DSA:3.90.70.80		544	706	4.6E-25	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	SUPERFAMILY	SSF54160		417	499	3.57E-6	T	31-10-2018	IPR016197	Chromo-like domain superfamily		
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	MobiDBLite	mobidb-lite	consensus disorder prediction	726	788	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	SUPERFAMILY	SSF54001		567	698	2.65E-12	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	ProSiteProfiles	PS50802	OTU domain profile.	568	702	15.213	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	161	334	24.327	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	Pfam	PF02338	OTU-like cysteine protease	575	673	2.2E-13	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	PANTHER	PTHR12419		497	699	4.8E-36	T	31-10-2018
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	Pfam	PF00665	Integrase core domain	172	285	1.3E-15	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g29704.t1	16ac07152c65a8ea939d2b0b8cf8a95b	929	SUPERFAMILY	SSF53098		173	338	2.91E-29	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	Pfam	PF02338	OTU-like cysteine protease	259	345	9.4E-10	T	31-10-2018	IPR003323	OTU domain		
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	Gene3D	G3DSA:3.30.420.10		1	148	8.0E-28	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	118	17.619	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	Gene3D	G3DSA:3.90.70.80		250	383	1.4E-20	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	ProSiteProfiles	PS50802	OTU domain profile.	253	384	11.381	T	31-10-2018	IPR003323	OTU domain		
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	SUPERFAMILY	SSF54001		254	381	3.14E-15	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	PANTHER	PTHR24559		5	212	3.7E-24	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	SUPERFAMILY	SSF53098		3	119	1.39E-23	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_5840-2.4	2025d22043a8795dd885b1a8de8a9d0b	396	Pfam	PF00665	Integrase core domain	7	73	9.9E-13	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	MobiDBLite	mobidb-lite	consensus disorder prediction	343	383	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	PANTHER	PTHR12419		69	322	1.6E-28	T	31-10-2018
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	Gene3D	G3DSA:3.90.70.80		101	253	3.5E-18	T	31-10-2018
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	MobiDBLite	mobidb-lite	consensus disorder prediction	67	88	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	SUPERFAMILY	SSF54001		117	246	2.65E-9	T	31-10-2018
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	ProSiteProfiles	PS50802	OTU domain profile.	114	231	10.678	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	Pfam	PF02338	OTU-like cysteine protease	120	227	1.7E-8	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g15796.t1	2699a35845b14b346d4a7367df59f009	499	MobiDBLite	mobidb-lite	consensus disorder prediction	291	329	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022286234.1	92bc11faca3682bffd5e75916fe9a4d1	351	SUPERFAMILY	SSF53098		140	298	3.92E-25	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Crassostrea_virginica_CVI|XP_022286234.1	92bc11faca3682bffd5e75916fe9a4d1	351	Pfam	PF00665	Integrase core domain	137	252	1.6E-11	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Crassostrea_virginica_CVI|XP_022286234.1	92bc11faca3682bffd5e75916fe9a4d1	351	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	130	297	17.667	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Crassostrea_virginica_CVI|XP_022286234.1	92bc11faca3682bffd5e75916fe9a4d1	351	Gene3D	G3DSA:3.30.420.10		129	322	1.0E-28	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Crassostrea_virginica_CVI|XP_022286234.1	92bc11faca3682bffd5e75916fe9a4d1	351	MobiDBLite	mobidb-lite	consensus disorder prediction	318	351	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022286234.1	92bc11faca3682bffd5e75916fe9a4d1	351	PANTHER	PTHR24559		161	296	5.9E-15	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020910814.1	40e31cb766e85f1b05a08f1e8722e4fc	278	SUPERFAMILY	SSF53098		84	244	4.43E-34	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Exaiptasia_pallida_EPA|XP_020910814.1	40e31cb766e85f1b05a08f1e8722e4fc	278	Pfam	PF00665	Integrase core domain	89	194	3.6E-21	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Exaiptasia_pallida_EPA|XP_020910814.1	40e31cb766e85f1b05a08f1e8722e4fc	278	PANTHER	PTHR24559		104	241	1.9E-29	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020910814.1	40e31cb766e85f1b05a08f1e8722e4fc	278	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	70	242	23.268	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Exaiptasia_pallida_EPA|XP_020910814.1	40e31cb766e85f1b05a08f1e8722e4fc	278	Gene3D	G3DSA:3.30.420.10		72	253	1.6E-36	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	SUPERFAMILY	SSF54001		282	430	3.14E-8	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	PANTHER	PTHR24559		13	286	2.6E-29	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	ProSiteProfiles	PS50297	Ankyrin repeat region circular profile.	580	674	14.53	T	31-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	SUPERFAMILY	SSF53098		12	152	1.9E-33	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	CDD	cd00204	ANK	585	674	1.73672E-12	T	31-10-2018	IPR020683	Ankyrin repeat-containing domain		
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	Gene3D	G3DSA:3.90.70.80		276	436	2.0E-16	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	SUPERFAMILY	SSF48403		583	675	6.22E-14	T	31-10-2018	IPR036770	Ankyrin repeat-containing domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	Gene3D	G3DSA:1.25.40.20		566	675	5.1E-15	T	31-10-2018	IPR036770	Ankyrin repeat-containing domain superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	Gene3D	G3DSA:3.30.420.10		7	184	2.0E-35	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	MobiDBLite	mobidb-lite	consensus disorder prediction	445	468	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	Pfam	PF02338	OTU-like cysteine protease	298	397	4.6E-8	T	31-10-2018	IPR003323	OTU domain		
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	SMART	SM00248		613	650	0.049	T	31-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	SMART	SM00248		580	609	270.0	T	31-10-2018	IPR002110	Ankyrin repeat	GO:0005515	
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	Pfam	PF00665	Integrase core domain	15	104	5.5E-17	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Modiolus_philippinarum_MPH|Mph_scaf_60651-0.3	1cee02d42559f43b960f6103acf7794e	720	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	151	24.166	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	ProSiteProfiles	PS50802	OTU domain profile.	543	678	14.958	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	PANTHER	PTHR12419		337	674	8.5E-35	T	31-10-2018
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	Gene3D	G3DSA:3.90.70.80		530	676	6.1E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	PANTHER	PTHR12419:SF11		337	674	8.5E-35	T	31-10-2018
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	Pfam	PF00665	Integrase core domain	167	272	1.1E-14	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	Gene3D	G3DSA:3.30.420.10		148	357	4.5E-33	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	SUPERFAMILY	SSF53098		163	326	5.18E-28	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	148	322	22.417	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	Pfam	PF02338	OTU-like cysteine protease	550	648	1.0E-10	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g38315.t1	a61aff8419c30a3c4553a6d4ad033746	861	SUPERFAMILY	SSF54001		529	672	4.12E-15	T	31-10-2018
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	SUPERFAMILY	SSF53098		2	34	3.19E-6	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	ProSiteProfiles	PS50802	OTU domain profile.	143	260	10.912	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	SUPERFAMILY	SSF54001		145	278	2.06E-9	T	31-10-2018
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	Gene3D	G3DSA:3.90.70.80		126	281	2.0E-18	T	31-10-2018
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	Gene3D	G3DSA:3.30.420.10		1	55	4.9E-8	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	PANTHER	PTHR12419		67	280	1.4E-27	T	31-10-2018
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	33	8.745	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g29352.t1	e46e3a0e581d8cbaca65ca72aa1249f9	321	Pfam	PF02338	OTU-like cysteine protease	149	256	6.2E-9	T	31-10-2018	IPR003323	OTU domain		
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	SUPERFAMILY	SSF53098		3	105	2.78E-22	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	MobiDBLite	mobidb-lite	consensus disorder prediction	380	439	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	105	17.828	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	Pfam	PF00665	Integrase core domain	8	58	5.5E-11	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	SUPERFAMILY	SSF54001		248	337	1.08E-9	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	PANTHER	PTHR24559		4	188	1.5E-21	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	Gene3D	G3DSA:3.30.420.10		1	140	3.5E-25	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	Pfam	PF02338	OTU-like cysteine protease	257	338	1.2E-5	T	31-10-2018	IPR003323	OTU domain		
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	Gene3D	G3DSA:3.90.70.80		246	370	3.0E-14	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_43515-1.11	446e1e2b68fea2fcad87e9ceaa9b5856	564	ProSiteProfiles	PS50802	OTU domain profile.	251	359	8.953	T	31-10-2018	IPR003323	OTU domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_026058-T1	4268635b8c11ce4e64cc24cad679f0d2	152	SUPERFAMILY	SSF53098		2	79	8.8E-11	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Lamellibrachia_luymsi_proteins_LLU|FUN_026058-T1	4268635b8c11ce4e64cc24cad679f0d2	152	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	79	11.907	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Lamellibrachia_luymsi_proteins_LLU|FUN_026058-T1	4268635b8c11ce4e64cc24cad679f0d2	152	Gene3D	G3DSA:3.30.420.10		1	104	1.7E-12	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Crassostrea_virginica_CVI|XP_022346043.1	6f5b84e9d91fea9ecdd62e489ec3a71d	351	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	129	296	17.86	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Crassostrea_virginica_CVI|XP_022346043.1	6f5b84e9d91fea9ecdd62e489ec3a71d	351	Pfam	PF00665	Integrase core domain	135	251	1.5E-11	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Crassostrea_virginica_CVI|XP_022346043.1	6f5b84e9d91fea9ecdd62e489ec3a71d	351	SUPERFAMILY	SSF53098		138	297	1.21E-25	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Crassostrea_virginica_CVI|XP_022346043.1	6f5b84e9d91fea9ecdd62e489ec3a71d	351	PANTHER	PTHR24559		160	296	4.6E-16	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022346043.1	6f5b84e9d91fea9ecdd62e489ec3a71d	351	Gene3D	G3DSA:3.30.420.10		127	323	3.1E-30	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Lamellibrachia_luymsi_proteins_LLU|FUN_038179-T1	9c3dbe383d4e41095341fc98f53b9bd4	132	PANTHER	PTHR12419		42	129	1.3E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038179-T1	9c3dbe383d4e41095341fc98f53b9bd4	132	Gene3D	G3DSA:3.90.70.80		37	132	2.6E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_038179-T1	9c3dbe383d4e41095341fc98f53b9bd4	132	SUPERFAMILY	SSF54001		51	129	2.06E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007094-T1	247b6b68d5902ae523250a889f2a97e3	187	PANTHER	PTHR12419		16	121	1.3E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_007094-T1	247b6b68d5902ae523250a889f2a97e3	187	Gene3D	G3DSA:3.90.70.80		2	131	2.2E-10	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	Gene3D	G3DSA:3.30.420.10		122	333	1.9E-33	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	Gene3D	G3DSA:3.90.70.80		442	591	6.5E-21	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	119	290	23.123	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	ProSiteProfiles	PS50802	OTU domain profile.	450	587	9.954	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	MobiDBLite	mobidb-lite	consensus disorder prediction	725	758	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	MobiDBLite	mobidb-lite	consensus disorder prediction	296	344	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	Pfam	PF02338	OTU-like cysteine protease	456	546	2.4E-7	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	Coils	Coil		320	340	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	Pfam	PF00665	Integrase core domain	137	243	2.3E-16	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	SUPERFAMILY	SSF53098		134	291	1.52E-29	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	SUPERFAMILY	SSF54001		451	584	2.26E-10	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	MobiDBLite	mobidb-lite	consensus disorder prediction	625	713	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g27542.t1	51850b39447ea360be81cfc83a524a71	873	PANTHER	PTHR24559		123	724	1.7E-30	T	31-10-2018
+Phoronis_australis_PAU|g16465.t1	0daa12afa7750586d66b14dbc6fff535	194	ProSiteProfiles	PS50802	OTU domain profile.	31	162	9.784	T	31-10-2018	IPR003323	OTU domain		
+Phoronis_australis_PAU|g16465.t1	0daa12afa7750586d66b14dbc6fff535	194	Gene3D	G3DSA:3.90.70.80		17	162	1.2E-15	T	31-10-2018
+Phoronis_australis_PAU|g16465.t1	0daa12afa7750586d66b14dbc6fff535	194	SUPERFAMILY	SSF54001		31	158	5.59E-11	T	31-10-2018
+Phoronis_australis_PAU|g16465.t1	0daa12afa7750586d66b14dbc6fff535	194	PANTHER	PTHR12419		40	173	1.1E-14	T	31-10-2018
+Phoronis_australis_PAU|g16465.t1	0daa12afa7750586d66b14dbc6fff535	194	Coils	Coil		166	186	-	T	31-10-2018
+Phoronis_australis_PAU|g16465.t1	0daa12afa7750586d66b14dbc6fff535	194	Pfam	PF02338	OTU-like cysteine protease	38	137	4.5E-5	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	SUPERFAMILY	SSF53098		2	80	1.41E-12	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	Gene3D	G3DSA:3.30.420.10		1	120	8.1E-15	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	ProSiteProfiles	PS50802	OTU domain profile.	250	367	10.124	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	Pfam	PF02338	OTU-like cysteine protease	256	359	2.1E-6	T	31-10-2018	IPR003323	OTU domain		
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	79	13.977	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	SUPERFAMILY	SSF54001		251	385	4.32E-10	T	31-10-2018
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	Gene3D	G3DSA:3.90.70.80		237	392	1.3E-19	T	31-10-2018
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	MobiDBLite	mobidb-lite	consensus disorder prediction	128	149	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g36089.t1	4f5cd77d598d5d626aa509f413c190c2	638	MobiDBLite	mobidb-lite	consensus disorder prediction	415	483	-	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020910813.1	b6fcd00aea814c55654e2640e8cf6038	312	SUPERFAMILY	SSF54001		123	244	6.87E-10	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020910813.1	b6fcd00aea814c55654e2640e8cf6038	312	PANTHER	PTHR12419		76	277	3.7E-27	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020910813.1	b6fcd00aea814c55654e2640e8cf6038	312	Pfam	PF02338	OTU-like cysteine protease	130	232	5.8E-9	T	31-10-2018	IPR003323	OTU domain		
+Exaiptasia_pallida_EPA|XP_020910813.1	b6fcd00aea814c55654e2640e8cf6038	312	ProSiteProfiles	PS50802	OTU domain profile.	124	240	11.04	T	31-10-2018	IPR003323	OTU domain		
+Exaiptasia_pallida_EPA|XP_020910813.1	b6fcd00aea814c55654e2640e8cf6038	312	Gene3D	G3DSA:3.90.70.80		104	263	1.5E-18	T	31-10-2018
+Notospermus_geniculatus_NGE|g35281.t1	484f521ff3f0b262d900b144e2dc3a44	861	PANTHER	PTHR24559		172	554	2.0E-25	T	31-10-2018
+Notospermus_geniculatus_NGE|g35281.t1	484f521ff3f0b262d900b144e2dc3a44	861	Gene3D	G3DSA:3.30.420.10		163	356	2.2E-29	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g35281.t1	484f521ff3f0b262d900b144e2dc3a44	861	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	163	337	20.716	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g35281.t1	484f521ff3f0b262d900b144e2dc3a44	861	Pfam	PF00665	Integrase core domain	171	284	6.7E-19	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g35281.t1	484f521ff3f0b262d900b144e2dc3a44	861	SUPERFAMILY	SSF53098		167	319	2.4E-30	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Exaiptasia_pallida_EPA|XP_020900623.1	d9f2f3e34662863182f0a5631f063d03	207	SUPERFAMILY	SSF53098		13	152	8.09E-30	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Exaiptasia_pallida_EPA|XP_020900623.1	d9f2f3e34662863182f0a5631f063d03	207	PANTHER	PTHR45461		13	154	2.3E-21	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020900623.1	d9f2f3e34662863182f0a5631f063d03	207	Gene3D	G3DSA:3.30.420.10		3	185	3.0E-31	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Exaiptasia_pallida_EPA|XP_020900623.1	d9f2f3e34662863182f0a5631f063d03	207	ProSiteProfiles	PS50994	Integrase catalytic domain profile.	1	152	20.411	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Exaiptasia_pallida_EPA|XP_020900623.1	d9f2f3e34662863182f0a5631f063d03	207	Pfam	PF00665	Integrase core domain	13	102	1.9E-15	T	31-10-2018	IPR001584	Integrase, catalytic core	GO:0015074	
+Notospermus_geniculatus_NGE|g29351.t1	fca5654d1ca320df820b5c6777aa1e02	135	MobiDBLite	mobidb-lite	consensus disorder prediction	1	70	-	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020897689.1	254150084014bb791b79d52be331106d	339	PANTHER	PTHR12419:SF11		209	337	6.8E-21	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020897689.1	254150084014bb791b79d52be331106d	339	PANTHER	PTHR12419		209	337	6.8E-21	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020897689.1	254150084014bb791b79d52be331106d	339	Gene3D	G3DSA:3.90.70.80		195	338	5.4E-17	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020897689.1	254150084014bb791b79d52be331106d	339	Pfam	PF02338	OTU-like cysteine protease	220	312	3.1E-10	T	31-10-2018	IPR003323	OTU domain		
+Exaiptasia_pallida_EPA|XP_020897689.1	254150084014bb791b79d52be331106d	339	SUPERFAMILY	SSF54001		210	337	5.39E-10	T	31-10-2018
+Exaiptasia_pallida_EPA|XP_020897689.1	254150084014bb791b79d52be331106d	339	ProSiteProfiles	PS50802	OTU domain profile.	213	339	8.826	T	31-10-2018	IPR003323	OTU domain		
+Lottia_gigantea_LGI|XP_009049924.1	9f2820dbe4e451e833d24e08a4d840d2	319	MobiDBLite	mobidb-lite	consensus disorder prediction	68	155	-	T	31-10-2018
+Chlamys_farreri_CFA|CF50247.1	777e1bc8e6b914f134dee0d8f69e4827	372	Gene3D	G3DSA:3.90.70.80		1	78	4.0E-6	T	31-10-2018
+Chlamys_farreri_CFA|CF50247.1	777e1bc8e6b914f134dee0d8f69e4827	372	MobiDBLite	mobidb-lite	consensus disorder prediction	86	195	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_2832-1.0	91614a1e0ee66fe99cd75b183bb2e646	433	Coils	Coil		139	159	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_2832-1.0	91614a1e0ee66fe99cd75b183bb2e646	433	MobiDBLite	mobidb-lite	consensus disorder prediction	215	235	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39660.t1	013c68756247f00c67253b3c93163267	277	SUPERFAMILY	SSF53098		2	59	4.55E-6	T	31-10-2018	IPR012337	Ribonuclease H-like superfamily		
+Notospermus_geniculatus_NGE|g39660.t1	013c68756247f00c67253b3c93163267	277	Coils	Coil		123	143	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g39660.t1	013c68756247f00c67253b3c93163267	277	Gene3D	G3DSA:3.30.420.10		1	88	8.9E-8	T	31-10-2018	IPR036397	Ribonuclease H superfamily	GO:0003676	
+Notospermus_geniculatus_NGE|g39660.t1	013c68756247f00c67253b3c93163267	277	MobiDBLite	mobidb-lite	consensus disorder prediction	69	119	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_032746-T1	ad52ec45d43b00864659bad282d0eeb8	227	MobiDBLite	mobidb-lite	consensus disorder prediction	160	198	-	T	31-10-2018
+Lottia_gigantea_LGI|XP_009059014.1	4969989ccda55b085bba0d6ad22c3110	266	MobiDBLite	mobidb-lite	consensus disorder prediction	234	255	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_026059-T1	31c866d5ce580f11ba0ef092a7fd9601	282	Gene3D	G3DSA:3.90.70.80		2	131	4.2E-10	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_026059-T1	31c866d5ce580f11ba0ef092a7fd9601	282	PANTHER	PTHR12419		15	142	1.0E-11	T	31-10-2018

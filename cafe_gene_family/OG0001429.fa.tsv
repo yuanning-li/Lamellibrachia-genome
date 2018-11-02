@@ -1,0 +1,351 @@
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	SUPERFAMILY	SSF48371		572	713	7.2E-8	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	SUPERFAMILY	SSF48371		1173	1220	7.2E-8	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	SUPERFAMILY	SSF48371		1474	1551	7.2E-8	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	PANTHER	PTHR16897:SF4		158	708	1.6E-96	T	31-10-2018
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	PANTHER	PTHR16897:SF4		1059	1496	1.6E-96	T	31-10-2018
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	MobiDBLite	mobidb-lite	consensus disorder prediction	1319	1338	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	PANTHER	PTHR16897		158	708	1.6E-96	T	31-10-2018
+Notospermus_geniculatus_NGE|g23935.t1	28e15e3b150efc2ebe2ce45492f5b2f8	1570	PANTHER	PTHR16897		1059	1496	1.6E-96	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	ProSiteProfiles	PS50010	Dbl homology (DH) domain profile.	2202	2354	25.845	T	31-10-2018	IPR000219	Dbl homology (DH) domain	GO:0005089|GO:0035023	
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1729	1763	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	PANTHER	PTHR12673:SF231		2013	2353	1.7E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	PANTHER	PTHR12673:SF231		209	305	1.7E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1482	1518	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	ProSiteProfiles	PS50800	SAP motif profile.	480	514	9.906	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	Pfam	PF00621	RhoGEF domain	2207	2354	1.3E-24	T	31-10-2018	IPR000219	Dbl homology (DH) domain	GO:0005089|GO:0035023	
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	Gene3D	G3DSA:1.20.900.10		2188	2354	5.0E-34	T	31-10-2018	IPR035899	Dbl homology (DH) domain superfamily		
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1077	1111	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	SUPERFAMILY	SSF48065		2198	2354	1.13E-31	T	31-10-2018	IPR035899	Dbl homology (DH) domain superfamily		
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	119	153	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1233	1277	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1920	2005	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	SMART	SM00513		480	514	3.0E-4	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	SMART	SM00513		242	276	0.0015	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	2022	2064	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1348	1406	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	2087	2137	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	CDD	cd00160	RhoGEF	2203	2354	5.09845E-24	T	31-10-2018	IPR000219	Dbl homology (DH) domain	GO:0005089|GO:0035023	
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	967	1009	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	PANTHER	PTHR12673		2013	2353	1.7E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	PANTHER	PTHR12673		209	305	1.7E-24	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	SMART	SM00325		2206	2354	8.8E-4	T	31-10-2018	IPR000219	Dbl homology (DH) domain	GO:0005089|GO:0035023	
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1536	1616	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g34993.t1	399c7f9889becb427a44847ba1162d8c	2354	MobiDBLite	mobidb-lite	consensus disorder prediction	1290	1316	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	PANTHER	PTHR16897		102	980	9.2E-68	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	Gene3D	G3DSA:1.25.10.20		88	389	5.7E-10	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	PANTHER	PTHR16897:SF4		102	980	9.2E-68	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	SUPERFAMILY	SSF48371		707	768	1.73E-5	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	SUPERFAMILY	SSF48371		502	655	1.73E-5	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	SUPERFAMILY	SSF48371		120	179	1.73E-5	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	SUPERFAMILY	SSF48371		260	381	1.73E-5	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	SUPERFAMILY	SSF51261		823	954	6.02E-10	T	31-10-2018	IPR011055	Duplicated hybrid motif		
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	SUPERFAMILY	SSF48431		113	375	1.31E-6	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	Pfam	PF01551	Peptidase family M23	853	950	2.0E-7	T	31-10-2018	IPR016047	Peptidase M23		
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	MobiDBLite	mobidb-lite	consensus disorder prediction	993	1015	-	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439617.1	8bdaf1d117e1aeeb5a6ca1ada4444444	1090	Gene3D	G3DSA:2.70.70.10		826	954	7.2E-15	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	ProSiteProfiles	PS50234	VWFA domain profile.	846	1020	28.304	T	31-10-2018	IPR002035	von Willebrand factor, type A		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	SMART	SM00513		83	117	3.9	T	31-10-2018	IPR003034	SAP domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	SMART	SM00513		537	571	0.17	T	31-10-2018	IPR003034	SAP domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	SUPERFAMILY	SSF53300		269	464	2.64E-39	T	31-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	CDD	cd01450	vWFA_subfamily_ECM	845	1007	1.54728E-33	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	SMART	SM00327		289	470	4.3E-28	T	31-10-2018	IPR002035	von Willebrand factor, type A		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	SMART	SM00327		844	1025	8.6E-34	T	31-10-2018	IPR002035	von Willebrand factor, type A		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	Pfam	PF00092	von Willebrand factor type A domain	846	1015	1.9E-34	T	31-10-2018	IPR002035	von Willebrand factor, type A		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	Pfam	PF00092	von Willebrand factor type A domain	291	453	2.8E-31	T	31-10-2018	IPR002035	von Willebrand factor, type A		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	Gene3D	G3DSA:3.40.50.410		278	477	5.6E-41	T	31-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	Gene3D	G3DSA:3.40.50.410		836	1029	7.6E-42	T	31-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	SUPERFAMILY	SSF53300		830	1020	1.24E-41	T	31-10-2018	IPR036465	von Willebrand factor A-like domain superfamily		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	ProSiteProfiles	PS50234	VWFA domain profile.	291	473	25.785	T	31-10-2018	IPR002035	von Willebrand factor, type A		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_48578-6.51	b404d1b6061cc22fd7bd24be249a6eeb	1044	CDD	cd01450	vWFA_subfamily_ECM	297	454	2.50813E-20	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022327831.1	f75b48d6984f4f8835e7eb0ca51051a1	849	Gene3D	G3DSA:1.25.10.20		285	587	2.3E-6	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022327831.1	f75b48d6984f4f8835e7eb0ca51051a1	849	PANTHER	PTHR16897		309	780	3.0E-40	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022327831.1	f75b48d6984f4f8835e7eb0ca51051a1	849	PANTHER	PTHR16897:SF4		309	780	3.0E-40	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022327831.1	f75b48d6984f4f8835e7eb0ca51051a1	849	SUPERFAMILY	SSF48431		301	572	3.66E-9	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022327831.1	f75b48d6984f4f8835e7eb0ca51051a1	849	SUPERFAMILY	SSF56968		27	185	8.24E-5	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_012317-T1	b6c10936238b3ed78ea191b5f017828e	336	PANTHER	PTHR16897:SF4		45	266	2.4E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012317-T1	b6c10936238b3ed78ea191b5f017828e	336	PANTHER	PTHR16897		45	266	2.4E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	Gene3D	G3DSA:2.70.70.10		853	975	4.5E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	Pfam	PF01347	Lipoprotein amino terminal region	205	476	1.7E-12	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	ProSiteProfiles	PS51211	Vitellogenin domain profile.	1	470	8.462	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	Gene3D	G3DSA:1.25.10.20		201	479	1.5E-15	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	SUPERFAMILY	SSF48431		236	476	1.57E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	PANTHER	PTHR16897		219	1702	1.4E-127	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016032-T1	ce52647cd06ef11261569ab934f55536	1844	PANTHER	PTHR16897:SF4		219	1702	1.4E-127	T	31-10-2018
+Notospermus_geniculatus_NGE|g34996.t1	c4f5b8b8da6c34c99a1e7d4c4ec5d1de	633	PANTHER	PTHR16897		44	564	4.0E-43	T	31-10-2018
+Notospermus_geniculatus_NGE|g34996.t1	c4f5b8b8da6c34c99a1e7d4c4ec5d1de	633	PANTHER	PTHR16897:SF4		44	564	4.0E-43	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	Gene3D	G3DSA:1.25.10.20		286	593	5.0E-10	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	SUPERFAMILY	SSF56968		27	176	1.53E-8	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	SUPERFAMILY	SSF51261		1036	1151	1.26E-6	T	31-10-2018	IPR011055	Duplicated hybrid motif		
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	ProSiteProfiles	PS51211	Vitellogenin domain profile.	28	695	8.049	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	Gene3D	G3DSA:2.70.70.10		1020	1152	4.3E-15	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	Pfam	PF01551	Peptidase family M23	1051	1148	8.5E-7	T	31-10-2018	IPR016047	Peptidase M23		
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	PANTHER	PTHR16897:SF4		302	1571	3.4E-77	T	31-10-2018
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	SMART	SM00513		1333	1367	1.1	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	SMART	SM00513		1575	1609	0.022	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	Gene3D	G3DSA:2.30.230.10		27	185	9.6E-8	T	31-10-2018	IPR015816	Vitellinogen, beta-sheet N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_011439436.1	ae0cd457e2f2709b4ca54f251b5628dd	2270	PANTHER	PTHR16897		302	1571	3.4E-77	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	PANTHER	PTHR16897:SF4		314	1309	8.3E-70	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	SUPERFAMILY	SSF56968		33	212	1.49E-9	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	Gene3D	G3DSA:2.30.230.10		32	236	9.3E-8	T	31-10-2018	IPR015816	Vitellinogen, beta-sheet N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	SUPERFAMILY	SSF48431		334	579	9.94E-15	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	Coils	Coil		1250	1270	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	ProSiteProfiles	PS50800	SAP motif profile.	1276	1310	8.808	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	PANTHER	PTHR16897		314	1309	8.3E-70	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	ProSiteProfiles	PS51211	Vitellogenin domain profile.	33	568	9.678	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	SMART	SM00638		33	609	5.9E-5	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	Gene3D	G3DSA:1.25.10.20		305	575	1.9E-12	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	Pfam	PF01347	Lipoprotein amino terminal region	33	206	6.2E-6	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T2	5baf8653e6e8c287b8b238d0fd45b5ac	1398	Pfam	PF01347	Lipoprotein amino terminal region	332	574	9.9E-10	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	MobiDBLite	mobidb-lite	consensus disorder prediction	324	344	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	PANTHER	PTHR16897		438	1128	2.9E-54	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	PANTHER	PTHR16897:SF4		438	1128	2.9E-54	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	MobiDBLite	mobidb-lite	consensus disorder prediction	1154	1178	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	SUPERFAMILY	SSF81995		251	282	5.23E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	SUPERFAMILY	SSF48431		409	696	1.16E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	ProSiteProfiles	PS51211	Vitellogenin domain profile.	33	641	8.792	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_022184-T1	885c4166f8e07048454b5014f60e098f	1287	Coils	Coil		250	286	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	SMART	SM00513		767	801	0.0015	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	SMART	SM00513		1005	1039	0.013	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	ProSiteProfiles	PS50800	SAP motif profile.	1005	1039	9.587	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	MobiDBLite	mobidb-lite	consensus disorder prediction	644	678	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	PANTHER	PTHR16897		1841	1928	1.9E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	PANTHER	PTHR16897		119	232	1.9E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	PANTHER	PTHR16897		239	1151	1.9E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	PANTHER	PTHR16897:SF4		1841	1928	1.9E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	PANTHER	PTHR16897:SF4		119	232	1.9E-26	T	31-10-2018
+Notospermus_geniculatus_NGE|g37658.t1	55ca485fec2840e8708b496bfc1a812d	2045	PANTHER	PTHR16897:SF4		239	1151	1.9E-26	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	Gene3D	G3DSA:1.25.10.20		189	467	2.4E-12	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	Pfam	PF01347	Lipoprotein amino terminal region	220	459	1.4E-10	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	SUPERFAMILY	SSF48431		219	476	2.62E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	SUPERFAMILY	SSF48371		326	739	1.27E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	Gene3D	G3DSA:2.70.70.10		916	983	7.4E-8	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	SUPERFAMILY	SSF51261		932	980	1.46E-5	T	31-10-2018	IPR011055	Duplicated hybrid motif		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	PANTHER	PTHR16897:SF4		199	1155	7.0E-72	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	SMART	SM00513		1120	1154	0.0048	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	PANTHER	PTHR16897		199	1155	7.0E-72	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_003424-T1	4094084e67f35b0ce7eb550ff8081362	1281	ProSiteProfiles	PS50800	SAP motif profile.	1120	1154	9.367	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_012316-T1	7e8339b32312024001687ebc09b739c8	347	Pfam	PF01347	Lipoprotein amino terminal region	51	316	9.2E-13	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_012316-T1	7e8339b32312024001687ebc09b739c8	347	PANTHER	PTHR16897:SF4		58	293	2.5E-37	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_012316-T1	7e8339b32312024001687ebc09b739c8	347	SUPERFAMILY	SSF48431		77	316	1.57E-15	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_012316-T1	7e8339b32312024001687ebc09b739c8	347	Gene3D	G3DSA:1.25.10.20		45	321	7.8E-16	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_012316-T1	7e8339b32312024001687ebc09b739c8	347	PANTHER	PTHR16897		58	293	2.5E-37	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008173-T1	3ad37342e9dad555816207b81436ca05	1133	Gene3D	G3DSA:1.25.10.10		12	101	1.3E-5	T	31-10-2018	IPR011989	Armadillo-like helical		
+Lamellibrachia_luymsi_proteins_LLU|FUN_008173-T1	3ad37342e9dad555816207b81436ca05	1133	SUPERFAMILY	SSF52058		142	283	8.5E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008173-T1	3ad37342e9dad555816207b81436ca05	1133	PANTHER	PTHR16897:SF4		1	1126	5.7E-41	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008173-T1	3ad37342e9dad555816207b81436ca05	1133	PANTHER	PTHR16897		1	1126	5.7E-41	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_008173-T1	3ad37342e9dad555816207b81436ca05	1133	SUPERFAMILY	SSF48431		9	89	1.05E-7	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_009179-T1	1062a896ef770ecf2535c78d107a2ba5	1797	MobiDBLite	mobidb-lite	consensus disorder prediction	970	994	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009179-T1	1062a896ef770ecf2535c78d107a2ba5	1797	ProSiteProfiles	PS50800	SAP motif profile.	547	581	9.327	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_009179-T1	1062a896ef770ecf2535c78d107a2ba5	1797	PANTHER	PTHR16897:SF4		1624	1692	4.0E-121	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009179-T1	1062a896ef770ecf2535c78d107a2ba5	1797	PANTHER	PTHR16897		54	1614	4.0E-121	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009179-T1	1062a896ef770ecf2535c78d107a2ba5	1797	PANTHER	PTHR16897		1624	1692	4.0E-121	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009179-T1	1062a896ef770ecf2535c78d107a2ba5	1797	PANTHER	PTHR16897:SF4		54	1614	4.0E-121	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	SUPERFAMILY	SSF48371		341	530	4.26E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	SUPERFAMILY	SSF48371		94	288	4.26E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	SUPERFAMILY	SSF48371		561	735	4.26E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	SUPERFAMILY	SSF48431		172	422	2.22E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	Gene3D	G3DSA:1.25.10.20		167	422	9.0E-11	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	Pfam	PF01347	Lipoprotein amino terminal region	164	417	1.0E-7	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	PANTHER	PTHR16897		112	195	6.0E-48	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	PANTHER	PTHR16897		197	836	6.0E-48	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	PANTHER	PTHR16897:SF4		112	195	6.0E-48	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_015540-T1	29cc5691e58efe321cb0f00851d9ee79	850	PANTHER	PTHR16897:SF4		197	836	6.0E-48	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	Gene3D	G3DSA:2.30.230.10		27	186	5.2E-7	T	31-10-2018	IPR015816	Vitellinogen, beta-sheet N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	SMART	SM00513		1574	1608	0.43	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	SMART	SM00513		1333	1367	0.015	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	PANTHER	PTHR16897		3830	4049	9.5E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	PANTHER	PTHR16897		323	1524	9.5E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	PANTHER	PTHR16897		4604	4724	9.5E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	Coils	Coil		949	969	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	ProSiteProfiles	PS51211	Vitellogenin domain profile.	28	979	7.634	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	SUPERFAMILY	SSF51261		1031	1154	3.56E-7	T	31-10-2018	IPR011055	Duplicated hybrid motif		
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	Gene3D	G3DSA:2.70.70.10		1022	1154	5.0E-14	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	Pfam	PF01551	Peptidase family M23	1053	1150	5.7E-7	T	31-10-2018	IPR016047	Peptidase M23		
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	SUPERFAMILY	SSF56968		27	178	7.45E-8	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	PANTHER	PTHR16897:SF4		3830	4049	9.5E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	PANTHER	PTHR16897:SF4		323	1524	9.5E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	PANTHER	PTHR16897:SF4		4604	4724	9.5E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022298487.1	e73341cc8fdfe05de7a085b1351af2ee	4766	MobiDBLite	mobidb-lite	consensus disorder prediction	1191	1226	-	T	31-10-2018
+Macrostomum_lignano_MLI|PAA57282.1	eb54aa9ee949aa4b9de27c71b6f2ca8f	2110	PANTHER	PTHR16897		300	1842	6.9E-55	T	31-10-2018
+Macrostomum_lignano_MLI|PAA57282.1	eb54aa9ee949aa4b9de27c71b6f2ca8f	2110	Gene3D	G3DSA:1.25.10.20		290	568	2.0E-7	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA57282.1	eb54aa9ee949aa4b9de27c71b6f2ca8f	2110	PANTHER	PTHR16897:SF4		300	1842	6.9E-55	T	31-10-2018
+Macrostomum_lignano_MLI|PAA57282.1	eb54aa9ee949aa4b9de27c71b6f2ca8f	2110	Pfam	PF01347	Lipoprotein amino terminal region	290	538	8.3E-7	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA57282.1	eb54aa9ee949aa4b9de27c71b6f2ca8f	2110	SUPERFAMILY	SSF48431		303	470	9.94E-6	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA57282.1	eb54aa9ee949aa4b9de27c71b6f2ca8f	2110	MobiDBLite	mobidb-lite	consensus disorder prediction	1197	1216	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	PANTHER	PTHR16897		41	124	1.7E-62	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	PANTHER	PTHR16897		146	911	1.7E-62	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	Gene3D	G3DSA:2.70.70.10		613	735	1.9E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	Pfam	PF01347	Lipoprotein amino terminal region	140	254	1.2E-5	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	PANTHER	PTHR16897:SF4		41	124	1.7E-62	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	PANTHER	PTHR16897:SF4		146	911	1.7E-62	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	SUPERFAMILY	SSF48371		217	269	1.96E-7	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	SUPERFAMILY	SSF48371		311	474	1.96E-7	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Lamellibrachia_luymsi_proteins_LLU|FUN_018555-T1	9b5f3f0a558be6b3faa41fafb5b7c197	1106	Gene3D	G3DSA:1.25.10.20		108	270	1.2E-5	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	PANTHER	PTHR16897:SF4		306	1705	1.4E-67	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	MobiDBLite	mobidb-lite	consensus disorder prediction	1258	1291	-	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	PANTHER	PTHR16897		306	1705	1.4E-67	T	31-10-2018
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	SUPERFAMILY	SSF48371		707	850	1.73E-5	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	SUPERFAMILY	SSF48371		519	576	1.73E-5	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	SMART	SM00513		1357	1391	0.023	T	31-10-2018	IPR003034	SAP domain		
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	SMART	SM00513		1599	1629	2.2	T	31-10-2018	IPR003034	SAP domain		
+Mizuhopecten_yessoensis_MYE|XP_021353372.1	7e222ad91237a0429a7d406ddb3d611d	3546	Gene3D	G3DSA:2.70.70.10		1025	1153	2.9E-5	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38705-0.22	39407bd9026504b4e2027b25ad14705f	700	PANTHER	PTHR16897		221	627	2.3E-23	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38705-0.22	39407bd9026504b4e2027b25ad14705f	700	PANTHER	PTHR16897:SF4		221	627	2.3E-23	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_38705-0.22	39407bd9026504b4e2027b25ad14705f	700	SUPERFAMILY	SSF48431		188	326	1.11E-5	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	MobiDBLite	mobidb-lite	consensus disorder prediction	4793	4812	-	T	31-10-2018
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	SMART	SM00513		1354	1388	0.12	T	31-10-2018	IPR003034	SAP domain		
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	SMART	SM00513		1593	1627	15.0	T	31-10-2018	IPR003034	SAP domain		
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	PANTHER	PTHR16897:SF4		3223	4918	1.1E-105	T	31-10-2018
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	ProSiteProfiles	PS50800	SAP motif profile.	1354	1388	8.648	T	31-10-2018	IPR003034	SAP domain		
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	Gene3D	G3DSA:2.70.70.10		1021	1150	2.7E-6	T	31-10-2018
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	MobiDBLite	mobidb-lite	consensus disorder prediction	1261	1280	-	T	31-10-2018
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	PANTHER	PTHR16897:SF4		304	1702	1.1E-105	T	31-10-2018
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	PANTHER	PTHR16897		3223	4918	1.1E-105	T	31-10-2018
+Chlamys_farreri_CFA|CF41309.27	9b3287cc4e4f516dd293a9b21ae475e9	5118	PANTHER	PTHR16897		304	1702	1.1E-105	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		1142	1165	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		1217	1278	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		441	455	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		507	580	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		953	989	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		755	860	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF48371		322	378	2.49E-6	T	31-10-2018	IPR016024	Armadillo-type fold	GO:0005488	
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	PANTHER	PTHR16897:SF4		321	1650	1.2E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	PANTHER	PTHR16897:SF4		3294	3294	1.2E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	Pfam	PF01551	Peptidase family M23	1052	1148	3.8E-6	T	31-10-2018	IPR016047	Peptidase M23		
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	MobiDBLite	mobidb-lite	consensus disorder prediction	1189	1226	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF51261		1036	1153	5.13E-6	T	31-10-2018	IPR011055	Duplicated hybrid motif		
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	PANTHER	PTHR16897		321	1650	1.2E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	PANTHER	PTHR16897		3294	3294	1.2E-71	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	Gene3D	G3DSA:2.30.230.10		27	184	3.6E-7	T	31-10-2018	IPR015816	Vitellinogen, beta-sheet N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	Gene3D	G3DSA:2.70.70.10		1019	1153	1.2E-12	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SUPERFAMILY	SSF56968		27	177	4.71E-8	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SMART	SM00513		1332	1366	0.79	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	SMART	SM00513		1553	1587	0.32	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	Coils	Coil		948	968	-	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022295070.1	9d239057063d8287eea8cbe7fe2d44df	3832	ProSiteProfiles	PS51211	Vitellogenin domain profile.	28	528	7.608	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_035660-T1	feaaec556b6b3b0bb24f22b177e363e3	445	Pfam	PF01347	Lipoprotein amino terminal region	134	410	9.1E-12	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_035660-T1	feaaec556b6b3b0bb24f22b177e363e3	445	PANTHER	PTHR16897		153	387	1.1E-36	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035660-T1	feaaec556b6b3b0bb24f22b177e363e3	445	SUPERFAMILY	SSF48431		171	410	1.16E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_035660-T1	feaaec556b6b3b0bb24f22b177e363e3	445	Gene3D	G3DSA:1.25.10.20		132	414	1.4E-14	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_035660-T1	feaaec556b6b3b0bb24f22b177e363e3	445	PANTHER	PTHR16897:SF4		153	387	1.1E-36	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019921473.1	1d358079566799cadadae393f494cbe2	748	PANTHER	PTHR16897:SF4		15	96	9.4E-54	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019921473.1	1d358079566799cadadae393f494cbe2	748	PANTHER	PTHR16897:SF4		108	747	9.4E-54	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019921473.1	1d358079566799cadadae393f494cbe2	748	Gene3D	G3DSA:1.25.10.20		55	332	2.2E-5	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_gigas_CGI|XP_019921473.1	1d358079566799cadadae393f494cbe2	748	PANTHER	PTHR16897		15	96	9.4E-54	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019921473.1	1d358079566799cadadae393f494cbe2	748	PANTHER	PTHR16897		108	747	9.4E-54	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	MobiDBLite	mobidb-lite	consensus disorder prediction	121	152	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	Gene3D	G3DSA:1.25.10.20		190	451	1.1E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	SUPERFAMILY	SSF48431		227	446	7.98E-13	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	PANTHER	PTHR16897		209	1247	4.2E-66	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	Pfam	PF01347	Lipoprotein amino terminal region	176	440	2.7E-11	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	ProSiteProfiles	PS51211	Vitellogenin domain profile.	1	440	7.606	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_011470-T1	acdc0f5df9b5e5c95f8e8c118778703d	1254	PANTHER	PTHR16897:SF4		209	1247	4.2E-66	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019928563.1	92a17b9ea39e8c04d8199ad0eec55f78	651	SMART	SM00513		179	213	0.95	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_gigas_CGI|XP_019928563.1	92a17b9ea39e8c04d8199ad0eec55f78	651	SMART	SM00513		420	454	1.9	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	SUPERFAMILY	SSF48431		334	579	1.57E-14	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	PANTHER	PTHR16897:SF4		314	1836	2.7E-121	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	Gene3D	G3DSA:1.25.10.20		305	575	2.9E-12	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	SUPERFAMILY	SSF56968		33	212	2.2E-9	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	ProSiteProfiles	PS50800	SAP motif profile.	1276	1310	8.808	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	Coils	Coil		1250	1270	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	ProSiteProfiles	PS51211	Vitellogenin domain profile.	33	568	9.678	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	SMART	SM00638		33	609	5.9E-5	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	Gene3D	G3DSA:2.30.230.10		32	235	1.4E-7	T	31-10-2018	IPR015816	Vitellinogen, beta-sheet N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	Pfam	PF01347	Lipoprotein amino terminal region	332	573	1.6E-9	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	Pfam	PF01347	Lipoprotein amino terminal region	33	206	9.2E-6	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_028287-T1	73743636d062cba47b6f2e71dd83d375	1850	PANTHER	PTHR16897		314	1836	2.7E-121	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033425-T1	c353291d3ded921722d47c05f74a948b	111	PANTHER	PTHR24115:SF398		5	70	6.3E-12	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_033425-T1	c353291d3ded921722d47c05f74a948b	111	PANTHER	PTHR24115		5	70	6.3E-12	T	31-10-2018	IPR027640	Kinesin-like protein	GO:0003777|GO:0007018	Reactome: R-HSA-6811434|Reactome: R-HSA-983189
+Lamellibrachia_luymsi_proteins_LLU|FUN_033425-T1	c353291d3ded921722d47c05f74a948b	111	Coils	Coil		31	51	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035661-T1	15ab6f3a7eac69107305a23783421362	788	PANTHER	PTHR16897:SF4		53	708	7.2E-29	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035661-T1	15ab6f3a7eac69107305a23783421362	788	ProSiteProfiles	PS50800	SAP motif profile.	677	711	9.407	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035661-T1	15ab6f3a7eac69107305a23783421362	788	PANTHER	PTHR16897		53	708	7.2E-29	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_035661-T1	15ab6f3a7eac69107305a23783421362	788	SMART	SM00513		677	711	0.0075	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_035661-T1	15ab6f3a7eac69107305a23783421362	788	Gene3D	G3DSA:2.70.70.10		414	538	2.9E-6	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022335846.1	5bd260c7786d3d8b9b466444823536f1	545	PANTHER	PTHR16897:SF4		318	541	6.1E-37	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022335846.1	5bd260c7786d3d8b9b466444823536f1	545	PANTHER	PTHR16897		318	541	6.1E-37	T	31-10-2018
+Crassostrea_virginica_CVI|XP_022335846.1	5bd260c7786d3d8b9b466444823536f1	545	Gene3D	G3DSA:1.25.10.20		301	545	2.4E-12	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022335846.1	5bd260c7786d3d8b9b466444823536f1	545	SUPERFAMILY	SSF48431		320	471	9.94E-8	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Crassostrea_virginica_CVI|XP_022335846.1	5bd260c7786d3d8b9b466444823536f1	545	SUPERFAMILY	SSF48431		502	540	9.94E-8	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Modiolus_philippinarum_MPH|Mph_scaf_9719-4.9	8a4a2465e7fb0e86781cbc9b3643bd36	2038	PANTHER	PTHR16897:SF4		301	1403	2.8E-62	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9719-4.9	8a4a2465e7fb0e86781cbc9b3643bd36	2038	MobiDBLite	mobidb-lite	consensus disorder prediction	1190	1246	-	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9719-4.9	8a4a2465e7fb0e86781cbc9b3643bd36	2038	Gene3D	G3DSA:2.70.70.10		1020	1152	1.8E-6	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_9719-4.9	8a4a2465e7fb0e86781cbc9b3643bd36	2038	Gene3D	G3DSA:2.30.230.10		26	183	4.4E-6	T	31-10-2018	IPR015816	Vitellinogen, beta-sheet N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Modiolus_philippinarum_MPH|Mph_scaf_9719-4.9	8a4a2465e7fb0e86781cbc9b3643bd36	2038	PANTHER	PTHR16897		301	1403	2.8E-62	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022359-T1	6f6997f38f65c647b0cdc0c6d713da2a	387	SUPERFAMILY	SSF48431		78	316	5.49E-18	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_022359-T1	6f6997f38f65c647b0cdc0c6d713da2a	387	PANTHER	PTHR16897:SF4		59	306	5.3E-35	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022359-T1	6f6997f38f65c647b0cdc0c6d713da2a	387	PANTHER	PTHR16897		59	306	5.3E-35	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_022359-T1	6f6997f38f65c647b0cdc0c6d713da2a	387	Gene3D	G3DSA:1.25.10.20		56	322	1.4E-15	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_022359-T1	6f6997f38f65c647b0cdc0c6d713da2a	387	Pfam	PF01347	Lipoprotein amino terminal region	78	317	7.2E-14	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_019057-T1	dae71d7665735381e00d1c97d80cabc5	175	MobiDBLite	mobidb-lite	consensus disorder prediction	125	148	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009178-T1	cbdde7467256ebdf9714c89a13f6f829	266	Pfam	PF01347	Lipoprotein amino terminal region	5	214	1.6E-6	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_009178-T1	cbdde7467256ebdf9714c89a13f6f829	266	PANTHER	PTHR16897:SF4		22	227	3.7E-29	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009178-T1	cbdde7467256ebdf9714c89a13f6f829	266	SUPERFAMILY	SSF48431		6	215	1.96E-12	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_009178-T1	cbdde7467256ebdf9714c89a13f6f829	266	PANTHER	PTHR16897		22	227	3.7E-29	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009178-T1	cbdde7467256ebdf9714c89a13f6f829	266	Gene3D	G3DSA:1.25.10.20		1	220	1.3E-10	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_010204-T1	f70d3c6734933fa4074d1a5f0079057a	412	SUPERFAMILY	SSF56968		32	193	1.22E-8	T	31-10-2018	IPR015819	Lipid transport protein, beta-sheet shell	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_010204-T1	f70d3c6734933fa4074d1a5f0079057a	412	Gene3D	G3DSA:1.25.10.20		165	411	5.2E-12	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_010204-T1	f70d3c6734933fa4074d1a5f0079057a	412	SUPERFAMILY	SSF48431		194	406	4.32E-10	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_010204-T1	f70d3c6734933fa4074d1a5f0079057a	412	PANTHER	PTHR16897		194	404	6.5E-33	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010204-T1	f70d3c6734933fa4074d1a5f0079057a	412	PANTHER	PTHR16897:SF4		194	404	6.5E-33	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_010204-T1	f70d3c6734933fa4074d1a5f0079057a	412	Pfam	PF01347	Lipoprotein amino terminal region	194	405	3.4E-8	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	MobiDBLite	mobidb-lite	consensus disorder prediction	337	393	-	T	31-10-2018
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	Gene3D	G3DSA:2.70.70.10		160	300	1.2E-11	T	31-10-2018
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	PANTHER	PTHR16897		37	485	2.4E-14	T	31-10-2018
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	PANTHER	PTHR16897:SF4		37	485	2.4E-14	T	31-10-2018
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	Pfam	PF01551	Peptidase family M23	190	287	6.2E-6	T	31-10-2018	IPR016047	Peptidase M23		
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	Pfam	PF02037	SAP domain	458	490	2.5E-7	T	31-10-2018	IPR003034	SAP domain		
+Notospermus_geniculatus_NGE|g23934.t1	9cb79cd88561b02e8e3704cc82b876fe	493	SMART	SM00513		456	490	7.1E-6	T	31-10-2018	IPR003034	SAP domain		
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8488-0.5	6e8b22c8824b54797b0bc28a928b6e7e	545	PANTHER	PTHR16897		18	450	1.1E-32	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8488-0.5	6e8b22c8824b54797b0bc28a928b6e7e	545	PANTHER	PTHR16897:SF4		18	450	1.1E-32	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018918-T1	ebc3d76d8cafad33b02c5031ba215093	315	PANTHER	PTHR16897:SF4		159	279	5.9E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018918-T1	ebc3d76d8cafad33b02c5031ba215093	315	PANTHER	PTHR16897		159	279	5.9E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018918-T1	ebc3d76d8cafad33b02c5031ba215093	315	PANTHER	PTHR16897		12	140	5.9E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_018918-T1	ebc3d76d8cafad33b02c5031ba215093	315	PANTHER	PTHR16897:SF4		12	140	5.9E-14	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009752-T1	ab2248fdf4b1d974356f8c7c645eceab	688	PANTHER	PTHR33332		2	57	1.4E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009752-T1	ab2248fdf4b1d974356f8c7c645eceab	688	MobiDBLite	mobidb-lite	consensus disorder prediction	410	436	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009752-T1	ab2248fdf4b1d974356f8c7c645eceab	688	ProSiteProfiles	PS50800	SAP motif profile.	230	264	9.367	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_009752-T1	ab2248fdf4b1d974356f8c7c645eceab	688	PANTHER	PTHR33332:SF4		2	57	1.4E-15	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009752-T1	ab2248fdf4b1d974356f8c7c645eceab	688	SMART	SM00513		230	264	0.0048	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_009749-T1	898c224243ef884e6330e01bfb145ee2	419	PANTHER	PTHR16897:SF4		2	339	1.8E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009749-T1	898c224243ef884e6330e01bfb145ee2	419	PANTHER	PTHR16897		2	339	1.8E-19	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_009749-T1	898c224243ef884e6330e01bfb145ee2	419	SUPERFAMILY	SSF58104		62	291	5.23E-5	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016650-T1	b245a45cfb89c257e6edf67544127049	374	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016650-T1	b245a45cfb89c257e6edf67544127049	374	SUPERFAMILY	SSF51261		112	154	2.62E-5	T	31-10-2018	IPR011055	Duplicated hybrid motif		
+Lamellibrachia_luymsi_proteins_LLU|FUN_016650-T1	b245a45cfb89c257e6edf67544127049	374	Gene3D	G3DSA:2.70.70.10		14	155	1.8E-7	T	31-10-2018
+Crassostrea_gigas_CGI|XP_019922642.1	b1ecaafa2faaccfc391834be3d9334b1	650	SMART	SM00513		78	112	0.46	T	31-10-2018	IPR003034	SAP domain		
+Crassostrea_gigas_CGI|XP_019922642.1	b1ecaafa2faaccfc391834be3d9334b1	650	SMART	SM00513		320	354	0.022	T	31-10-2018	IPR003034	SAP domain		
+Lamellibrachia_luymsi_proteins_LLU|FUN_000487-T1	1e778f8e97f2f548b23d241752ad0003	958	PANTHER	PTHR16897:SF4		213	922	6.0E-55	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000487-T1	1e778f8e97f2f548b23d241752ad0003	958	Gene3D	G3DSA:1.25.10.20		187	473	2.6E-15	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_000487-T1	1e778f8e97f2f548b23d241752ad0003	958	PANTHER	PTHR16897		213	922	6.0E-55	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_000487-T1	1e778f8e97f2f548b23d241752ad0003	958	SUPERFAMILY	SSF48431		215	499	2.62E-17	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_000487-T1	1e778f8e97f2f548b23d241752ad0003	958	Pfam	PF01347	Lipoprotein amino terminal region	215	454	1.1E-7	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_020491-T1	acff1df4a2e35b46c7d9a6b0b7180996	100	SUPERFAMILY	SSF48431		3	82	3.53E-5	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA48384.1	6a8b15f60b7f00bd6b474dc5a3b8ab5d	3883	PANTHER	PTHR16897:SF4		300	1954	2.4E-55	T	31-10-2018
+Macrostomum_lignano_MLI|PAA48384.1	6a8b15f60b7f00bd6b474dc5a3b8ab5d	3883	PANTHER	PTHR16897:SF4		3674	3709	2.4E-55	T	31-10-2018
+Macrostomum_lignano_MLI|PAA48384.1	6a8b15f60b7f00bd6b474dc5a3b8ab5d	3883	SUPERFAMILY	SSF48431		304	471	1.7E-5	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA48384.1	6a8b15f60b7f00bd6b474dc5a3b8ab5d	3883	Pfam	PF01347	Lipoprotein amino terminal region	290	538	2.3E-6	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA48384.1	6a8b15f60b7f00bd6b474dc5a3b8ab5d	3883	PANTHER	PTHR16897		3674	3709	2.4E-55	T	31-10-2018
+Macrostomum_lignano_MLI|PAA48384.1	6a8b15f60b7f00bd6b474dc5a3b8ab5d	3883	PANTHER	PTHR16897		300	1954	2.4E-55	T	31-10-2018
+Macrostomum_lignano_MLI|PAA51898.1	a47e30c5f7fb60a5120481ff10d91903	1574	Pfam	PF01347	Lipoprotein amino terminal region	290	538	6.7E-7	T	31-10-2018	IPR001747	Lipid transport protein, N-terminal	GO:0005319|GO:0006869	Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA51898.1	a47e30c5f7fb60a5120481ff10d91903	1574	SUPERFAMILY	SSF48431		303	471	4.84E-6	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Macrostomum_lignano_MLI|PAA51898.1	a47e30c5f7fb60a5120481ff10d91903	1574	PANTHER	PTHR16897		300	1415	3.1E-53	T	31-10-2018
+Macrostomum_lignano_MLI|PAA51898.1	a47e30c5f7fb60a5120481ff10d91903	1574	PANTHER	PTHR16897:SF4		300	1415	3.1E-53	T	31-10-2018
+Macrostomum_lignano_MLI|PAA51898.1	a47e30c5f7fb60a5120481ff10d91903	1574	Gene3D	G3DSA:1.25.10.20		290	569	1.1E-7	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_019058-T1	81c8029099bd129d313ca3faf8d6655d	237	SUPERFAMILY	SSF48431		2	148	1.44E-6	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_016649-T1	5269aa371b0462bb93ca3ff2ba1e66ed	686	PANTHER	PTHR16897		237	580	2.3E-32	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016649-T1	5269aa371b0462bb93ca3ff2ba1e66ed	686	Coils	Coil		561	581	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016649-T1	5269aa371b0462bb93ca3ff2ba1e66ed	686	PANTHER	PTHR16897:SF4		237	580	2.3E-32	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_016649-T1	5269aa371b0462bb93ca3ff2ba1e66ed	686	MobiDBLite	mobidb-lite	consensus disorder prediction	11	84	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004940-T1	d750ff24313013bce437aa40a9f694c6	1233	PANTHER	PTHR16897		764	1146	2.0E-40	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004940-T1	d750ff24313013bce437aa40a9f694c6	1233	PANTHER	PTHR16897		1	263	2.0E-40	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004940-T1	d750ff24313013bce437aa40a9f694c6	1233	SUPERFAMILY	SSF48431		11	98	6.54E-7	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Lamellibrachia_luymsi_proteins_LLU|FUN_004940-T1	d750ff24313013bce437aa40a9f694c6	1233	MobiDBLite	mobidb-lite	consensus disorder prediction	470	496	-	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004940-T1	d750ff24313013bce437aa40a9f694c6	1233	PANTHER	PTHR16897:SF4		764	1146	2.0E-40	T	31-10-2018
+Lamellibrachia_luymsi_proteins_LLU|FUN_004940-T1	d750ff24313013bce437aa40a9f694c6	1233	PANTHER	PTHR16897:SF4		1	263	2.0E-40	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42252-0.6	0324e107229a2e53dc0ec214a1ed4b1e	232	PANTHER	PTHR16897:SF4		6	232	5.3E-31	T	31-10-2018
+Modiolus_philippinarum_MPH|Mph_scaf_42252-0.6	0324e107229a2e53dc0ec214a1ed4b1e	232	Gene3D	G3DSA:1.25.10.20		1	159	3.6E-6	T	31-10-2018	IPR011030	Lipovitellin-phosvitin complex, superhelical domain		Reactome: R-HSA-8866423|Reactome: R-HSA-8963888
+Modiolus_philippinarum_MPH|Mph_scaf_42252-0.6	0324e107229a2e53dc0ec214a1ed4b1e	232	PANTHER	PTHR16897		6	232	5.3E-31	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8342-3.4	75601f6d9dab1f3cc8e2dec0a9f4ed91	388	PANTHER	PTHR16897:SF4		1	281	1.2E-28	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8342-3.4	75601f6d9dab1f3cc8e2dec0a9f4ed91	388	Coils	Coil		62	82	-	T	31-10-2018
+Bathymodiolus_platifrons_BPL|Bpl_scaf_8342-3.4	75601f6d9dab1f3cc8e2dec0a9f4ed91	388	PANTHER	PTHR16897		1	281	1.2E-28	T	31-10-2018
