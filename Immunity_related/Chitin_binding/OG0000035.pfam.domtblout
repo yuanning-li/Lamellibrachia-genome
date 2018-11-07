@@ -1,0 +1,14 @@
+#                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Aldolase_II          PF00596.20   186 Bathymodiolus_platifrons_PF01607_containing_seqs_BPL|Bpl_scaf_62453-5.22 -            234   8.4e-46  156.2   0.0   1   1   5.9e-50   9.8e-46  155.9   0.0     3   185    18   211    16   212 0.87 Class II Aldolase and Adducin N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000035.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000035.pfam.hmmscan_out --domtblout OG0000035.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000035.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:33:59 2018
+# [ok]

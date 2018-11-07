@@ -1,0 +1,16 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AlbA_2               PF04326.13   122 Phoronis_australis_TIR_containing_seqs_PAU|g13180.t1 -            415   3.2e-20   72.6   0.1   1   1   1.6e-23   8.8e-20   71.2   0.1     1   118   225   384   225   387 0.93 Putative DNA-binding domain
+TIR_2                PF13676.5    102 Phoronis_australis_TIR_containing_seqs_PAU|g13180.t1 -            415   7.1e-07   29.4   0.0   1   1   2.4e-10   1.3e-06   28.5   0.0     1    92    62   167    62   174 0.77 TIR domain
+TIR                  PF01582.19   176 Phoronis_australis_TIR_containing_seqs_PAU|g13180.t1 -            415     0.036   13.8   0.0   1   1   1.1e-05     0.062   13.0   0.0     2   115    63   172    62   207 0.83 TIR domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000220.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000220.pfam.hmmscan_out --domtblout OG0000220.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000220.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:09:05 2018
+# [ok]

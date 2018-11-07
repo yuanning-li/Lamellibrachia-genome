@@ -1,0 +1,41 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NACHT                PF05729.11   166 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   4.2e-47  160.1   0.5   1   3       9.3   1.1e+04   -4.0   0.0   102   120    48    66    31    74 0.50 NACHT domain
+NACHT                PF05729.11   166 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   4.2e-47  160.1   0.5   2   3   4.8e-49   5.8e-46  156.3   0.0     1   165   149   317   149   318 0.99 NACHT domain
+NACHT                PF05729.11   166 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   4.2e-47  160.1   0.5   3   3      0.46   5.5e+02    0.3   0.1    36    81   448   489   439   495 0.61 NACHT domain
+PYRIN                PF02758.15    74 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   1.3e-28   98.9   8.2   1   2   2.5e-31   2.9e-28   97.8   6.4     1    73    10    85    10    86 0.97 PAAD/DAPIN/Pyrin domain
+PYRIN                PF02758.15    74 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   1.3e-28   98.9   8.2   2   2       4.2     5e+03   -2.3   0.0    57    74   756   773   739   785 0.75 PAAD/DAPIN/Pyrin domain
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   1   7       7.3   8.8e+03   -2.8   0.0    12    21   377   386   376   386 0.88 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   2   7       4.3   5.1e+03   -2.0   0.0     4    12   639   647   639   651 0.82 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   3   7       3.2   3.9e+03   -1.7   0.0     5    15   725   735   724   736 0.85 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   4   7   7.5e-06    0.0089   15.9   0.0     2    24   750   772   749   772 0.95 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   5   7   7.6e-08   9.1e-05   22.1   0.3     1    24   806   829   806   829 0.96 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   6   7       6.6   7.9e+03   -2.6   0.0     2    16   836   850   835   852 0.84 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938   3.3e-11   42.2  12.1   7   7    0.0042         5    7.3   0.4     3    24   865   886   863   886 0.91 Leucine Rich repeat
+AAA_16               PF13191.5    170 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938     9e-06   26.1   0.0   1   1   3.3e-08     4e-05   24.0   0.0     6    68   129   197   127   260 0.82 AAA ATPase domain
+DnaB_2               PF07261.10    74 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938    0.0088   15.7   0.0   1   2      0.85     1e+03   -0.5   0.0     7    27   518   538   503   567 0.62 Replication initiation and membrane attachment
+DnaB_2               PF07261.10    74 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938    0.0088   15.7   0.0   2   2   0.00014      0.17   11.6   0.0     7    72   698   776   697   777 0.76 Replication initiation and membrane attachment
+AAA_14               PF13173.5    131 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938     0.033   14.1   0.0   1   1   8.4e-05       0.1   12.6   0.0     3    27   149   173   147   235 0.85 AAA domain
+AAA_22               PF13401.5    137 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938     0.034   14.3   0.0   1   2   0.00037      0.44   10.7   0.0     5    61   148   206   143   262 0.70 AAA domain
+AAA_22               PF13401.5    137 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938     0.034   14.3   0.0   2   2       1.4   1.7e+03   -0.9   0.0    93   117   577   601   561   630 0.68 AAA domain
+ResIII               PF04851.14   171 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938      0.05   13.5   0.1   1   1   0.00012      0.14   12.0   0.1    21    51   113   175    62   190 0.78 Type III restriction enzyme, res subunit
+DAP3                 PF10236.8    312 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938     0.053   12.6   0.3   1   2      0.36   4.2e+02   -0.2   0.2   241   283    24    67    11   119 0.75 Mitochondrial ribosomal death-associated protein 3
+DAP3                 PF10236.8    312 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938     0.053   12.6   0.3   2   2   0.00032      0.38    9.8   0.0    17    45   142   170   127   178 0.74 Mitochondrial ribosomal death-associated protein 3
+AAA_25               PF13481.5    194 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938       0.1   12.1   0.0   1   2   0.00031      0.36   10.3   0.0    35    61   150   176   147   185 0.86 AAA domain
+AAA_25               PF13481.5    194 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938       0.1   12.1   0.0   2   2       2.2   2.7e+03   -2.3   0.0   137   163   220   246   206   254 0.71 AAA domain
+VirE                 PF05272.10   198 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938      0.11   12.2   0.4   1   2      0.83   9.9e+02   -0.8   0.3    67   102     4    40     2    70 0.67 Virulence-associated protein E
+VirE                 PF05272.10   198 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938      0.11   12.2   0.4   2   2   0.00043      0.52    9.9   0.0    43    79   137   175   123   181 0.82 Virulence-associated protein E
+NTPase_1             PF03266.14   168 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938      0.13   12.1   0.0   1   1   0.00028      0.33   10.7   0.0     2    22   151   171   150   178 0.86 NTPase
+RNA_helicase         PF00910.21   107 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938      0.13   12.5   0.0   1   1   0.00044      0.52   10.6   0.0     1    25   151   175   151   191 0.84 RNA helicase
+AAA_30               PF13604.5    192 Homo_sapiens_NACHT_containing_seqs_HSA|XP_016881833.1 -            938      0.14   11.8   0.0   1   1   0.00022      0.26   10.9   0.0    17    45   147   175   140   191 0.86 AAA domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000089.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000089.pfam.hmmscan_out --domtblout OG0000089.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000089.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/NACHT_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 12:11:27 2018
+# [ok]

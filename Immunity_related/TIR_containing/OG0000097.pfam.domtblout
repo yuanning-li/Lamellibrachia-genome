@@ -1,0 +1,16 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Crassostrea_virginica_TIR_containing_seqs_CVI|XP_022294938.1 -            130   2.7e-11   43.5   0.1   1   1     6e-15   3.4e-11   43.2   0.1    18    83     4    68     2   104 0.89 TIR domain
+TIR_2                PF13676.5    102 Crassostrea_virginica_TIR_containing_seqs_CVI|XP_022294938.1 -            130   0.00013   22.2   0.0   1   1   2.7e-08   0.00015   21.9   0.0    26    78    18    76     5   106 0.80 TIR domain
+DUF1863              PF08937.10   130 Crassostrea_virginica_TIR_containing_seqs_CVI|XP_022294938.1 -            130     0.097   12.9   0.1   1   1   1.9e-05      0.11   12.7   0.1    63    97    35    69    11    98 0.85 MTH538 TIR-like domain (DUF1863)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000097.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000097.pfam.hmmscan_out --domtblout OG0000097.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000097.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:05:55 2018
+# [ok]

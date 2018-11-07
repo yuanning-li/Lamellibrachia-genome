@@ -1,0 +1,20 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   6.5e-07   29.3   0.8   1   1   1.6e-10   1.3e-06   28.4   0.8     5    45   201   242   196   247 0.87 Chitin binding Peritrophin-A domain
+PT                   PF04886.11    36 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   0.00035   19.9 104.9   1   6      0.58   4.9e+03   -2.9   0.1    13    17    22    26    21    26 0.51 PT repeat
+PT                   PF04886.11    36 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   0.00035   19.9 104.9   2   6         2   1.7e+04  -14.3  15.7    14    14    63    63    38    95 0.62 PT repeat
+PT                   PF04886.11    36 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   0.00035   19.9 104.9   3   6   1.8e-05      0.15   11.6  29.1     9    27   154   172   135   194 0.48 PT repeat
+PT                   PF04886.11    36 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   0.00035   19.9 104.9   4   6         2   1.6e+04   -4.6   3.3    18    20   312   314   303   324 0.50 PT repeat
+PT                   PF04886.11    36 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   0.00035   19.9 104.9   5   6   8.3e-07    0.0069   15.8  10.9    11    36   374   399   366   399 0.86 PT repeat
+PT                   PF04886.11    36 Capitella_teleta_PF01607_containing_seqs_CTE|ELU10270.1 -            459   0.00035   19.9 104.9   6   6   8.9e-07    0.0075   15.7  13.0    11    30   394   413   393   423 0.52 PT repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000046.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000046.pfam.hmmscan_out --domtblout OG0000046.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000046.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:35:10 2018
+# [ok]

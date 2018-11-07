@@ -1,0 +1,16 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR_2                PF13676.5    102 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009058657.1 -            646   3.9e-13   49.5   0.0   1   2      0.68   5.7e+03   -2.4   0.0    15    55   237   276   230   277 0.60 TIR domain
+TIR_2                PF13676.5    102 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009058657.1 -            646   3.9e-13   49.5   0.0   2   2   1.7e-16   1.4e-12   47.7   0.0     1    96   380   475   380   480 0.93 TIR domain
+TIR                  PF01582.19   176 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009058657.1 -            646      0.04   13.6   0.0   1   1   1.5e-05      0.12   12.0   0.0    15    87   389   457   382   473 0.76 TIR domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000201.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000201.pfam.hmmscan_out --domtblout OG0000201.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000201.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:08:37 2018
+# [ok]

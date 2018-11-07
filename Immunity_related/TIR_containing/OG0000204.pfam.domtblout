@@ -1,0 +1,18 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009061926.1 -            417   3.7e-07   30.0   0.1   1   2   8.5e-10   4.8e-06   26.4   0.0    28   106   149   227   135   301 0.80 TIR domain
+TIR                  PF01582.19   176 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009061926.1 -            417   3.7e-07   30.0   0.1   2   2     0.053     3e+02    1.0   0.1   107   135   369   396   335   413 0.83 TIR domain
+TIR_2                PF13676.5    102 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009061926.1 -            417   2.5e-05   24.4   0.0   1   1   8.5e-09   4.7e-05   23.6   0.0     1   100   129   236   129   238 0.81 TIR domain
+SPC25                PF06703.10   162 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009061926.1 -            417       1.6    8.4   5.0   1   2    0.0069        39    3.9   0.3    99   128   270   298   247   312 0.76 Microsomal signal peptidase 25 kDa subunit (SPC25)
+SPC25                PF06703.10   162 Lottia_gigantea_TIR_containing_seqs_LGI|XP_009061926.1 -            417       1.6    8.4   5.0   2   2    0.0015       8.3    6.1   0.8    99   140   338   381   300   386 0.75 Microsomal signal peptidase 25 kDa subunit (SPC25)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000204.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000204.pfam.hmmscan_out --domtblout OG0000204.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000204.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:08:41 2018
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Lottia_gigantea_PF01607_containing_seqs_LGI|XP_009062517.1 -            137   8.6e-07   28.9   4.8   1   1   7.9e-11   1.3e-06   28.4   4.8     7    46    90   131    82   137 0.84 Chitin binding Peritrophin-A domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000088.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000088.pfam.hmmscan_out --domtblout OG0000088.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000088.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:39:35 2018
+# [ok]

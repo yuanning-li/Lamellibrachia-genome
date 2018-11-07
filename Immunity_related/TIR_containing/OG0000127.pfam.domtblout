@@ -1,0 +1,37 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   1.1e-44  152.2   0.0   1   1     1e-47   1.9e-44  151.5   0.0     1   156   412   570   412   597 0.93 TIR domain
+Ig_2                 PF13895.5     79 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   5.5e-21   74.6   0.9   1   3   1.4e-09   2.7e-06   27.6   0.0    11    77    60   138    53   140 0.73 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   5.5e-21   74.6   0.9   2   3   7.2e-15   1.3e-11   44.5   0.0     2    75   154   237   153   242 0.84 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   5.5e-21   74.6   0.9   3   3       1.8   3.3e+03   -1.6   0.0    12    38   280   295   261   348 0.58 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   2.7e-14   53.4   0.4   1   3   2.1e-05     0.039   14.5   0.0    14    77    61   125    54   126 0.65 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   2.7e-14   53.4   0.4   2   3   1.2e-07   0.00022   21.7   0.0    13    77   164   225   155   226 0.82 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   2.7e-14   53.4   0.4   3   3   4.2e-05     0.078   13.5   0.0     2    75   254   343   254   345 0.74 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   3.8e-13   49.2   0.1   1   3   4.8e-08     9e-05   22.4   0.0    17    90    65   140    53   140 0.84 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   3.8e-13   49.2   0.1   2   3     1e-06    0.0019   18.1   0.0    32    80   187   231   165   238 0.86 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   3.8e-13   49.2   0.1   3   3     0.017        31    4.6   0.0     7    75   261   345   254   350 0.69 Immunoglobulin I-set domain
+V-set                PF07686.16   109 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   2.7e-09   37.1   6.1   1   3     0.002       3.7    7.6   0.2    73    92   106   125    59   140 0.53 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   2.7e-09   37.1   6.1   2   3   0.00036      0.66   10.1   0.3    55    99   194   234   161   245 0.78 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   2.7e-09   37.1   6.1   3   3   6.3e-05      0.12   12.5   0.1     3    87   261   339   260   353 0.81 Immunoglobulin V-set domain
+ig                   PF00047.24    87 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   1.2e-08   34.9   2.2   1   3     0.023        43    4.3   0.0    24    80    77   131    59   138 0.68 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   1.2e-08   34.9   2.2   2   3   4.1e-06    0.0075   16.3   0.0    12    84   168   235   164   237 0.86 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622   1.2e-08   34.9   2.2   3   3   7.8e-05      0.14   12.2   0.1     3    73   261   344   259   348 0.83 Immunoglobulin domain
+Ig_5                 PF16681.4     83 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622    0.0022   18.3   0.9   1   3     0.023        42    4.6   0.0    22    73    82   139    72   146 0.59 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Ig_5                 PF16681.4     83 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622    0.0022   18.3   0.9   2   3   0.00044      0.82   10.0   0.0    12    57   172   225   164   237 0.71 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Ig_5                 PF16681.4     83 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622    0.0022   18.3   0.9   3   3      0.97   1.8e+03   -0.7   0.1     7    37   269   303   264   315 0.67 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+C2-set_2             PF08205.11    90 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622      0.12   12.4   0.1   1   2      0.24   4.4e+02    0.9   0.0    18    42    66    91    55   108 0.68 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622      0.12   12.4   0.1   2   2    0.0015       2.8    8.0   0.0     5    81   259   345   255   349 0.82 CD80-like C2-set immunoglobulin domain
+C1-set               PF07654.14    86 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622      0.16   12.3   1.6   1   3   0.00062       1.2    9.5   0.0    13    81    63   125    53   130 0.75 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622      0.16   12.3   1.6   2   3       3.4   6.4e+03   -2.5   0.0    13    27   167   179   161   205 0.60 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Homo_sapiens_TIR_containing_seqs_HSA|XP_011510393.1 -            622      0.16   12.3   1.6   3   3      0.55     1e+03    0.1   0.1    10    54   267   310   257   328 0.77 Immunoglobulin C1-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000127.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000127.pfam.hmmscan_out --domtblout OG0000127.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000127.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:06:42 2018
+# [ok]

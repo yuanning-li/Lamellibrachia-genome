@@ -1,0 +1,18 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Biomphalaria_glabrata_PF01607_containing_seqs_BGL|XP_013079004.1 -           1011   2.9e-06   27.2   0.4   1   1   1.1e-09   6.1e-06   26.2   0.4     1    45   958  1002   958  1006 0.96 Chitin binding Peritrophin-A domain
+DUF1180              PF06679.11   169 Biomphalaria_glabrata_PF01607_containing_seqs_BGL|XP_013079004.1 -           1011   0.00022   21.6   1.3   1   3     4e-08   0.00022   21.6   1.3    14   121    58   167    38   172 0.57 Protein of unknown function (DUF1180)
+DUF1180              PF06679.11   169 Biomphalaria_glabrata_PF01607_containing_seqs_BGL|XP_013079004.1 -           1011   0.00022   21.6   1.3   2   3         3   1.7e+04   -4.3   4.2    30    50   396   416   341   481 0.55 Protein of unknown function (DUF1180)
+DUF1180              PF06679.11   169 Biomphalaria_glabrata_PF01607_containing_seqs_BGL|XP_013079004.1 -           1011   0.00022   21.6   1.3   3   3      0.86   4.8e+03   -2.3   4.0    53    76   592   615   516   645 0.47 Protein of unknown function (DUF1180)
+Prominin             PF05478.10   800 Biomphalaria_glabrata_PF01607_containing_seqs_BGL|XP_013079004.1 -           1011     0.002   16.1   0.1   1   1   5.4e-07     0.003   15.5   0.1   130   207   136   213   122   228 0.86 Prominin
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000040.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000040.pfam.hmmscan_out --domtblout OG0000040.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000040.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:34:30 2018
+# [ok]

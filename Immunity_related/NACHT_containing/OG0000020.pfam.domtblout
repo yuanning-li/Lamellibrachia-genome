@@ -1,0 +1,26 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NACHT                PF05729.11   166 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675   1.5e-15   57.4   0.2   1   2      0.14   2.9e+02    1.2   0.0    13    72    68   149    66   194 0.66 NACHT domain
+NACHT                PF05729.11   166 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675   1.5e-15   57.4   0.2   2   2   1.1e-17   2.4e-14   53.5   0.1     2   134   299   422   298   450 0.90 NACHT domain
+Peptidase_C14        PF00656.21   248 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675   1.1e-06   28.7   0.1   1   1   1.1e-09   2.3e-06   27.6   0.1   102   209    87   185    71   197 0.85 Caspase domain
+ATC_hydrolase        PF14196.5    145 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675    0.0068   17.1   0.0   1   2     0.073   1.5e+02    3.0   0.0    28   106   284   382   265   387 0.60 L-2-amino-thiazoline-4-carboxylic acid hydrolase
+ATC_hydrolase        PF14196.5    145 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675    0.0068   17.1   0.0   2   2   0.00021      0.44   11.2   0.2     7    91   448   534   443   577 0.75 L-2-amino-thiazoline-4-carboxylic acid hydrolase
+AAA_16               PF13191.5    170 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675    0.0092   16.3   0.1   1   1   1.7e-05     0.035   14.4   0.1    14    83   287   361   280   491 0.77 AAA ATPase domain
+IstB_IS21            PF01695.16   178 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675     0.032   13.9   0.1   1   1   0.00031      0.65    9.6   0.1    46   115   296   363   277   423 0.77 IstB-like ATP binding protein
+DAP3                 PF10236.8    312 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675     0.082   12.0   0.1   1   2       1.8   3.8e+03   -3.3   0.1    51    68    12    29     4    33 0.77 Mitochondrial ribosomal death-associated protein 3
+DAP3                 PF10236.8    312 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675     0.082   12.0   0.1   2   2    0.0001      0.21   10.6   0.0     4    50   278   323   277   326 0.91 Mitochondrial ribosomal death-associated protein 3
+ArgK                 PF03308.15   267 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675     0.097   11.5   0.2   1   2   0.00018      0.38    9.6   0.0    14    57   280   325   264   329 0.77 ArgK protein
+ArgK                 PF03308.15   267 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675     0.097   11.5   0.2   2   2      0.31   6.5e+02   -1.0   0.0   173   208   490   525   488   546 0.85 ArgK protein
+AAA_18               PF13238.5    130 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675      0.11   12.9   0.0   1   2      0.41   8.6e+02    0.3   0.0    57   103   151   205   111   208 0.69 AAA domain
+AAA_18               PF13238.5    130 Capitella_teleta_NACHT_containing_seqs_CTE|ELU07359.1 -            675      0.11   12.9   0.0   2   2    0.0011       2.3    8.6   0.0     1    21   300   320   300   425 0.54 AAA domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000020.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000020.pfam.hmmscan_out --domtblout OG0000020.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000020.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/NACHT_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 12:04:18 2018
+# [ok]

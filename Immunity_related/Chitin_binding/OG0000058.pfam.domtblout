@@ -1,0 +1,21 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430   1.6e-15   56.9   6.5   1   2   9.6e-11   5.4e-07   29.6   0.9     1    48   326   375   326   376 0.91 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430   1.6e-15   56.9   6.5   2   2   3.1e-12   1.8e-08   34.4   1.8     1    53   371   429   371   429 0.89 Chitin binding Peritrophin-A domain
+Chordopox_A13L       PF05961.10    69 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430      0.71   10.0   0.0   1   4       2.2   1.2e+04   -3.5   0.3    25    39    75    89    74    96 0.51 Chordopoxvirus A13L protein
+Chordopox_A13L       PF05961.10    69 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430      0.71   10.0   0.0   2   4   0.00013      0.71   10.0   0.0     8    36   180   208   176   233 0.82 Chordopoxvirus A13L protein
+Chordopox_A13L       PF05961.10    69 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430      0.71   10.0   0.0   3   4       1.7   9.4e+03   -3.2   1.7    25    41   264   280   250   293 0.66 Chordopoxvirus A13L protein
+Chordopox_A13L       PF05961.10    69 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430      0.71   10.0   0.0   4   4       1.7   9.3e+03   -3.1   0.7    27    36   292   301   276   306 0.57 Chordopoxvirus A13L protein
+Pex14_N              PF04695.12   157 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430       1.6    9.3  13.6   1   2    0.0014         8    7.0   0.5    73   148   121   192    43   197 0.59 Peroxisomal membrane anchor protein (Pex14p) conserved region
+Pex14_N              PF04695.12   157 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_038620-T1 -            430       1.6    9.3  13.6   2   2    0.0044        25    5.4   7.0    48   109   254   303   231   321 0.42 Peroxisomal membrane anchor protein (Pex14p) conserved region
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000058.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000058.pfam.hmmscan_out --domtblout OG0000058.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000058.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:36:24 2018
+# [ok]

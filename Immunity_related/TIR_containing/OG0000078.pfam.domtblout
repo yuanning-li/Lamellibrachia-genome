@@ -1,0 +1,32 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752   9.1e-12   45.0   0.0   1   1   1.3e-14   2.7e-11   43.5   0.0    34   101   648   716   623   727 0.87 TIR domain
+TIR_2                PF13676.5    102 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752   8.1e-11   42.1   0.0   1   1   1.7e-13   3.6e-10   40.0   0.0    30   102   652   730   643   730 0.88 TIR domain
+TPR_12               PF13424.5     77 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0035   17.5   0.2   1   3     0.013        27    5.0   0.0    36    74    86   122    69   124 0.85 Tetratricopeptide repeat
+TPR_12               PF13424.5     77 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0035   17.5   0.2   2   3       1.6   3.4e+03   -1.7   0.0    44    61   440   457   437   458 0.78 Tetratricopeptide repeat
+TPR_12               PF13424.5     77 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0035   17.5   0.2   3   3    0.0012       2.6    8.3   0.0     4    29   497   521   494   527 0.88 Tetratricopeptide repeat
+TPR_19               PF14559.5     68 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0093   16.4   0.0   1   4     0.072   1.5e+02    2.9   0.0    13    47    81   115    78   134 0.80 Tetratricopeptide repeat
+TPR_19               PF14559.5     68 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0093   16.4   0.0   2   4      0.18   3.7e+02    1.6   0.0    14    35   339   360   338   361 0.94 Tetratricopeptide repeat
+TPR_19               PF14559.5     68 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0093   16.4   0.0   3   4       1.4     3e+03   -1.2   0.0    41    60   378   397   369   400 0.82 Tetratricopeptide repeat
+TPR_19               PF14559.5     68 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752    0.0093   16.4   0.0   4   4     0.011        22    5.6   0.0    29    54   499   524   497   535 0.80 Tetratricopeptide repeat
+ThrE                 PF06738.11   241 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.023   14.0   1.4   1   2   1.2e-05     0.026   13.8   0.3    13   101    31   124    27   132 0.85 Putative threonine/serine exporter
+ThrE                 PF06738.11   241 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.023   14.0   1.4   2   2       1.7   3.6e+03   -3.0   0.0    13    31   436   454   435   455 0.89 Putative threonine/serine exporter
+TPR_8                PF13181.5     34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.061   13.5   2.5   1   3       2.3   4.9e+03   -1.8   0.0    19    32   178   191   177   193 0.82 Tetratricopeptide repeat
+TPR_8                PF13181.5     34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.061   13.5   2.5   2   3       4.4   9.1e+03   -2.7   0.1    13    28   420   435   419   436 0.76 Tetratricopeptide repeat
+TPR_8                PF13181.5     34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.061   13.5   2.5   3   3    0.0001      0.21   11.8   0.1     5    27   499   521   498   521 0.95 Tetratricopeptide repeat
+TPR_1                PF00515.27    34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752      0.09   12.5   0.0   1   2       1.4   2.8e+03   -1.7   0.0    17    30    38    51    34    53 0.81 Tetratricopeptide repeat
+TPR_1                PF00515.27    34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752      0.09   12.5   0.0   2   2   0.00035      0.73    9.7   0.1     5    23   499   517   498   521 0.93 Tetratricopeptide repeat
+TPR_2                PF07719.16    34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.095   12.8   0.1   1   3      0.23   4.8e+02    1.2   0.0    17    34   215   232   214   232 0.88 Tetratricopeptide repeat
+TPR_2                PF07719.16    34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.095   12.8   0.1   2   3       3.5   7.3e+03   -2.5   0.0    24    34   339   349   338   349 0.88 Tetratricopeptide repeat
+TPR_2                PF07719.16    34 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29970-2.4 -            752     0.095   12.8   0.1   3   3     0.004       8.4    6.7   0.1     5    27   499   521   497   521 0.93 Tetratricopeptide repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000078.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000078.pfam.hmmscan_out --domtblout OG0000078.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000078.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:05:27 2018
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.16   260 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   1.5e-31  109.5   0.0   1   1   6.3e-35   2.6e-31  108.7   0.0    45   260   668   891   648   891 0.92 Protein tyrosine kinase
+Pkinase              PF00069.24   264 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   4.7e-14   52.3   0.0   1   2       1.4   5.8e+03   -3.8   0.0    15    33   291   309   290   316 0.88 Protein kinase domain
+Pkinase              PF00069.24   264 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   4.7e-14   52.3   0.0   2   2   3.3e-17   1.4e-13   50.7   0.0    43   258   669   887   657   894 0.85 Protein kinase domain
+TIR_2                PF13676.5    102 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   6.9e-08   32.7   0.0   1   1   4.8e-11     2e-07   31.2   0.0     2    98    50   155    49   159 0.84 TIR domain
+TIR                  PF01582.19   176 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   2.7e-05   24.0   1.7   1   3   1.6e-08   6.6e-05   22.7   0.1     1    77    46   124    46   153 0.73 TIR domain
+TIR                  PF01582.19   176 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   2.7e-05   24.0   1.7   2   3      0.62   2.6e+03   -2.0   0.0    73    90   508   525   474   528 0.79 TIR domain
+TIR                  PF01582.19   176 Lingula_anatina_TIR_containing_seqs_LAN|XP_013386468.1 -            945   2.7e-05   24.0   1.7   3   3      0.86   3.6e+03   -2.5   0.1    41    62   921   942   918   943 0.85 TIR domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000165.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000165.pfam.hmmscan_out --domtblout OG0000165.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000165.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:07:41 2018
+# [ok]

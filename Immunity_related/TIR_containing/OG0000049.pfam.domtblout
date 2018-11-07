@@ -1,0 +1,22 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UDPGT                PF00201.17   499 Biomphalaria_glabrata_TIR_containing_seqs_BGL|XP_013077904.1 -            856   3.8e-66  223.8   0.0   1   1   2.4e-69     1e-65  222.4   0.0     3   474   319   778   316   793 0.83 UDP-glucoronosyl and UDP-glucosyl transferase
+TIR                  PF01582.19   176 Biomphalaria_glabrata_TIR_containing_seqs_BGL|XP_013077904.1 -            856   4.8e-10   39.4   0.1   1   2   3.7e-13   1.5e-09   37.8   0.0    33    87     2    56     1    89 0.77 TIR domain
+TIR                  PF01582.19   176 Biomphalaria_glabrata_TIR_containing_seqs_BGL|XP_013077904.1 -            856   4.8e-10   39.4   0.1   2   2       1.1   4.4e+03   -2.8   0.1    48    66   570   588   562   589 0.83 TIR domain
+TIR_2                PF13676.5    102 Biomphalaria_glabrata_TIR_containing_seqs_BGL|XP_013077904.1 -            856   3.7e-07   30.3   0.0   1   1   2.7e-10   1.1e-06   28.7   0.0    31    95     8    76     3    84 0.83 TIR domain
+Glyco_tran_28_C      PF04101.15   167 Biomphalaria_glabrata_TIR_containing_seqs_BGL|XP_013077904.1 -            856   0.00013   21.9   0.0   1   1   6.2e-08   0.00026   20.9   0.0    74   160   647   727   628   733 0.90 Glycosyltransferase family 28 C-terminal domain
+EMP24_GP25L          PF01105.23   182 Homo_sapiens_TIR_containing_seqs_HSA|NP_001157940.1 -            404   3.5e-40  137.8   0.6   1   1   1.1e-43   5.9e-40  137.1   0.6     2   159    37   190    36   194 0.95 emp24/gp25L/p24 family/GOLD
+TIR_2                PF13676.5    102 Homo_sapiens_TIR_containing_seqs_HSA|NP_001157940.1 -            404   5.8e-08   32.9   0.0   1   1   2.1e-11   1.2e-07   31.9   0.0     2    93   251   351   250   364 0.84 TIR domain
+TIR                  PF01582.19   176 Homo_sapiens_TIR_containing_seqs_HSA|NP_001157940.1 -            404    0.0018   18.0   0.0   1   2   9.1e-07    0.0051   16.5   0.0     8    80   250   323   245   343 0.80 TIR domain
+TIR                  PF01582.19   176 Homo_sapiens_TIR_containing_seqs_HSA|NP_001157940.1 -            404    0.0018   18.0   0.0   2   2      0.75   4.2e+03   -2.7   0.0    14    34   353   373   350   398 0.64 TIR domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000049.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000049.pfam.hmmscan_out --domtblout OG0000049.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000049.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:04:32 2018
+# [ok]

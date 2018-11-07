@@ -1,0 +1,24 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   1.5e-46  158.3   0.0   1   1   8.3e-50   2.3e-46  157.7   0.0     1   175   234   423   234   424 0.98 TIR domain
+Ig_3                 PF13927.5     79 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   8.6e-07   29.4   0.2   1   2   5.2e-05      0.15   12.6   0.0    57    77    26    46    11    47 0.86 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   8.6e-07   29.4   0.2   2   2   1.4e-05     0.039   14.5   0.0     2    75    76   165    75   167 0.74 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   1.7e-06   28.0   0.3   1   2   3.5e-05     0.097   12.7   0.0    55    84    27    56    15    58 0.86 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   1.7e-06   28.0   0.3   2   2   2.9e-05      0.08   13.0   0.1     3    73    83   166    81   170 0.83 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   4.2e-06   26.9   0.4   1   2   6.8e-09   1.9e-05   24.8   0.1    34    75    11    58     9    63 0.83 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   4.2e-06   26.9   0.4   2   2      0.65   1.8e+03   -0.8   0.0    12    40   102   119    82   171 0.57 Immunoglobulin domain
+V-set                PF07686.16   109 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   6.9e-06   26.1   0.6   1   2   0.00016      0.44   10.7   0.1    57    99    17    55    10    66 0.74 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   6.9e-06   26.1   0.6   2   2   2.3e-05     0.065   13.3   0.1     3    87    83   161    82   175 0.81 Immunoglobulin V-set domain
+I-set                PF07679.15    90 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   0.00018   21.4   0.1   1   2   2.1e-05     0.059   13.3   0.0    55    80    26    52    12    59 0.79 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_TIR_containing_seqs_HSA|NP_001338379.1 -            424   0.00018   21.4   0.1   2   2    0.0058        16    5.5   0.0     6    75    82   167    76   173 0.70 Immunoglobulin I-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000113.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000113.pfam.hmmscan_out --domtblout OG0000113.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000113.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:06:21 2018
+# [ok]

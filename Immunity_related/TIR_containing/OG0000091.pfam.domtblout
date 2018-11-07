@@ -1,0 +1,16 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR_2                PF13676.5    102 Capitella_teleta_TIR_containing_seqs_CTE|ELU08397.1 -            560   1.2e-07   31.9   0.1   1   1   1.1e-10     6e-07   29.6   0.1     1    88   450   531   450   543 0.85 TIR domain
+TIR                  PF01582.19   176 Capitella_teleta_TIR_containing_seqs_CTE|ELU08397.1 -            560    0.0025   17.5   0.1   1   1   1.3e-06     0.007   16.1   0.1    52    87   487   522   455   541 0.88 TIR domain
+CLTH                 PF10607.8    148 Capitella_teleta_TIR_containing_seqs_CTE|ELU08397.1 -            560      0.18   11.6   1.3   1   1   7.5e-05      0.42   10.4   0.7    79   138   270   343   196   352 0.62 CTLH/CRA C-terminal to LisH motif domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000091.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000091.pfam.hmmscan_out --domtblout OG0000091.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000091.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:05:46 2018
+# [ok]

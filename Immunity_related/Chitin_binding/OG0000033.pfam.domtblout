@@ -1,0 +1,17 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Aplysia_californica_PF01607_containing_seqs_ACA|XP_005107438.2 -            522   1.5e-21   76.2  51.6   1   4   1.6e-12   2.7e-08   33.7   8.1     1    53    47    99    47    99 0.94 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Aplysia_californica_PF01607_containing_seqs_ACA|XP_005107438.2 -            522   1.5e-21   76.2  51.6   2   4   6.6e-09   0.00011   22.2   6.5     1    46   184   229   184   233 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Aplysia_californica_PF01607_containing_seqs_ACA|XP_005107438.2 -            522   1.5e-21   76.2  51.6   3   4   2.6e-11   4.3e-07   29.9   8.4     1    53   371   423   371   423 0.92 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Aplysia_californica_PF01607_containing_seqs_ACA|XP_005107438.2 -            522   1.5e-21   76.2  51.6   4   4   7.2e-05       1.2    9.3   4.6     1    31   489   520   489   522 0.81 Chitin binding Peritrophin-A domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000033.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000033.pfam.hmmscan_out --domtblout OG0000033.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000033.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:33:47 2018
+# [ok]

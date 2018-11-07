@@ -1,0 +1,19 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ZU5                  PF00791.19    98 Lingula_anatina_TIR_containing_seqs_LAN|XP_023932461.1 -            517   6.8e-20   71.1   0.0   1   1   4.3e-23   1.4e-19   70.1   0.0     3    86   125   206   123   212 0.89 ZU5 domain
+TIR                  PF01582.19   176 Lingula_anatina_TIR_containing_seqs_LAN|XP_023932461.1 -            517   1.9e-08   34.2   0.1   1   1   8.7e-12   2.9e-08   33.6   0.1     2    98   421   516   420   517 0.91 TIR domain
+LRR_8                PF13855.5     61 Lingula_anatina_TIR_containing_seqs_LAN|XP_023932461.1 -            517   1.3e-05   24.7   0.3   1   1   1.1e-08   3.7e-05   23.3   0.3     2    61   310   368   309   368 0.93 Leucine rich repeat
+LRR_4                PF12799.6     43 Lingula_anatina_TIR_containing_seqs_LAN|XP_023932461.1 -            517   1.8e-05   24.8   0.8   1   2   5.6e-07    0.0019   18.5   0.2     2    39   310   348   309   357 0.89 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Lingula_anatina_TIR_containing_seqs_LAN|XP_023932461.1 -            517   1.8e-05   24.8   0.8   2   2   2.7e-05     0.089   13.1   0.0     1    26   332   359   332   366 0.93 Leucine Rich repeats (2 copies)
+LRR_9                PF14580.5    175 Lingula_anatina_TIR_containing_seqs_LAN|XP_023932461.1 -            517     0.023   14.1   0.2   1   1   1.2e-05      0.04   13.3   0.2    64   128   309   371   303   384 0.84 Leucine-rich repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000195.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000195.pfam.hmmscan_out --domtblout OG0000195.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000195.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:08:27 2018
+# [ok]

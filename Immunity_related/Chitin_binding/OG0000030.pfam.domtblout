@@ -1,0 +1,20 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Octopus_bimaculoides_PF01607_containing_seqs_OBI|XP_014772865.1 -            243     2e-10   40.6  20.6   1   3   5.5e-09   9.2e-05   22.4   1.0     5    53    52   101    45   101 0.85 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Octopus_bimaculoides_PF01607_containing_seqs_OBI|XP_014772865.1 -            243     2e-10   40.6  20.6   2   3   1.8e-07    0.0031   17.6   2.3     7    49   128   171   120   181 0.85 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Octopus_bimaculoides_PF01607_containing_seqs_OBI|XP_014772865.1 -            243     2e-10   40.6  20.6   3   3   2.6e-05      0.43   10.7   2.7    14    48   202   237   191   240 0.85 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Patinopecten_yessoensis_PF01607_containing_seqs_PYE|PY_T11597 -            220   5.9e-08   32.7   1.0   1   2     0.079   4.4e+02    1.1   1.3    12    20    44    52    31    78 0.61 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Patinopecten_yessoensis_PF01607_containing_seqs_PYE|PY_T11597 -            220   5.9e-08   32.7   1.0   2   2   1.1e-11   5.9e-08   32.7   1.0     1    47   168   217   168   219 0.87 Chitin binding Peritrophin-A domain
+CDC27                PF09507.9    427 Patinopecten_yessoensis_PF01607_containing_seqs_PYE|PY_T11597 -            220         3    7.0  10.7   1   1    0.0007       3.9    6.7  10.7   161   229    75   143    55   169 0.57 DNA polymerase subunit Cdc27
+Dicty_REP            PF05086.11   911 Patinopecten_yessoensis_PF01607_containing_seqs_PYE|PY_T11597 -            220       8.4    4.1  12.3   1   1    0.0019        11    3.8  12.3   252   327    72   166    59   183 0.59 Dictyostelium (Slime Mold) REP protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000030.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000030.pfam.hmmscan_out --domtblout OG0000030.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000030.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:33:33 2018
+# [ok]

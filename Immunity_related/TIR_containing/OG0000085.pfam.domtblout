@@ -1,0 +1,16 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_37494-2.51 -            260   5.1e-16   58.9   0.1   1   1   1.4e-19   8.1e-16   58.2   0.1     1   116   110   222   110   253 0.85 TIR domain
+TIR_2                PF13676.5    102 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_37494-2.51 -            260   1.9e-10   40.9   0.0   1   1   5.2e-14   2.9e-10   40.3   0.0     8    95   122   216   111   227 0.79 TIR domain
+DUF1863              PF08937.10   130 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_37494-2.51 -            260     4e-05   23.9   0.1   1   1   1.2e-08   6.7e-05   23.1   0.1    53   112   148   212   120   230 0.72 MTH538 TIR-like domain (DUF1863)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000085.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000085.pfam.hmmscan_out --domtblout OG0000085.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000085.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:05:38 2018
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIR                  PF01582.19   176 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357     1e-15   57.9   0.3   1   1   7.7e-19   1.6e-15   57.2   0.3     1    87   241   322   241   327 0.96 TIR domain
+LRR_8                PF13855.5     61 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   4.4e-13   48.7   8.2   1   3    0.0015         3    7.6   0.0    20    37     9    26     6    32 0.88 Leucine rich repeat
+LRR_8                PF13855.5     61 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   4.4e-13   48.7   8.2   2   3   3.4e-07    0.0007   19.2   0.2     2    39    42    79    41    84 0.94 Leucine rich repeat
+LRR_8                PF13855.5     61 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   4.4e-13   48.7   8.2   3   3   2.2e-08   4.5e-05   23.0   2.6    19    60    85   128    83   129 0.90 Leucine rich repeat
+TIR_2                PF13676.5    102 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   4.4e-10   39.7   0.5   1   1   3.7e-13   7.6e-10   38.9   0.5     2    79   242   322   241   325 0.88 TIR domain
+LRR_4                PF12799.6     43 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   8.4e-09   35.4   5.9   1   4    0.0075        16    6.0   0.0    19    34    10    26     3    30 0.73 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   8.4e-09   35.4   5.9   2   4     0.072   1.5e+02    2.9   0.1    23    41    41    56    34    58 0.70 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   8.4e-09   35.4   5.9   3   4   1.3e-08   2.7e-05   24.3   0.1     3    37    67   105    67   112 0.85 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   8.4e-09   35.4   5.9   4   4      0.11   2.3e+02    2.3   0.2    17    32   110   126   104   131 0.75 Leucine Rich repeats (2 copies)
+DUF1863              PF08937.10   130 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357   0.00016   21.9   0.2   1   1   1.6e-07   0.00033   20.9   0.2    49    93   271   315   239   344 0.75 MTH538 TIR-like domain (DUF1863)
+Lentivirus_VIF       PF05851.10   251 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357      0.03   13.1   0.5   1   2      0.28   5.8e+02   -0.9   0.0   215   230   128   144   101   154 0.65 Lentivirus virion infectivity factor (VIF)
+Lentivirus_VIF       PF05851.10   251 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357      0.03   13.1   0.5   2   2   5.1e-05      0.11   11.3   0.2    50   105   253   308   214   316 0.83 Lentivirus virion infectivity factor (VIF)
+LRR_1                PF00560.32    23 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357      0.44   11.2   9.5   1   4     0.046        96    4.0   0.0     2    14    16    28    15    34 0.87 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357      0.44   11.2   9.5   2   4       2.6   5.5e+03   -1.3   0.2     1     8    42    49    42    64 0.69 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357      0.44   11.2   9.5   3   4         2   4.2e+03   -0.9   0.0     2    14    67    79    66    84 0.84 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357      0.44   11.2   9.5   4   4     0.028        59    4.7   3.5     1    17    92   113    92   152 0.84 Leucine Rich Repeat
+LRR_6                PF13516.5     24 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357       5.9    7.1   8.4   1   5      0.47   9.8e+02    0.2   0.0     5    13    16    24    12    24 0.84 Leucine Rich repeat
+LRR_6                PF13516.5     24 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357       5.9    7.1   8.4   2   5       3.7   7.7e+03   -2.6   0.0     4    10    42    48    40    49 0.82 Leucine Rich repeat
+LRR_6                PF13516.5     24 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357       5.9    7.1   8.4   3   5         2   4.1e+03   -1.7   0.0     4    16    66    78    63    79 0.74 Leucine Rich repeat
+LRR_6                PF13516.5     24 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357       5.9    7.1   8.4   4   5   0.00092       1.9    8.6   1.1     2    15    90   103    89   104 0.88 Leucine Rich repeat
+LRR_6                PF13516.5     24 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_15034-0.9 -            357       5.9    7.1   8.4   5   5       2.4     5e+03   -2.0   0.1     3    12   117   126   116   128 0.85 Leucine Rich repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000081.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000081.pfam.hmmscan_out --domtblout OG0000081.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000081.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:05:31 2018
+# [ok]

@@ -1,0 +1,45 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NACHT                PF05729.11   166 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029   2.7e-31  108.6   0.1   1   1     4e-34   6.1e-31  107.5   0.1     2   164   205   371   204   373 0.97 NACHT domain
+PYRIN                PF02758.15    74 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029   2.6e-17   62.7   0.0   1   1   5.7e-20   8.7e-17   61.0   0.0     2    73    41   114    40   115 0.95 PAAD/DAPIN/Pyrin domain
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   1   7     0.063        96    3.3   0.0     2    12   758   768   757   780 0.77 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   2   7     0.052        80    3.6   0.1     4    23   817   836   814   837 0.84 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   3   7   2.6e-05      0.04   13.9   0.0     3    23   848   868   846   868 0.90 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   4   7       1.7   2.5e+03   -1.1   0.0     9    17   888   896   878   896 0.68 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   5   7     3e-08   4.5e-05   23.1   0.5     1    24   903   926   903   926 0.96 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   6   7       1.6   2.4e+03   -1.0   0.1     2    15   933   946   932   948 0.84 Leucine Rich repeat
+LRR_6                PF13516.5     24 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     3e-15   54.8  16.7   7   7   3.7e-06    0.0056   16.5   0.1     1    24   960   983   960   983 0.85 Leucine Rich repeat
+AAA_16               PF13191.5    170 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029   0.00016   22.0   0.1   1   1   1.1e-06    0.0017   18.6   0.1    20    70   199   257   192   317 0.68 AAA ATPase domain
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   1   7         4   6.1e+03   -2.2   0.0    22    33   702   712   696   717 0.75 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   2   7      0.54   8.2e+02    0.5   0.4     2    30   733   766   732   773 0.68 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   3   7      0.84   1.3e+03   -0.1   0.3     2    15   817   830   806   845 0.73 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   4   7    0.0023       3.5    8.1   0.0     2    26   849   876   848   890 0.85 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   5   7    0.0032       4.9    7.6   0.8    11    39   892   918   879   930 0.62 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   6   7    0.0013         2    8.8   2.0     2    38   906   949   905   950 0.75 Leucine Rich repeats (2 copies)
+LRR_4                PF12799.6     43 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029    0.0043   17.3  21.3   7   7   0.00073       1.1    9.6   0.3     3    37   936   973   934   982 0.75 Leucine Rich repeats (2 copies)
+LRR_8                PF13855.5     61 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029      0.01   15.5  16.3   1   5       2.7   4.1e+03   -2.5   0.0    11    29   477   495   473   496 0.75 Leucine rich repeat
+LRR_8                PF13855.5     61 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029      0.01   15.5  16.3   2   5      0.17   2.6e+02    1.4   0.2     2    34   733   768   732   772 0.77 Leucine rich repeat
+LRR_8                PF13855.5     61 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029      0.01   15.5  16.3   3   5      0.15   2.3e+02    1.6   1.7     3    21   818   836   816   876 0.55 Leucine rich repeat
+LRR_8                PF13855.5     61 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029      0.01   15.5  16.3   4   5      0.01        16    5.3   0.2    24    37   904   917   879   921 0.56 Leucine rich repeat
+LRR_8                PF13855.5     61 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029      0.01   15.5  16.3   5   5   0.00017      0.25   11.0   0.0     2    37   935   974   934   978 0.80 Leucine rich repeat
+NB-ARC               PF00931.21   288 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     0.025   13.5   0.0   1   2     5e-05     0.077   11.9   0.0    17    42   201   226   196   252 0.83 NB-ARC domain
+NB-ARC               PF00931.21   288 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     0.025   13.5   0.0   2   2       1.6   2.5e+03   -2.9   0.0    66   108   290   333   287   333 0.82 NB-ARC domain
+AAA                  PF00004.28   132 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     0.031   14.6   0.0   1   1   4.7e-05     0.072   13.4   0.0     3    72   208   293   206   334 0.59 ATPase family associated with various cellular activities (AAA)
+AAA_22               PF13401.5    137 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029     0.058   13.6   0.1   1   1   0.00019      0.29   11.3   0.1     7   117   205   304   200   318 0.64 AAA domain
+AAA_25               PF13481.5    194 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029      0.14   11.6   0.0   1   1   0.00018      0.27   10.7   0.0    35   135   205   301   200   314 0.70 AAA domain
+LRR_1                PF00560.32    23 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029       9.4    7.1  17.8   1   5      0.74   1.1e+03    0.8   0.1     1    13   817   829   817   844 0.84 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029       9.4    7.1  17.8   2   5       2.1   3.2e+03   -0.6   0.1     2    19   879   893   879   903 0.62 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029       9.4    7.1  17.8   3   5     0.014        22    6.0   0.2     2    12   907   917   906   931 0.81 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029       9.4    7.1  17.8   4   5      0.38   5.8e+02    1.7   0.1     2    13   936   947   935   954 0.82 Leucine Rich Repeat
+LRR_1                PF00560.32    23 Homo_sapiens_NACHT_containing_seqs_HSA|NP_001303929.1 -           1029       9.4    7.1  17.8   5   5     0.037        55    4.8   0.0     1    12   963   974   963  1002 0.85 Leucine Rich Repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000035.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000035.pfam.hmmscan_out --domtblout OG0000035.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000035.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/NACHT_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 12:05:50 2018
+# [ok]

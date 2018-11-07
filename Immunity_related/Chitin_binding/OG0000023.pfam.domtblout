@@ -1,0 +1,22 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Crassostrea_gigas_PF01607_containing_seqs_CGI|XP_011440998.1 -            368   4.1e-05   23.6   7.0   1   2     0.015   2.5e+02    1.9   0.1    35    49   287   301   262   304 0.83 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Crassostrea_gigas_PF01607_containing_seqs_CGI|XP_011440998.1 -            368   4.1e-05   23.6   7.0   2   2   8.3e-09   0.00014   21.9   3.5     9    45   327   363   317   365 0.89 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Crassostrea_virginica_PF01607_containing_seqs_CVI|XP_022288041.1 -            366   9.9e-05   22.3   3.5   1   2      0.18   9.9e+02   -0.1   0.1    36    49   288   301   272   303 0.80 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Crassostrea_virginica_PF01607_containing_seqs_CVI|XP_022288041.1 -            366   9.9e-05   22.3   3.5   2   2   1.8e-08   9.9e-05   22.3   3.5     1    45   317   361   317   363 0.92 Chitin binding Peritrophin-A domain
+V-set                PF07686.16   109 Crassostrea_virginica_PF01607_containing_seqs_CVI|XP_022288041.1 -            366    0.0053   16.8   0.3   1   2   5.8e-06     0.032   14.3   0.0    10    93   117   197   109   207 0.71 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Crassostrea_virginica_PF01607_containing_seqs_CVI|XP_022288041.1 -            366    0.0053   16.8   0.3   2   2      0.21   1.2e+03   -0.4   0.1    12    31   290   309   286   320 0.79 Immunoglobulin V-set domain
+Taxilin              PF09728.8    308 Crassostrea_virginica_PF01607_containing_seqs_CVI|XP_022288041.1 -            366       0.2   10.8   1.7   1   1   5.2e-05      0.29   10.3   1.7     9    74    22    87    17    97 0.84 Myosin-like coiled-coil protein
+CBM_14               PF01607.23    53 Lottia_gigantea_PF01607_containing_seqs_LGI|XP_009065501.1 -            823   5.2e-12   45.6  19.4   1   2   9.7e-09   0.00016   21.7   5.6     1    47   701   749   701   753 0.84 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lottia_gigantea_PF01607_containing_seqs_LGI|XP_009065501.1 -            823   5.2e-12   45.6  19.4   2   2     5e-11   8.4e-07   29.0   5.8     1    50   761   811   761   814 0.93 Chitin binding Peritrophin-A domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000023.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000023.pfam.hmmscan_out --domtblout OG0000023.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000023.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:32:33 2018
+# [ok]

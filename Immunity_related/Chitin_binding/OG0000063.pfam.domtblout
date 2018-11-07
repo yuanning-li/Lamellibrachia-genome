@@ -1,0 +1,26 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+A2M_comp             PF07678.13   249 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   7.3e-67  225.3   0.0   1   1     5e-70     1e-66  224.8   0.0     1   248  1008  1254  1008  1255 0.95 A-macroglobulin complement component
+A2M_N_2              PF07703.13   139 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   1.3e-32  112.9   4.1   1   3      0.94     2e+03   -1.0   0.0    56    88    41    74    19   120 0.58 Alpha-2-macroglobulin family N-terminal region
+A2M_N_2              PF07703.13   139 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   1.3e-32  112.9   4.1   2   3   0.00013      0.27   11.5   0.0     4    85   137   256   132   279 0.66 Alpha-2-macroglobulin family N-terminal region
+A2M_N_2              PF07703.13   139 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   1.3e-32  112.9   4.1   3   3   7.6e-32   1.6e-28   99.7   1.0     3   139   492   623   490   623 0.89 Alpha-2-macroglobulin family N-terminal region
+A2M                  PF00207.21    92 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   6.1e-30  102.8   0.6   1   1     9e-33   1.9e-29  101.3   0.6     1    92   740   831   740   831 0.98 Alpha-2-macroglobulin family
+A2M_recep            PF07677.13    92 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   3.2e-20   72.6   0.1   1   1   6.1e-23   1.3e-19   70.7   0.1     1    92  1355  1439  1355  1439 0.95 A-macroglobulin receptor
+A2M_N                PF01835.18    96 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   1.5e-19   70.1   0.0   1   2   3.5e-22   7.4e-19   67.9   0.0     2    96   134   224   133   224 0.96 MG2 domain
+A2M_N                PF01835.18    96 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   1.5e-19   70.1   0.0   2   2       6.7   1.4e+04   -3.5   0.0    54    75   920   941   912   947 0.75 MG2 domain
+Thiol-ester_cl       PF10569.8     30 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   1.5e-12   46.8   0.0   1   1     2e-15   4.2e-12   45.4   0.0     1    29   959   987   959   988 0.98 Alpha-macro-globulin thiol-ester bond-forming region
+CBM_14               PF01607.23    53 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521   2.9e-06   27.3   8.8   1   1   2.9e-09     6e-06   26.2   8.8     1    53  1466  1517  1466  1517 0.97 Chitin binding Peritrophin-A domain
+Prenyltrans          PF00432.20    44 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521     0.032   13.9   0.0   1   3       1.1   2.3e+03   -1.6   0.0    27    35  1018  1026  1011  1027 0.69 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.20    44 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521     0.032   13.9   0.0   2   3      0.02        42    3.9   0.0     4    23  1063  1082  1060  1090 0.83 Prenyltransferase and squalene oxidase repeat
+Prenyltrans          PF00432.20    44 Lingula_anatina_PF01607_containing_seqs_LAN|XP_013389534.1 -           1521     0.032   13.9   0.0   3   3    0.0045       9.4    6.0   0.0     7    22  1224  1239  1223  1240 0.90 Prenyltransferase and squalene oxidase repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000063.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000063.pfam.hmmscan_out --domtblout OG0000063.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000063.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:37:00 2018
+# [ok]

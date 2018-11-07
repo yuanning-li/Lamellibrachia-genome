@@ -1,0 +1,21 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   1   8   2.4e-08   0.00041   20.4   5.7     1    47    29    76    29    78 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   2   8   2.4e-08   0.00041   20.4   5.7     1    47    79   126    79   128 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   3   8   2.4e-08   0.00041   20.4   5.7     1    47   129   176   129   178 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   4   8   2.4e-08   0.00041   20.4   5.7     1    47   179   226   179   228 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   5   8   2.8e-09   4.7e-05   23.4   3.6     1    49   229   278   229   280 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   6   8   1.5e-08   0.00025   21.1   0.2     1    46   279   325   279   328 0.77 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   7   8   1.2e-08    0.0002   21.4  10.1     1    53   329   380   329   380 0.95 Chitin binding Peritrophin-A domain
+CBM_14               PF01607.23    53 Lamellibrachia_luymsi_PF01607_containing_seqs_LLU|FUN_001745-T1 -            435   1.3e-35  121.2  95.6   8   8   1.7e-06     0.029   14.5   8.3     1    48   380   429   380   432 0.90 Chitin binding Peritrophin-A domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000049.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000049.pfam.hmmscan_out --domtblout OG0000049.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000049.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Chitin_binding_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Wed Oct 24 11:35:29 2018
+# [ok]

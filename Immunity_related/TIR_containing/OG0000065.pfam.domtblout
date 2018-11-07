@@ -1,0 +1,16 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Neur_chan_memb       PF02932.15   238 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29696-1.23 -            183   8.6e-15   55.3   0.1   1   1   1.8e-18     1e-14   55.1   0.1    60   236     2   174     1   176 0.80 Neurotransmitter-gated ion-channel transmembrane region
+Flg_hook             PF02120.15    85 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29696-1.23 -            183     0.015   15.0   0.3   1   1   4.2e-06     0.023   14.5   0.3    44    84   102   142    98   143 0.88 Flagellar hook-length control protein FliK
+DUF677               PF05055.11   336 Bathymodiolus_platifrons_TIR_containing_seqs_BPL|Bpl_scaf_29696-1.23 -            183     0.045   12.5   0.2   1   1   1.1e-05     0.061   12.1   0.2   150   201   120   174    93   181 0.76 Protein of unknown function (DUF677)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000065.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000065.pfam.hmmscan_out --domtblout OG0000065.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000065.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/TIR_domain_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Mon Jul  2 14:05:06 2018
+# [ok]
