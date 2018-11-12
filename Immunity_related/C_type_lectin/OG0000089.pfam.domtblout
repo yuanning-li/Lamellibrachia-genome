@@ -1,0 +1,21 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TauD                 PF02668.15   269 Bathymodiolus_platifrons_PF00059_containing_seqs_BPL|Bpl_scaf_2912-1.3 -            456     1e-17   64.7   0.0   1   1   1.8e-21   1.5e-17   64.2   0.0     2   255    13   257    12   274 0.81 Taurine catabolism dioxygenase TauD, TfdA family
+Lectin_C             PF00059.20   108 Bathymodiolus_platifrons_PF00059_containing_seqs_BPL|Bpl_scaf_2912-1.3 -            456     1e-05   26.1   0.2   1   1   2.5e-09   2.1e-05   25.1   0.2     6   101   325   420   322   423 0.81 Lectin C-type domain
+TauD                 PF02668.15   269 Mizuhopecten_yessoensis_PF00059_containing_seqs_MYE|XP_021364303.1 -            488   6.1e-21   75.3   0.0   1   1   2.8e-24   2.4e-20   73.3   0.0     2   257    52   296    51   313 0.79 Taurine catabolism dioxygenase TauD, TfdA family
+Lectin_C             PF00059.20   108 Mizuhopecten_yessoensis_PF00059_containing_seqs_MYE|XP_021364303.1 -            488   8.5e-07   29.6   0.2   1   1   2.6e-10   2.2e-06   28.3   0.2     7    99   362   452   358   456 0.87 Lectin C-type domain
+TauD                 PF02668.15   269 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_48804-1.14 -            486     3e-17   63.2   0.0   1   1   5.4e-21   4.5e-17   62.6   0.0     4   263    47   296    45   306 0.82 Taurine catabolism dioxygenase TauD, TfdA family
+Lectin_C             PF00059.20   108 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_48804-1.14 -            486     3e-07   31.1   0.1   1   1     8e-11   6.7e-07   29.9   0.1     8   101   358   451   354   454 0.92 Lectin C-type domain
+TauD                 PF02668.15   269 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T23629 -            488   6.1e-21   75.3   0.0   1   1   2.8e-24   2.4e-20   73.3   0.0     2   257    52   296    51   313 0.79 Taurine catabolism dioxygenase TauD, TfdA family
+Lectin_C             PF00059.20   108 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T23629 -            488   8.5e-07   29.6   0.2   1   1   2.6e-10   2.2e-06   28.3   0.2     7    99   362   452   358   456 0.87 Lectin C-type domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000089.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000089.pfam.hmmscan_out --domtblout OG0000089.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000089.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:29:39 2018
+# [ok]

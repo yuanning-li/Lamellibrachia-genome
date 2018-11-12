@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PRY                  PF13765.5     49 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466   3.5e-23   80.9   1.3   1   1   3.9e-26   6.5e-23   80.0   1.3     1    49   269   320   269   320 0.98 SPRY-associated domain
+SPRY                 PF00622.27   120 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466   1.4e-14   54.1   0.0   1   1   1.6e-17   2.6e-14   53.2   0.0     1   107   324   429   324   439 0.90 SPRY domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466   1.4e-06   28.3   0.0   1   1   1.9e-09   3.2e-06   27.2   0.0    30   108     2    81     1    82 0.82 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466    0.0025   18.3   0.0   1   2   3.7e-05     0.062   13.8   0.0    31    76    12    65     2    67 0.70 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466    0.0025   18.3   0.0   2   2      0.25   4.1e+02    1.6   0.0    15    36    96   118    87   163 0.75 Immunoglobulin domain
+DUF3169              PF11368.7    250 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466     0.054   12.9   0.1   1   1     5e-05     0.083   12.3   0.1    50    90   187   227   163   239 0.76 Protein of unknown function (DUF3169)
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466     0.057   13.4   0.0   1   1   8.6e-05      0.14   12.1   0.0    50    83    48    81    34    85 0.87 Izumo-like Immunoglobulin domain
+DUF3213              PF11491.7     84 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466      0.11   12.6   2.6   1   1   0.00013      0.21   11.7   2.6    29    84   207   263   199   263 0.89 Protein of unknown function (DUF3213)
+DUF106               PF01956.15   170 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466      0.12   12.0   0.4   1   1   0.00012       0.2   11.3   0.4     9    72   185   245   177   259 0.65 Integral membrane protein DUF106
+DUF4381              PF14316.5    146 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466      0.12   12.5   0.0   1   1   0.00011      0.19   11.9   0.0    12    74   181   255   173   268 0.71 Domain of unknown function (DUF4381)
+DUF4446              PF14584.5    150 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001184162.1 -            466      0.13   12.2   0.6   1   1   0.00012       0.2   11.5   0.6     4    70   188   255   186   270 0.70 Protein of unknown function (DUF4446)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000522.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000522.pfam.hmmscan_out --domtblout OG0000522.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000522.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:09:16 2018
+# [ok]

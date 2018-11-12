@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Longin               PF13774.5     84 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172112.1 -            260   5.9e-27   93.4   0.6   1   2   7.1e-31   5.9e-27   93.4   0.6     2    83    30   107    29   108 0.95 Regulated-SNARE-like domain
+Longin               PF13774.5     84 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172112.1 -            260   5.9e-27   93.4   0.6   2   2      0.77   6.5e+03   -2.8   1.4    18    34   158   175   142   185 0.60 Regulated-SNARE-like domain
+Synaptobrevin        PF00957.20    89 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172112.1 -            260     0.011   15.4   0.2   1   1   2.5e-06     0.021   14.5   0.2     3    29   124   150   122   155 0.87 Synaptobrevin
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000241.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000241.pfam.hmmscan_out --domtblout OG0000241.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000241.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:58:56 2018
+# [ok]

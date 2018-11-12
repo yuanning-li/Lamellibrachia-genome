@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344   3.2e-12   46.5   0.0   1   2   1.3e-14   2.4e-11   43.6   0.0     6   101    47   143    42   151 0.84 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344   3.2e-12   46.5   0.0   2   2      0.44   8.1e+02    0.1   0.0    30    83   183   235   162   237 0.66 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344     5e-05   23.7   0.0   1   2   2.3e-06    0.0043   17.5   0.0    13    76    49   134    39   137 0.80 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344     5e-05   23.7   0.0   2   2      0.05        93    3.6   0.0    26    41   177   192   161   239 0.75 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344   0.00056   19.8   0.0   1   2     2e-05     0.037   14.0   0.0    10    78    47   138    39   150 0.80 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344   0.00056   19.8   0.0   2   2     0.057   1.1e+02    2.9   0.0    24    43   175   196   165   241 0.77 Immunoglobulin I-set domain
+DUF1822              PF08852.10   368 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344     0.014   14.4   0.4   1   1   1.2e-05     0.021   13.7   0.4   170   255   224   322   207   342 0.89 Protein of unknown function (DUF1822)
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344     0.024   14.9   0.0   1   2   0.00019      0.36   11.1   0.0    13    64    51   136    40   144 0.71 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344     0.024   14.9   0.0   2   2      0.44   8.1e+02    0.4   0.0    26    41   179   195   172   220 0.62 Immunoglobulin domain
+DUF4381              PF14316.5    146 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344      0.03   14.4   0.3   1   1   2.7e-05      0.05   13.7   0.3     2    59   243   299   242   321 0.55 Domain of unknown function (DUF4381)
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344      0.11   12.5   0.0   1   1   0.00018      0.33   11.1   0.0     6    80    47   141    43   146 0.86 Immunoglobulin domain
+PET117               PF15786.4     70 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344       1.1    9.5   5.8   1   2      0.46   8.6e+02    0.2   0.0    16    28    79    91    74   110 0.79 PET assembly of cytochrome c oxidase, mitochondrial
+PET117               PF15786.4     70 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344       1.1    9.5   5.8   2   2    0.0011         2    8.6   3.8    30    70   271   306   269   306 0.85 PET assembly of cytochrome c oxidase, mitochondrial
+CcmD                 PF04995.13    44 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001295174.1 -            344       2.4    8.2   6.4   1   1    0.0019       3.5    7.7   5.6    15    42   266   293   257   296 0.90 Heme exporter protein D (CcmD)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000668.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000668.pfam.hmmscan_out --domtblout OG0000668.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000668.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:17:59 2018
+# [ok]

@@ -1,0 +1,36 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.16   260 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776  1.1e-104  349.2   0.1   1   2       1.8   2.4e+03   -2.6   0.1   158   181    85   108    78   112 0.63 Protein tyrosine kinase
+Pkinase_Tyr          PF07714.16   260 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776  1.1e-104  349.2   0.1   2   2  1.9e-107  2.6e-104  348.0   0.0     2   260   423   698   422   698 0.98 Protein tyrosine kinase
+Pkinase              PF00069.24   264 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   2.8e-46  157.9   0.0   1   1     4e-49   5.6e-46  156.9   0.0     4   260   425   696   422   698 0.87 Protein kinase domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   1.6e-29  101.7   0.0   1   2   3.5e-17   4.8e-14   52.1   0.0    13    90   113   191   104   191 0.89 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   1.6e-29  101.7   0.0   2   2   1.2e-15   1.6e-12   47.2   0.0     7    90   206   302   203   302 0.86 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   2.7e-25   88.7   0.1   1   2   1.9e-13   2.6e-10   40.6   0.0    11    79   110   178    97   178 0.83 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   2.7e-25   88.7   0.1   2   2   5.1e-15     7e-12   45.7   0.0     7    79   206   289   198   289 0.82 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776     1e-19   70.3   0.0   1   2   3.3e-12   4.5e-09   36.2   0.0     3    80   107   182   105   189 0.92 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776     1e-19   70.3   0.0   2   2   8.7e-11   1.2e-07   31.7   0.0     6    79   209   292   206   298 0.88 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776     4e-19   68.6   0.1   1   2   2.7e-13   3.7e-10   39.9   0.1     9    69   110   182    99   191 0.85 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776     4e-19   68.6   0.1   2   2   7.1e-09   9.9e-06   25.7   0.0     2    74   199   297   198   302 0.72 Immunoglobulin domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   1.8e-10   40.9   0.3   1   3   3.1e-05     0.044   13.9   0.1    51   108   136   191   108   192 0.87 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   1.8e-10   40.9   0.3   2   3   1.3e-07   0.00018   21.6   0.0     5   109   208   303   205   303 0.80 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   1.8e-10   40.9   0.3   3   3       1.5   2.1e+03   -1.2   0.0    30    87   337   398   327   408 0.65 Immunoglobulin V-set domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   0.00072   19.5   0.1   1   3   0.00018      0.25   11.4   0.0    14    42   114   141   101   190 0.76 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   0.00072   19.5   0.1   2   3     0.022        30    4.7   0.0    17    38   216   236   203   243 0.80 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776   0.00072   19.5   0.1   3   3       5.9   8.3e+03   -3.1   0.0    20    31   730   741   726   741 0.82 CD80-like C2-set immunoglobulin domain
+DUF4611              PF15387.5     96 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776     0.077   13.1   1.3   1   1   0.00012      0.16   12.1   1.3    57    90    62    95    46    98 0.84 Domain of unknown function (DUF4611)
+V-set_CD47           PF08204.10   130 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776      0.12   12.3   0.1   1   2   0.00082       1.1    9.1   0.0    87   119   158   191   139   195 0.80 CD47 immunoglobulin-like domain
+V-set_CD47           PF08204.10   130 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776      0.12   12.3   0.1   2   2      0.51   7.2e+02    0.0   0.0    27   105   208   288   207   303 0.61 CD47 immunoglobulin-like domain
+Kinase-like          PF14531.5    288 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776      0.15   11.3   0.0   1   2       1.4   1.9e+03   -2.3   0.0    14    61   422   474   418   487 0.63 Kinase-like
+Kinase-like          PF14531.5    288 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776      0.15   11.3   0.0   2   2   0.00031      0.43    9.7   0.0   151   245   549   639   527   648 0.84 Kinase-like
+DUF1615              PF07759.11   320 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011542750.1 -            776      0.16   11.0   0.0   1   1   0.00022      0.31   10.1   0.0    88   140   458   512   436   521 0.78 Protein of unknown function (DUF1615)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001290.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001290.pfam.hmmscan_out --domtblout OG0001290.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001290.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:01:47 2018
+# [ok]

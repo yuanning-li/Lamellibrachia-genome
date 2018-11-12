@@ -1,0 +1,19 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011437489.1 -            176   8.7e-12   45.6   0.2   1   1     2e-15   1.1e-11   45.3   0.2     3   108    47   163    45   163 0.90 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011437489.1 -            176    0.0014   18.2   1.0   1   1   3.9e-07    0.0022   17.6   1.0    81   181    24   164     4   173 0.64 UL45 protein, carbohydrate-binding C-type lectin-like
+PPV_E2_C             PF00511.16    80 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011437489.1 -            176     0.048   13.7   0.1   1   2   0.00013      0.73   10.0   0.0    35    63    48    76    40    89 0.88 E2 (early) protein, C terminal
+PPV_E2_C             PF00511.16    80 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011437489.1 -            176     0.048   13.7   0.1   2   2     0.069   3.9e+02    1.2   0.1    29    56   114   141   104   160 0.75 E2 (early) protein, C terminal
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022289819.1 -            168   5.6e-14   52.7   1.4   1   1     9e-18   7.5e-14   52.3   1.4     4   107    40   154    38   155 0.93 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022289819.1 -            168   5.7e-05   22.8   0.2   1   1   9.1e-09   7.6e-05   22.3   0.2    82   180    17   155     4   165 0.71 UL45 protein, carbohydrate-binding C-type lectin-like
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000127.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000127.pfam.hmmscan_out --domtblout OG0000127.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000127.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:42:17 2018
+# [ok]

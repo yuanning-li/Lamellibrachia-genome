@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_II_beta          PF00969.18    75 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   4.6e-34  116.3   0.2   1   1   3.5e-37   8.3e-34  115.5   0.2     1    73    42   112    42   114 0.97 Class II histocompatibility antigen, beta domain
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   1.5e-28   98.9   0.3   1   2   2.4e-31   5.8e-28   97.0   0.1     1    86   126   207   126   207 0.97 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   1.5e-28   98.9   0.3   2   2      0.74   1.8e+03   -0.7   0.0    29    43   210   224   208   229 0.77 Immunoglobulin C1-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   4.9e-05   23.8   0.0   1   2   8.3e-08    0.0002   21.8   0.0     2    78   124   203   123   204 0.74 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   4.9e-05   23.8   0.0   2   2       1.8   4.3e+03   -1.7   0.0    29    40   208   220   205   240 0.71 Immunoglobulin domain
+Marek_A              PF02124.14   210 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   0.00093   19.0   0.0   1   1   6.3e-07    0.0015   18.3   0.0    93   202   140   244   116   247 0.76 Marek's disease glycoprotein A
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258   0.00093   19.4   0.0   1   1   7.5e-07    0.0018   18.5   0.0    18    77   141   213   123   215 0.71 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258     0.001   19.1   0.1   1   1   7.7e-07    0.0018   18.3   0.1    15    82   141   210   128   218 0.82 Immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002112.3 -            258    0.0099   15.8   0.1   1   1   9.7e-06     0.023   14.7   0.1    22    87   144   208   125   211 0.85 CD80-like C2-set immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000753.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000753.pfam.hmmscan_out --domtblout OG0000753.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000753.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:23:23 2018
+# [ok]

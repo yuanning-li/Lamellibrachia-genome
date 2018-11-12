@@ -1,0 +1,26 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   1.4e-06   28.2   1.9   1   2      0.28   7.8e+02    0.1   0.0    33    66    44    79    17    90 0.61 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   1.4e-06   28.2   1.9   2   2   1.7e-09   4.8e-06   26.4   0.9    14    84   131   193   120   198 0.82 CD80-like C2-set immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00011   22.4   1.9   1   2       1.4     4e+03   -1.9   0.0    43    60    84   103    59   113 0.62 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00011   22.4   1.9   2   2   5.1e-08   0.00014   22.0   0.6     7    77   125   203   119   205 0.81 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00029   21.3   4.0   1   3     0.002       5.6    7.6   0.1    42    74    68   103    45   106 0.72 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00029   21.3   4.0   2   3   2.3e-05     0.064   13.8   0.9    13    78   129   191   120   192 0.74 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00029   21.3   4.0   3   3      0.19   5.2e+02    1.2   0.2    14    34   179   200   170   219 0.67 Immunoglobulin domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00047   20.2   0.1   1   2   2.7e-06    0.0076   16.3   0.0    31   109    44   122    26   122 0.77 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250   0.00047   20.2   0.1   2   2      0.11     3e+02    1.5   0.0    10    35   180   205   178   226 0.74 Immunoglobulin V-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250    0.0015   18.5   5.2   1   2      0.03        85    3.3   0.2    52    80    84   112    53   117 0.70 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250    0.0015   18.5   5.2   2   2   2.1e-06    0.0058   16.7   1.0     2    86   123   202   122   204 0.90 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250     0.039   13.9   0.4   1   2     0.023        64    3.6   0.0    42    78    65   109    47   121 0.66 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016861789.1 -            250     0.039   13.9   0.4   2   2   0.00097       2.7    8.0   0.1    23    47   141   165   134   204 0.87 Immunoglobulin I-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001373.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001373.pfam.hmmscan_out --domtblout OG0001373.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001373.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:17:03 2018
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161   1.7e-15   56.9   0.8   1   1   9.2e-19   2.2e-15   56.5   0.8     2    85    22   117    21   119 0.94 Immunoglobulin domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161   3.6e-05   23.8   0.6   1   1   2.4e-08   5.8e-05   23.1   0.5    11   104    31   118    20   124 0.67 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161   0.00027   21.4   0.2   1   1     2e-07   0.00047   20.6   0.2    13    76    28   105    15   108 0.70 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161     0.032   14.2   0.0   1   1   2.2e-05     0.054   13.5   0.0    13    78    29   109    17   122 0.77 Immunoglobulin I-set domain
+zf-C5HC2             PF02928.15    54 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161     0.085   13.2   0.3   1   2       2.1     5e+03   -2.1   0.0    35    35    38    38    19    61 0.58 C5HC2 zinc finger
+zf-C5HC2             PF02928.15    54 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161     0.085   13.2   0.3   2   2   9.2e-05      0.22   11.8   0.0     8    29    89   109    87   127 0.80 C5HC2 zinc finger
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161      0.12   12.4   0.1   1   1   0.00018      0.43   10.6   0.1    42    75    80   113    28   124 0.76 Izumo-like Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_006279.2 -            161      0.12   12.7   0.9   1   1   0.00015      0.36   11.1   0.9    45    76    79   119    12   122 0.64 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000804.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000804.pfam.hmmscan_out --domtblout OG0000804.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000804.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:26:18 2018
+# [ok]

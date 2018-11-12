@@ -1,0 +1,16 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Biomphalaria_glabrata_PF00059_containing_seqs_BGL|XP_013075383.1 -            187   3.1e-05   24.5   1.2   1   2   3.8e-09   3.1e-05   24.5   1.2    18   107     2    87     2    88 0.83 Lectin C-type domain
+Lectin_C             PF00059.20   108 Biomphalaria_glabrata_PF00059_containing_seqs_BGL|XP_013075383.1 -            187   3.1e-05   24.5   1.2   2   2      0.27   2.2e+03   -0.7   0.2    57    57   125   125    90   166 0.48 Lectin C-type domain
+Mucin                PF01456.16   143 Biomphalaria_glabrata_PF00059_containing_seqs_BGL|XP_013075383.1 -            187    0.0048   16.8  21.1   1   1   7.8e-07    0.0065   16.4  21.1    41   110    94   161    62   186 0.57 Mucin-like glycoprotein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000170.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000170.pfam.hmmscan_out --domtblout OG0000170.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000170.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:50:16 2018
+# [ok]

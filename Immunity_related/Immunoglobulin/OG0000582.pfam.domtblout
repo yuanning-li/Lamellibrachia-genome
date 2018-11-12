@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001264092.1 -            212   2.7e-15   56.4   0.0   1   1   1.3e-18   3.6e-15   56.0   0.0     3   108    40   140    38   141 0.95 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001264092.1 -            212     0.009   16.5   0.0   1   1   5.7e-06     0.016   15.7   0.0     5    76    37   123    35   125 0.77 Immunoglobulin domain
+Podoplanin           PF05808.10   161 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001264092.1 -            212     0.014   15.5   0.1   1   1   6.6e-06     0.018   15.0   0.1   122   153   144   175    87   182 0.81 Podoplanin
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001264092.1 -            212     0.015   15.2   0.0   1   1   9.7e-06     0.027   14.4   0.0    10    79    43   129    34   140 0.62 Immunoglobulin I-set domain
+DUF4690              PF15756.4     96 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001264092.1 -            212     0.019   15.5   0.2   1   1     1e-05     0.028   14.9   0.2    41    88   125   173    84   179 0.68 Domain of unknown function (DUF4690)
+LHC                  PF00556.19    39 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001264092.1 -            212      0.11   12.7   1.8   1   1   7.8e-05      0.22   11.7   1.8    12    38   155   183   153   184 0.94 Antenna complex alpha/beta subunit
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000582.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000582.pfam.hmmscan_out --domtblout OG0000582.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000582.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:12:46 2018
+# [ok]

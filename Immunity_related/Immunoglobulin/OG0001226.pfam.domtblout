@@ -1,0 +1,23 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266   2.3e-08   34.2   0.2   1   1   1.9e-11   4.5e-08   33.2   0.2     2    79    29   117    28   117 0.80 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266   3.2e-07   30.7   1.2   1   2   2.2e-10   5.3e-07   30.1   0.1     1    76    28    97    28    99 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266   3.2e-07   30.7   1.2   2   2       2.4   5.7e+03   -2.1   0.2     8     8   174   174   150   197 0.52 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266   4.4e-05   23.5   0.3   1   1   4.1e-08   9.7e-05   22.4   0.3     3    80    34   104    32   111 0.87 Immunoglobulin domain
+DUF4962              PF16332.4    476 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266   0.00095   17.7   0.3   1   1   5.4e-07    0.0013   17.2   0.3    27   128    33   131    20   137 0.79 Domain of unknown function (DUF4962)
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266    0.0041   17.2   0.1   1   2     0.095   2.3e+02    1.9   0.1     8    23    39    54    35    64 0.78 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266    0.0041   17.2   0.1   2   2   4.3e-05       0.1   12.7   0.0    65   108    71   117    61   118 0.72 Immunoglobulin V-set domain
+MSA-2c               PF12238.7    216 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266       3.5    7.5  10.0   1   2       2.5   5.9e+03   -3.1   0.1   173   210    24    58    19    59 0.52 Merozoite surface antigen 2c
+MSA-2c               PF12238.7    216 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266       3.5    7.5  10.0   2   2    0.0003      0.72    9.7   6.4   153   208   146   200    95   206 0.80 Merozoite surface antigen 2c
+Macoilin             PF09726.8    671 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011525151.1 -            266       4.2    5.7  12.5   1   1     0.002       4.9    5.5  12.5   218   397    48   223    21   248 0.54 Macoilin family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001226.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001226.pfam.hmmscan_out --domtblout OG0001226.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001226.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:55:34 2018
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+I-set                PF07679.15    90 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359544.1 -            450   2.5e-06   27.4   0.0   1   1   1.2e-09   6.8e-06   26.0   0.0    11    85   180   260   173   265 0.80 Immunoglobulin I-set domain
+Receptor_2B4         PF11465.7    108 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359544.1 -            450   0.00042   20.4   0.2   1   2       0.7   3.9e+03   -2.0   0.0    34    54    75    95    58   103 0.70 Natural killer cell receptor 2B4
+Receptor_2B4         PF11465.7    108 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359544.1 -            450   0.00042   20.4   0.2   2   2   5.2e-07    0.0029   17.7   0.1    67   107   227   267   183   268 0.84 Natural killer cell receptor 2B4
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359544.1 -            450   0.00051   20.5   0.8   1   2   4.7e-07    0.0026   18.2   0.0    14    79   182   252   175   252 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359544.1 -            450   0.00051   20.5   0.8   2   2       1.5   8.6e+03   -2.7   2.2    37    37   333   333   294   387 0.62 Immunoglobulin domain
+I-set                PF07679.15    90 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359545.1 -            450   2.5e-06   27.4   0.0   1   1   1.2e-09   6.8e-06   26.0   0.0    11    85   180   260   173   265 0.80 Immunoglobulin I-set domain
+Receptor_2B4         PF11465.7    108 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359545.1 -            450   0.00042   20.4   0.2   1   2       0.7   3.9e+03   -2.0   0.0    34    54    75    95    58   103 0.70 Natural killer cell receptor 2B4
+Receptor_2B4         PF11465.7    108 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359545.1 -            450   0.00042   20.4   0.2   2   2   5.2e-07    0.0029   17.7   0.1    67   107   227   267   183   268 0.84 Natural killer cell receptor 2B4
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359545.1 -            450   0.00051   20.5   0.8   1   2   4.7e-07    0.0026   18.2   0.0    14    79   182   252   175   252 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021359545.1 -            450   0.00051   20.5   0.8   2   2       1.5   8.6e+03   -2.7   2.2    37    37   333   333   294   387 0.62 Immunoglobulin domain
+I-set                PF07679.15    90 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T22881 -            450   2.5e-06   27.4   0.0   1   1   1.2e-09   6.8e-06   26.0   0.0    11    85   180   260   173   265 0.80 Immunoglobulin I-set domain
+Receptor_2B4         PF11465.7    108 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T22881 -            450   0.00042   20.4   0.2   1   2       0.7   3.9e+03   -2.0   0.0    34    54    75    95    58   103 0.70 Natural killer cell receptor 2B4
+Receptor_2B4         PF11465.7    108 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T22881 -            450   0.00042   20.4   0.2   2   2   5.2e-07    0.0029   17.7   0.1    67   107   227   267   183   268 0.84 Natural killer cell receptor 2B4
+Ig_3                 PF13927.5     79 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T22881 -            450   0.00051   20.5   0.8   1   2   4.7e-07    0.0026   18.2   0.0    14    79   182   252   175   252 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T22881 -            450   0.00051   20.5   0.8   2   2       1.5   8.6e+03   -2.7   2.2    37    37   333   333   294   387 0.62 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000196.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000196.pfam.hmmscan_out --domtblout OG0000196.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000196.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:40:31 2018
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309372.1 -            151   1.2e-13   51.6   0.0   1   1     3e-17   1.6e-13   51.2   0.0     4   108    41   145    38   145 0.88 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309372.1 -            151   6.8e-05   22.5   0.2   1   1   1.7e-08   9.2e-05   22.1   0.2    70   125     4    60     1   148 0.88 UL45 protein, carbohydrate-binding C-type lectin-like
+Chordopox_A33R       PF05966.11   186 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309372.1 -            151     0.047   12.9   0.0   1   1   1.2e-05     0.065   12.4   0.0   105   146    25    68    11    73 0.78 Chordopoxvirus A33R protein
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309373.1 -            151   3.6e-13   50.1   0.0   1   1   8.9e-17     5e-13   49.6   0.0     4   108    41   145    38   145 0.89 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309373.1 -            151   4.2e-05   23.2   0.2   1   1   1.5e-08   8.1e-05   22.3   0.2    70   125     4    60     1   149 0.81 UL45 protein, carbohydrate-binding C-type lectin-like
+Chordopox_A33R       PF05966.11   186 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309373.1 -            151     0.047   12.9   0.0   1   1   1.1e-05     0.063   12.4   0.0   105   146    25    68    11    74 0.79 Chordopoxvirus A33R protein
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309991.1 -            151   2.7e-14   53.7   0.0   1   1   6.5e-18   3.6e-14   53.3   0.0     2   108    39   145    38   145 0.90 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309991.1 -            151   2.4e-06   27.3   0.2   1   1   5.7e-10   3.2e-06   26.8   0.2    70   125     4    60     1   148 0.87 UL45 protein, carbohydrate-binding C-type lectin-like
+Chordopox_A33R       PF05966.11   186 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022309991.1 -            151    0.0021   17.3   0.0   1   1   5.1e-07    0.0028   16.9   0.0   105   146    25    68    11    73 0.79 Chordopoxvirus A33R protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000106.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000106.pfam.hmmscan_out --domtblout OG0000106.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000106.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:36:49 2018
+# [ok]

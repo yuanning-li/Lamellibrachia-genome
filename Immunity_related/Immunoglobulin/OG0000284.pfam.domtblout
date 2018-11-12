@@ -1,0 +1,18 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013091759.1 -            144   3.7e-07   30.2   0.1   1   1   1.4e-10   4.8e-07   29.8   0.1    10   108    35   132    27   133 0.83 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013091759.1 -            144    0.0051   17.3   0.0   1   1   2.8e-06    0.0092   16.5   0.0    13    76    33   110    25   112 0.75 Immunoglobulin domain
+I-set                PF07679.15    90 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013091759.1 -            144    0.0063   16.5   0.1   1   1   2.6e-06    0.0086   16.0   0.1    32    74    55   110    27   127 0.75 Immunoglobulin I-set domain
+Plug_translocon      PF10559.8     35 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013091759.1 -            144     0.041   13.6   0.7   1   1   2.6e-05     0.085   12.6   0.7     2    18    14    30    14    34 0.90 Plug domain of Sec61p
+ig                   PF00047.24    87 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013091759.1 -            144     0.095   12.8   0.0   1   1     5e-05      0.17   12.0   0.0    10    78    35   115    27   124 0.71 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000284.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000284.pfam.hmmscan_out --domtblout OG0000284.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000284.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:49:36 2018
+# [ok]

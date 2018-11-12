@@ -1,0 +1,20 @@
+#                                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+I-set                PF07679.15    90 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111   3.2e-06   27.0   0.0   1   1   1.9e-09   4.6e-06   26.5   0.0    10    81     6    85     2    94 0.83 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111   0.00012   22.5   0.0   1   1   8.1e-08   0.00019   21.8   0.0    13    76     8    78     2    80 0.72 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111    0.0017   18.6   0.0   1   1     1e-06    0.0024   18.1   0.0    10    66     7    82     2    93 0.78 Immunoglobulin domain
+V-set                PF07686.16   109 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111    0.0019   18.3   0.1   1   1   8.4e-06      0.02   15.0   0.1    60    98    51    84     3    94 0.58 Immunoglobulin V-set domain
+ig                   PF00047.24    87 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111    0.0022   18.0   0.0   1   1   1.4e-06    0.0033   17.5   0.0     8    80     8    85     2    94 0.80 Immunoglobulin domain
+Ig_5                 PF16681.4     83 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111     0.024   14.9   0.8   1   1   2.9e-05     0.069   13.5   0.8    21    63    44    85     8    93 0.79 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Izumo-Ig             PF16706.4     88 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_62624-0.1 -            111     0.055   13.4   0.0   1   1   2.7e-05     0.064   13.2   0.0    34    78    45    89     9    94 0.85 Izumo-like Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000265.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000265.pfam.hmmscan_out --domtblout OG0000265.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000265.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:48:40 2018
+# [ok]

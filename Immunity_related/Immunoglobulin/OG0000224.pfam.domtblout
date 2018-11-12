@@ -1,0 +1,26 @@
+#                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021350227.1 -            332   5.7e-08   33.2   0.0   1   1     4e-11   1.4e-07   32.0   0.0     2    79    40   121    39   121 0.82 Immunoglobulin domain
+I-set                PF07679.15    90 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021350227.1 -            332   1.1e-07   31.7   0.0   1   2   9.4e-11   3.2e-07   30.2   0.0    11    86    50   130    40   134 0.82 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021350227.1 -            332   1.1e-07   31.7   0.0   2   2       1.8   5.9e+03   -2.7   0.0    26    71   193   237   172   239 0.56 Immunoglobulin I-set domain
+V-set                PF07686.16   109 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021350227.1 -            332     3e-06   27.3   0.0   1   1   2.8e-08   9.4e-05   22.5   0.0    10    97    53   124    48   133 0.78 Immunoglobulin V-set domain
+Ig_2                 PF13895.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021350227.1 -            332   1.4e-05   25.2   0.0   1   1   9.7e-09   3.2e-05   24.1   0.0     2    72    40   127    39   132 0.70 Immunoglobulin domain
+ig                   PF00047.24    87 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021350227.1 -            332   0.00016   21.6   0.0   1   1   1.2e-07    0.0004   20.4   0.0     7    85    50   130    45   132 0.85 Immunoglobulin domain
+I-set                PF07679.15    90 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426   3.3e-08   33.4   0.6   1   1   2.8e-11   9.3e-08   31.9   0.6     6    90   174   263   170   263 0.79 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426   7.5e-08   32.8   0.7   1   1     8e-11   2.7e-07   31.0   0.7     2    79   170   249   170   249 0.76 Immunoglobulin domain
+ig                   PF00047.24    87 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426   1.8e-05   24.7   1.2   1   2         2   6.8e+03   -2.8   0.0    26    39    74    87    67    96 0.76 Immunoglobulin domain
+ig                   PF00047.24    87 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426   1.8e-05   24.7   1.2   2   2   5.5e-09   1.8e-05   24.7   1.2     3    83   175   256   173   260 0.84 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426   9.8e-05   22.5   0.9   1   1   6.7e-08   0.00023   21.4   0.9     9    79   178   263   168   263 0.76 Immunoglobulin domain
+V-set                PF07686.16   109 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426      0.02   15.0   3.4   1   2       2.5   8.4e+03   -3.1   0.0    58    78    73    93    63    98 0.66 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Patinopecten_yessoensis_immunoglobulin_containing_seqs_PYE|PY_T06652 -            426      0.02   15.0   3.4   2   2   0.00011      0.37   10.9   1.2     6   108   178   263   174   264 0.73 Immunoglobulin V-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000224.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000224.pfam.hmmscan_out --domtblout OG0000224.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000224.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:45:15 2018
+# [ok]

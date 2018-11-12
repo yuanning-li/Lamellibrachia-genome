@@ -1,0 +1,35 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MAM                  PF00629.22   160 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   1.2e-32  112.9   0.0   1   2   1.8e-35   3.4e-32  111.4   0.0     1   160    27   183    27   183 0.95 MAM domain, meprin/A5/mu
+MAM                  PF00629.22   160 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   1.2e-32  112.9   0.0   2   2       4.2   7.8e+03   -3.5   0.0   129   154   696   719   687   722 0.76 MAM domain, meprin/A5/mu
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   2.4e-28   98.2   7.9   1   5   1.7e-10   3.2e-07   30.5   0.0     5    80   287   361   283   366 0.85 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   2.4e-28   98.2   7.9   2   5   4.2e-07   0.00078   19.6   0.9     3    80   383   466   381   471 0.79 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   2.4e-28   98.2   7.9   3   5   3.1e-13   5.7e-10   39.3   0.0    15    84   498   574   488   575 0.88 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   2.4e-28   98.2   7.9   4   5    0.0046       8.5    6.7   0.0    10    42   598   630   591   649 0.87 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   2.4e-28   98.2   7.9   5   5      0.22     4e+02    1.3   0.0    57    79   686   708   663   713 0.74 Fibronectin type III domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   4.4e-13   49.1   0.0   1   3      0.89   1.7e+03   -0.8   0.0    17    36    35    53    35    96 0.68 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   4.4e-13   49.1   0.0   2   3   2.7e-15   5.1e-12   45.7   0.0     4    80   192   268   189   274 0.96 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   4.4e-13   49.1   0.0   3   3       3.1   5.7e+03   -2.5   0.0    51    71   634   661   621   663 0.72 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   3.9e-05   23.5   0.0   1   1   6.7e-08   0.00012   21.9   0.0     7    80   191   267   186   278 0.86 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   6.1e-05   23.5   0.0   1   2   3.1e-07   0.00057   20.3   0.0    10    77   193   262   188   263 0.83 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   6.1e-05   23.5   0.0   2   2       1.6     3e+03   -1.2   0.0    29    51   427   450   412   474 0.63 Immunoglobulin domain
+Pur_ac_phosph_N      PF16656.4     94 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   0.00027   21.3   3.2   1   3     0.025        47    4.5   0.0    54    79   328   353   291   370 0.76 Purple acid Phosphatase, N-terminal domain
+Pur_ac_phosph_N      PF16656.4     94 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   0.00027   21.3   3.2   2   3      0.31   5.7e+02    1.1   0.8    75    88   419   432   385   459 0.65 Purple acid Phosphatase, N-terminal domain
+Pur_ac_phosph_N      PF16656.4     94 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840   0.00027   21.3   3.2   3   3   7.5e-05      0.14   12.7   0.1    15    84   498   568   489   581 0.78 Purple acid Phosphatase, N-terminal domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840    0.0021   18.3   1.8   1   3      0.53   9.8e+02    0.1   0.0    20    45    35    60    33    77 0.77 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840    0.0021   18.3   1.8   2   3     1e-05     0.019   15.2   0.0     8    79   193   278   182   278 0.75 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840    0.0021   18.3   1.8   3   3       1.6   2.9e+03   -1.4   0.2    21    73   410   471   406   477 0.54 Immunoglobulin domain
+Arylsulfotran_N      PF17425.1     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840     0.067   13.1   0.0   1   2      0.87   1.6e+03   -0.9   0.0    59    74   343   359   341   367 0.82 Arylsulfotransferase Ig-like domain
+Arylsulfotran_N      PF17425.1     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840     0.067   13.1   0.0   2   2   0.00052      0.96    9.4   0.0    36    73   528   567   514   584 0.68 Arylsulfotransferase Ig-like domain
+2HCT                 PF03390.14   416 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016881400.1 -            840      0.11   11.0   0.1   1   1   8.6e-05      0.16   10.5   0.1   191   266   714   788   696   800 0.87 2-hydroxycarboxylate transporter family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001481.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001481.pfam.hmmscan_out --domtblout OG0001481.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001481.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:23:01 2018
+# [ok]

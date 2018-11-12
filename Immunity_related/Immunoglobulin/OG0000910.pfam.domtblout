@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_I                PF00129.17   179 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325   4.9e-39  133.6   0.3   1   1     4e-42   7.4e-39  133.0   0.3    21   177    23   177    14   179 0.95 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325   4.8e-15   55.6   0.0   1   1     5e-18   9.4e-15   54.7   0.0    10    86   192   266   183   266 0.92 Immunoglobulin C1-set domain
+MHC_I_3              PF16497.4    198 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325   3.2e-09   36.4   0.2   1   1   2.9e-12   5.4e-09   35.7   0.2    58   196    38   176    25   177 0.84 MHC-I family domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325    0.0002   21.8   0.0   1   2       2.6   4.7e+03   -1.8   0.0    18    37    96   115    81   124 0.59 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325    0.0002   21.8   0.0   2   2   4.3e-07    0.0008   19.9   0.0    16    78   194   262   183   275 0.72 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325   0.00033   20.8   0.0   1   1   3.7e-07   0.00069   19.8   0.0    10    67   191   265   181   274 0.75 Immunoglobulin domain
+Orf78                PF06024.11   103 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325     0.043   14.0   0.0   1   1   4.2e-05     0.079   13.2   0.0    65    95   281   312   275   320 0.81 Orf78 (ac78)
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325     0.055   13.5   0.0   1   1     8e-05      0.15   12.2   0.0    14    81   198   268   186   273 0.81 Immunoglobulin domain
+SKG6                 PF08693.9     38 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325      0.12   11.7   3.4   1   1   0.00012      0.22   10.9   3.4    14    38   284   310   277   310 0.82 Transmembrane alpha-helix domain
+MRAP                 PF15183.5     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325      0.57   10.1   2.6   1   2      0.52   9.7e+02   -0.3   0.1     4    19   105   118   103   129 0.77 Melanocortin-2 receptor accessory protein family
+MRAP                 PF15183.5     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620578.1 -            325      0.57   10.1   2.6   2   2   0.00064       1.2    9.0   0.4    38    60   282   304   279   317 0.83 Melanocortin-2 receptor accessory protein family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000910.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000910.pfam.hmmscan_out --domtblout OG0000910.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000910.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:33:06 2018
+# [ok]

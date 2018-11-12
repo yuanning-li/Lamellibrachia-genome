@@ -1,0 +1,29 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570   8.2e-28   96.5   0.1   1   3   5.7e-18   1.9e-14   53.6   0.0     1    78    28   116    28   117 0.91 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570   8.2e-28   96.5   0.1   2   3   4.7e-07    0.0016   18.7   0.0     7    77   129   214   123   216 0.71 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570   8.2e-28   96.5   0.1   3   3   1.4e-07   0.00046   20.4   0.1     3    66   225   300   224   317 0.77 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570     1e-17   64.4   0.1   1   3   1.5e-05      0.05   14.1   0.0     1    76    28    99    28   101 0.81 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570     1e-17   64.4   0.1   2   3   8.2e-09   2.7e-05   24.6   0.0     1    76   123   196   123   199 0.82 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570     1e-17   64.4   0.1   3   3   6.6e-08   0.00022   21.7   0.0     2    75   224   295   223   298 0.88 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570   7.7e-15   54.7   0.0   1   3    0.0059        20    5.4   0.0    55    78    81   104    62   110 0.83 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570   7.7e-15   54.7   0.0   2   3   2.7e-08   8.9e-05   22.5   0.0     3    80   129   203   127   206 0.84 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570   7.7e-15   54.7   0.0   3   3   2.5e-08   8.4e-05   22.6   0.0     2    77   228   300   227   309 0.91 Immunoglobulin domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570    0.0014   18.6   2.0   1   4      0.38   1.3e+03   -0.5   0.0     9    38    40    72    34    96 0.71 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570    0.0014   18.6   2.0   2   4      0.13   4.2e+02    1.0   0.0     7    19   133   145   129   164 0.81 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570    0.0014   18.6   2.0   3   4     0.033   1.1e+02    2.9   0.0    67    92   172   197   149   207 0.75 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570    0.0014   18.6   2.0   4   4    0.0032        11    6.2   0.4    70    92   275   297   228   310 0.63 Immunoglobulin V-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570     0.077   13.0   0.0   1   3     0.089     3e+02    1.5   0.0    52    80    77   105    37   113 0.79 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570     0.077   13.0   0.0   2   3     0.015        49    4.0   0.0     7    74   129   196   126   202 0.81 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_011524664.1 -            570     0.077   13.0   0.0   3   3     0.031   1.1e+02    2.9   0.0    53    74   275   296   233   300 0.83 Immunoglobulin I-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001212.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001212.pfam.hmmscan_out --domtblout OG0001212.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001212.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:54:45 2018
+# [ok]

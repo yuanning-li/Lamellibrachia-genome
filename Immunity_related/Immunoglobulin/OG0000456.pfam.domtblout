@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PH                   PF00169.28   105 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001127911.1 -           1253   2.2e-14   53.8   0.2   1   1   1.3e-17   5.4e-14   52.5   0.2     3   100  1146  1241  1144  1245 0.93 PH domain
+PH_8                 PF15409.5     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001127911.1 -           1253   0.00042   20.4   0.1   1   1   2.6e-07    0.0011   19.1   0.1     9    45  1155  1191  1148  1242 0.79 Pleckstrin homology domain
+PH_11                PF15413.5    105 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001127911.1 -           1253   0.00046   20.5   0.4   1   1   5.6e-07    0.0023   18.2   0.4     3    42  1148  1190  1146  1242 0.70 Pleckstrin homology domain
+Exonuc_VII_L         PF02601.14   304 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001127911.1 -           1253       7.7    5.9  43.2   1   3     0.046   1.9e+02    1.3   0.4   167   259   391   489   352   502 0.56 Exonuclease VII, large subunit
+Exonuc_VII_L         PF02601.14   304 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001127911.1 -           1253       7.7    5.9  43.2   2   3     0.016        65    2.8  24.7   142   279   686   840   560   859 0.68 Exonuclease VII, large subunit
+Exonuc_VII_L         PF02601.14   304 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001127911.1 -           1253       7.7    5.9  43.2   3   3    0.0031        13    5.1   4.3   155   217  1037  1101   941  1162 0.57 Exonuclease VII, large subunit
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000456.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000456.pfam.hmmscan_out --domtblout OG0000456.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000456.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:04:30 2018
+# [ok]

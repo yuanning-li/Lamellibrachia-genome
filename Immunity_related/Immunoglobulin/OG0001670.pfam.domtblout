@@ -1,0 +1,34 @@
+#                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_3                 PF13927.5     79 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     5e-08   33.3   0.7   1   3   0.00018      0.33   11.5   0.0     5    78    30   138    26   138 0.68 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     5e-08   33.3   0.7   2   3   1.1e-06    0.0021   18.5   0.1    15    76   170   241   156   244 0.63 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     5e-08   33.3   0.7   3   3       5.6     1e+04   -2.9   0.0    23    40   336   356   331   382 0.49 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   1.9e-07   31.2   0.1   1   3      0.64   1.2e+03   -0.2   0.0    12    37    39    69    27    81 0.73 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   1.9e-07   31.2   0.1   2   3   0.00083       1.5    9.1   0.0    52    72   126   145   101   155 0.75 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   1.9e-07   31.2   0.1   3   3   1.5e-06    0.0029   17.8   0.1    18    75   175   254   158   257 0.72 Immunoglobulin domain
+C2-set_2             PF08205.11    90 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   5.9e-07   29.4   0.1   1   1   8.3e-10   1.5e-06   28.0   0.1    10    43   164   207   155   246 0.73 CD80-like C2-set immunoglobulin domain
+I-set                PF07679.15    90 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   9.4e-07   28.7   0.6   1   2   6.5e-06     0.012   15.6   0.2    56    88   118   150    56   153 0.75 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   9.4e-07   28.7   0.6   2   2   0.00044      0.81    9.7   0.0    20    49   176   207   164   252 0.69 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   5.7e-05   23.1   1.5   1   3    0.0001      0.19   11.8   0.0    56    84   119   147    60   150 0.85 Immunoglobulin domain
+ig                   PF00047.24    87 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   5.7e-05   23.1   1.5   2   3     0.002       3.7    7.7   0.6    14    82   174   250   169   254 0.68 Immunoglobulin domain
+ig                   PF00047.24    87 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   5.7e-05   23.1   1.5   3   3       2.9   5.4e+03   -2.5   0.0    17    38   335   358   334   380 0.76 Immunoglobulin domain
+V-set                PF07686.16   109 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   0.00096   19.2   0.5   1   2   8.6e-06     0.016   15.3   0.1    29   106    61   153    48   156 0.64 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393   0.00096   19.2   0.5   2   2       1.9   3.5e+03   -1.9   0.0    85    99   235   249   226   279 0.71 Immunoglobulin V-set domain
+C1-set               PF07654.14    86 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     0.003   17.8   0.0   1   2      0.25   4.6e+02    1.2   0.0    66    82   122   138   116   142 0.76 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     0.003   17.8   0.0   2   2   4.4e-05     0.082   13.2   0.0    10    84   168   245   161   246 0.71 Immunoglobulin C1-set domain
+V-set_CD47           PF08204.10   130 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     0.064   13.1   1.0   1   3   0.00011      0.21   11.5   0.0    91   121   124   153    99   160 0.80 CD47 immunoglobulin-like domain
+V-set_CD47           PF08204.10   130 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     0.064   13.1   1.0   2   3       1.4   2.5e+03   -1.7   0.1    89   103   227   241   187   250 0.52 CD47 immunoglobulin-like domain
+V-set_CD47           PF08204.10   130 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393     0.064   13.1   1.0   3   3       3.4   6.2e+03   -3.0   0.1    24    42   325   344   304   351 0.67 CD47 immunoglobulin-like domain
+Marek_A              PF02124.14   210 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393      0.11   12.2   0.1   1   2   5.9e-05      0.11   12.2   0.1    57   156   134   241   120   248 0.77 Marek's disease glycoprotein A
+Marek_A              PF02124.14   210 Lingula_anatina_immunoglobulin_containing_seqs_LAN|XP_013398637.1 -            393      0.11   12.2   0.1   2   2      0.37   6.8e+02   -0.2   1.0   175   201   278   307   270   312 0.59 Marek's disease glycoprotein A
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001670.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001670.pfam.hmmscan_out --domtblout OG0001670.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001670.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:33:59 2018
+# [ok]

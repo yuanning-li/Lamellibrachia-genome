@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Aplysia_californica_PF00059_containing_seqs_ACA|XP_012937890.1 -            239   4.7e-06   27.2   0.3   1   2       2.1   1.1e+04   -3.0   0.0    66    85    36    58    27    66 0.60 Lectin C-type domain
+Lectin_C             PF00059.20   108 Aplysia_californica_PF00059_containing_seqs_ACA|XP_012937890.1 -            239   4.7e-06   27.2   0.3   2   2   1.5e-09   8.6e-06   26.4   0.0     3   107   132   238   130   239 0.89 Lectin C-type domain
+UL45                 PF05473.11   200 Aplysia_californica_PF00059_containing_seqs_ACA|XP_012937890.1 -            239     0.032   13.8   0.0   1   1   8.8e-06     0.049   13.2   0.0    85   142   112   169    90   238 0.85 UL45 protein, carbohydrate-binding C-type lectin-like
+PAN_4                PF14295.5     51 Aplysia_californica_PF00059_containing_seqs_ACA|XP_012937890.1 -            239     0.038   13.8   1.7   1   2   8.2e-06     0.046   13.5   0.1    13    38    47    72    37    81 0.78 PAN domain
+PAN_4                PF14295.5     51 Aplysia_californica_PF00059_containing_seqs_ACA|XP_012937890.1 -            239     0.038   13.8   1.7   2   2      0.93   5.2e+03   -2.7   0.1    28    38   120   130   118   142 0.44 PAN domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000156.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000156.pfam.hmmscan_out --domtblout OG0000156.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000156.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:48:33 2018
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   3.2e-21   75.2   0.0   1   2   1.4e-12   4.7e-09   36.2   0.0     2    85    33   113    32   115 0.96 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   3.2e-21   75.2   0.0   2   2   7.8e-13   2.6e-09   37.0   0.0     2    84   133   210   132   213 0.95 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   2.7e-08   34.2   0.0   1   3    0.0002      0.65   10.5   0.0     1    76    28   101    28   103 0.81 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   2.7e-08   34.2   0.0   2   3   1.4e-07   0.00048   20.6   0.0     1    76   128   199   128   201 0.81 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   2.7e-08   34.2   0.0   3   3       3.1     1e+04   -2.9   0.0    23    38   218   231   212   251 0.65 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   1.1e-06   28.8   0.0   1   2    0.0067        22    5.4   0.0    46    77    85   120    28   122 0.61 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341   1.1e-06   28.8   0.0   2   2   8.1e-08   0.00027   21.1   0.0     1    79   128   220   128   220 0.76 Immunoglobulin domain
+Ig_4                 PF16680.4     76 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341     0.054   13.7   0.1   1   2    0.0011       3.7    7.9   0.0    31    54    82   106    42   113 0.74 T-cell surface glycoprotein CD3 delta chain
+Ig_4                 PF16680.4     76 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341     0.054   13.7   0.1   2   2     0.071   2.4e+02    2.1   0.0     2    21   143   161   142   210 0.74 T-cell surface glycoprotein CD3 delta chain
+DUF2244              PF10003.8    138 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341       5.1    6.7   4.8   1   2    0.0032        11    5.6   0.9    18    37     2    21     1    22 0.93 Integral membrane protein (DUF2244)
+DUF2244              PF10003.8    138 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_056952.2 -            341       5.1    6.7   4.8   2   2     0.031     1e+02    2.4   0.2     8    36   240   268   237   270 0.87 Integral membrane protein (DUF2244)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000843.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000843.pfam.hmmscan_out --domtblout OG0000843.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000843.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:29:19 2018
+# [ok]

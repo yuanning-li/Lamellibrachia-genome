@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171   2.9e-12   46.7   0.0   1   1   1.9e-15   4.5e-12   46.1   0.0    16    86    63   129    52   129 0.92 Immunoglobulin C1-set domain
+MHC_I_3              PF16497.4    198 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171   3.6e-12   46.1   0.1   1   1   2.4e-15   5.6e-12   45.4   0.1   159   197     2    40     1    41 0.96 MHC-I family domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171   0.00065   20.2   0.1   1   2   7.7e-05      0.18   12.3   0.0    18    44    62    90    47   107 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171   0.00065   20.2   0.1   2   2    0.0073        17    6.0   0.0    12    36   111   139   103   148 0.71 Immunoglobulin domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171     0.014   15.5   0.0   1   2     0.018        44    4.2   0.0    14    41    63    89    60    97 0.82 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171     0.014   15.5   0.0   2   2   0.00065       1.6    8.9   0.0     5    34   109   139   107   149 0.84 Immunoglobulin V-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171     0.029   14.4   0.1   1   2    0.0068        16    5.6   0.0    13    43    62    93    60   108 0.83 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171     0.029   14.4   0.1   2   2     0.003       7.2    6.8   0.0     5    22   109   127   106   143 0.77 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171      0.11   12.4   0.1   1   2    0.0053        13    5.9   0.0    18    49    63    96    61   110 0.81 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171      0.11   12.4   0.1   2   2     0.014        33    4.5   0.0    10    25   110   125   105   138 0.89 Immunoglobulin I-set domain
+DUF3149              PF11346.7     40 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_024306506.1 -            171      0.17   11.4   0.6   1   1   0.00013      0.32   10.6   0.6     7    30   142   165   141   167 0.91 Protein of unknown function (DUF3149)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001560.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001560.pfam.hmmscan_out --domtblout OG0001560.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001560.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:27:39 2018
+# [ok]

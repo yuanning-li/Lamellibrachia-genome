@@ -1,0 +1,28 @@
+#                                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   1   7   8.1e-09   2.3e-05   24.9   0.6    21    90   204   277   185   279 0.81 Chondroitin proteoglycan 4
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   2   7      0.19   5.3e+02    1.3   0.3     8    51   279   325   274   340 0.70 Chondroitin proteoglycan 4
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   3   7   3.4e-09   9.4e-06   26.2   0.4    21    90   409   482   389   485 0.79 Chondroitin proteoglycan 4
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   4   7      0.24   6.6e+02    1.0   0.2     8    51   484   530   479   543 0.71 Chondroitin proteoglycan 4
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   5   7   1.9e-08   5.2e-05   23.8   0.5    24    90   617   687   594   690 0.79 Chondroitin proteoglycan 4
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   6   7      0.51   1.4e+03   -0.1   0.3    11    47   693   731   683   748 0.70 Chondroitin proteoglycan 4
+CPG4                 PF15481.5     95 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.7e-13   50.3  12.2   7   7         6   1.7e+04  -10.5  11.1    29    50   822   843   806   885 0.52 Chondroitin proteoglycan 4
+Ig_3                 PF13927.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887     1e-06   29.2   0.2   1   2   2.4e-09   6.6e-06   26.5   0.0    10    76    34   122    25   124 0.79 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887     1e-06   29.2   0.2   2   2       2.7   7.5e+03   -2.5   0.1    20    41   343   369   341   414 0.54 Immunoglobulin domain
+ig                   PF00047.24    87 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   1.1e-06   28.6   0.0   1   1   2.9e-09     8e-06   25.8   0.0     7    84    36   133    34   136 0.89 Immunoglobulin domain
+V-set                PF07686.16   109 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   2.2e-06   27.7   0.0   1   1   2.4e-09   6.8e-06   26.1   0.0    10    93    39   127    34   142 0.76 Immunoglobulin V-set domain
+I-set                PF07679.15    90 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   0.00018   21.4   0.0   1   1   1.6e-07   0.00045   20.1   0.0    13    76    38   124    26   132 0.87 Immunoglobulin I-set domain
+NRN1                 PF15056.5     88 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   0.00024   21.1   0.1   1   3     0.072     2e+02    2.1   0.0    28    68   205   245   192   254 0.81 Neuritin protein family
+NRN1                 PF15056.5     88 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   0.00024   21.1   0.1   2   3    0.0025         7    6.7   0.0    29    70   411   452   390   461 0.82 Neuritin protein family
+NRN1                 PF15056.5     88 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_38784-4.6 -            887   0.00024   21.1   0.1   3   3    0.0016       4.4    7.4   0.0    31    70   618   657   604   664 0.84 Neuritin protein family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000239.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000239.pfam.hmmscan_out --domtblout OG0000239.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000239.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:47:06 2018
+# [ok]

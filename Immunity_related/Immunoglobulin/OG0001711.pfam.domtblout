@@ -1,0 +1,24 @@
+#                                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ig                   PF00047.24    87 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205   1.5e-06   28.2   1.6   1   3     0.086   2.9e+02    1.6   0.0    12    40    28    56    18    72 0.70 Immunoglobulin domain
+ig                   PF00047.24    87 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205   1.5e-06   28.2   1.6   2   3      0.65   2.2e+03   -1.2   0.0     5    21    90   106    86   117 0.76 Immunoglobulin domain
+ig                   PF00047.24    87 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205   1.5e-06   28.2   1.6   3   3   6.3e-09   2.1e-05   24.5   0.1     3    75   131   201   129   204 0.88 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205    0.0007   19.8   1.3   1   2     0.014        46    4.4   0.4     9    34    22    50    15   122 0.53 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205    0.0007   19.8   1.3   2   2   3.3e-05      0.11   12.8   0.0    12    64   137   201   121   205 0.73 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205    0.0008   19.9   0.6   1   3       0.6     2e+03   -0.6   0.0    15    40    26    52    17    68 0.67 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205    0.0008   19.9   0.6   2   3      0.12   4.1e+02    1.6   0.0    13    29    93   109    78   122 0.71 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205    0.0008   19.9   0.6   3   3   8.4e-06     0.028   14.9   0.1    14    78   137   201   126   201 0.76 Immunoglobulin domain
+I-set                PF07679.15    90 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205     0.048   13.6   0.1   1   2       1.8   6.2e+03   -2.7   0.0    21    24   102   105    91   122 0.55 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205     0.048   13.6   0.1   2   2   4.9e-05      0.16   11.9   0.0    12    76   136   201   128   202 0.79 Immunoglobulin I-set domain
+PYST-C1              PF09690.9     55 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_3531-0.5 -            205     0.091   12.4   0.7   1   1   4.7e-05      0.16   11.7   0.7    17    36    91   110    85   116 0.94 Plasmodium yoelii subtelomeric region (PYST-C1)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001711.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001711.pfam.hmmscan_out --domtblout OG0001711.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001711.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:39:04 2018
+# [ok]

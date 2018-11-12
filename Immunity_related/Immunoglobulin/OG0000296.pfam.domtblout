@@ -1,0 +1,36 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_3                 PF13927.5     79 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169   1.4e-09   38.4   0.0   1   1     3e-12   2.5e-09   37.5   0.0    12    79     5    74     1    74 0.82 Immunoglobulin domain
+I-set                PF07679.15    90 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     4e-09   36.3   0.0   1   1   7.3e-12   6.1e-09   35.7   0.0     8    90     2    87     1    87 0.86 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169   1.9e-06   27.9   0.1   1   1     1e-08   8.6e-06   25.7   0.1     5    79     3    77     1    83 0.86 Immunoglobulin domain
+V-set                PF07686.16   109 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     5e-06   26.6   0.1   1   2     0.019        16    5.6   0.0     6    36     4    35     2    42 0.79 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     5e-06   26.6   0.1   2   2   1.6e-06    0.0013   18.8   0.0    74   108    54    87    40    88 0.85 Immunoglobulin V-set domain
+Ig_2                 PF13895.5     79 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     5e-05   23.5   0.0   1   1   8.6e-08   7.2e-05   23.0   0.0     9    68     4    77     1    95 0.76 Immunoglobulin domain
+DUF1180              PF06679.11   169 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169   0.00046   20.6   0.1   1   1   5.9e-07   0.00049   20.4   0.1    78   127    78   140    15   160 0.78 Protein of unknown function (DUF1180)
+Herpes_gE            PF02480.15   432 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169    0.0011   17.7   1.7   1   2    0.0064       5.3    5.6   0.0    88   113    52    77    32   109 0.76 Alphaherpesvirus glycoprotein E
+Herpes_gE            PF02480.15   432 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169    0.0011   17.7   1.7   2   2   7.2e-05      0.06   12.0   0.6   329   389    94   153    86   157 0.73 Alphaherpesvirus glycoprotein E
+EphA2_TM             PF14575.5     77 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169    0.0075   17.0   0.2   1   1   1.7e-05     0.014   16.1   0.2     4    47   114   157   112   166 0.48 Ephrin type-A receptor 2 transmembrane domain
+DUF3377              PF11857.7     72 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169    0.0075   16.1   1.6   1   1   1.6e-05     0.013   15.3   1.6    11    56    95   141    86   144 0.76 Domain of unknown function (DUF3377)
+DUF4690              PF15756.4     96 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.012   16.1   0.4   1   1     3e-05     0.025   15.1   0.4    59    91   104   136    57   139 0.76 Domain of unknown function (DUF4690)
+TMEM154              PF15102.5    142 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.012   15.4   0.9   1   1   1.8e-05     0.015   15.1   0.9    36    88    92   141    59   164 0.62 TMEM154 protein family
+DUF5305              PF17231.1    218 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.015   14.5   0.6   1   1   2.6e-05     0.022   14.0   0.6    96   146    88   145    75   155 0.53 Family of unknown function (DUF5305)
+Protocadherin        PF08374.10   217 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.033   14.1   0.9   1   1   5.5e-05     0.046   13.6   0.9    16    77    91   147    79   167 0.51 Protocadherin
+RIFIN                PF02009.15   321 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.052   13.3   0.8   1   1   7.5e-05     0.062   13.1   0.8   252   301    81   130    40   142 0.53 Rifin
+EVC2_like            PF12297.7    430 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.093   11.3   0.0   1   1   0.00014      0.11   11.0   0.0    66   122   112   166    79   168 0.75 Ellis van Creveld protein 2 like protein
+Stevor               PF17410.1    275 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169     0.099   12.1   0.5   1   1   0.00015      0.13   11.7   0.5   184   249    64   133    48   140 0.65 Subtelomeric Variable Open Reading frame
+Ig_5                 PF16681.4     83 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169       0.1   12.9   0.0   1   1   0.00024       0.2   12.0   0.0    23    61    31    76     7    87 0.69 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Shisa                PF13908.5    190 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169      0.11   12.6   0.2   1   1    0.0002      0.16   12.1   0.2    69   106   100   134    68   165 0.76 Wnt and FGF inhibitory regulator
+Syndecan             PF01034.19    62 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169       1.5    8.7   3.5   1   2      0.35   2.9e+02    1.4   0.1    36    49    40    53    39    74 0.76 Syndecan domain
+Syndecan             PF01034.19    62 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169       1.5    8.7   3.5   2   2    0.0049       4.1    7.3   0.9    10    28   114   132   108   151 0.74 Syndecan domain
+Adeno_E3_CR2         PF02439.14    38 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_011429133.1 -            169       9.4    6.0  12.6   1   1     0.019        16    5.3  12.6     3    23   111   131   110   134 0.82 Adenovirus E3 region protein CR2
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000296.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000296.pfam.hmmscan_out --domtblout OG0000296.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000296.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:50:18 2018
+# [ok]

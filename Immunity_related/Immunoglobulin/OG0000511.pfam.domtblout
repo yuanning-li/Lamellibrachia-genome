@@ -1,0 +1,21 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_I_3              PF16497.4    198 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298   6.2e-31  107.3   0.4   1   2   1.5e-34   6.2e-31  107.3   0.4    21   110    30   119    19   136 0.93 MHC-I family domain
+MHC_I_3              PF16497.4    198 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298   6.2e-31  107.3   0.4   2   2      0.85   3.5e+03   -2.9   0.0    12    40   258   286   257   295 0.73 MHC-I family domain
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298   1.2e-11   44.7   0.1   1   3      0.68   2.9e+03   -1.4   0.1    45    74    24    53    16    55 0.76 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298   1.2e-11   44.7   0.1   2   3   1.7e-14   7.1e-11   42.2   0.0    17    86   137   202   129   202 0.94 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298   1.2e-11   44.7   0.1   3   3       3.9   1.6e+04   -3.8   0.1    31    38   278   285   277   289 0.81 Immunoglobulin C1-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298     0.019   15.5   0.1   1   2   0.00014       0.6   10.7   0.0    18    44   135   163   131   182 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298     0.019   15.5   0.1   2   2     0.077   3.2e+02    1.9   0.0    12    28   183   200   176   211 0.82 Immunoglobulin domain
+Wzy_C                PF04932.14   155 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001172036.1 -            298     0.061   12.8   0.0   1   1   2.6e-05      0.11   12.1   0.0    42   103   218   285   200   287 0.84 O-Antigen ligase
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000511.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000511.pfam.hmmscan_out --domtblout OG0000511.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000511.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:08:45 2018
+# [ok]

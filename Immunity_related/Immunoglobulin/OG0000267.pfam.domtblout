@@ -1,0 +1,15 @@
+#                                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+C2-set_2             PF08205.11    90 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_30829-0.19 -             83   7.7e-07   29.0   0.4   1   1   1.1e-10     9e-07   28.8   0.4     1    73    12    83    12    83 0.88 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_30829-0.19 -             83     0.074   13.6   0.4   1   1     1e-05     0.086   13.4   0.4     1    51    11    65    11    82 0.72 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000267.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000267.pfam.hmmscan_out --domtblout OG0000267.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000267.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:48:46 2018
+# [ok]

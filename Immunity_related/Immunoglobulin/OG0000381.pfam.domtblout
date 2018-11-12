@@ -1,0 +1,32 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   3.8e-21   75.1   0.7   1   2   8.6e-15   1.8e-11   44.1   0.2     8    79   139   209   132   209 0.87 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   3.8e-21   75.1   0.7   2   2   4.5e-10   9.3e-07   29.0   0.0     4    78   216   294   213   295 0.79 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   1.2e-16   61.0   0.2   1   2   2.6e-12   5.4e-09   36.5   0.1     5    76   134   195   129   197 0.88 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   1.2e-16   61.0   0.2   2   2   8.6e-08   0.00018   22.0   0.0     8    76   219   278   215   279 0.83 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   5.8e-11   42.3   1.4   1   2   3.9e-08   8.1e-05   22.6   0.2     3    75   137   197   135   209 0.87 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   5.8e-11   42.3   1.4   2   2   1.3e-06    0.0027   17.8   0.1     9    85   224   290   218   292 0.76 Immunoglobulin domain
+Ig_4                 PF16680.4     76 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   1.5e-07   31.6   0.2   1   2   6.6e-07    0.0014   18.9   0.1     2    62   146   208   145   211 0.74 T-cell surface glycoprotein CD3 delta chain
+Ig_4                 PF16680.4     76 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   1.5e-07   31.6   0.2   2   2   0.00031      0.65   10.3   0.0     2    56   227   288   226   295 0.81 T-cell surface glycoprotein CD3 delta chain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359     4e-07   29.9   0.3   1   2   9.9e-07    0.0021   18.0   0.2     9    89   139   210   132   211 0.81 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359     4e-07   29.9   0.3   2   2   0.00099       2.1    8.4   0.0    53    76   257   280   223   295 0.80 Immunoglobulin I-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   2.7e-05   24.2   7.2   1   3   0.00028      0.59   10.2   0.8    56   106   160   207   139   210 0.64 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   2.7e-05   24.2   7.2   2   3   4.2e-05     0.087   12.9   0.1    74   108   261   295   217   296 0.79 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359   2.7e-05   24.2   7.2   3   3       2.6   5.4e+03   -2.5   0.1    27    38   346   357   326   359 0.53 Immunoglobulin V-set domain
+Ig_5                 PF16681.4     83 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359    0.0018   18.6   4.0   1   3   3.5e-06    0.0072   16.6   0.1     8    60   146   199   141   211 0.77 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Ig_5                 PF16681.4     83 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359    0.0018   18.6   4.0   2   3      0.08   1.7e+02    2.6   0.0    11    56   230   278   224   294 0.72 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Ig_5                 PF16681.4     83 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359    0.0018   18.6   4.0   3   3       5.6   1.2e+04   -3.3   0.3    18    28   346   356   339   358 0.76 Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359     0.051   13.5   0.0   1   3      0.92   1.9e+03   -1.1   0.0    31    46   139   154   134   163 0.66 Izumo-like Immunoglobulin domain
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359     0.051   13.5   0.0   2   3    0.0005         1    9.3   0.0    40    70   169   198   141   212 0.76 Izumo-like Immunoglobulin domain
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_000560.6 -            359     0.051   13.5   0.0   3   3      0.36   7.5e+02    0.2   0.0    53    67   264   278   255   296 0.75 Izumo-like Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000381.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000381.pfam.hmmscan_out --domtblout OG0000381.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000381.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:00:09 2018
+# [ok]

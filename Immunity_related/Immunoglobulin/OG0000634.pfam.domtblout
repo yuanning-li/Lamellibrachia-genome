@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SIT                  PF15330.5    115 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001276014.1 -            293   1.3e-34  119.0   0.8   1   1   5.6e-38   2.3e-34  118.1   0.8     1   115   160   262   160   262 0.95 SHP2-interacting transmembrane adaptor protein, SIT
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001276014.1 -            293   1.2e-12   47.8   0.9   1   1   4.4e-16   1.9e-12   47.2   0.9     2   108    27   128    26   129 0.92 Immunoglobulin V-set domain
+TMEM154              PF15102.5    142 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001276014.1 -            293     0.033   14.0   0.3   1   2   1.7e-05     0.069   13.0   0.0    17    91   113   189    88   205 0.65 TMEM154 protein family
+TMEM154              PF15102.5    142 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001276014.1 -            293     0.033   14.0   0.3   2   2      0.78   3.3e+03   -2.2   0.1    16    31   219   234   208   256 0.54 TMEM154 protein family
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001276014.1 -            293     0.041   14.0   3.1   1   1    0.0001      0.43   10.7   3.1    43    77    71   116    26   119 0.67 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000634.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000634.pfam.hmmscan_out --domtblout OG0000634.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000634.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:16:05 2018
+# [ok]

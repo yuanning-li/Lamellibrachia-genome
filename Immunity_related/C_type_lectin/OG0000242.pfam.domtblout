@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001230174.1 -            211   8.6e-10   39.2   2.1   1   2      0.48     4e+03   -1.5   0.0    71    92    40    61    17    74 0.54 Lectin C-type domain
+Lectin_C             PF00059.20   108 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001230174.1 -            211   8.6e-10   39.2   2.1   2   2   1.2e-13     1e-09   39.0   0.9    11   107   113   210   109   211 0.92 Lectin C-type domain
+DUF4628              PF15429.5    275 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001230174.1 -            211      0.05   13.2   0.4   1   1   8.2e-06     0.068   12.7   0.4   157   210    35    91    15   108 0.57 Domain of unknown function (DUF4628)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000242.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000242.pfam.hmmscan_out --domtblout OG0000242.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000242.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:59:04 2018
+# [ok]

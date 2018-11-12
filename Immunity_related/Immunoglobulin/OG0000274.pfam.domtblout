@@ -1,0 +1,19 @@
+#                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ig                   PF00047.24    87 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013062711.1 -            171   6.5e-06   26.1   2.4   1   2   4.8e-09   2.7e-05   24.2   0.1     8    74    10   112     9   125 0.86 Immunoglobulin domain
+ig                   PF00047.24    87 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013062711.1 -            171   6.5e-06   26.1   2.4   2   2      0.15   8.3e+02    0.2   0.4    36    62   140   165   128   168 0.61 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013062711.1 -            171    0.0012   19.3   1.0   1   2   8.7e-07    0.0049   17.4   0.1    13    76    10   111     2   113 0.79 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013062711.1 -            171    0.0012   19.3   1.0   2   2       1.1   6.1e+03   -2.2   0.1    53    53   140   140   117   161 0.57 Immunoglobulin domain
+V-set                PF07686.16   109 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013062711.1 -            171    0.0046   17.0   0.7   1   2     4e-06     0.022   14.8   0.1     8    93    10   115     9   131 0.79 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Biomphalaria_glabrata_immunoglobulin_containing_seqs_BGL|XP_013062711.1 -            171    0.0046   17.0   0.7   2   2      0.25   1.4e+03   -0.6   0.1    41    66   125   151   114   165 0.61 Immunoglobulin V-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000274.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000274.pfam.hmmscan_out --domtblout OG0000274.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000274.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:49:03 2018
+# [ok]

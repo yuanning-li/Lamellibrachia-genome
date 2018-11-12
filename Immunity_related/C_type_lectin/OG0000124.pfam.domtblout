@@ -1,0 +1,17 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011433912.1 -            231   8.6e-11   42.4   0.3   1   1   1.4e-14   1.2e-10   42.0   0.3     2   108   109   221   108   221 0.85 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011433912.1 -            231    0.0049   16.4   0.1   1   1   9.5e-07     0.008   15.7   0.1    83   123    89   128    86   148 0.83 UL45 protein, carbohydrate-binding C-type lectin-like
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022291127.1 -            165   3.7e-11   43.6   0.8   1   1   5.9e-15   4.9e-11   43.2   0.8     2   108    43   155    42   155 0.83 Lectin C-type domain
+UL45                 PF05473.11   200 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022291127.1 -            165    0.0051   16.4   0.1   1   1   8.9e-07    0.0074   15.8   0.1    80   127    20    66    13    90 0.82 UL45 protein, carbohydrate-binding C-type lectin-like
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000124.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000124.pfam.hmmscan_out --domtblout OG0000124.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000124.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:41:34 2018
+# [ok]

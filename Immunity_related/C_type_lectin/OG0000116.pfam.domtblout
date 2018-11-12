@@ -1,0 +1,18 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Capitella_teleta_PF00059_containing_seqs_CTE|ELU16756.1 -            212   1.3e-11   45.0   0.1   1   2     6e-13     1e-08   35.8   0.0     3   107    29   145    27   146 0.83 Lectin C-type domain
+Lectin_C             PF00059.20   108 Capitella_teleta_PF00059_containing_seqs_CTE|ELU16756.1 -            212   1.3e-11   45.0   0.1   2   2   0.00045       7.5    7.2   0.0     2    34   175   207   174   211 0.89 Lectin C-type domain
+Lectin_C             PF00059.20   108 Mizuhopecten_yessoensis_PF00059_containing_seqs_MYE|XP_021354439.1 -            244   3.5e-09   37.3   0.7   1   2     0.083   6.9e+02    0.9   0.0     4    31    70    97    67   107 0.84 Lectin C-type domain
+Lectin_C             PF00059.20   108 Mizuhopecten_yessoensis_PF00059_containing_seqs_MYE|XP_021354439.1 -            244   3.5e-09   37.3   0.7   2   2   4.8e-12     4e-08   33.9   0.9     2    98   138   232   137   242 0.83 Lectin C-type domain
+PAN_1                PF00024.25    79 Mizuhopecten_yessoensis_PF00059_containing_seqs_MYE|XP_021354439.1 -            244    0.0038   17.1   0.1   1   1   1.1e-06    0.0095   15.8   0.1    23    67    52    92    35   105 0.84 PAN domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000116.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000116.pfam.hmmscan_out --domtblout OG0000116.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000116.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:39:39 2018
+# [ok]

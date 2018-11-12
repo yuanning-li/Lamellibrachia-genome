@@ -1,0 +1,25 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_I                PF00129.17   179 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260     3e-23   82.2   0.1   1   1   2.9e-26   4.8e-23   81.5   0.1    91   177    26   112    14   114 0.94 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260     4e-15   55.9   0.0   1   1   3.7e-18   6.2e-15   55.2   0.0    10    86   127   201   118   201 0.92 Immunoglobulin C1-set domain
+MHC_I_3              PF16497.4    198 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260   0.00015   21.2   0.0   1   1   1.5e-07   0.00025   20.5   0.0   113   196    29   111    13   112 0.80 MHC-I family domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260   0.00017   22.0   0.1   1   2       7.1   1.2e+04   -3.1   0.0    19    37    32    50    29    58 0.66 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260   0.00017   22.0   0.1   2   2   3.5e-07   0.00058   20.3   0.1    16    78   129   197   118   198 0.68 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260   0.00023   21.3   0.0   1   1   2.7e-07   0.00045   20.4   0.0     9    67   125   200   116   209 0.75 Immunoglobulin domain
+Orf78                PF06024.11   103 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260     0.034   14.3   0.0   1   1   3.4e-05     0.057   13.6   0.0    65    95   216   247   210   255 0.81 Orf78 (ac78)
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260     0.046   13.8   0.0   1   1   5.9e-05     0.099   12.7   0.0    14    81   133   203   121   208 0.81 Immunoglobulin domain
+SKG6                 PF08693.9     38 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260     0.093   12.1   3.4   1   1   9.8e-05      0.16   11.3   3.4    14    38   219   245   212   245 0.82 Transmembrane alpha-helix domain
+Baculo_11_kDa        PF06143.10    84 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260      0.26   10.8   0.8   1   1   0.00039      0.64    9.5   0.8    39    64   221   245   217   254 0.81 Baculovirus 11 kDa family
+MRAP                 PF15183.5     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260      0.43   10.5   2.6   1   2      0.44   7.4e+02    0.1   0.1     4    19    40    53    38    64 0.77 Melanocortin-2 receptor accessory protein family
+MRAP                 PF15183.5     89 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_620576.1 -            260      0.43   10.5   2.6   2   2   0.00053      0.88    9.5   0.4    38    60   217   239   214   252 0.83 Melanocortin-2 receptor accessory protein family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000908.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000908.pfam.hmmscan_out --domtblout OG0000908.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000908.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:33:01 2018
+# [ok]

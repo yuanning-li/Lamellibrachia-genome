@@ -1,0 +1,27 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PRY                  PF13765.5     49 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   1.9e-21   75.3   0.1   1   1   2.2e-24     4e-21   74.3   0.1     1    49   290   338   290   338 0.99 SPRY-associated domain
+SPRY                 PF00622.27   120 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   2.2e-20   72.8   0.0   1   1   2.8e-23   5.2e-20   71.7   0.0     1   105   342   446   342   454 0.97 SPRY domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   4.4e-13   49.3   0.4   1   3     2e-15   3.6e-12   46.3   0.0     4   108    38   143    35   144 0.87 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   4.4e-13   49.3   0.4   2   3       1.4   2.7e+03   -1.5   0.2    32    41   218   230   212   271 0.51 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   4.4e-13   49.3   0.4   3   3         1   1.9e+03   -1.1   0.1    26    58   362   394   347   409 0.71 Immunoglobulin V-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   0.00034   20.5   0.0   1   2   5.9e-07    0.0011   18.9   0.0     9    77    39   130    32   143 0.76 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   0.00034   20.5   0.0   2   2       5.6     1e+04   -3.5   0.1    19    37   228   246   220   257 0.47 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461   0.00072   20.0   0.0   1   1   1.2e-06    0.0022   18.5   0.0    13    76    42   127    32   129 0.69 Immunoglobulin domain
+Opiods_neuropep      PF01160.17    47 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461    0.0049   16.8   0.0   1   1   5.8e-06     0.011   15.7   0.0    12    41   318   347   316   347 0.94 Vertebrate endogenous opioids neuropeptide
+PAP_PilO             PF06864.11   417 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461     0.005   15.7   0.3   1   1   4.3e-06     0.008   15.0   0.3   175   219   206   250   175   256 0.78 Pilin accessory protein (PilO)
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461     0.027   14.5   0.4   1   2   6.6e-05      0.12   12.4   0.0     6    76    40   130    36   140 0.73 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461     0.027   14.5   0.4   2   2       4.4   8.2e+03   -3.0   0.4    30    43   218   231   215   253 0.55 Immunoglobulin domain
+YqcI_YcgG            PF08892.10   211 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461      0.16   11.7   1.5   1   2       2.1   3.9e+03   -2.6   0.3    73    88   233   248   224   279 0.57 YqcI/YcgG family
+YqcI_YcgG            PF08892.10   211 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001138480.1 -            461      0.16   11.7   1.5   2   2   9.5e-05      0.18   11.5   0.0    95   125   313   343   303   346 0.90 YqcI/YcgG family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000472.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000472.pfam.hmmscan_out --domtblout OG0000472.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000472.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:05:57 2018
+# [ok]

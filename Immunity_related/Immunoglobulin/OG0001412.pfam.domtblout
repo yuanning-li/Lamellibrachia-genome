@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225   2.5e-13   50.0   0.0   1   2   3.7e-15     1e-11   44.8   0.0    10   108     2   101     1   102 0.88 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225   2.5e-13   50.0   0.0   2   2     0.035        96    3.1   0.0     5    38   111   142   109   154 0.84 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225   8.6e-08   32.6   0.0   1   2   6.6e-07    0.0018   18.7   0.0    32    76    33    85     1    87 0.63 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225   8.6e-08   32.6   0.0   2   2   0.00013      0.35   11.4   0.0    18    41   119   143   107   183 0.79 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225   1.4e-07   31.3   0.1   1   2     5e-07    0.0014   18.6   0.0    28    77    19    88     1   101 0.64 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225   1.4e-07   31.3   0.1   2   2   0.00017      0.47   10.5   0.0    14    42   116   146   107   195 0.79 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225     2e-05   24.6   0.0   1   2   3.3e-05     0.092   12.8   0.0    11    76     3    88     1    98 0.66 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225     2e-05   24.6   0.0   2   2   0.00066       1.8    8.7   0.0     5    40   111   146   109   182 0.89 Immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225    0.0066   16.4   0.0   1   1   5.1e-06     0.014   15.3   0.0    19    80   121   179   105   189 0.74 CD80-like C2-set immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225     0.016   15.5   0.0   1   2    0.0004       1.1    9.5   0.0    34    66    37    89     1   101 0.56 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865705.1 -            225     0.016   15.5   0.0   2   2     0.038   1.1e+02    3.2   0.0    17    37   120   141   110   188 0.84 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001412.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001412.pfam.hmmscan_out --domtblout OG0001412.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001412.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:19:17 2018
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_12043-0.4 -            222   2.4e-09   37.8   8.8   1   2     0.068   5.7e+02    1.2   0.6    64   102    39    83     3   104 0.61 Lectin C-type domain
+Lectin_C             PF00059.20   108 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_12043-0.4 -            222   2.4e-09   37.8   8.8   2   2   2.9e-13   2.4e-09   37.8   8.8     2   107   108   216   107   217 0.89 Lectin C-type domain
+Tup_N                PF08581.9     77 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_12043-0.4 -            222     0.074   13.3   0.1   1   1   1.6e-05      0.13   12.4   0.1    25    58    10    45     1    48 0.85 Tup N-terminal
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000329.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000329.pfam.hmmscan_out --domtblout OG0000329.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000329.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 22:09:45 2018
+# [ok]
