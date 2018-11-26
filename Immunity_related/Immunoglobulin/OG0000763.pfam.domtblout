@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lep_receptor_Ig      PF06328.10    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.3e-23   82.7   2.9   1   2      0.51   4.3e+03   -2.3   0.1    64    82    78    94    61    97 0.68 Ig-like C2-type domain
+Lep_receptor_Ig      PF06328.10    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.3e-23   82.7   2.9   2   2   4.1e-27   3.4e-23   81.4   0.7     5    86   333   420   330   420 0.97 Ig-like C2-type domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.1e-08   35.2   5.1   1   5     4e-08   0.00033   20.8   0.0     1    82   238   317   238   320 0.78 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.1e-08   35.2   5.1   2   5       1.2     1e+04   -3.2   0.0    34    65   365   398   355   400 0.68 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.1e-08   35.2   5.1   3   5      0.16   1.3e+03   -0.3   0.0    16    51   554   588   539   622 0.78 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.1e-08   35.2   5.1   4   5      0.18   1.5e+03   -0.5   0.1    14    79   658   720   653   724 0.57 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_002294.2 -           1165   1.1e-08   35.2   5.1   5   5     2e-05      0.17   12.1   0.0     4    74   742   812   740   822 0.87 Fibronectin type III domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000763.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000763.pfam.hmmscan_out --domtblout OG0000763.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000763.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:23:51 2018
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+C2-set_2             PF08205.11    90 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_12489-0.5 -            297   2.1e-06   27.6   0.0   1   1   5.6e-10   4.7e-06   26.5   0.0    18    82    79   146    65   153 0.85 CD80-like C2-set immunoglobulin domain
+TyrRSs_C             PF16714.4    120 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_12489-0.5 -            297      0.21   11.3   1.2   1   2   3.5e-05      0.29   10.8   0.2    70   112    17    59     8    65 0.83 Tyrosyl-tRNA synthetase C-terminal domain
+TyrRSs_C             PF16714.4    120 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_12489-0.5 -            297      0.21   11.3   1.2   2   2      0.53   4.4e+03   -2.6   0.0    97   115   141   159   123   160 0.67 Tyrosyl-tRNA synthetase C-terminal domain
+C2-set_2             PF08205.11    90 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_66592-0.1 -            408   6.8e-05   22.8   0.1   1   2      0.71   1.2e+04   -3.6   0.0    71    81    48    58    40    61 0.61 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_66592-0.1 -            408   6.8e-05   22.8   0.1   2   2   1.4e-08   0.00023   21.1   0.0    16    85   180   252   167   257 0.82 CD80-like C2-set immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000207.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000207.pfam.hmmscan_out --domtblout OG0000207.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000207.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:42:59 2018
+# [ok]

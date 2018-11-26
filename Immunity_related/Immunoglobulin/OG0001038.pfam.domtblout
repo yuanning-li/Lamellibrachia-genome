@@ -1,0 +1,29 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.16   260 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783   2.5e-91  305.5   0.0   1   1   2.1e-94   3.3e-91  305.1   0.0     2   259   485   751   484   752 0.98 Protein tyrosine kinase
+Pkinase              PF00069.24   264 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783   2.1e-40  138.6   0.0   1   1   2.1e-43   3.2e-40  138.1   0.0     4   258   487   748   484   751 0.86 Protein kinase domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     1e-38  131.4   0.1   1   3   5.9e-14   8.9e-11   41.9   0.0     7    82    99   175    93   178 0.89 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     1e-38  131.4   0.1   2   3   9.5e-12   1.4e-08   34.8   0.0    11    85   202   277   193   277 0.89 Fibronectin type III domain
+fn3                  PF00041.20    85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     1e-38  131.4   0.1   3   3   8.6e-17   1.3e-13   51.0   0.0     1    84   290   373   290   374 0.92 Fibronectin type III domain
+Pur_ac_phosph_N      PF16656.4     94 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783   2.3e-06   28.0   0.0   1   3    0.0044       6.7    7.3   0.0    61    80   146   170   118   185 0.75 Purple acid Phosphatase, N-terminal domain
+Pur_ac_phosph_N      PF16656.4     94 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783   2.3e-06   28.0   0.0   2   3    0.0034       5.1    7.6   0.0    54    79   240   265   223   271 0.82 Purple acid Phosphatase, N-terminal domain
+Pur_ac_phosph_N      PF16656.4     94 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783   2.3e-06   28.0   0.0   3   3    0.0041       6.3    7.3   0.0    13    89   302   376   290   381 0.62 Purple acid Phosphatase, N-terminal domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783   3.6e-05   23.8   0.0   1   1   4.7e-08   7.2e-05   22.8   0.0     4    86     3    85     1    86 0.94 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783    0.0075   16.2   0.0   1   2   2.4e-05     0.037   14.0   0.0    19    90    14    88     3    88 0.85 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783    0.0075   16.2   0.0   2   2       1.6   2.4e+03   -1.4   0.1    23    35   200   212   199   214 0.90 Immunoglobulin I-set domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     0.022   15.0   0.0   1   1   3.4e-05     0.052   13.8   0.0    18    79    14    88    10    88 0.76 Immunoglobulin domain
+C2-set               PF05790.14    80 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     0.028   14.5   0.0   1   1   5.3e-05     0.081   13.0   0.0    47    79    58    91    49    92 0.88 Immunoglobulin C2-set domain
+Haspin_kinase        PF12330.7    367 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     0.046   12.5   0.0   1   1   6.3e-05     0.096   11.5   0.0   227   257   619   649   608   662 0.87 Haspin like kinase domain
+DUF4702              PF15774.4    395 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783     0.085   11.7   0.0   1   1   8.5e-05      0.13   11.1   0.0    18    68   532   582   522   589 0.92 Domain of unknown function (DUF4702)
+DUF4945              PF16303.4    115 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_006710932.1 -            783      0.12   12.2   0.0   1   1   0.00016      0.25   11.2   0.0    16    55   290   328   287   370 0.79 Domain of unknown function (DUF4945)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001038.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001038.pfam.hmmscan_out --domtblout OG0001038.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001038.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:40:57 2018
+# [ok]

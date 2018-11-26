@@ -1,0 +1,19 @@
+#                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011432842.1 -            251   3.9e-05   24.2   0.1   1   1   1.1e-08   8.8e-05   23.1   0.1     7   106   136   247   131   249 0.91 Lectin C-type domain
+PAN_1                PF00024.25    79 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011432842.1 -            251      0.03   14.2   0.4   1   2   6.7e-06     0.056   13.3   0.1    25    56    53    82    25   100 0.87 PAN domain
+PAN_1                PF00024.25    79 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_011432842.1 -            251      0.03   14.2   0.4   2   2      0.94   7.8e+03   -3.2   0.0    47    52   129   142   122   154 0.55 PAN domain
+Lectin_C             PF00059.20   108 Crassostrea_gigas_PF00059_containing_seqs_CGI|XP_019924410.1 -            185   1.5e-05   25.6   0.1   1   1   1.8e-09     3e-05   24.6   0.1     7   107    70   182    65   183 0.91 Lectin C-type domain
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022338773.1 -            162   1.1e-08   35.6   1.5   1   2     0.081   1.4e+03   -0.0   0.1     5    18    26    39    22    47 0.76 Lectin C-type domain
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022338773.1 -            162   1.1e-08   35.6   1.5   2   2   6.8e-13   1.1e-08   35.6   1.5     7   107    47   159    41   160 0.91 Lectin C-type domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000102.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000102.pfam.hmmscan_out --domtblout OG0000102.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000102.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:35:25 2018
+# [ok]

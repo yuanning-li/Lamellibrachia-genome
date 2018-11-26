@@ -1,0 +1,21 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_I                PF00129.17   179 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365   3.6e-93  310.0   0.3   1   1   1.9e-96   5.3e-93  309.4   0.3     1   179    25   203    25   203 0.99 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365   7.5e-18   64.6   0.0   1   1     6e-21   1.7e-17   63.5   0.0    11    86   218   290   210   290 0.95 Immunoglobulin C1-set domain
+MHC_I_C              PF06623.10    28 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365     8e-17   60.8   8.1   1   1   5.3e-20   1.5e-16   59.9   8.1     1    28   337   364   337   364 0.99 MHC_I C-terminus
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365   0.00099   19.0   1.5   1   2       2.3   6.5e+03   -2.8   0.1    32    50    72    90    65   102 0.53 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365   0.00099   19.0   1.5   2   2   4.8e-07    0.0013   18.6   0.1     6    86   209   290   205   293 0.77 CD80-like C2-set immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365    0.0032   17.5   0.0   1   1   3.1e-06    0.0087   16.1   0.0    12    83   221   294   213   297 0.83 Immunoglobulin domain
+DUF202               PF02656.14    68 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365     0.018   15.4   0.2   1   2     0.005        14    6.1   0.0    15    33     7    28     6    67 0.80 Domain of unknown function (DUF202)
+DUF202               PF02656.14    68 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001229687.1 -            365     0.018   15.4   0.2   2   2    0.0025       7.1    7.1   0.0    34    65   302   335   286   338 0.77 Domain of unknown function (DUF202)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000553.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000553.pfam.hmmscan_out --domtblout OG0000553.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000553.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:10:59 2018
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_I                PF00129.17   179 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_005505.2 -            362   1.3e-96  321.2   1.6   1   1  5.7e-100   1.9e-96  320.7   1.6     1   179    25   203    25   203 0.99 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_005505.2 -            362   1.5e-17   63.6   0.1   1   1     1e-20   3.4e-17   62.5   0.1    12    86   219   290   211   290 0.95 Immunoglobulin C1-set domain
+MHC_I_C              PF06623.10    28 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_005505.2 -            362   6.3e-15   54.7  10.4   1   1   3.5e-18   1.2e-14   53.8  10.4     1    26   337   362   337   362 0.99 MHC_I C-terminus
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_005505.2 -            362   0.00067   19.6   0.1   1   1   5.7e-07    0.0019   18.1   0.1     5    86   208   290   205   293 0.79 CD80-like C2-set immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_005505.2 -            362    0.0018   18.3   0.1   1   1   1.1e-06    0.0036   17.3   0.1    11    83   220   294   210   297 0.78 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000792.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000792.pfam.hmmscan_out --domtblout OG0000792.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000792.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:25:41 2018
+# [ok]

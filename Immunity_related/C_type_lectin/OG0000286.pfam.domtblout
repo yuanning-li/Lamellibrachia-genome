@@ -1,0 +1,20 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373   2.6e-07   31.2   4.9   1   1   1.8e-10   4.9e-07   30.4   4.9     2   107   106   207   105   211 0.85 Lectin C-type domain
+PAN_1                PF00024.25    79 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373     4e-05   23.4   0.1   1   1   4.8e-08   0.00013   21.7   0.1    16    56   289   327   277   340 0.88 PAN domain
+DUF3275              PF11679.7    207 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373     0.043   13.7   2.2   1   2       2.9   8.1e+03   -3.5   0.0   158   170    37    49    29    74 0.64 Protein of unknown function (DUF3275)
+DUF3275              PF11679.7    207 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373     0.043   13.7   2.2   2   2   2.8e-05     0.078   12.9   2.0    95   177   209   291   199   306 0.82 Protein of unknown function (DUF3275)
+FAP                  PF07174.10   298 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373      0.18   11.2  10.7   1   1   0.00013      0.35   10.2  10.7    36   107   195   266   185   279 0.70 Fibronectin-attachment protein (FAP)
+Hamartin             PF04388.11   725 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373       1.4    7.4   4.7   1   1   0.00055       1.5    7.2   4.7   327   387   212   271   111   293 0.73 Hamartin protein
+MGC-24               PF05283.10   140 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009047488.1 -            373       6.1    7.2   9.5   1   1    0.0055        15    5.9   9.5    46    94   209   264   177   277 0.40 Multi-glycosylated core protein 24 (MGC-24), sialomucin
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000286.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000286.pfam.hmmscan_out --domtblout OG0000286.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000286.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 22:04:28 2018
+# [ok]

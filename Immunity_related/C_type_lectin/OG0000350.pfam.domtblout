@@ -1,0 +1,22 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378   9.5e-06   26.2   3.6   1   2     4e-09   9.5e-06   26.2   3.6     3   108    33   135    31   135 0.86 Lectin C-type domain
+Lectin_C             PF00059.20   108 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378   9.5e-06   26.2   3.6   2   2      0.95   2.3e+03   -0.7   1.6    57    57   211   211   146   303 0.61 Lectin C-type domain
+Macoilin             PF09726.8    671 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378     0.056   11.9  13.3   1   1   2.7e-05     0.065   11.7  13.3   251   427   154   330    66   340 0.53 Macoilin family
+Mitofilin            PF09731.8    623 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378      0.15   10.7  11.3   1   1     8e-05      0.19   10.4  11.3   118   289   155   326    99   331 0.68 Mitochondrial inner membrane protein
+Ribosomal_L29        PF00831.22    57 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378      0.23   11.4   1.5   1   1   0.00019      0.45   10.4   1.5     4    32   297   325   294   330 0.88 Ribosomal L29 protein
+KIAA1328             PF15369.5    327 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378       4.3    7.0  13.6   1   1    0.0027       6.4    6.4  13.6   115   301   141   329   131   334 0.49 Uncharacterised protein KIAA1328
+DUF5435              PF17503.1    208 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378       7.1    6.2  15.3   1   1     0.003       7.3    6.2  13.8    80   165   161   247   145   265 0.77 Family of unknown function (DUF5435)
+DUF4757              PF15949.4    172 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378       8.3    6.8  14.7   1   2      0.23   5.5e+02    0.8   4.9    22    95   138   210   121   220 0.61 Domain of unknown function (DUF4757)
+DUF4757              PF15949.4    172 Patinopecten_yessoensis_PF00059_containing_seqs_PYE|PY_T07014 -            378       8.3    6.8  14.7   2   2   0.00025      0.59   10.5   5.3     9   124   207   323   199   331 0.78 Domain of unknown function (DUF4757)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000350.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000350.pfam.hmmscan_out --domtblout OG0000350.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000350.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 22:12:20 2018
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065950.1 -            287   4.6e-17   62.6   3.1   1   2     2e-11   3.4e-07   30.9   2.9     2   106    36   139    35   141 0.85 Lectin C-type domain
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065950.1 -            287   4.6e-17   62.6   3.1   2   2   3.7e-11   6.2e-07   30.0   0.0     4    72   160   219   158   262 0.87 Lectin C-type domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000292.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000292.pfam.hmmscan_out --domtblout OG0000292.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000292.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 22:05:12 2018
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244   3.3e-13   49.7   0.0   1   1   2.6e-16   4.8e-13   49.1   0.0     6   109    43   141    39   141 0.93 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244   0.00018   21.9   0.0   1   1   1.7e-07   0.00032   21.1   0.0     5    77    37   124    30   126 0.79 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244    0.0028   17.9   0.0   1   1   6.3e-06     0.012   15.9   0.0     4    71    38   132    35   140 0.65 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244    0.0079   16.1   0.0   1   1   7.8e-06     0.015   15.3   0.0    11    90    44   140    34   140 0.64 Immunoglobulin I-set domain
+DUF4690              PF15756.4     96 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244     0.011   16.3   0.1   1   1   1.2e-05     0.023   15.2   0.1    41    88   125   173    87   180 0.76 Domain of unknown function (DUF4690)
+Podoplanin           PF05808.10   161 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244     0.012   15.6   0.2   1   1   9.2e-06     0.017   15.2   0.2   121   159   143   181   112   183 0.76 Podoplanin
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244     0.025   14.6   0.0   1   1     4e-05     0.075   13.1   0.0    14    71    52   121    40   122 0.75 Immunoglobulin domain
+Orai-1               PF07856.11   177 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244      0.15   11.7   0.0   1   1   0.00012      0.22   11.1   0.0    56    90   155   189   137   211 0.81 Mediator of CRAC channel activity
+VSP                  PF03302.12   397 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001808.2 -            244      0.24   10.1   0.2   1   1   0.00016      0.31    9.8   0.2   359   394   143   178   128   182 0.85 Giardia variant-specific surface protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000745.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000745.pfam.hmmscan_out --domtblout OG0000745.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000745.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:23:01 2018
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PRY                  PF13765.5     49 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   2.2e-21   75.1   0.1   1   1   2.7e-24   4.6e-21   74.1   0.1     1    49   335   383   335   383 0.99 SPRY-associated domain
+SPRY                 PF00622.27   120 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   2.4e-20   72.8   0.0   1   1   3.6e-23   6.1e-20   71.4   0.0     1   105   387   491   387   499 0.97 SPRY domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   2.8e-13   49.9   1.7   1   4   2.5e-15   4.3e-12   46.1   0.0     4   108    38   143    35   144 0.87 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   2.8e-13   49.9   1.7   2   4      0.29   4.9e+02    0.8   0.0     8    39   156   185   152   195 0.80 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   2.8e-13   49.9   1.7   3   4       3.7   6.2e+03   -2.7   0.3    32    42   270   280   265   313 0.56 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   2.8e-13   49.9   1.7   4   4       1.4   2.3e+03   -1.3   0.1    26    58   407   439   395   454 0.70 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   3.2e-08   34.0   0.0   1   2   1.5e-06    0.0025   18.3   0.0    13    76    42   127    32   129 0.69 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   3.2e-08   34.0   0.0   2   2   8.2e-05      0.14   12.7   0.0    19    44   162   188   153   226 0.73 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   1.3e-07   31.5   0.2   1   3   7.7e-07    0.0013   18.7   0.0     9    77    39   130    32   143 0.76 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   1.3e-07   31.5   0.2   2   3   0.00049      0.82    9.7   0.0    17    42   161   188   150   212 0.85 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   1.3e-07   31.5   0.2   3   3       6.1     1e+04   -3.4   0.2    15    37   276   298   272   318 0.56 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   9.8e-05   22.4   0.4   1   3   8.5e-05      0.14   12.2   0.0     6    76    40   130    36   140 0.73 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   9.8e-05   22.4   0.4   2   3    0.0044       7.4    6.7   0.0     9    41   157   189   151   221 0.84 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506   9.8e-05   22.4   0.4   3   3       5.9   9.9e+03   -3.3   0.4    30    43   270   283   267   304 0.56 Immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506     0.002   18.1   0.0   1   1   2.7e-06    0.0045   16.9   0.0    20    83   164   224   152   230 0.86 CD80-like C2-set immunoglobulin domain
+PAP_PilO             PF06864.11   417 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506    0.0039   16.1   0.7   1   1   3.6e-06    0.0061   15.4   0.7   175   225   258   307   229   311 0.77 Pilin accessory protein (PilO)
+Opiods_neuropep      PF01160.17    47 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506    0.0055   16.7   0.0   1   1   7.2e-06     0.012   15.6   0.0    12    41   363   392   361   392 0.94 Vertebrate endogenous opioids neuropeptide
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506     0.037   14.3   0.0   1   2    0.0017       2.9    8.2   0.0    13    65    44   130    32   143 0.58 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_005248890.1 -            506     0.037   14.3   0.0   2   2     0.077   1.3e+02    2.9   0.0    18    38   163   184   157   221 0.82 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000994.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000994.pfam.hmmscan_out --domtblout OG0000994.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000994.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:37:53 2018
+# [ok]

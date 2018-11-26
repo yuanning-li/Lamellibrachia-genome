@@ -1,0 +1,35 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   1.9e-13   50.4   0.0   1   1   2.6e-16   3.4e-13   49.6   0.0     5   108    42   146    38   147 0.87 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   1.9e-07   31.5   0.0   1   2   1.5e-08   1.9e-05   25.1   0.0     6    76    38   130    35   132 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   1.9e-07   31.5   0.0   2   2     0.079     1e+02    3.5   0.0    12    38   158   185   151   227 0.74 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   2.9e-05   24.0   0.0   1   2   2.6e-06    0.0033   17.4   0.0     6    88    39   144    34   146 0.79 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   2.9e-05   24.0   0.0   2   2     0.058        74    3.4   0.0     6    53   153   202   151   239 0.68 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   5.6e-05   23.1   0.1   1   3   2.2e-06    0.0028   17.7   0.0     6    77    43   134    39   140 0.79 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   5.6e-05   23.1   0.1   2   3         5   6.4e+03   -2.7   0.0     6    20   157   171   153   179 0.83 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   5.6e-05   23.1   0.1   3   3       1.8   2.3e+03   -1.3   0.0    70    85   221   236   218   238 0.81 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   0.00011   22.4   0.1   1   2   1.4e-06    0.0017   18.5   0.0    11    67    45   135    35   146 0.67 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353   0.00011   22.4   0.1   2   2       1.9   2.4e+03   -1.2   0.0    17    65   165   227   157   238 0.45 Immunoglobulin domain
+OSTbeta              PF15048.5    122 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.019   15.0   0.1   1   1   3.1e-05     0.039   13.9   0.1    31   101   261   328   248   352 0.65 Organic solute transporter subunit beta protein
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.023   14.7   0.0   1   2       5.8   7.4e+03   -3.0   0.0    74    85    50    61    45    65 0.73 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.023   14.7   0.0   2   2   5.8e-05     0.074   13.0   0.0    12    88   159   232   150   234 0.85 CD80-like C2-set immunoglobulin domain
+CCB2_CCB4            PF11152.7    196 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.024   13.9   0.1   1   1   3.4e-05     0.044   13.0   0.1    33    89   268   324   266   329 0.93 Cofactor assembly of complex C subunit B, CCB2/CCB4
+Phage_holin_3_6      PF07332.10   113 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.051   13.5   3.2   1   2     0.016        20    5.2   0.5    48    79     8    37     4    67 0.46 Putative Actinobacterial Holin-X, holin superfamily III
+Phage_holin_3_6      PF07332.10   113 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.051   13.5   3.2   2   2    0.0012       1.6    8.7   0.1    55    96   252   294   247   311 0.79 Putative Actinobacterial Holin-X, holin superfamily III
+IncA                 PF04156.13   190 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353     0.062   13.0   0.2   1   1   4.8e-05     0.062   13.0   0.2    29    96   260   316   252   325 0.49 IncA protein
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353      0.11   12.5   0.0   1   2       2.5   3.3e+03   -1.9   0.0    60    75    49    64    40    74 0.67 Izumo-like Immunoglobulin domain
+Izumo-Ig             PF16706.4     88 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353      0.11   12.5   0.0   2   2   0.00049      0.63   10.0   0.0    50    81   113   144   100   149 0.85 Izumo-like Immunoglobulin domain
+DUF4446              PF14584.5    150 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353      0.15   11.9   0.5   1   1   0.00028      0.36   10.7   0.5     4    53   266   315   264   323 0.85 Protein of unknown function (DUF4446)
+FtsL                 PF04999.12    97 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353       6.7    6.7   6.7   1   2      0.86   1.1e+03   -0.4   1.1    15    29    20    34     9    38 0.56 Cell division protein FtsL
+FtsL                 PF04999.12    97 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016865658.1 -            353       6.7    6.7   6.7   2   2   0.00073      0.94    9.4   0.4     5    52   258   307   252   325 0.69 Cell division protein FtsL
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001406.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001406.pfam.hmmscan_out --domtblout OG0001406.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001406.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:18:59 2018
+# [ok]

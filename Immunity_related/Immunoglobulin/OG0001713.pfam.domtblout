@@ -1,0 +1,30 @@
+#                                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                   accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                         -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+I-set                PF07679.15    90 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204   4.3e-09   36.2   0.7   1   1   4.6e-12   6.4e-09   35.7   0.4     5    74    38   106    34   119 0.91 Immunoglobulin I-set domain
+Roc                  PF08477.12   120 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204   2.3e-05   24.5   0.7   1   2       0.5   6.9e+02    0.4   0.2    18    51    93   125    82   142 0.63 Ras of Complex, Roc, domain of DAPkinase
+Roc                  PF08477.12   120 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204   2.3e-05   24.5   0.7   2   2   8.7e-08   0.00012   22.2   0.0     1    46   144   190   144   203 0.84 Ras of Complex, Roc, domain of DAPkinase
+Ig_3                 PF13927.5     79 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     5e-05   23.7   0.9   1   1   6.2e-08   8.6e-05   23.0   0.9     5    74    37   104    34   107 0.83 Immunoglobulin domain
+RsgA_GTPase          PF03193.15   167 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204    0.0049   16.7   0.3   1   1   6.2e-06    0.0086   15.9   0.2    65   129   105   172    87   194 0.70 RsgA GTPase
+MMR_HSR1             PF01926.22   114 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204    0.0072   16.3   0.1   1   2       2.7   3.8e+03   -2.1   0.0    72    72   111   111    75   140 0.54 50S ribosome-binding GTPase
+MMR_HSR1             PF01926.22   114 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204    0.0072   16.3   0.1   2   2   1.2e-05     0.017   15.1   0.0     1    23   144   168   144   196 0.78 50S ribosome-binding GTPase
+Ras                  PF00071.21   162 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204      0.01   15.4   0.4   1   2       1.2   1.7e+03   -1.7   0.1    11    11   108   108    55   138 0.63 Ras family
+Ras                  PF00071.21   162 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204      0.01   15.4   0.4   2   2   1.7e-05     0.024   14.2   0.0     2    45   145   190   144   196 0.80 Ras family
+PduV-EutP            PF10662.8    143 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     0.051   13.2   0.1   1   1   6.4e-05     0.089   12.4   0.1     3    26   144   167   142   180 0.91 Ethanolamine utilisation - propanediol utilisation
+DAP3                 PF10236.8    312 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     0.057   12.5   0.0   1   1    0.0001      0.14   11.2   0.0    11    44   130   163   124   169 0.87 Mitochondrial ribosomal death-associated protein 3
+NACHT                PF05729.11   166 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     0.058   13.2   0.2   1   1   8.2e-05      0.11   12.3   0.2     3    21   145   163   144   168 0.91 NACHT domain
+ABC_tran             PF00005.26   137 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     0.063   13.7   1.3   1   2       1.6   2.2e+03   -1.0   0.1    85   114    83   110    41   140 0.64 ABC transporter
+ABC_tran             PF00005.26   137 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     0.063   13.7   1.3   2   2     6e-05     0.084   13.3   0.2    13    47   144   179   140   203 0.72 ABC transporter
+AAA_33               PF13671.5    143 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204     0.085   12.9   0.0   1   1   0.00012      0.17   11.9   0.0     2    22   145   165   145   194 0.88 AAA domain
+AAA_18               PF13238.5    130 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204      0.13   12.7   1.2   1   2      0.99   1.4e+03   -0.3   0.1    43    69   109   138    66   143 0.66 AAA domain
+AAA_18               PF13238.5    130 Modiolus_philippinarum_immunoglobulin_containing_seqs_MPH|Mph_scaf_41338-0.3 -            204      0.13   12.7   1.2   2   2   0.00023      0.32   11.4   0.1     1    19   145   163   145   195 0.81 AAA domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001713.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001713.pfam.hmmscan_out --domtblout OG0001713.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001713.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:39:10 2018
+# [ok]

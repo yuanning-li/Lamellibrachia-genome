@@ -1,0 +1,20 @@
+#                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+I-set                PF07679.15    90 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260   8.1e-11   41.8   0.1   1   1   5.3e-14   1.5e-10   40.9   0.1     8    84    27   104    21   108 0.86 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260   4.3e-08   33.5   0.3   1   1   4.1e-11   1.1e-07   32.2   0.3    12    78    30    96    25    96 0.84 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260   2.3e-05   24.5   0.2   1   1   1.9e-08   5.4e-05   23.4   0.2    12    73    32   105    25   110 0.79 Immunoglobulin domain
+V-set                PF07686.16   109 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260   5.1e-05   23.3   0.5   1   1   6.7e-08   0.00019   21.5   0.5    38   103    46   108    26   114 0.76 Immunoglobulin V-set domain
+ig                   PF00047.24    87 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260   0.00017   21.6   0.7   1   1   2.2e-07   0.00061   19.8   0.7     6    84    29   105    26   108 0.82 Immunoglobulin domain
+Izumo-Ig             PF16706.4     88 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260     0.073   13.0   0.1   1   2   6.6e-05      0.18   11.7   0.0     4    76    30   103    27   120 0.66 Izumo-like Immunoglobulin domain
+Izumo-Ig             PF16706.4     88 Lamellibrachia_luymsi_immunoglobulin_containing_seqs_LLU|FUN_012629-T1 -            260     0.073   13.0   0.1   2   2       1.7   4.7e+03   -2.4   0.0    50    74   126   150   122   164 0.70 Izumo-like Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001656.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001656.pfam.hmmscan_out --domtblout OG0001656.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001656.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:33:10 2018
+# [ok]

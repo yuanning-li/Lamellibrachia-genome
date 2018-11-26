@@ -1,0 +1,23 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270   6.3e-09   36.0   0.0   1   1   6.4e-12   1.1e-08   35.2   0.0     1    77    28   118    28   120 0.80 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270   1.1e-05   25.8   0.0   1   1   1.4e-08   2.3e-05   24.8   0.0     1    76    28   102    28   104 0.78 Immunoglobulin domain
+DUF4448              PF14610.5    189 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270    0.0039   16.9   0.0   1   1   3.8e-06    0.0064   16.2   0.0   137   186   129   175    93   178 0.79 Protein of unknown function (DUF4448)
+Cadherin_C_2         PF16492.4     85 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270     0.013   16.2   0.0   1   1   1.8e-05      0.03   15.0   0.0    12    40   152   180   149   235 0.82 Cadherin cytoplasmic C-terminal
+OAD_gamma            PF04277.12    77 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270     0.019   15.4   0.0   1   1   2.8e-05     0.047   14.2   0.0     7    58   149   213   146   230 0.67 Oxaloacetate decarboxylase, gamma chain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270      0.02   15.0   0.0   1   1   2.4e-05     0.039   14.0   0.0     2    74    33   103    32   110 0.92 Immunoglobulin domain
+SCIMP                PF15050.5    132 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270      0.06   13.7   0.0   1   1   6.3e-05      0.11   12.9   0.0     6    76   145   216   142   262 0.67 SCIMP protein
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270       0.1   12.6   0.0   1   1   0.00011      0.18   11.9   0.0    52   102    64   113    41   121 0.75 Immunoglobulin V-set domain
+FixS                 PF03597.14    44 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270      0.18   11.4   0.3   1   1   0.00021      0.35   10.5   0.3     3    25   147   169   145   174 0.79 Cytochrome oxidase maturation protein cbb3-type
+Syndecan             PF01034.19    62 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_068352.2 -            270       0.2   11.5   0.0   1   1   0.00023      0.38   10.6   0.0    10    33   148   171   143   187 0.88 Syndecan domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000868.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000868.pfam.hmmscan_out --domtblout OG0000868.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000868.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:30:49 2018
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.6e-15   57.1   1.8   1   3   2.6e-17   8.5e-14   51.5   0.1     1   108    78   192    78   193 0.83 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.6e-15   57.1   1.8   2   3      0.49   1.6e+03   -0.9   0.1     9    29   208   229   206   240 0.69 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.6e-15   57.1   1.8   3   3     0.022        74    3.5   0.0    68   109   243   286   235   286 0.81 Immunoglobulin V-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.5e-12   47.4   0.1   1   2     0.012        39    4.4   0.0    22    71   105   171    78   172 0.62 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.5e-12   47.4   0.1   2   2   7.2e-14   2.4e-10   40.3   0.1     6    86   205   280   200   281 0.94 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.3e-05   25.6   0.5   1   2   0.00044       1.5    9.4   0.0    13    73    85   170    75   174 0.69 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402   1.3e-05   25.6   0.5   2   2   2.7e-05     0.091   13.3   0.4     2    77   199   268   198   269 0.78 Immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402    0.0013   18.7   2.1   1   2   3.7e-06     0.012   15.5   1.1    58    82   245   269   199   276 0.89 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402    0.0013   18.7   2.1   2   2      0.71   2.4e+03   -1.4   0.0    56    72   273   289   269   292 0.81 CD80-like C2-set immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402      0.12   12.3   0.1   1   2   0.00096       3.2    7.8   0.0    38    78   133   177   114   190 0.72 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016882998.1 -            402      0.12   12.3   0.1   2   2       0.1   3.4e+02    1.3   0.0    11    36   206   235   199   285 0.63 Immunoglobulin I-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001529.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001529.pfam.hmmscan_out --domtblout OG0001529.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001529.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:26:03 2018
+# [ok]

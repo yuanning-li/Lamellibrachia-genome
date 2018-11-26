@@ -1,0 +1,30 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+E1-E2_ATPase         PF00122.19   181 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   3.1e-44  150.5   2.5   1   4      0.23   4.3e+02    0.2   0.0   108   161   101   149    92   168 0.53 E1-E2 ATPase
+E1-E2_ATPase         PF00122.19   181 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   3.1e-44  150.5   2.5   2   4   1.7e-47   3.1e-44  150.5   2.5     1   181   178   375   178   375 0.99 E1-E2 ATPase
+E1-E2_ATPase         PF00122.19   181 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   3.1e-44  150.5   2.5   3   4         3   5.5e+03   -3.4   0.0    51    68   540   557   537   564 0.77 E1-E2 ATPase
+E1-E2_ATPase         PF00122.19   181 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   3.1e-44  150.5   2.5   4   4       1.1     2e+03   -2.0   0.6    94   150   949  1006   943  1022 0.60 E1-E2 ATPase
+Cation_ATPase_C      PF00689.20   182 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   1.4e-39  135.6   0.6   1   3     0.022        41    3.7   0.5    51   121   108   178    94   187 0.74 Cation transporting ATPase, C-terminus
+Cation_ATPase_C      PF00689.20   182 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   1.4e-39  135.6   0.6   2   3       3.1   5.7e+03   -3.3   2.0   128   146   315   333   307   352 0.80 Cation transporting ATPase, C-terminus
+Cation_ATPase_C      PF00689.20   182 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   1.4e-39  135.6   0.6   3   3   7.5e-43   1.4e-39  135.6   0.6     1   182   820  1030   820  1030 0.89 Cation transporting ATPase, C-terminus
+Cation_ATPase        PF13246.5     91 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   2.2e-25   88.5   0.0   1   1   2.2e-28   4.1e-25   87.6   0.0     1    91   447   542   447   542 0.98 Cation transport ATPase (P-type)
+Hydrolase            PF00702.25   210 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   4.5e-19   69.5   0.0   1   2   2.7e-13     5e-10   39.9   0.0     3   170   393   661   391   686 0.62 haloacid dehalogenase-like hydrolase
+Hydrolase            PF00702.25   210 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   4.5e-19   69.5   0.0   2   2   3.1e-09   5.8e-06   26.6   0.3   133   210   679   750   670   750 0.71 haloacid dehalogenase-like hydrolase
+Cation_ATPase_N      PF00690.25    69 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   4.5e-15   55.0   0.0   1   1   4.8e-18   8.9e-15   54.0   0.0     2    69    59   126    58   126 0.97 Cation transporter/ATPase, N-terminus
+Hydrolase_3          PF08282.11   255 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   3.3e-07   30.2   3.3   1   2   0.00061       1.1    8.8   0.0    22    86   622   683   615   705 0.84 haloacid dehalogenase-like hydrolase
+Hydrolase_3          PF08282.11   255 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045   3.3e-07   30.2   3.3   2   2   1.5e-07   0.00028   20.6   1.1   204   250   731   778   720   782 0.84 haloacid dehalogenase-like hydrolase
+HAD                  PF12710.6    188 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045     0.064   13.6   0.2   1   1   0.00024      0.44   10.8   0.2    88   160   621   688   611   747 0.63 haloacid dehalogenase-like hydrolase
+HlyD_D23             PF16576.4    214 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045      0.12   11.5   0.5   1   1   0.00013      0.25   10.5   0.5     7    68   650   711   645   735 0.88 Barrel-sandwich domain of CusB or HlyD membrane-fusion
+FA_desaturase        PF00487.23   254 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045      0.26   11.0   6.0   1   2    0.0093        17    5.0   0.0   135   187   109   168    76   190 0.81 Fatty acid desaturase
+FA_desaturase        PF00487.23   254 Homo_sapiens_PF00059_containing_seqs_HSA|NP_001172014.1 -           1045      0.26   11.0   6.0   2   2    0.0081        15    5.2   4.1    87   175   925  1022   908  1039 0.70 Fatty acid desaturase
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000238.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000238.pfam.hmmscan_out --domtblout OG0000238.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000238.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:58:33 2018
+# [ok]

@@ -1,0 +1,35 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.16   260 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818    1e-103  346.1   0.0   1   1  7.9e-107  1.5e-103  345.5   0.0     1   260   435   768   435   768 0.99 Protein tyrosine kinase
+Pkinase              PF00069.24   264 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   3.9e-42  144.3   0.0   1   2   4.2e-17   7.8e-14   51.6   0.1     3    94   437   533   435   547 0.81 Protein kinase domain
+Pkinase              PF00069.24   264 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   3.9e-42  144.3   0.0   2   2     7e-29   1.3e-25   90.2   0.0    93   258   606   764   589   767 0.86 Protein kinase domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-10   41.4   0.0   1   4       1.9   3.5e+03   -1.8   0.1    16    39     7    29     6    43 0.81 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-10   41.4   0.0   2   4     6e-14   1.1e-10   41.4   0.0     3    86    82   169    80   170 0.95 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-10   41.4   0.0   3   4       2.8   5.1e+03   -2.4   0.0    21    43   196   220   193   259 0.67 Immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-10   41.4   0.0   4   4      0.22   4.2e+02    1.1   0.3    17    55   276   313   263   346 0.74 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   4.9e-07   29.9   5.7   1   3      0.77   1.4e+03   -0.4   0.0    53    77    47    72     4    74 0.67 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   4.9e-07   29.9   5.7   2   3   4.3e-08     8e-05   22.8   0.1     2    66    78   160    75   170 0.82 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   4.9e-07   29.9   5.7   3   3    0.0022       4.1    7.7   0.7     3    65   259   343   257   352 0.67 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-06   29.1   6.5   1   4     0.039        73    4.0   0.1    21    41     7    27     2    49 0.78 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-06   29.1   6.5   2   4   1.7e-05     0.031   14.8   0.0    12    76    82   156    73   158 0.70 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-06   29.1   6.5   3   4      0.34   6.2e+02    1.0   0.1    14    79   187   247   175   247 0.63 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   1.1e-06   29.1   6.5   4   4   0.00093       1.7    9.2   0.3    21    61   275   327   258   334 0.68 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   0.00048   20.0   0.5   1   5      0.12   2.3e+02    1.9   0.0    20    52     7    42     2    63 0.71 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   0.00048   20.0   0.5   2   5   0.00046      0.86    9.6   0.0     8    75    83   157    78   168 0.75 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   0.00048   20.0   0.5   3   5      0.15   2.8e+02    1.6   0.0     6    43   180   217   176   260 0.65 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   0.00048   20.0   0.5   4   5      0.49   9.2e+02   -0.1   0.1     9    40   264   296   254   332 0.77 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818   0.00048   20.0   0.5   5   5       4.3     8e+03   -3.1   0.0    23    39   668   684   666   691 0.83 Immunoglobulin I-set domain
+Haspin_kinase        PF12330.7    367 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818    0.0092   14.9   0.0   1   1   8.9e-06     0.016   14.0   0.0   207   257   612   661   600   672 0.79 Haspin like kinase domain
+APH                  PF01636.22   240 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818     0.018   14.9   0.0   1   1   1.7e-05     0.031   14.1   0.0   137   197   598   659   470   670 0.76 Phosphotransferase enzyme family
+EphA2_TM             PF14575.5     77 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016875976.1 -            818      0.21   12.3   0.3   1   1   0.00028      0.52   11.1   0.3     5    62   371   423   367   425 0.69 Ephrin type-A receptor 2 transmembrane domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001460.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001460.pfam.hmmscan_out --domtblout OG0001460.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001460.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:21:58 2018
+# [ok]

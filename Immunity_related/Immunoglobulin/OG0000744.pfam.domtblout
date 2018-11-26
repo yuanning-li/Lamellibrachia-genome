@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252   3.9e-15   55.8   0.0   1   1     2e-18   5.4e-15   55.4   0.0     3   108    40   140    38   141 0.95 Immunoglobulin V-set domain
+Podoplanin           PF05808.10   161 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252     0.011   15.8   0.1   1   1   5.1e-06     0.014   15.4   0.1   123   159   145   181    88   183 0.82 Podoplanin
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252     0.012   16.1   0.0   1   1   8.3e-06     0.023   15.2   0.0     5    76    37   123    35   125 0.77 Immunoglobulin domain
+DUF4690              PF15756.4     96 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252     0.018   15.5   0.6   1   2   1.4e-05      0.04   14.4   0.2    42    88   126   173    84   179 0.68 Domain of unknown function (DUF4690)
+DUF4690              PF15756.4     96 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252     0.018   15.5   0.6   2   2         2   5.5e+03   -2.1   0.0    13    32   192   211   188   236 0.63 Domain of unknown function (DUF4690)
+Orai-1               PF07856.11   177 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252      0.02   14.5   0.0   1   1     1e-05     0.028   14.0   0.0    56   102   155   203   137   225 0.82 Mediator of CRAC channel activity
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001806.2 -            252     0.022   14.7   0.0   1   1   1.4e-05     0.039   13.9   0.0    11    79    44   129    34   140 0.61 Immunoglobulin I-set domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000744.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000744.pfam.hmmscan_out --domtblout OG0000744.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000744.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:22:58 2018
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Biomphalaria_glabrata_PF00059_containing_seqs_BGL|XP_013089789.1 -            146   2.3e-05   25.0   0.1   1   2     0.052   4.3e+02    1.6   0.1    86   105    32    51    14    70 0.77 Lectin C-type domain
+Lectin_C             PF00059.20   108 Biomphalaria_glabrata_PF00059_containing_seqs_BGL|XP_013089789.1 -            146   2.3e-05   25.0   0.1   2   2   3.6e-08    0.0003   21.4   0.0     5    64    75   129    73   139 0.89 Lectin C-type domain
+DUF1505              PF07403.10   114 Biomphalaria_glabrata_PF00059_containing_seqs_BGL|XP_013089789.1 -            146    0.0099   15.9   0.3   1   1   1.6e-06     0.014   15.5   0.3     1    72     1    82     1    96 0.76 Protein of unknown function (DUF1505)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000177.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000177.pfam.hmmscan_out --domtblout OG0000177.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000177.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:51:07 2018
+# [ok]

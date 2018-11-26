@@ -1,0 +1,31 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065954.1 -            348   1.1e-17   64.6   9.0   1   2   2.3e-11   1.3e-07   32.2   2.3     3   107    33   145    31   146 0.83 Lectin C-type domain
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065954.1 -            348   1.1e-17   64.6   9.0   2   2   1.2e-12   6.6e-09   36.4   0.6     2   100   158   264   157   268 0.80 Lectin C-type domain
+PAN_3                PF08277.11    71 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065954.1 -            348     0.047   13.4   0.5   1   1   3.3e-05      0.19   11.5   0.5    20    49   295   324   283   334 0.87 PAN-like domain
+PAN_4                PF14295.5     51 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065954.1 -            348      0.24   11.2   3.8   1   2      0.13   7.3e+02    0.1   0.3    33    49    92   108    91   108 0.90 PAN domain
+PAN_4                PF14295.5     51 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009065954.1 -            348      0.24   11.2   3.8   2   2   5.1e-05      0.28   11.0   0.3    16    40   295   319   285   326 0.79 PAN domain
+Lectin_C             PF00059.20   108 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572   1.4e-24   86.8  13.9   1   3   1.4e-13   4.6e-10   40.1   0.2     2   107    51   161    50   162 0.89 Lectin C-type domain
+Lectin_C             PF00059.20   108 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572   1.4e-24   86.8  13.9   2   3   4.7e-17   1.6e-13   51.2   3.4     3   107   191   292   189   293 0.92 Lectin C-type domain
+Lectin_C             PF00059.20   108 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572   1.4e-24   86.8  13.9   3   3      0.15   5.1e+02    1.4   0.2    10    85   470   559   452   568 0.58 Lectin C-type domain
+TMEM132D_C           PF15706.4     87 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572   0.00011   21.8   0.0   1   1   7.8e-08   0.00026   20.6   0.0    24    67   408   464   388   482 0.71 Mature oligodendrocyte transmembrane protein, TMEM132D, C-term
+TMEM154              PF15102.5    142 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572     0.016   15.0   0.0   1   2       1.8   5.9e+03   -3.0   5.4    10    36   299   324   288   351 0.50 TMEM154 protein family
+TMEM154              PF15102.5    142 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572     0.016   15.0   0.0   2   2   4.7e-06     0.016   15.0   0.0    22    99   381   458   361   471 0.67 TMEM154 protein family
+Lamp                 PF01299.16   315 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572      0.24   10.8   8.9   1   3    0.0052        17    4.7   9.5    38   120   285   335   255   382 0.53 Lysosome-associated membrane glycoprotein (Lamp)
+Lamp                 PF01299.16   315 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572      0.24   10.8   8.9   2   3     0.088   2.9e+02    0.7   0.0   279   309   418   448   411   481 0.84 Lysosome-associated membrane glycoprotein (Lamp)
+Lamp                 PF01299.16   315 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572      0.24   10.8   8.9   3   3      0.13   4.3e+02    0.1   0.0   244   276   523   555   510   559 0.91 Lysosome-associated membrane glycoprotein (Lamp)
+TAFA                 PF12020.7     89 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572       1.6    9.1   7.7   1   4       1.4   4.6e+03   -2.0   0.0    32    55    83   106    75   125 0.77 TAFA family
+TAFA                 PF12020.7     89 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572       1.6    9.1   7.7   2   4     0.013        43    4.6   0.3    32    46   160   174   148   185 0.83 TAFA family
+TAFA                 PF12020.7     89 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572       1.6    9.1   7.7   3   4    0.0027       8.9    6.8   0.1    49    82   251   284   246   290 0.83 TAFA family
+TAFA                 PF12020.7     89 Phoronis_australis_PF00059_containing_seqs_PAU|g19054.t1 -            572       1.6    9.1   7.7   4   4       1.7   5.8e+03   -2.3   0.1    42    85   428   471   406   474 0.69 TAFA family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000137.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000137.pfam.hmmscan_out --domtblout OG0000137.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000137.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:44:39 2018
+# [ok]

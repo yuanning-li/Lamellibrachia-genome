@@ -1,0 +1,19 @@
+#                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                      accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                            -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+C2-set_2             PF08205.11    90 Phoronis_australis_immunoglobulin_containing_seqs_PAU|g16987.t1 -            434     3e-06   27.1   0.0   1   2         1   5.6e+03   -2.6   0.0    20    28    78    86    58    98 0.68 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.11    90 Phoronis_australis_immunoglobulin_containing_seqs_PAU|g16987.t1 -            434     3e-06   27.1   0.0   2   2   3.7e-09   2.1e-05   24.4   0.0     3    85   215   304   213   309 0.74 CD80-like C2-set immunoglobulin domain
+LapA_dom             PF06305.10    64 Phoronis_australis_immunoglobulin_containing_seqs_PAU|g16987.t1 -            434      0.03   14.0   0.0   1   1   9.3e-06     0.052   13.3   0.0     3    55   310   359   310   366 0.84 Lipopolysaccharide assembly protein A domain
+ig                   PF00047.24    87 Phoronis_australis_immunoglobulin_containing_seqs_PAU|g16987.t1 -            434      0.15   12.2   1.0   1   3      0.32   1.8e+03   -0.9   0.0    66    84    73    92    63    95 0.75 Immunoglobulin domain
+ig                   PF00047.24    87 Phoronis_australis_immunoglobulin_containing_seqs_PAU|g16987.t1 -            434      0.15   12.2   1.0   2   3       1.5   8.1e+03   -3.0   0.1     6    20   128   142   118   149 0.62 Immunoglobulin domain
+ig                   PF00047.24    87 Phoronis_australis_immunoglobulin_containing_seqs_PAU|g16987.t1 -            434      0.15   12.2   1.0   3   3   0.00016      0.88    9.7   0.0    14    78   234   304   225   312 0.76 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001757.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001757.pfam.hmmscan_out --domtblout OG0001757.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001757.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:41:59 2018
+# [ok]

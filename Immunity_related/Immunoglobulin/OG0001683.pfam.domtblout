@@ -1,0 +1,32 @@
+#                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PDZ                  PF00595.23    82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   2.8e-27   94.8   0.0   1   3   1.2e-10     2e-07   31.1   0.0    13    74   330   388   327   395 0.85 PDZ domain (Also known as DHR or GLGF)
+PDZ                  PF00595.23    82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   2.8e-27   94.8   0.0   2   3   9.5e-08   0.00016   21.9   0.0    12    71   433   489   426   498 0.87 PDZ domain (Also known as DHR or GLGF)
+PDZ                  PF00595.23    82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   2.8e-27   94.8   0.0   3   3   1.2e-12     2e-09   37.5   0.0    12    73   542   600   539   608 0.89 PDZ domain (Also known as DHR or GLGF)
+PDZ_2                PF13180.5     82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   5.4e-22   77.8   0.0   1   3   7.3e-10   1.2e-06   28.6   0.0    15    61   341   389   329   398 0.87 PDZ domain
+PDZ_2                PF13180.5     82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   5.4e-22   77.8   0.0   2   3   8.3e-06     0.014   15.6   0.0    13    60   443   489   431   506 0.78 PDZ domain
+PDZ_2                PF13180.5     82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   5.4e-22   77.8   0.0   3   3   4.6e-10   7.7e-07   29.2   0.0     3    55   540   596   538   601 0.80 PDZ domain
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   1.6e-08   34.9   0.0   1   2      0.71   1.2e+03    0.1   0.0    13    41    88   118    80   151 0.60 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   1.6e-08   34.9   0.0   2   2   1.2e-10     2e-07   31.4   0.0     1    79   195   276   195   276 0.81 Immunoglobulin domain
+V-set                PF07686.16   109 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   5.6e-07   29.6   0.0   1   2      0.62     1e+03   -0.2   0.0     8    32    88   113    85   145 0.79 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   5.6e-07   29.6   0.0   2   2   2.8e-08   4.6e-05   23.4   0.0     9    93   208   275   202   287 0.79 Immunoglobulin V-set domain
+I-set                PF07679.15    90 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   2.2e-06   27.6   0.0   1   1   4.9e-09   8.2e-06   25.7   0.0    12    84   207   283   197   289 0.80 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   5.8e-05   23.1   0.0   1   1   7.8e-08   0.00013   22.0   0.0     7    85   206   285   200   287 0.87 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   0.00013   22.1   0.0   1   2       0.3     5e+02    1.0   0.0    11    35    88   114    72   147 0.80 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873   0.00013   22.1   0.0   2   2   1.8e-06     0.003   17.8   0.0     1    73   195   284   195   289 0.74 Immunoglobulin domain
+Tricorn_PDZ          PF14685.5     88 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873    0.0013   18.6   0.6   1   3    0.0033       5.6    6.9   0.0    30    59   350   377   344   401 0.72 Tricorn protease PDZ domain
+Tricorn_PDZ          PF14685.5     88 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873    0.0013   18.6   0.6   2   3     0.075   1.3e+02    2.6   0.1    35    56   459   478   455   491 0.83 Tricorn protease PDZ domain
+Tricorn_PDZ          PF14685.5     88 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873    0.0013   18.6   0.6   3   3     0.028        47    4.0   0.0    28    57   561   588   553   597 0.84 Tricorn protease PDZ domain
+DED                  PF01335.20    82 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873     0.011   16.0   0.0   1   1   1.4e-05     0.023   14.9   0.0    19    70    19    68    12    70 0.91 Death effector domain
+Receptor_2B4         PF11465.7    108 Mizuhopecten_yessoensis_immunoglobulin_containing_seqs_MYE|XP_021340712.1 -            873     0.053   13.6   0.0   1   1   7.6e-05      0.13   12.4   0.0    50   102   234   286   216   294 0.75 Natural killer cell receptor 2B4
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001683.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001683.pfam.hmmscan_out --domtblout OG0001683.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001683.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:34:41 2018
+# [ok]

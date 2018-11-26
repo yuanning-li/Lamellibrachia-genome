@@ -1,0 +1,22 @@
+#                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+I-set                PF07679.15    90 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617   1.4e-08   34.6   0.4   1   2      0.06     2e+02    2.0   0.1    20    64   351   401   348   407 0.77 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617   1.4e-08   34.6   0.4   2   2   9.8e-11   3.3e-07   30.2   0.0     6    90   526   616   521   616 0.86 Immunoglobulin I-set domain
+Ig_3                 PF13927.5     79 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617     1e-06   29.2   0.4   1   2      0.25   8.3e+02    0.6   0.1    14    36   368   393   358   420 0.66 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617     1e-06   29.2   0.4   2   2   3.2e-09   1.1e-05   25.9   0.0     4    79   525   603   518   603 0.80 Immunoglobulin domain
+ig                   PF00047.24    87 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617    0.0022   18.0   0.0   1   1   2.1e-06    0.0072   16.4   0.0     7    79   531   606   526   613 0.87 Immunoglobulin domain
+V-set                PF07686.16   109 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617     0.016   15.3   0.6   1   2       2.8   9.3e+03   -3.3   0.0    30    55   362   387   354   409 0.57 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617     0.016   15.3   0.6   2   2   6.3e-05      0.21   11.7   0.1     5    93   529   603   526   616 0.70 Immunoglobulin V-set domain
+DMAP1                PF05499.11   165 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617     0.023   14.5   0.6   1   2    0.0031        10    5.9   0.1    68   124     6    62     1    96 0.89 DNA methyltransferase 1-associated protein 1 (DMAP1)
+DMAP1                PF05499.11   165 Crassostrea_gigas_immunoglobulin_containing_seqs_CGI|XP_019928438.1 -            617     0.023   14.5   0.6   2   2    0.0023       7.8    6.3   0.0    69   102   478   511   462   529 0.81 DNA methyltransferase 1-associated protein 1 (DMAP1)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000315.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000315.pfam.hmmscan_out --domtblout OG0000315.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000315.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:51:40 2018
+# [ok]

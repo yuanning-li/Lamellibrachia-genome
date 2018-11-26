@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016856151.1 -            195   2.1e-10   40.7   0.0   1   1     1e-13   3.4e-10   40.0   0.0     4    63    22    85    19   101 0.86 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016856151.1 -            195    0.0003   21.2   0.0   1   1   2.2e-07   0.00073   20.0   0.0    10    76    26    84    21    85 0.82 Immunoglobulin domain
+PIRT                 PF15099.5    131 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016856151.1 -            195    0.0072   15.8   0.1   1   1   4.2e-06     0.014   14.9   0.1    90   126   117   152    98   155 0.86 Phosphoinositide-interacting protein family
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016856151.1 -            195    0.0087   16.1   0.2   1   2      0.26   8.7e+02    0.0   0.0     9    29    30    48    25    66 0.64 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016856151.1 -            195    0.0087   16.1   0.2   2   2   1.5e-05     0.052   13.6   0.1    72   101    65    93    55   102 0.76 Immunoglobulin V-set domain
+Adeno_E3_CR1         PF02440.14    95 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016856151.1 -            195      0.04   13.6   0.2   1   1   3.4e-05      0.11   12.2   0.2    53    84    59    90    51   106 0.77 Adenovirus E3 region protein CR1
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001312.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001312.pfam.hmmscan_out --domtblout OG0001312.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001312.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:03:01 2018
+# [ok]

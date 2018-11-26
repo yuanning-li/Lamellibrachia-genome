@@ -1,0 +1,17 @@
+#                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_23531-0.1 -            415   4.9e-10   40.0   6.0   1   2      0.75   4.2e+03   -1.6   1.2   102   102   103   103    55   194 0.67 Lectin C-type domain
+Lectin_C             PF00059.20   108 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_23531-0.1 -            415   4.9e-10   40.0   6.0   2   2   8.8e-14   4.9e-10   40.0   6.0    36   108   338   412   289   412 0.83 Lectin C-type domain
+PAN_1                PF00024.25    79 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_23531-0.1 -            415   0.00096   19.0   3.4   1   1     5e-07    0.0028   17.5   3.4     8    53   273   317   267   320 0.85 PAN domain
+DUF1129              PF06570.10   206 Modiolus_philippinarum_PF00059_containing_seqs_MPH|Mph_scaf_23531-0.1 -            415     0.094   12.1   0.2   1   1   2.8e-05      0.16   11.4   0.2    18    75   202   259   197   277 0.88 Protein of unknown function (DUF1129)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000330.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000330.pfam.hmmscan_out --domtblout OG0000330.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000330.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 22:09:53 2018
+# [ok]

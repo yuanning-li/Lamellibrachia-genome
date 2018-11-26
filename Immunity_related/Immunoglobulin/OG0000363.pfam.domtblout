@@ -1,0 +1,28 @@
+#                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419   1.2e-12   47.8   8.1   1   3   4.1e-07    0.0011   19.0   0.2     9    93    29   106    26   122 0.81 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419   1.2e-12   47.8   8.1   2   3   2.2e-11   6.3e-08   32.7   0.8    11   108   225   315   216   316 0.87 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419   1.2e-12   47.8   8.1   3   3       2.6   7.1e+03   -2.9   0.0    16    39   361   381   356   395 0.58 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     8e-07   29.5   4.0   1   3   3.6e-05       0.1   13.1   0.0    50    75    62   104    23   106 0.67 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     8e-07   29.5   4.0   2   3     4e-06     0.011   16.2   0.5     5    76   212   299   210   302 0.73 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     8e-07   29.5   4.0   3   3       2.3   6.3e+03   -2.2   0.0    21    25   361   365   334   388 0.63 Immunoglobulin domain
+I-set                PF07679.15    90 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     4e-06   26.7   0.5   1   3   0.00058       1.6    8.7   0.0    39    73    67   104    28   121 0.85 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     4e-06   26.7   0.5   2   3      0.82   2.3e+03   -1.4   0.0    11    25   130   144   122   184 0.57 Immunoglobulin I-set domain
+I-set                PF07679.15    90 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     4e-06   26.7   0.5   3   3     7e-06      0.02   14.9   0.1    44    90   269   315   222   315 0.80 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419   0.00017   21.6   2.4   1   2   0.00067       1.9    8.6   0.0    33    72    63   104    49   106 0.77 Immunoglobulin domain
+ig                   PF00047.24    87 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419   0.00017   21.6   2.4   2   2   9.6e-05      0.27   11.3   1.0    46    82   272   308   215   313 0.73 Immunoglobulin domain
+Adeno_E3_CR1         PF02440.14    95 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     0.014   15.1   0.1   1   2   0.00053       1.5    8.6   0.0    61    94    88   123    66   124 0.86 Adenovirus E3 region protein CR1
+Adeno_E3_CR1         PF02440.14    95 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419     0.014   15.1   0.1   2   2     0.021        59    3.4   0.1    64    83   285   304   258   314 0.84 Adenovirus E3 region protein CR1
+Ig_2                 PF13895.5     79 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419      0.18   12.1   4.1   1   2    0.0054        15    5.9   0.0    42    72    83   115    31   121 0.71 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Helobdella_robusta_immunoglobulin_containing_seqs_HRO|XP_009009886.1 -            419      0.18   12.1   4.1   2   2      0.01        28    5.1   1.8     5    65   214   302   210   315 0.50 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000363.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000363.pfam.hmmscan_out --domtblout OG0000363.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000363.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:58:18 2018
+# [ok]

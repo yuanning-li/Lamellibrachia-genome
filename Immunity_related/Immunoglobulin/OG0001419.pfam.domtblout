@@ -1,0 +1,19 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MHC_I                PF00129.17   179 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016866300.1 -            431   4.6e-89  296.6   0.6   1   1   2.4e-92   6.6e-89  296.1   0.6     1   179    22   200    22   200 0.99 Class I Histocompatibility antigen, domains alpha 1 and 2
+C1-set               PF07654.14    86 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016866300.1 -            431   2.4e-18   66.2   0.0   1   1   1.5e-21   4.2e-18   65.4   0.0    12    86   216   287   208   287 0.95 Immunoglobulin C1-set domain
+MHC_I_3              PF16497.4    198 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016866300.1 -            431   0.00034   20.0   0.0   1   1     2e-07   0.00056   19.3   0.0   114   197   116   198    80   199 0.87 MHC-I family domain
+C2-set_2             PF08205.11    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016866300.1 -            431    0.0022   18.0   0.1   1   1   1.6e-06    0.0043   17.0   0.1    13    86   213   287   203   290 0.77 CD80-like C2-set immunoglobulin domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016866300.1 -            431    0.0027   17.7   0.0   1   1   2.4e-06    0.0066   16.5   0.0    12    82   218   290   212   292 0.83 Immunoglobulin domain
+DUF357               PF04010.12    73 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016866300.1 -            431      0.13   12.3   0.0   1   1   0.00015      0.42   10.6   0.0    26    55   181   210   147   213 0.87 Protein of unknown function (DUF357)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001419.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001419.pfam.hmmscan_out --domtblout OG0001419.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001419.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:19:37 2018
+# [ok]

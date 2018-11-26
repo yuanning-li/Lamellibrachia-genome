@@ -1,0 +1,28 @@
+#                                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+C2-set_2             PF08205.11    90 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346   6.8e-10   38.8   0.2   1   1   5.6e-13   1.6e-09   37.6   0.2    10    81    20    90    11    96 0.83 CD80-like C2-set immunoglobulin domain
+Ig_3                 PF13927.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346   0.00076   19.9   4.4   1   2   1.4e-05     0.039   14.5   1.4     2    79    11    92    10    92 0.71 Immunoglobulin domain
+Ig_3                 PF13927.5     79 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346   0.00076   19.9   4.4   2   2    0.0077        21    5.7   0.1    23    79   125   183    99   183 0.68 Immunoglobulin domain
+DUF4908              PF16252.4    221 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346    0.0033   16.9   2.7   1   4     0.095   2.6e+02    0.9   0.0   141   192    52   104    32   108 0.80 Domain of unknown function (DUF4908)
+DUF4908              PF16252.4    221 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346    0.0033   16.9   2.7   2   4    0.0062        17    4.7   0.0    15    40   217   242   213   246 0.89 Domain of unknown function (DUF4908)
+DUF4908              PF16252.4    221 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346    0.0033   16.9   2.7   3   4    0.0057        16    4.9   0.0    15    40   263   288   252   294 0.88 Domain of unknown function (DUF4908)
+DUF4908              PF16252.4    221 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346    0.0033   16.9   2.7   4   4     0.022        62    2.9   0.0    14    38   316   340   306   345 0.82 Domain of unknown function (DUF4908)
+C1-set               PF07654.14    86 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346     0.004   17.4   0.6   1   2     8e-06     0.022   15.0   0.1    13    83    23    92    14    95 0.86 Immunoglobulin C1-set domain
+C1-set               PF07654.14    86 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346     0.004   17.4   0.6   2   2      0.85   2.4e+03   -1.1   0.1    45    68   246   269   217   277 0.77 Immunoglobulin C1-set domain
+SAP130_C             PF16014.4    405 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346      0.17   11.1   5.0   1   3    0.0015       4.1    6.5   0.6   232   271   229   268   216   277 0.79 Histone deacetylase complex subunit SAP130 C-terminus
+SAP130_C             PF16014.4    405 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346      0.17   11.1   5.0   2   3    0.0026       7.1    5.8   0.8   232   269   275   312   263   330 0.80 Histone deacetylase complex subunit SAP130 C-terminus
+SAP130_C             PF16014.4    405 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346      0.17   11.1   5.0   3   3      0.81   2.3e+03   -2.5   0.0   247   266   321   340   313   345 0.79 Histone deacetylase complex subunit SAP130 C-terminus
+ETC_C1_NDUFA4        PF04800.11    96 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346       1.4    9.1   6.4   1   3    0.0069        19    5.4   0.3    60    89   225   254   212   261 0.86 ETC complex I subunit conserved region
+ETC_C1_NDUFA4        PF04800.11    96 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346       1.4    9.1   6.4   2   3    0.0083        23    5.2   0.3    61    89   272   300   263   306 0.88 ETC complex I subunit conserved region
+ETC_C1_NDUFA4        PF04800.11    96 Bathymodiolus_platifrons_immunoglobulin_containing_seqs_BPL|Bpl_scaf_11264-0.2 -            346       1.4    9.1   6.4   3   3      0.57   1.6e+03   -0.7   0.0    61    76   326   341   314   346 0.81 ETC complex I subunit conserved region
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000272.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000272.pfam.hmmscan_out --domtblout OG0000272.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000272.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 15:48:59 2018
+# [ok]

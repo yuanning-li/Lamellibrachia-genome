@@ -1,0 +1,16 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Homo_sapiens_PF00059_containing_seqs_HSA|NP_002719.3 -            222   5.8e-11   43.0   1.9   1   2      0.52   4.3e+03   -1.6   0.0    71    92    40    61    17    74 0.54 Lectin C-type domain
+Lectin_C             PF00059.20   108 Homo_sapiens_PF00059_containing_seqs_HSA|NP_002719.3 -            222   5.8e-11   43.0   1.9   2   2   6.9e-15   5.8e-11   43.0   1.9     3   107   116   221   114   222 0.92 Lectin C-type domain
+DUF4628              PF15429.5    275 Homo_sapiens_PF00059_containing_seqs_HSA|NP_002719.3 -            222     0.045   13.3   0.2   1   1   7.3e-06     0.061   12.9   0.2   157   210    35    91    15   112 0.58 Domain of unknown function (DUF4628)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000246.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000246.pfam.hmmscan_out --domtblout OG0000246.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000246.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:59:34 2018
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009048860.1 -            373   5.9e-15   55.8  23.2   1   4   0.00032       5.3    7.7   2.2    74   107     4    35     2    36 0.92 Lectin C-type domain
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009048860.1 -            373   5.9e-15   55.8  23.2   2   4     3e-12     5e-08   33.5   0.6     3   102    76   172    74   192 0.82 Lectin C-type domain
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009048860.1 -            373   5.9e-15   55.8  23.2   3   4   1.1e-10   1.8e-06   28.6   1.7     7   107   225   327   219   328 0.78 Lectin C-type domain
+Lectin_C             PF00059.20   108 Lottia_gigantea_PF00059_containing_seqs_LGI|XP_009048860.1 -            373   5.9e-15   55.8  23.2   4   4      0.83   1.4e+04   -3.3   0.1    90   100   344   354   331   368 0.61 Lectin C-type domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000288.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000288.pfam.hmmscan_out --domtblout OG0000288.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000288.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 22:04:42 2018
+# [ok]

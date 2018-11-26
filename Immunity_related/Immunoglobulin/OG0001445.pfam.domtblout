@@ -1,0 +1,16 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016872703.1 -            261   1.1e-07   31.9   0.1   1   1   4.3e-11   2.4e-07   30.8   0.1    30   108    35   118    24   119 0.86 Immunoglobulin V-set domain
+PRIMA1               PF16101.4    121 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016872703.1 -            261     0.015   15.2   0.5   1   1   6.6e-06     0.037   14.0   0.5    38    87   122   168   117   176 0.73 Proline-rich membrane anchor 1
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|XP_016872703.1 -            261     0.065   13.7   0.0   1   1   2.5e-05      0.14   12.7   0.0    50    77    65   103    36   104 0.65 Immunoglobulin domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0001445.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0001445.pfam.hmmscan_out --domtblout OG0001445.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0001445.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 17:21:12 2018
+# [ok]

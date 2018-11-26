@@ -1,0 +1,20 @@
+#                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221   2.3e-18   66.3   0.1   1   2   1.5e-21     4e-18   65.5   0.0     1   108    24   134    24   135 0.92 Immunoglobulin V-set domain
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221   2.3e-18   66.3   0.1   2   2         6   1.7e+04   -4.2   0.0     7    18   184   195   183   200 0.81 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221   5.7e-07   30.0   0.0   1   1   3.9e-10   1.1e-06   29.1   0.0     7    76    25   117    20   119 0.82 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221   5.5e-05   23.1   0.0   1   1   1.9e-07   0.00052   19.9   0.0     3    76    22   119    20   128 0.92 Immunoglobulin I-set domain
+ig                   PF00047.24    87 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221   8.6e-05   22.5   0.0   1   1   6.8e-08   0.00019   21.4   0.0     2    74    25   118    24   125 0.83 Immunoglobulin domain
+Ig_2                 PF13895.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221    0.0031   17.7   0.0   1   1   2.1e-05     0.058   13.6   0.0     3    61    21   116    19   125 0.58 Immunoglobulin domain
+Herpes_gE            PF02480.15   432 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_742099.1 -            221     0.016   13.8   0.1   1   1   2.5e-05     0.069   11.8   0.1   272   384   101   208    76   214 0.56 Alphaherpesvirus glycoprotein E
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000927.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000927.pfam.hmmscan_out --domtblout OG0000927.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000927.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:34:04 2018
+# [ok]

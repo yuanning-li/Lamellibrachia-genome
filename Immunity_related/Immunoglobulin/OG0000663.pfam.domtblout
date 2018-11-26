@@ -1,0 +1,17 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+V-set                PF07686.16   109 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001290438.1 -            144   2.2e-23   82.4   0.0   1   1   6.9e-27   2.9e-23   82.0   0.0     2   102    24   126    23   131 0.89 Immunoglobulin V-set domain
+Ig_3                 PF13927.5     79 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001290438.1 -            144   1.4e-05   25.5   0.0   1   1   6.8e-09   2.8e-05   24.5   0.0     2    75    20   114    19   116 0.75 Immunoglobulin domain
+I-set                PF07679.15    90 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001290438.1 -            144      0.01   15.8   0.0   1   1   1.1e-05     0.046   13.7   0.0     6    82    24   123    20   129 0.75 Immunoglobulin I-set domain
+DUF4861              PF16153.4    373 Homo_sapiens_immunoglobulin_containing_seqs_HSA|NP_001290438.1 -            144     0.095   11.6   0.0   1   1   2.3e-05     0.095   11.6   0.0   315   369    90   143    46   144 0.87 Domain of unknown function (DUF4861)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000663.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000663.pfam.hmmscan_out --domtblout OG0000663.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000663.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/Immunoglobulin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Fri Nov  9 16:17:39 2018
+# [ok]

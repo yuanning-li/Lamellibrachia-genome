@@ -1,0 +1,21 @@
+#                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Lingula_anatina_PF00059_containing_seqs_LAN|XP_013404981.1 -            589   1.1e-10   42.0  11.7   1   1   1.4e-10   7.7e-07   29.7  11.7     3   107    58   221    56   222 0.86 Lectin C-type domain
+Trefoil              PF00088.17    44 Lingula_anatina_PF00059_containing_seqs_LAN|XP_013404981.1 -            589    0.0022   17.7   9.1   1   1   1.2e-06    0.0068   16.2   9.1     2    44   123   171   122   171 0.84 Trefoil (P-type) domain
+DUF3149              PF11346.7     40 Lingula_anatina_PF00059_containing_seqs_LAN|XP_013404981.1 -            589     0.088   12.3   0.1   1   1   2.8e-05      0.16   11.5   0.1     7    35   369   397   368   400 0.93 Protein of unknown function (DUF3149)
+Lectin_C             PF00059.20   108 Notospermus_geniculatus_PF00059_containing_seqs_NGE|g36557.t1 -            451   2.2e-06   28.3   2.1   1   3   3.9e-10   2.2e-06   28.3   2.1     3    84     1    94     1   108 0.76 Lectin C-type domain
+Lectin_C             PF00059.20   108 Notospermus_geniculatus_PF00059_containing_seqs_NGE|g36557.t1 -            451   2.2e-06   28.3   2.1   2   3    0.0074        41    4.9   0.1    73   103   132   162   112   172 0.74 Lectin C-type domain
+Lectin_C             PF00059.20   108 Notospermus_geniculatus_PF00059_containing_seqs_NGE|g36557.t1 -            451   2.2e-06   28.3   2.1   3   3       1.4   7.8e+03   -2.5   0.1    53    53   336   336   296   378 0.48 Lectin C-type domain
+Trefoil              PF00088.17    44 Notospermus_geniculatus_PF00059_containing_seqs_NGE|g36557.t1 -            451   1.4e-05   24.8   4.2   1   1   6.2e-09   3.4e-05   23.5   4.2     5    44    76   114    72   114 0.85 Trefoil (P-type) domain
+Plasmodium_Vir       PF05795.10   381 Notospermus_geniculatus_PF00059_containing_seqs_NGE|g36557.t1 -            451       2.2    7.5   9.1   1   1    0.0014         8    5.7   9.1   210   320   266   404    67   418 0.85 Plasmodium vivax Vir protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000136.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000136.pfam.hmmscan_out --domtblout OG0000136.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000136.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:44:25 2018
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lectin_C             PF00059.20   108 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022336051.1 -            402   1.4e-10   41.7   2.9   1   1     9e-14     5e-10   40.0   2.9     3   107    45   156    43   157 0.90 Lectin C-type domain
+PAN_3                PF08277.11    71 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022336051.1 -            402    0.0084   15.8   3.0   1   2         2   1.1e+04   -3.9   0.0    15    29    40    54    31    56 0.69 PAN-like domain
+PAN_3                PF08277.11    71 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022336051.1 -            402    0.0084   15.8   3.0   2   2   2.7e-06     0.015   14.9   1.7    16    47   176   208   169   213 0.86 PAN-like domain
+WAP                  PF00095.20    40 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022336051.1 -            402      0.14   12.5   5.5   1   2    0.0027        15    6.0   0.1    18    40   127   158   116   158 0.79 WAP-type (Whey Acidic Protein) 'four-disulfide core'
+WAP                  PF00095.20    40 Crassostrea_virginica_PF00059_containing_seqs_CVI|XP_022336051.1 -            402      0.14   12.5   5.5   2   2     0.001       5.8    7.3   1.5     4    22   163   195   160   206 0.71 WAP-type (Whey Acidic Protein) 'four-disulfide core'
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      OG0000226.fa
+# Target file:     /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm
+# Option settings: /opt/asn/apps/hmmer-3.1b2_mpi/bin/hmmscan -o OG0000226.pfam.hmmscan_out --domtblout OG0000226.pfam.domtblout --cpu 16 /home/aubmgt/bin/PfamDatabase/Pfam-A.hmm OG0000226.fa 
+# Current dir:     /mnt/homeapps/home/aubmgt/Projects/Lamellibrachia/Domain_only_search/Whole_dataset_domain_annotations/Lamellibrachia_interproscan_pfam/Lophotrochozoa/C_type_lectin_containing/Results_Jun27/Orthologues_Jun27/Sequences
+# Date:            Thu Nov  8 21:57:06 2018
+# [ok]
