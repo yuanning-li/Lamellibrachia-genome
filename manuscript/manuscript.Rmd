@@ -1,0 +1,43 @@
+---
+title: "manuscript"
+author: "Yuanning Li"
+date: "10/17/2018"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+bibliography: manuscript.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Lamellibrachia genome
+## Abstract
+
+
+## Introduction
+![](../figures/Picture1.png) 
+**Fig 1.** *Lamellibrachia* from seep localities in Gulf of Mexico. 
+
+## Methods
+
+### Biological materials.
+Adult *Lamellibrachia* specimens were collected from from seep localities in the Mississippi Canyon at 754 m depth in Gulf of Mexico (N 28°11.58', W 89°47.94'), using the R/V Seward Johnson and Johnson Sea Link in October 2009. All samples were frozen at 80˚C following collection. [@de2006cafe]
+
+### Genome sequencing and assembly. 
+
+
+## Results and Discussion
+
+## Conclusion
+
+## Ackowledgements
+
+## Author contribution
+
+\pagebreak
+
+## Supplemental Information
+
+
