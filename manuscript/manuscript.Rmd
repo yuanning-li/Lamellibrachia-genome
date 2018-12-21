@@ -71,12 +71,15 @@ After all-to-all Diamond v1.0 [@buchfink2014fast] BLASTP searches against 12 sel
 ### Hemoglobin and immunity-related genes. 
 
 
-## Results and Discussion
+## Results
+
+\and Discussion
 
 ### Genome features
 Results from high-throughput sequencing and genome assembly for *Lamellibrachia* are presented in Table # with at least 300 fold coverage using a combination of Illumina paired-end, mate-pair and 10X genomic sequencing with a variety of insert sizes. The haploid genome assembly size is ~687 Mb, similar to the result of  genome size estimation using GenomeScope (~646 Mb). The N50 value of the assembled scaffolds and contigs is 373 Kb and 24 Kb, respectively. Although N50 lengths and assembly quality of *Lamellibrachia* are comparable to those of other annelids (e.g. *Capitella* *teleta*, *Hebdella* *robusta*), the overall genome completeness measured by BUSCO (~ 95%) is one of the highest among other lophotrochozoans (Table #), indicating the completeness of the genome assembly. With the support of RNA-seq data from different tissue, we estimated *Lamellibrachia* genome contains 38,998 gene models. The genome also exhibit similar level of heterozygosity (0.6%) and repeptitive seuqences (36.92%), compared to other lophotrochzoan genomes (Table #). Comparison among three annelid genome revealed   
 
-### 
+### Hemoglobin evolution
+Remarkably siboglinid Hbs are able to bind oxygen and sulfide simultaneously and reversibly at two different sites. To avoid the toxic effects of sulfide while supplying it to their chemoautotrophic endosymbionts, siboglinds possesses a multihemoglobin system with three different extracellular hemoglobins (Hbs; V1, V2, and C1): two dissolved in the vascular blood, V1 and V2, and one in the coelomic fluid, C1 [@arp1981blood, @zal1996multi]. Siboglinid Hbs consist of four heme-containing chains (A1, A2, B1, B2) and four linker chains (L1-L4).  Sulfur-binding capabilities are hypothesized to be due to free cysteine residues at key positions in Hbs, especially in the A2 and B2 chains. V1 Hb can form persulfide groups on its linker chains, a mechanism that can account for the higher sulfide-binding potential of this Hb [@zal1997primary]. Moreover, part of the H2S binding affinity has also been suggested to be mediated by the zinc moieties bound to amino acid residues at the interface between pairs of A2 chains in *Riftia* [@flores2005sulfide]. 
 
 ### Phylogeny and molecular clock of tubeworm
 Two additional *Osedax* taxa were added in the study compared to the previous siboglinid phylogenomic analyses [@li2017phylogenomics] (Table #). The final supermatrix dataset contains 191 genes single-copy orthologs. Bayesian inference with a relaxed molecular clock (Fig. 2) recovered the same topology as ML analysis in IQTree with strong nodal support (Fig. #). Both analyses strongly support *Osedax* is most closely related to the Vestimentifera + *Sclerolinum* clade and Frenulata is the early diverging group, as recently reported [@li2015mitogenomics]. Within Vestimentifera, *Lamellibrachia* is sister to the remaining sampled vestimentiferans. 
