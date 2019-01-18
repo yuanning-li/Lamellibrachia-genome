@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.6)  26 NOV 2018 09:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.6)  28 DEC 2018 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,17 +560,54 @@ fg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<figures/Picture1.png, id=4, 676.4472pt x 508.7808pt>
-File: figures/Picture1.png Graphic file (type png)
-<use figures/Picture1.png>
-Package pdftex.def Info: figures/Picture1.png  used on input line 100.
+<../figures/Picture1.png, id=4, 676.4472pt x 508.7808pt>
+File: ../figures/Picture1.png Graphic file (type png)
+<use ../figures/Picture1.png>
+Package pdftex.def Info: ../figures/Picture1.png  used on input line 100.
 (pdftex.def)             Requested size: 469.7527pt x 353.31827pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 100--102
 []
  []
 
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 111.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 121.
+
+(/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 121.
+
+(/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 121
+.
+(/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 121
+.
+(/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 121.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 121.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 121.
+LaTeX Font Info:    Try loading font information for U+msa on input line 121.
+(/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 121.
+(/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/Users/yzl0084/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <
+../figures/Picture1.png>]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 128.
 
 (/Users/yzl0084/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -583,15 +620,15 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 ...ber 2009. All samples were frozen at 80˚
-                                                  C following 
+l.129 ...ber 2009. All samples were frozen at 80˚
+                                                  C 
 Here is how much of TeX's memory you used:
- 10009 strings out of 494587
- 141649 string characters out of 6174678
- 204446 words of memory out of 5000000
- 13565 multiletter control sequences out of 15000+600000
- 34287 words of font info for 25 fonts, out of 8000000 for 9000
+ 10111 strings out of 494587
+ 143945 string characters out of 6174678
+ 205446 words of memory out of 5000000
+ 13623 multiletter control sequences out of 15000+600000
+ 46542 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 28i,4n,32p,235b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,4n,32p,235b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

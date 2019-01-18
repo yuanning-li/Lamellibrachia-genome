@@ -1,0 +1,11 @@
+Tissue	Data Type	Sequencing Chemistry	Total Read Number Lab Accession
+Vestimentum	Genomics	10X Genomics	648,546,716
+Vestimentum	Genomics	180 bp Paired-end	530,601,282	SL84794/SL115013 
+Vestimentum	Genomics	400 bp Paired-end	237,879,494	SL84795
+Vestimentum	Genomics	750 bp Paired-end	118,008,914	SL84796
+Vestimentum	Genomics	3-5 kbp Mate-pair	344,803,888	SL85812
+Vestimentum	Genomics	5-7 kbp Mate-pair	352,639,094	SL85813
+Plume	Transcriptome	Paired-end	58,660,044	SL85796
+Trophosome	Transcriptome	Paired-end	75,640,660	SL85798
+Vestimentum	Transcriptome	Paired-end	50,537,812	SL85797
+
