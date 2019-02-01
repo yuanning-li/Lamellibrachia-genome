@@ -1,0 +1,58 @@
+#TLR Pathway
+TOLL - Receptor
+TLR - Receptor
+MYD88 - Canonical adaptor molecule for TLR/Toll
+TCAM1 - Alternative co-adaptor molecule for TLR/Toll
+TCAM2 - Alternative adaptor molecule for TLR/Toll
+SARM1 - Negative regulator for TCAM2-dependent TLR/Toll signalling
+TRAF - Signalling intermediate
+TANK - Regulator of TRAFs
+
+#Transcription factors and associated molecules
+IRF - Transcription factor
+NFKB - Transcription factor
+IKK - Repressor of IKB
+NEMO - Repressor of IKK
+IKB - Repressor of NFKB
+
+___________________________________________________________________
+
+Proteins present in LAMELLIBRACHIA genome (alphabetically):
+
+IKB (3)
+IKK (2)
+IRF (8)
+MYD88 (1)
+NEMO (1)
+NFKB (1)
+NLR (7)
+SARM1 (1)
+TLR (30)
+TOLL (3)
+TRAF (6)
+
+Proteins absent in LAMELLIBRACHIA genome (alphabetically):
+
+TCAM1
+TCAM2
+TANK
+
+Proteins present in CAPITELLA genome (alphabetically):
+
+IKB (4)
+IKK (3)
+IRF (2)
+MYD88 (1)
+NFKB (1)
+NLR (8)
+NOD2 (7)
+SARM1 (1)
+TLR (5)
+TRAF (4)
+
+Proteins absent in CAPITELLA genome (alphabetically):
+
+NEMO
+TCAM1
+TCAM2
+TANK
