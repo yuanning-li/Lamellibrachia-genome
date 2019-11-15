@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # Supplementary text: commands and parameters used in this study
 ## 1. Quality trimming of raw sequencing reads
 ### 1.1 paired-end libraries
